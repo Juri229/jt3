@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/82403
+#EXTINF:-1 tvg-id="" tvg-name="AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/81996
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 1 ⁴ᴷ
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80942.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 2 ⁴ᴷ
