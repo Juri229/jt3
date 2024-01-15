@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 1 ⁴ᴷ
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80942.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 2 ⁴ᴷ
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80943.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="Albania",AL: Its My Home 3 FHD
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/63080.ts
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: First Channel TV HD" tvg-logo="http://hs-iptv.net:88/images/2252283dec66f089147867a0938aeb4d.png" group-title="Albania",AL: First Channel TV HD
+http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/2573.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP 1 AL ⁴ᴷ" tvg-logo="" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/83929
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP 2 AL ⁴ᴷ" tvg-logo="" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ
