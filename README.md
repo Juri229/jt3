@@ -223,6 +223,10 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1538
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1313
 #EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold ⁴ᴷ" tvg-logo="https://i.imgur.com/i1h14a8.jpg" group-title="Filma",AL: Film Gold ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63320
+#EXTINF:-1 tvg-id="" tvg-name="AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/82403
+#EXTINF:-1 tvg-id="" tvg-name="AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/81996
 #EXTINF:-1 tvg-id="Max HD" tvg-name="AL:Film Max  ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png" group-title="Filma",AL:Film Max  ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63321
 #EXTINF:-1 tvg-id="Family HD" tvg-name="AL:Film Family ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png" group-title="Filma",AL:Film Family ᶠᴴᴰ
