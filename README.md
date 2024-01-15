@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP 1 AL ⁴ᴷ" tvg-logo="" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/83929
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP 2 AL ⁴ᴷ" tvg-logo="" group-title="Shqipëtare",AL: Big Brother VIP 2 AL ⁴ᴷ
+http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/83930
 #EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/16544
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
