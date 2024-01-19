@@ -5,6 +5,10 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/8240
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/81996
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 1 ⁴ᴷ
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80942.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 1 HD
+http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 2 HD
+http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 2 ⁴ᴷ
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80943.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="Albania",AL: Its My Home 3 FHD
