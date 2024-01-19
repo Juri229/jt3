@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 1 HD
+http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 2 HD
+http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
 #EXTINF:-1 tvg-id="" tvg-name="AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/82403
 #EXTINF:-1 tvg-id="" tvg-name="AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ
