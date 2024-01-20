@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193751
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193753
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193752
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193754
 #EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 1 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
 #EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 2 HD
