@@ -639,6 +639,666 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/6320
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43729
 #EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1146
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport1.png" group-title="**** Vip Sports ****",Arena Sport 1 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/833
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport2.png" group-title="**** Vip Sports ****",Arena Sport 2 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/834
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport3.png" group-title="**** Vip Sports ****",Arena Sport 3 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/835
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport4.png" group-title="**** Vip Sports ****",Arena Sport 4 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/836
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="Arena Sport 5 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport5.png" group-title="**** Vip Sports ****",Arena Sport 5 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/837
+#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="Arena Sport 1 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena1.png" group-title="**** Vip Sports ****",Arena Sport 1 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/1002
+#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena2.png" group-title="**** Vip Sports ****",Arena Sport 2 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/1003
+#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="Arena Sport 3 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena3.png" group-title="**** Vip Sports ****",Arena Sport 3 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/1004
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="Arena Sport 4 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena4.png" group-title="**** Vip Sports ****",Arena Sport 4 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/1005
+#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena5.png" group-title="**** Vip Sports ****",Arena Sport 5 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/1440
+#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-name="Arena Sport 6 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport6.png" group-title="**** Vip Sports ****",Arena Sport 6 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/6061
+#EXTINF:-1 tvg-id="Sportklub1.svn" tvg-name="Sport Klub 1 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk1.png" group-title="**** Vip Sports ****",Sport Klub 1 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/828
+#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="Sport Klub 2 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk2.png" group-title="**** Vip Sports ****",Sport Klub 2 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/808
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="Sport Klub 3 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk3.png" group-title="**** Vip Sports ****",Sport Klub 3 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/811
+#EXTINF:-1 tvg-id="Sportklub4.svn" tvg-name="Sport Klub 4 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk4.png" group-title="**** Vip Sports ****",Sport Klub 4 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/6064
+#EXTINF:-1 tvg-id="Sportklub1.svn" tvg-name="Sport Klub 1 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk1.png" group-title="**** Vip Sports ****",Sport Klub 1 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/7743
+#EXTINF:-1 tvg-id="Sportklub2.svn" tvg-name="Sport Klub 2 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk2.png" group-title="**** Vip Sports ****",Sport Klub 2 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/7742
+#EXTINF:-1 tvg-id="Sportklub3.svn" tvg-name="Sport Klub 3 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk3.png" group-title="**** Vip Sports ****",Sport Klub 3 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/7741
+#EXTINF:-1 tvg-id="Eurosport2.svn" tvg-name="Eurosport 1 HD SR" tvg-logo="http://falcon.ac:5000/images/exyu/eurosport1hd.png" group-title="**** Vip Sports ****",Eurosport 1 HD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/2096
+#EXTINF:-1 tvg-id="Eurosport1.svn" tvg-name="Eurosport 2 HD SR" tvg-logo="http://falcon.ac:5000/images/exyu/eurosport2hd.png" group-title="**** Vip Sports ****",Eurosport 2 HD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/2097
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Albania Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ Albania Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142012
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/rtshsport.png" group-title="**** Vip Sports ****",RTSH Sport ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142047
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="Super Sport 1 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Vip Sports ****",Super Sport 1 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142186
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="Super Sport 2 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2FHD.png" group-title="**** Vip Sports ****",Super Sport 2 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142187
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="Super Sport 3 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3FHD.png" group-title="**** Vip Sports ****",Super Sport 3 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142188
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="Super Sport 4 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4FHD.png" group-title="**** Vip Sports ****",Super Sport 4 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142189
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="Super Sport 5 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5FHD.png" group-title="**** Vip Sports ****",Super Sport 5 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142190
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="Super Sport 6" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport6FHD.png" group-title="**** Vip Sports ****",Super Sport 6
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142191
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/tringsportnews.png" group-title="**** Vip Sports ****",Tring Sport News ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142026
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/tringsport1.png" group-title="**** Vip Sports ****",Tring Sport 1 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142025
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/tringsport2.png" group-title="**** Vip Sports ****",Tring Sport 2 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142027
+#EXTINF:-1 tvg-id="Art Sport 1" tvg-name="ART Sport 1 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport1FHD.png" group-title="**** Vip Sports ****",ART Sport 1 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142036
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="ART Sport 2 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport2FHD.png" group-title="**** Vip Sports ****",ART Sport 2 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142037
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="ART Sport 3 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport3FHD.png" group-title="**** Vip Sports ****",ART Sport 3 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142038
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="ART Sport 4 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport4FHD.png" group-title="**** Vip Sports ****",ART Sport 4 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147449
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="ART Sport 5 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport5FHD.png" group-title="**** Vip Sports ****",ART Sport 5 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147448
+#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="ART Sport 6 Fᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport6FHD.png" group-title="**** Vip Sports ****",ART Sport 6 Fᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147447
+#EXTINF:-1 tvg-id="Kujtesa Sport 1" tvg-name="Kujtesa Sport 1 ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/KSport1HD.png" group-title="**** Vip Sports ****",Kujtesa Sport 1 ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142042
+#EXTINF:-1 tvg-id="Kujtesa Sport 2" tvg-name="Kujtesa Sport 2 ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/KSport2HD.png" group-title="**** Vip Sports ****",Kujtesa Sport 2 ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142043
+#EXTINF:-1 tvg-id="Kujtesa Sport 3" tvg-name="Kujtesa Sport 3 ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/KSport3HD.png" group-title="**** Vip Sports ****",Kujtesa Sport 3 ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142044
+#EXTINF:-1 tvg-id="Kujtesa Sport 4" tvg-name="Kujtesa Sport 4 ᴴᴰ AL" tvg-logo="http://falcon.ac:5000/images/alb/KSport4HD.png" group-title="**** Vip Sports ****",Kujtesa Sport 4 ᴴᴰ AL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142045
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass UK" tvg-logo="https://www.mmanews.com/wp-content/uploads/2014/11/ufc-fight-pass-logo-1.jpg" group-title="**** Vip Sports ****",UFC Fight Pass UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/67040
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ EX-YU Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ EX-YU Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142010
+#EXTINF:-1 tvg-id="" tvg-name="MNE Sport 1" tvg-logo="http://tv.luzer.org:8080/images/0fa5e5a17b8721930d52292820b73f53.png" group-title="**** Vip Sports ****",MNE Sport 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164433
+#EXTINF:-1 tvg-id="" tvg-name="MNE Sport 2" tvg-logo="http://tv.luzer.org:8080/images/2a7eb9e949e268948b2090cd25e7ef8c.png" group-title="**** Vip Sports ****",MNE Sport 2
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164434
+#EXTINF:-1 tvg-id="" tvg-name="MNE Sport 3" tvg-logo="http://tv.luzer.org:8080/images/452982dbd85d140af2c98701faad7db1.png" group-title="**** Vip Sports ****",MNE Sport 3
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164435
+#EXTINF:-1 tvg-id="" tvg-name="Max Sport 1 FHD HR" tvg-logo="" group-title="**** Vip Sports ****",Max Sport 1 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/157225
+#EXTINF:-1 tvg-id="" tvg-name="Max Sport 2 FHD HR" tvg-logo="" group-title="**** Vip Sports ****",Max Sport 2 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/157226
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/arena1.png" group-title="**** Vip Sports ****",Arena Sport 1 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144530
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/arena2.png" group-title="**** Vip Sports ****",Arena Sport 2 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144531
+#EXTINF:-1 tvg-id="ArenaSport7.hr" tvg-name="Arena Sport 7 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport7.png" group-title="**** Vip Sports ****",Arena Sport 7 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/143119
+#EXTINF:-1 tvg-id="ArenaSport8.hr" tvg-name="Arena Sport 8 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena8.png" group-title="**** Vip Sports ****",Arena Sport 8 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/143120
+#EXTINF:-1 tvg-id="ArenaSport9.hr" tvg-name="Arena Sport 9 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/arena9.png" group-title="**** Vip Sports ****",Arena Sport 9 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/143121
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 BH" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport1.png" group-title="**** Vip Sports ****",Arena Sport 1 BH
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142914
+#EXTINF:-1 tvg-id="ArenaSportPremium1.rs" tvg-name="Arena Premium 1 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport1.png" group-title="**** Vip Sports ****",Arena Premium 1 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146603
+#EXTINF:-1 tvg-id="ArenaSportPremium2.rs" tvg-name="Arena Premium 2 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport2.png" group-title="**** Vip Sports ****",Arena Premium 2 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146604
+#EXTINF:-1 tvg-id="ArenaSportPremium3.rs" tvg-name="Arena Premium 3 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport3.png" group-title="**** Vip Sports ****",Arena Premium 3 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146605
+#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-name="Arena Sport 6 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arena6.png" group-title="**** Vip Sports ****",Arena Sport 6 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146606
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arena7.png" group-title="**** Vip Sports ****",Arena Sport 7 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146607
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport8.png" group-title="**** Vip Sports ****",Arena Sport 8 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146608
+#EXTINF:-1 tvg-id="" tvg-name="Arena Fight HD" tvg-logo="http://falcon.ac:5000/images/exyu/arenafight.png" group-title="**** Vip Sports ****",Arena Fight HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144451
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Fight FHD" tvg-logo="" group-title="**** Vip Sports ****",Sport Klub Fight FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/159608
+#EXTINF:-1 tvg-id="SportKlubGolf.hr" tvg-name="Sport Klub Golf HD" tvg-logo="http://falcon.ac:5000/images/exyu/skgolf.png" group-title="**** Vip Sports ****",Sport Klub Golf HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144454
+#EXTINF:-1 tvg-id="SportKlubGolf.hr" tvg-name="Sport Klub FHD" tvg-logo="http://falcon.ac:5000/images/exyu/sk.png" group-title="**** Vip Sports ****",Sport Klub FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144453
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/sk1hd.png" group-title="**** Vip Sports ****",Sport Klub 1 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144526
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/sk2hd.png" group-title="**** Vip Sports ****",Sport Klub 2 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144527
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/sk3hd.png" group-title="**** Vip Sports ****",Sport Klub 3 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144528
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 FHD SL" tvg-logo="http://falcon.ac:5000/images/exyu/sk4.png" group-title="**** Vip Sports ****",Sport Klub 4 FHD SL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144529
+#EXTINF:-1 tvg-id="Sportklub4.svn" tvg-name="Sport Klub 4 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk4.png" group-title="**** Vip Sports ****",Sport Klub 4 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62759
+#EXTINF:-1 tvg-id="Sportklub5.svn" tvg-name="Sport Klub 5 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk5.png" group-title="**** Vip Sports ****",Sport Klub 5 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62760
+#EXTINF:-1 tvg-id="Sportklub6.svn" tvg-name="Sport Klub 6 FHD HR" tvg-logo="http://falcon.ac:5000/images/exyu/sk6.png" group-title="**** Vip Sports ****",Sport Klub 6 FHD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62761
+#EXTINF:-1 tvg-id="Sportklub6.svn" tvg-name="Sport Klub 6 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk6.png" group-title="**** Vip Sports ****",Sport Klub 6 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/74949
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk7.png" group-title="**** Vip Sports ****",Sport Klub 7 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146613
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk8.png" group-title="**** Vip Sports ****",Sport Klub 8 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146614
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk9.png" group-title="**** Vip Sports ****",Sport Klub 9 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146615
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/sk10.png" group-title="**** Vip Sports ****",Sport Klub 10 FHD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146616
+#EXTINF:-1 tvg-id="" tvg-name="Kreator TV HD HR" tvg-logo="http://falcon.ac:5000/images/exyu/kreatortv.png" group-title="**** Vip Sports ****",Kreator TV HD HR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144450
+#EXTINF:-1 tvg-id="" tvg-name="Moja TV BH Premier LIiga" tvg-logo="http://falcon.ac:5000/images/exyu/moja.png" group-title="**** Vip Sports ****",Moja TV BH Premier LIiga
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80537
+#EXTINF:-1 tvg-id="" tvg-name="HNTV EX" tvg-logo="http://falcon.ac:5000/images/exyu/hntv.png" group-title="**** Vip Sports ****",HNTV EX
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144449
+#EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-name="Sportska TV SR" tvg-logo="http://falcon.ac:5000/images/exyu/sportskatv.png" group-title="**** Vip Sports ****",Sportska TV SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80535
+#EXTINF:-1 tvg-id="" tvg-name="Partizan HD SR" tvg-logo="http://falcon.ac:5000/images/exyu/partizantv.png" group-title="**** Vip Sports ****",Partizan HD SR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80534
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="http://falcon.ac:5000/images/exyu/zvezda.png" group-title="**** Vip Sports ****",Zvezda TV
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144455
+#EXTINF:-1 tvg-id="NovaSport" tvg-name="Nova Sport EX" tvg-logo="http://falcon.ac:5000/images/exyu/novasport.png" group-title="**** Vip Sports ****",Nova Sport EX
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80539
+#EXTINF:-1 tvg-id="SportTV1.svn" tvg-name="Sport TV 1 Slovenia FHD" tvg-logo="http://falcon.ac:5000/images/exyu/sport1sl.png" group-title="**** Vip Sports ****",Sport TV 1 Slovenia FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80541
+#EXTINF:-1 tvg-id="SportTV2.svn" tvg-name="Sport TV 2 Slovenia FHD" tvg-logo="http://falcon.ac:5000/images/exyu/sport2sl.png" group-title="**** Vip Sports ****",Sport TV 2 Slovenia FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/80542
+#EXTINF:-1 tvg-id="SportTV3.svn" tvg-name="Sport TV 3 Slovenia FHD" tvg-logo="http://falcon.ac:5000/images/exyu/sport3sl.png" group-title="**** Vip Sports ****",Sport TV 3 Slovenia FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/126372
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ BeIN Sports ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ BeIN Sports ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142013
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 FHD AR" tvg-logo="https://i.postimg.cc/zXptp4LC/Bein-sports-Max-1.png" group-title="**** Vip Sports ****",Bein Sports MAX 1 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160171
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 2 FHD AR" tvg-logo="https://asiagrandiptv.us/logo//BEIN SPORTS MAX 2.jpeg" group-title="**** Vip Sports ****",Bein Sports MAX 2 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160173
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 3 FHD AR" tvg-logo="" group-title="**** Vip Sports ****",Bein Sports MAX 3 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160175
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 4 FHD AR" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax4.png" group-title="**** Vip Sports ****",Bein Sports MAX 4 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160177
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 5 FHD AR" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax5.png" group-title="**** Vip Sports ****",Bein Sports MAX 5 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160179
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 6 FHD AR" tvg-logo="https://asiagrandiptv.us/logo/beinsportmax6.png" group-title="**** Vip Sports ****",Bein Sports MAX 6 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/160181
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports News FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/News-1.png" group-title="**** Vip Sports ****",BeIN Sports News FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89338
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS EN 1 HD" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports1EN.png" group-title="**** Vip Sports ****",beIN SPORTS EN 1 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148120
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS EN 2 HD" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports2EN.png" group-title="**** Vip Sports ****",beIN SPORTS EN 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148121
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/News-1.png" group-title="**** Vip Sports ****",BeIN Sports FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89329
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports2.png" group-title="**** Vip Sports ****",BeIN Sports 2 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/92061
+#EXTINF:-1 tvg-id="EN-HD5 English" tvg-name="BeIN Sports 5 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports5.png" group-title="**** Vip Sports ****",BeIN Sports 5 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62708
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports7.png" group-title="**** Vip Sports ****",BeIN Sports 7 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89334
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 1 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports1premium.png" group-title="**** Vip Sports ****",BeIN Sports Premium 1 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89335
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 2  FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports2premium.png" group-title="**** Vip Sports ****",BeIN Sports Premium 2  FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89336
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 3 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports3premium.png" group-title="**** Vip Sports ****",BeIN Sports Premium 3 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89337
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 1 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports1xtra.png" group-title="**** Vip Sports ****",BeIN Sports Xtra 1 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89328
+#EXTINF:-1 tvg-id="EN-HD7 English" tvg-name="BeIN Sports Xtra 2 FHD AR" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports2xtra.png" group-title="**** Vip Sports ****",BeIN Sports Xtra 2 FHD AR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62732
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FR 1 HD" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports1FR.png" group-title="**** Vip Sports ****",beIN SPORTS FR 1 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148123
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FR 2 HD" tvg-logo="http://falcon.ac:5000/images/vipsport/beinsports2FR.png" group-title="**** Vip Sports ****",beIN SPORTS FR 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148124
+#EXTINF:-1 tvg-id="" tvg-name="FR: SPORT EN FRANCE FHD" tvg-logo="http://tesslatv.net:80/images/PH2t1kl3kSyOCxD2F_-2-8h6ExIXr77oUosX3VSGMlOk9pfWUZmKJaHq2SJi6BQUCvoCUWIacUeYAcA7EE_-k1jxYS-NB-oClJNnQGWPHLpoQADdcceRg3OcRTx57xzL.png" group-title="**** Vip Sports ****",FR: SPORT EN FRANCE FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148117
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime MultiPlex HD FR" tvg-logo="" group-title="**** Vip Sports ****",Amazon Prime MultiPlex HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148116
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Grecee Sports ▼★●•" tvg-logo="" group-title="**** Greece ****",•●★▼ Grecee Sports ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146535
+#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 5 GR" tvg-logo="http://falcon.ac:5000/images/vipsport/cosmotesport4hd.png" group-title="**** Greece ****",Cosmote Sport 5 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/31047
+#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 7 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 7 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164449
+#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 8 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 8 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164448
+#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 9 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 9 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164447
+#EXTINF:-1 tvg-id="" tvg-name="NOVA Sports Premier League GR" tvg-logo="" group-title="**** Greece ****",NOVA Sports Premier League GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164444
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 1 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 1 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164440
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 2 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 2 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164441
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 3 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 3 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164442
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 4 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 4 GR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164443
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT SPORTS 3 FHD" tvg-logo="https://asiagrandiptv.us/logo/ertsports.png" group-title="**** Vip Sports ****",GR: ERT SPORTS 3 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/3304
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ UK Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ UK Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144509
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/btsport1.png" group-title="**** Vip Sports ****",BT Sport 1 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144523
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/btsport2.png" group-title="**** Vip Sports ****",BT Sport 2 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144524
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/btsport3.png" group-title="**** Vip Sports ****",BT Sport 3 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144525
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/btsportespn.png" group-title="**** Vip Sports ****",BT Sport ESPN ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144532
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 1 HD UK" tvg-logo="http://falcon.ac:5000/images/uk/btsportextra1.png" group-title="**** Vip Sports ****",BT Sport Extra 1 HD UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144505
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2 HD UK" tvg-logo="http://falcon.ac:5000/images/uk/btsportextra2.png" group-title="**** Vip Sports ****",BT Sport Extra 2 HD UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144506
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 3 HD UK" tvg-logo="http://falcon.ac:5000/images/uk/btsportextra3.png" group-title="**** Vip Sports ****",BT Sport Extra 3 HD UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144507
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 4 HD UK" tvg-logo="http://falcon.ac:5000/images/uk/btsportextra4.png" group-title="**** Vip Sports ****",BT Sport Extra 4 HD UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144508
+#EXTINF:-1 tvg-id="" tvg-name="Premier Sport ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/premiersport.png" group-title="**** Vip Sports ****",Premier Sport ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144539
+#EXTINF:-1 tvg-id="" tvg-name="EIR SPORT 1 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/eirsport1.png" group-title="**** Vip Sports ****",EIR SPORT 1 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144511
+#EXTINF:-1 tvg-id="" tvg-name="EIR SPORT 2 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/eirsport2.png" group-title="**** Vip Sports ****",EIR SPORT 2 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144512
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/liverpooltv.png" group-title="**** Vip Sports ****",Liverpool TV ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144510
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsaction.png" group-title="**** Vip Sports ****",Sky Sports Action ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144514
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportarena.png" group-title="**** Vip Sports ****",Sky Sports Arena ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144515
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportcricket.png" group-title="**** Vip Sports ****",Sky Sports Cricket ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144516
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsf1.png" group-title="**** Vip Sports ****",Sky Sports F1 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144517
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsfootball.png" group-title="**** Vip Sports ****",Sky Sports Football ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144518
+#EXTINF:-1 tvg-id="" tvg-name="SKy Sports Golf ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsgolf.png" group-title="**** Vip Sports ****",SKy Sports Golf ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144519
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsmainevent.png" group-title="**** Vip Sports ****",Sky Sports Main Event ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144520
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix  ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportsmix.png" group-title="**** Vip Sports ****",Sky Sports Mix  ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144521
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportnews.png" group-title="**** Vip Sports ****",Sky Sports News ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144513
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/skysportspl.png" group-title="**** Vip Sports ****",Sky Sports Premier League ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144522
+#EXTINF:-1 tvg-id="" tvg-name="E4 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/e4.png" group-title="**** Vip Sports ****",E4 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144543
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/setantasports.png" group-title="**** Vip Sports ****",Setanta Sports ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144542
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sport 1 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/eurosport1.png" group-title="**** Vip Sports ****",Euro Sport 1 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144540
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sport 2 ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/eurosport2.png" group-title="**** Vip Sports ****",Euro Sport 2 ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144541
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation ᴴᴰ UK" tvg-logo="http://falcon.ac:5000/images/uk/boxnation.png" group-title="**** Vip Sports ****",Box Nation ᴴᴰ UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144538
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Turkiye Spor ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ Turkiye Spor ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142167
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/s_sport22.png" group-title="**** Vip Sports ****",TR: S SPORT 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163826
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 1 HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/s_sport.png" group-title="**** Vip Sports ****",TR: S SPORT 1 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163825
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor4.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 4
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163824
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor3.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 3
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163823
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor2.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 2
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163822
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor1.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163821
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor3.png" group-title="**** Vip Sports ****",TR: TIVIBUSPOR 3 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163820
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor2.png" group-title="**** Vip Sports ****",TR: TIVIBUSPOR 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163819
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tivibuspor1.png" group-title="**** Vip Sports ****",TR: TIVIBUSPOR 1HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163818
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/tjjk.png" group-title="**** Vip Sports ****",TR: TJK TV HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163817
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/spor_smart1.png" group-title="**** Vip Sports ****",TR: SPOR SMART 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163812
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/eurosport1.png" group-title="**** Vip Sports ****",TR: EUROSPORT 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163808
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/trt-spor2.png" group-title="**** Vip Sports ****",TR: TRT SPOR 2
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163804
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/trt-spor2.png" group-title="**** Vip Sports ****",TR: TRT SPOR 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163803
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/trt-spor.png" group-title="**** Vip Sports ****",TR: TRT SPOR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163802
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 4K" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/spor_smart2.png" group-title="**** Vip Sports ****",TR: SPOR SMART 2 4K
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163799
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 4K" tvg-logo="http://logo.tvwerk.tv/newpicon/BURAK/Spor-TR/spor_smart1.png" group-title="**** Vip Sports ****",TR: SPOR SMART 1 4K
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/163798
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports Haber HD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshaber.png" group-title="**** Vip Sports ****",TR: beIN  Sports Haber HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142119
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 1 FullHD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd1.png" group-title="**** Vip Sports ****",TR: beIN  Sports 1 FullHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142113
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 1 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd1.png" group-title="**** Vip Sports ****",TR: beIN  Sports 1 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142120
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 2 FullHD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd2.png" group-title="**** Vip Sports ****",TR: beIN  Sports 2 FullHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142114
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 2 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd2.png" group-title="**** Vip Sports ****",TR: beIN  Sports 2 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142121
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 3 FullHD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd3.png" group-title="**** Vip Sports ****",TR: beIN  Sports 3 FullHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142115
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 3 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd3.png" group-title="**** Vip Sports ****",TR: beIN  Sports 3 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142122
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 4 FullHD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd4.png" group-title="**** Vip Sports ****",TR: beIN  Sports 4 FullHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142116
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN  Sports 4 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/beinsportshd4.png" group-title="**** Vip Sports ****",TR: beIN  Sports 4 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142123
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FullHD TR" tvg-logo="http://falcon.ac:5000/images/tr/trtspor1.png" group-title="**** Vip Sports ****",TR: TRT SPOR FullHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142158
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD TR" tvg-logo="http://falcon.ac:5000/images/tr/trtspor1.png" group-title="**** Vip Sports ****",TR: TRT SPOR HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142137
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HD TR" tvg-logo="http://falcon.ac:5000/images/tr/aspor.png" group-title="**** Vip Sports ****",TR: A SPOR HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142157
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/smartspor.png" group-title="**** Vip Sports ****",TR: SPOR SMART 1 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142166
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 FHD TR" tvg-logo="http://falcon.ac:5000/images/tr/smartspor.png" group-title="**** Vip Sports ****",TR: SPOR SMART 1 FHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142140
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 TR" tvg-logo="http://falcon.ac:5000/images/tr/sspor2.png" group-title="**** Vip Sports ****",TR: S SPORT 2 TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142142
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD TR" tvg-logo="http://falcon.ac:5000/images/tr/smartspor.png" group-title="**** Vip Sports ****",TR: S SPORT HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142165
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/sspor2.png" group-title="**** Vip Sports ****",TR: S SPORT 2 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142151
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 FHD TR" tvg-logo="http://falcon.ac:5000/images/tr/tivibuspor1.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 1 FHD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142160
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/tivibuspor2.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 2 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142161
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/tivibuspor3.png" group-title="**** Vip Sports ****",TR: TIVIBU SPOR 3 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142162
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/tivibuspor4.png" group-title="**** Vip Sports ****",TR: TIVIBUSPOR 4 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142163
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD TR" tvg-logo="http://falcon.ac:5000/images/tr/nbatv.png" group-title="**** Vip Sports ****",TR: NBA TV HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142164
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD TR" tvg-logo="http://falcon.ac:5000/images/tr/gstv.png" group-title="**** Vip Sports ****",TR: GS TV HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142154
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD TR" tvg-logo="http://falcon.ac:5000/images/tr/fbtv.png" group-title="**** Vip Sports ****",TR: FB TV HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142153
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/eurosport1hd.png" group-title="**** Vip Sports ****",TR: EUROSPORT 1 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142149
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD TR" tvg-logo="http://falcon.ac:5000/images/tr/eurosport2hd.png" group-title="**** Vip Sports ****",TR: EUROSPORT 2 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142150
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 1" tvg-logo="" group-title="**** Vip Sports ****",Exxen Sport 1
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/188797
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 2 HD TR" tvg-logo="http://falcon.ac:5000/images/vipsport/exenspor2.png" group-title="**** Vip Sports ****",TR: Exxen Spor 2 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142147
+#EXTINF:-1 tvg-id="" tvg-name="TR: Exxen Spor 3 HD TR" tvg-logo="http://falcon.ac:5000/images/vipsport/exenspor3.png" group-title="**** Vip Sports ****",TR: Exxen Spor 3 HD TR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142148
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Espana Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ Espana Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144587
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV ES" tvg-logo="http://falcon.ac:5000/images/es/barcatv.png" group-title="**** Vip Sports ****",Barca TV ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144578
+#EXTINF:-1 tvg-id="" tvg-name="bein Sports Espana FHD ES" tvg-logo="http://falcon.ac:5000/images/es/beinlaliga.png" group-title="**** Vip Sports ****",bein Sports Espana FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144548
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD VIP ES" tvg-logo="http://falcon.ac:5000/images/es/dazn1.png" group-title="**** Vip Sports ****",DAZN 1 FHD VIP ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144551
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD VIP ES" tvg-logo="http://falcon.ac:5000/images/es/dazn2.png" group-title="**** Vip Sports ****",DAZN 2 HD VIP ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144552
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD ES" tvg-logo="http://falcon.ac:5000/images/es/eurosport1.png" group-title="**** Vip Sports ****",Eurosport 1 HD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144579
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 ES" tvg-logo="http://falcon.ac:5000/images/es/eurosport2.png" group-title="**** Vip Sports ****",Eurosport 2 ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144580
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV ES" tvg-logo="http://falcon.ac:5000/images/es/gol.png" group-title="**** Vip Sports ****",Gol TV ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144574
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV BAR HD ES" tvg-logo="http://falcon.ac:5000/images/es/laligatvbar.png" group-title="**** Vip Sports ****",La Liga TV BAR HD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144553
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 FHD ES" tvg-logo="http://falcon.ac:5000/images/es/mdeportes2.png" group-title="**** Vip Sports ****",Movistar Deportes 2 FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144564
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes FHD ES" tvg-logo="http://falcon.ac:5000/images/es/mdeportes1.png" group-title="**** Vip Sports ****",Movistar Deportes FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144562
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 FHD ES" tvg-logo="http://falcon.ac:5000/images/es/movistarf1hd.png" group-title="**** Vip Sports ****",Movistar F1 FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144569
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf FHD ES" tvg-logo="http://falcon.ac:5000/images/es/mgolf.png" group-title="**** Vip Sports ****",Movistar Golf FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144572
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga 1 [Match Time] ES" tvg-logo="http://falcon.ac:5000/images/es/mlaliga.png" group-title="**** Vip Sports ****",Movistar La Liga 1 [Match Time] ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144555
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga FHD ES" tvg-logo="http://falcon.ac:5000/images/es/mlaliga.png" group-title="**** Vip Sports ****",Movistar La Liga FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144554
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones FHD ES" tvg-logo="http://falcon.ac:5000/images/es/movistarligadecampeones.png" group-title="**** Vip Sports ****",Movistar Liga De Campeones FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144559
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Vamos FHD ES" tvg-logo="http://falcon.ac:5000/images/es/vamosbar.png" group-title="**** Vip Sports ****",Movistar Vamos FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144557
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Channel ES" tvg-logo="http://falcon.ac:5000/images/es/realmadrid.png" group-title="**** Vip Sports ****",Real Madrid Channel ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144576
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte ES" tvg-logo="http://falcon.ac:5000/images/es/teledeporte.png" group-title="**** Vip Sports ****",Teledeporte ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144575
+#EXTINF:-1 tvg-id="" tvg-name="Viajar FHD ES" tvg-logo="http://falcon.ac:5000/images/es/viajar.png" group-title="**** Vip Sports ****",Viajar FHD ES
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144581
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ American Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ American Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144545
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 ᴴᴰ US" tvg-logo="http://falcon.ac:5000/images/uk/tsn1.png" group-title="**** Vip Sports ****",TSN 1 ᴴᴰ US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144533
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 ᴴᴰ US" tvg-logo="http://falcon.ac:5000/images/uk/tsn2.png" group-title="**** Vip Sports ****",TSN 2 ᴴᴰ US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144534
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 ᴴᴰ US" tvg-logo="http://falcon.ac:5000/images/uk/tsn3.png" group-title="**** Vip Sports ****",TSN 3 ᴴᴰ US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144535
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 ᴴᴰ US" tvg-logo="http://falcon.ac:5000/images/uk/tsn4.png" group-title="**** Vip Sports ****",TSN 4 ᴴᴰ US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144536
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ NL Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ NL Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142183
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Sport Docu Ⓗ②⑥⑤ NL" tvg-logo="http://falcon.ac:5000/images/nl/ziggosportdocu.png" group-title="**** Vip Sports ****",ZIGGO Sport Docu Ⓗ②⑥⑤ NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144504
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Sport Golf Ⓗ②⑥⑤ NL" tvg-logo="http://falcon.ac:5000/images/nl/ziggosportgolfhd.png" group-title="**** Vip Sports ****",ZIGGO Sport Golf Ⓗ②⑥⑤ NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144503
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Sport Racing Ⓗ②⑥⑤ NL" tvg-logo="http://falcon.ac:5000/images/nl/ziggosportracing.png" group-title="**** Vip Sports ****",ZIGGO Sport Racing Ⓗ②⑥⑤ NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144502
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Sport Select Ⓗ②⑥⑤ NL" tvg-logo="http://falcon.ac:5000/images/nl/ziggosportselect.png" group-title="**** Vip Sports ****",ZIGGO Sport Select Ⓗ②⑥⑤ NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144500
+#EXTINF:-1 tvg-id="" tvg-name="ZIGGO Sport Voetbal Ⓗ②⑥⑤ NL" tvg-logo="http://falcon.ac:5000/images/nl/ziggosportvoetbal.png" group-title="**** Vip Sports ****",ZIGGO Sport Voetbal Ⓗ②⑥⑤ NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/144501
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Extra 1 FHD NL" tvg-logo="" group-title="**** Vip Sports ****",Ziggo Sport Extra 1 FHD NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/36824
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD NL" tvg-logo="http://falcon.ac:5000/images/nl/espn.png" group-title="**** Vip Sports ****",ESPN 1 FHD NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142169
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD NL" tvg-logo="http://falcon.ac:5000/images/nl/espn2.png" group-title="**** Vip Sports ****",ESPN 2 FHD NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142171
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD NL" tvg-logo="http://falcon.ac:5000/images/nl/espn3.png" group-title="**** Vip Sports ****",ESPN 3 FHD NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142173
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD NL" tvg-logo="http://falcon.ac:5000/images/nl/espn4.png" group-title="**** Vip Sports ****",ESPN 4 FHD NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142174
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 NL" tvg-logo="" group-title="**** Vip Sports ****",Fox Sports 1 NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/159627
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 NL" tvg-logo="" group-title="**** Vip Sports ****",Fox Sports 2 NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/159628
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 NL" tvg-logo="" group-title="**** Vip Sports ****",Fox Sports 3 NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/159629
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 4 NL" tvg-logo="" group-title="**** Vip Sports ****",Fox Sports 4 NL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/159630
+#EXTINF:-1 tvg-id="" tvg-name="=== Sportowe Polonia ===" tvg-logo="" group-title="**** Vip Sports ****",=== Sportowe Polonia ===
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/124207
+#EXTINF:-1 tvg-id="" tvg-name="Fame MMA PL" tvg-logo="" group-title="**** Vip Sports ****",Fame MMA PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/187552
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportpremium1.png" group-title="**** Vip Sports ****",Polsat Sport Premium 1 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32426
+#EXTINF:-1 tvg-id="PolsatSportPpv3.pl" tvg-name="Polsat Sport Premium 3 FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportpremiumppv3.png" group-title="**** Vip Sports ****",Polsat Sport Premium 3 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/124223
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 4 FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportpremiumppv4.png" group-title="**** Vip Sports ****",Polsat Sport Premium 4 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147076
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 5 FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportpremiumppv5.png" group-title="**** Vip Sports ****",Polsat Sport Premium 5 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147078
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 6 FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportpremiumppv6.png" group-title="**** Vip Sports ****",Polsat Sport Premium 6 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/147077
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport Extra FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportextra.png" group-title="**** Vip Sports ****",Polsat Sport Extra FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32266
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportfight.png" group-title="**** Vip Sports ****",Polsat Sport Fight FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32291
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="Polsat Sport News FHD" tvg-logo="http://falcon.ac:5000/images/pl/polsatsportnews.png" group-title="**** Vip Sports ****",Polsat Sport News FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32265
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/elevensports1.png" group-title="**** Vip Sports ****",Eleven Sports 1 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32363
+#EXTINF:-1 tvg-id="ElevenSports2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/elevensports2.png" group-title="**** Vip Sports ****",Eleven Sports 2 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32362
+#EXTINF:-1 tvg-id="ElevenSports3.pl" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/elevensports3.png" group-title="**** Vip Sports ****",Eleven Sports 3 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32361
+#EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-name="Eleven Sports 4 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/elevensports4.png" group-title="**** Vip Sports ****",Eleven Sports 4 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32360
+#EXTINF:-1 tvg-id="CanalplusSports.pl" tvg-name="Canal+ Sport FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/canalplussport.png" group-title="**** Vip Sports ****",Canal+ Sport FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32391
+#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/canalplussport2.png" group-title="**** Vip Sports ****",Canal+ Sport 2 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32393
+#EXTINF:-1 tvg-id="CanalplusSport3.pl" tvg-name="Canal+ Sport 3 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/canalplussport3.png" group-title="**** Vip Sports ****",Canal+ Sport 3 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/124213
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport 4 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/canalplussport4.png" group-title="**** Vip Sports ****",Canal+ Sport 4 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/124214
+#EXTINF:-1 tvg-id="Extreme Sports Channel-PL" tvg-name="Extreme Sports FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/extremesports.png" group-title="**** Vip Sports ****",Extreme Sports FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32350
+#EXTINF:-1 tvg-id="" tvg-name="nSport FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/nsport.png" group-title="**** Vip Sports ****",nSport FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32159
+#EXTINF:-1 tvg-id="TVP Sport-PL" tvg-name="TVP Sport FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/tvpsport.png" group-title="**** Vip Sports ****",TVP Sport FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32183
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-name="Sport Klub FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/sportklub.png" group-title="**** Vip Sports ****",Sport Klub FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32252
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="Motorwizja PL" tvg-logo="http://falcon.ac:5000/images/pl/motorwizja.png" group-title="**** Vip Sports ****",Motorwizja PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/123351
+#EXTINF:-1 tvg-id="" tvg-name="Fightbox FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/fightbox.png" group-title="**** Vip Sports ****",Fightbox FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32343
+#EXTINF:-1 tvg-id="Eurosport 1-PL" tvg-name="Euro Sport 1 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport.png" group-title="**** Vip Sports ****",Euro Sport 1 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32356
+#EXTINF:-1 tvg-id="Eurosport 2-PL" tvg-name="Euro Sport 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport2.png" group-title="**** Vip Sports ****",Euro Sport 2 FHD PL
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32354
+#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Belgium Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ Belgium Sport ▼★●•
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142199
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1 FHD (BE)" tvg-logo="http://falcon.ac:5000/images/pt/elevensports1.png" group-title="**** Vip Sports ****",Eleven Sport 1 FHD (BE)
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142193
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2 FHD (BE)" tvg-logo="http://falcon.ac:5000/images/pt/elevensports2.png" group-title="**** Vip Sports ****",Eleven Sport 2 FHD (BE)
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142195
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3 FHD (BE)" tvg-logo="http://falcon.ac:5000/images/pt/elevensports3.png" group-title="**** Vip Sports ****",Eleven Sport 3 FHD (BE)
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142197
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 1 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 1 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141991
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 2 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141990
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 3 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141989
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 4 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141988
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 5 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 5 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141987
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 6 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 6 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141986
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 7 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 7 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141985
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 8 HD FR" tvg-logo="http://falcon.ac:5000/images/fr/primebar.png" group-title="**** Vip Sports ****",Amazon Prime Video 8 HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141984
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News HD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsportnews.png" group-title="**** Vip Sports ****",RMC Sport News HD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142009
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport1.png" group-title="**** Vip Sports ****",RMC Sport 1 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141993
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport2.png" group-title="**** Vip Sports ****",RMC Sport 2 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141994
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport3.png" group-title="**** Vip Sports ****",RMC Sport 3 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141995
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport4.png" group-title="**** Vip Sports ****",RMC Sport 4 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141996
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport5.png" group-title="**** Vip Sports ****",RMC Sport 5 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141997
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 6 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport6.png" group-title="**** Vip Sports ****",RMC Sport 6 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141998
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 7 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport7.png" group-title="**** Vip Sports ****",RMC Sport 7 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141999
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 8 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport8.png" group-title="**** Vip Sports ****",RMC Sport 8 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142000
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 9 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport9.png" group-title="**** Vip Sports ****",RMC Sport 9 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142001
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport11.png" group-title="**** Vip Sports ****",RMC Sport 11 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142003
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 12 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport12.png" group-title="**** Vip Sports ****",RMC Sport 12 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142004
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 14 FHD FR" tvg-logo="http://falcon.ac:5000/images/fr/rmcsport14.png" group-title="**** Vip Sports ****",RMC Sport 14 FHD FR
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142006
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttvplus.png" group-title="**** Vip Sports ****",SPORT TV + FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141969
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv1.png" group-title="**** Vip Sports ****",SPORT TV 1 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141963
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv2.png" group-title="**** Vip Sports ****",SPORT TV 2 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141964
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv3.png" group-title="**** Vip Sports ****",SPORT TV 3 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141965
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv4.png" group-title="**** Vip Sports ****",SPORT TV 4 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141966
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv5.png" group-title="**** Vip Sports ****",SPORT TV 5 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141967
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/sporttv6.png" group-title="**** Vip Sports ****",SPORT TV 6 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141968
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 FHD PT" tvg-logo="http://falcon.ac:5000/images/pt/elevensports6.png" group-title="**** Vip Sports ****",Eleven Sports 6 FHD PT
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141977
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV NBA HD ( Vip Sports )" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="**** Vip Sports ****",Sport TV NBA HD ( Vip Sports )
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/141970
+#EXTINF:-1 tvg-id="" tvg-name="ESPN US" tvg-logo="[" group-title="**** Vip Sports ****",ESPN US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/142373
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Max Sport 1 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Max Sport 1 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89296
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Max Sport 2 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Max Sport 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89297
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Max Sport 3 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Max Sport 3 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89298
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Max Sport 4 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Max Sport 4 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89299
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Diema Sport FHD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Diema Sport FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89300
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Diema Sport 2 FHD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Diema Sport 2 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89301
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Auto Motor Sport HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Auto Motor Sport HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89355
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Nova Sport FHD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Nova Sport FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89356
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Eurosport 1 FHD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Eurosport 1 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89302
+#EXTINF:-1 tvg-id="" tvg-name="VIP-BG: Eurosport 2 FHD" tvg-logo="" group-title="**** Vip Sports ****",VIP-BG: Eurosport 2 FHD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89303
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD US" tvg-logo="" group-title="**** Vip Sports ****",NBA HD US
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62749
+#EXTINF:-1 tvg-id="" tvg-name="=== Vip Sports ===" tvg-logo="" group-title="**** Vip Sports ****",=== Vip Sports ===
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62822
+#EXTINF:-1 tvg-id="402 SkySp PL-UK" tvg-name="Sky Sports Premier League HD UK" tvg-logo="https://asiagrandiptv.us/logo//skysportspremierleague.png" group-title="**** Vip Sports ****",Sky Sports Premier League HD UK
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/62856
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Abu Dhabi Sports 4 HD" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: Abu Dhabi Sports 4 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63331
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Al Kass Five" tvg-logo="https://asiagrandiptv.us/logo/alkass5.png" group-title="**** Vip Sports ****",Vip Sports: Al Kass Five
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63332
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Abu Dhabi Sports 3 HD" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: Abu Dhabi Sports 3 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63333
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Al Kass One" tvg-logo="https://asiagrandiptv.us/logo/alkass1.png" group-title="**** Vip Sports ****",Vip Sports: Al Kass One
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63334
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Al Kass Two" tvg-logo="https://asiagrandiptv.us/logo/alkass2.png" group-title="**** Vip Sports ****",Vip Sports: Al Kass Two
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63335
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: ATG" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: ATG
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63338
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: DD Sports" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: DD Sports
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63341
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Dubai Racing" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: Dubai Racing
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/63343
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Abu Dhabi Sports 2 HD" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: Abu Dhabi Sports 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/75729
+#EXTINF:-1 tvg-id="" tvg-name="Vip Sports: Abu Dhabi Sports 1 HD" tvg-logo="" group-title="**** Vip Sports ****",Vip Sports: Abu Dhabi Sports 1 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/75730
+#EXTINF:-1 tvg-id="" tvg-name="==== VIP SPORT ARABIEN =====" tvg-logo="" group-title="**** Vip Sports ****",==== VIP SPORT ARABIEN =====
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89364
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: AD Sport 1HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: AD Sport 1HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89340
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: AD Sport 2HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: AD Sport 2HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89341
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: Alkass Sport 2 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: Alkass Sport 2 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89345
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: DUBAI RACING HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: DUBAI RACING HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89348
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: DUBAI SPORTS HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: DUBAI SPORTS HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89349
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: DUBAI SPORTS 3 HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: DUBAI SPORTS 3 HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89351
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: Nile Sport HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: Nile Sport HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89352
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: Oman Sport HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: Oman Sport HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89353
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: Palestine Sports HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: Palestine Sports HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89354
+#EXTINF:-1 tvg-id="" tvg-name="VIP-AR: Neelein Sport HD" tvg-logo="" group-title="**** Vip Sports ****",VIP-AR: Neelein Sport HD
+http://falcon.ac:5000/Gloria_tv/dFyMMnKb/89362
 #EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43728
 #EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ᶠᴴᴰ
