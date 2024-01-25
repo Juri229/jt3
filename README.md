@@ -3239,3 +3239,387 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/7791
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/77915
 #EXTINF:-1 tvg-id="" tvg-name="AL: ISP Aksion 4K" tvg-logo="" group-title="Pako Tibo Tv",AL: ISP Aksion 4K
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/77914
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 1 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk1.png" group-title="KOMBETARE & LOKALE",RTK 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8714.ts
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 2 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk2.png" group-title="KOMBETARE & LOKALE",RTK 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8716.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk3.png" group-title="KOMBETARE & LOKALE",RTK 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8717.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk4.png" group-title="KOMBETARE & LOKALE",RTK 4
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8718.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
+#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83032.ts
+#EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BB VIP KOSOVA 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/83033.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtsh1.png" group-title="KOMBETARE & LOKALE",RTSH 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8719.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtsh1.png" group-title="KOMBETARE & LOKALE",RTSH 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8721.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 24 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtsh24.png" group-title="KOMBETARE & LOKALE",RTSH 24 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8724.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtshshqip.png" group-title="KOMBETARE & LOKALE",RTSH Shqip
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8725.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Film" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtsh1.png" group-title="KOMBETARE & LOKALE",RTSH Film
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8726.ts
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="TOP Channel FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/topchannel.png" group-title="KOMBETARE & LOKALE",TOP Channel FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8728.ts
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Top News" tvg-logo="http://vodpictures.ddns.net/picons/logos/topnews.png" group-title="KOMBETARE & LOKALE",Top News
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8729.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 10 FHD" tvg-logo="" group-title="KOMBETARE & LOKALE",KANAL 10 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/60191.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="KOMBETARE & LOKALE",ATV HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/65243.ts
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtv21.png" group-title="KOMBETARE & LOKALE",RTV 21 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8731.ts
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtv21.png" group-title="KOMBETARE & LOKALE",RTV 21 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8732.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtv21.png" group-title="KOMBETARE & LOKALE",RTV 21 Plus FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8737.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtv21.png" group-title="KOMBETARE & LOKALE",RTV 21 Popullore FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8739.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/kohavision.png" group-title="KOMBETARE & LOKALE",KTV FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alsat M HD" tvg-logo="" group-title="KOMBETARE & LOKALE",Alsat M HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/9019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/klankosova.png" group-title="KOMBETARE & LOKALE",Klan Kosova HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8743.ts
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-name="Klan Macedonia" tvg-logo="http://vodpictures.ddns.net/picons/logos/klanmacedonia.png" group-title="KOMBETARE & LOKALE",Klan Macedonia
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klan TV HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/klan.png" group-title="KOMBETARE & LOKALE",Klan TV HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Klan Plus HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/klanplus.png" group-title="KOMBETARE & LOKALE",Klan Plus HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8748.ts
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="Vizion Plus" tvg-logo="http://vodpictures.ddns.net/picons/logos/vizionplus.png" group-title="KOMBETARE & LOKALE",Vizion Plus
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8750.ts
+#EXTINF:-1 tvg-id="" tvg-name="T7 HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/t7.png" group-title="KOMBETARE & LOKALE",T7 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/kanald.png" group-title="KOMBETARE & LOKALE",Kanal D Drama FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8754.ts
+#EXTINF:-1 tvg-id="" tvg-name="First Channel HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/firstchannel.png" group-title="KOMBETARE & LOKALE",First Channel HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shenja TV HD" tvg-logo="" group-title="KOMBETARE & LOKALE",Shenja TV HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8756.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ERA" tvg-logo="" group-title="KOMBETARE & LOKALE",TV ERA
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8759.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Koha HD" tvg-logo="" group-title="KOMBETARE & LOKALE",TV Koha HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dukagjini TV HD" tvg-logo="" group-title="KOMBETARE & LOKALE",Dukagjini TV HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MRT 2" tvg-logo="" group-title="KOMBETARE & LOKALE",MRT 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8762.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="http://vodpictures.ddns.net/picons/logos/news24.png" group-title="KOMBETARE & LOKALE",News 24
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8764.ts
+#EXTINF:-1 tvg-id="" tvg-name="A2 CNN" tvg-logo="" group-title="KOMBETARE & LOKALE",A2 CNN
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8765.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="KOMBETARE & LOKALE",ABC News
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews  Albania" tvg-logo="" group-title="KOMBETARE & LOKALE",Euronews  Albania
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="KOMBETARE & LOKALE",Report TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ora News FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ora.png" group-title="KOMBETARE & LOKALE",Ora News FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arta News FHD" tvg-logo="" group-title="KOMBETARE & LOKALE",Arta News FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tema TV" tvg-logo="" group-title="KOMBETARE & LOKALE",Tema TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8775.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="KOMBETARE & LOKALE",Rtv Pendimi
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="KOMBETARE & LOKALE",Peace TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Islam" tvg-logo="" group-title="KOMBETARE & LOKALE",Rtv Islam
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8782.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mekka Live" tvg-logo="" group-title="KOMBETARE & LOKALE",Mekka Live
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8783.ts
+#EXTINF:-1 tvg-id="" tvg-name="Medina Live" tvg-logo="" group-title="KOMBETARE & LOKALE",Medina Live
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8784.ts
+#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="" group-title="KOMBETARE & LOKALE",Muse
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8799.ts
+#EXTINF:-1 tvg-id="" tvg-name="BESA" tvg-logo="" group-title="KOMBETARE & LOKALE",BESA
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8804.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syri Vision" tvg-logo="" group-title="KOMBETARE & LOKALE",Syri Vision
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Opinion" tvg-logo="" group-title="KOMBETARE & LOKALE",Tv Opinion
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Mitrovica" tvg-logo="" group-title="KOMBETARE & LOKALE",Tv Mitrovica
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stupcat 24/7" tvg-logo="" group-title="KOMBETARE & LOKALE",Stupcat 24/7
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/9060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="KOMBETARE & LOKALE",Fax News
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/35944.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Stupcat Egjeli" tvg-logo="" group-title="KOMBETARE & LOKALE",DARK Stupcat Egjeli
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Cka ka Shpija" tvg-logo="" group-title="KOMBETARE & LOKALE",DARK Cka ka Shpija
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53364.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Kafeneja Jone" tvg-logo="" group-title="KOMBETARE & LOKALE",DARK Kafeneja Jone
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53365.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH PLUS" tvg-logo="" group-title="KOMBETARE & LOKALE",RTSH PLUS
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53477.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 3" tvg-logo="" group-title="KOMBETARE & LOKALE",RTSH 3
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75584.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TEUTA" tvg-logo="" group-title="KOMBETARE & LOKALE",TV TEUTA
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/77808.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",Art Kino 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",Art Kino 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",Art Kino 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Episode FHD" tvg-logo="" group-title="KINEMAJA SHQIP",Episode FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8549.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOLD HD" tvg-logo="" group-title="KINEMAJA SHQIP",GOLD HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8551.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="KINEMAJA SHQIP",MAX HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="KINEMAJA SHQIP",Film Aksion
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="KINEMAJA SHQIP",Film Thriller
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="KINEMAJA SHQIP",Film Hits
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="KINEMAJA SHQIP",Film Autor
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8559.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Drame" tvg-logo="" group-title="KINEMAJA SHQIP",Film Drame
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8560.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Komedi" tvg-logo="" group-title="KINEMAJA SHQIP",Film Komedi
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8561.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film" tvg-logo="" group-title="KINEMAJA SHQIP",Euro Film
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet" tvg-logo="" group-title="KINEMAJA SHQIP",Film Stinet
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Family FHD" tvg-logo="" group-title="KINEMAJA SHQIP",Family FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8565.ts
+#EXTINF:-1 tvg-id="" tvg-name="T FHD" tvg-logo="" group-title="KINEMAJA SHQIP",T FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="KINEMAJA SHQIP",Fox Movies
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8570.ts
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="Tring 3+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tring_3plus.jpg" group-title="KINEMAJA SHQIP",Tring 3+
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Super
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Action HD" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Action HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Comedy
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8577.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Life
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Fantasy
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Shqip
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8580.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRING SERIES HD" tvg-logo="" group-title="KINEMAJA SHQIP",TRING SERIES HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Smile" tvg-logo="" group-title="KINEMAJA SHQIP",Tring Smile
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8583.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Gold 1 HD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Gold 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8585.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Gold 2 HD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Gold 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8586.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Gold 3 HD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Gold 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8587.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Gold 4 HD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Gold 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8588.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Prime 1 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Prime 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8594.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Prime 2 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Prime 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8595.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Prime 3 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Prime 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8596.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Prime 4 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Prime 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8597.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Netflix 1 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Netflix 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8598.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Netflix 2 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Netflix 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8599.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Netflix 3 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Netflix 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8600.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Netflix 4 FHD" tvg-logo="" group-title="KINEMAJA SHQIP",DARK Netflix 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8601.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 1" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52863.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 2" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52864.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 3" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 3
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 4" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 4
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52866.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 5" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 5
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52867.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE 6" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE 6
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52868.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE AKSION" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE AKSION
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52870.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE CRIME" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE CRIME
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52872.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE GOLD COLLECTION" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE GOLD COLLECTION
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52873.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE DRAMA" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE DRAMA
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52876.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEONE EPIK" tvg-logo="" group-title="KINEMAJA SHQIP",TELEONE EPIK
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/52877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema super HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema super HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 1 HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Milenium 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 2 HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Milenium 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 3 HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Milenium 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Milenium 4 HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Milenium 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Hits HD" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Hits HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Gold" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Gold
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72672.ts
+#EXTINF:-1 tvg-id="" tvg-name="kinema Fantazy HD" tvg-logo="" group-title="KINEMAJA SHQIP",kinema Fantazy HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72673.ts
+#EXTINF:-1 tvg-id="" tvg-name="kinema Family HD" tvg-logo="" group-title="KINEMAJA SHQIP",kinema Family HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kinema Aksion" tvg-logo="" group-title="KINEMAJA SHQIP",Kinema Aksion
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72675.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Action HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Action HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72676.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Komedi HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Komedi HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72677.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Cinema HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Cinema HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72678.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Thriller HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Thriller HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72679.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Drame HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Drame HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72680.ts
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Cinema DE HD" tvg-logo="" group-title="KINEMAJA SHQIP",WebStar Cinema DE HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/72681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 1" tvg-logo="" group-title="DOKUMENTARE",Art Doku 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8855.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2" tvg-logo="" group-title="DOKUMENTARE",Art Doku 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exp Shkenca" tvg-logo="" group-title="DOKUMENTARE",Exp Shkenca
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exp Natyra" tvg-logo="" group-title="DOKUMENTARE",Exp Natyra
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exp History" tvg-logo="" group-title="DOKUMENTARE",Exp History
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Living FHD" tvg-logo="" group-title="DOKUMENTARE",Living FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="DOKUMENTARE",Tring World
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="DOKUMENTARE",Tring Planet
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring HistorI" tvg-logo="" group-title="DOKUMENTARE",Tring HistorI
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8864.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Hits HD" tvg-logo="" group-title="MUZIKE SHQIP",DARK Hits HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8834.ts
+#EXTINF:-1 tvg-id="" tvg-name="DARK Popullore HD" tvg-logo="" group-title="MUZIKE SHQIP",DARK Popullore HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8835.ts
+#EXTINF:-1 tvg-id="" tvg-name="X Cifteli HD" tvg-logo="" group-title="MUZIKE SHQIP",X Cifteli HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV HD" tvg-logo="" group-title="MUZIKE SHQIP",Elrodi TV HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Folk +" tvg-logo="" group-title="MUZIKE SHQIP",Folk +
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8840.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music HD" tvg-logo="" group-title="MUZIKE SHQIP",BBF Music HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8841.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova" tvg-logo="" group-title="MUZIKE SHQIP",MTV Kosova
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8843.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Music" tvg-logo="" group-title="MUZIKE SHQIP",My Music
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="MUZIKE SHQIP",Dasma TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8847.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="MUZIKE SHQIP",TV Opoja
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8848.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZICO TV FHD" tvg-logo="" group-title="MUZIKE SHQIP",ZICO TV FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic Muzik" tvg-logo="" group-title="MUZIKE SHQIP",Supersonic Muzik
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ballkanika Music" tvg-logo="" group-title="MUZIKE SHQIP",Ballkanika Music
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="" group-title="MUZIKE SHQIP",Turbo Channel
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/9007.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALBUK Music" tvg-logo="" group-title="MUZIKE SHQIP",ALBUK Music
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/9055.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP ESTRADA" tvg-logo="" group-title="MUZIKE SHQIP",TOP ESTRADA
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/10257.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bang Bang" tvg-logo="" group-title="FILMA VIZATIMOR",Bang Bang
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8870.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="FILMA VIZATIMOR",Cufo
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry HD" tvg-logo="" group-title="FILMA VIZATIMOR",Tom & Jerry HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8873.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAO TAO" tvg-logo="" group-title="FILMA VIZATIMOR",TAO TAO
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="FILMA VIZATIMOR",Tring Kids
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8877.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="FILMA VIZATIMOR",Tring Tring
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="FILMA VIZATIMOR",Tip TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8879.ts
+#EXTINF:-1 tvg-id="" tvg-name="Junior TV" tvg-logo="" group-title="FILMA VIZATIMOR",Junior TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sofia HD" tvg-logo="" group-title="FILMA VIZATIMOR",Sofia HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8882.ts
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="FILMA VIZATIMOR",BabyTV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="FILMA VIZATIMOR",Boomerang
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="" group-title="FILMA VIZATIMOR",Duck TV
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/10394.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Junior" tvg-logo="" group-title="FILMA VIZATIMOR",RTV 21 Junior
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8738.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMILE HD" tvg-logo="" group-title="FILMA VIZATIMOR",SMILE HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/35992.ts
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="Art Sport 1 FHD" tvg-logo="http://supertv.xyz:8080/images/b206eb9f520b6d90a2d500608bed25e1.png" group-title="SPORT SHQIP",Art Sport 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD" tvg-logo="http://supertv.xyz:8080/images/52faba42008833b1283bbfb0273ff6d3.png" group-title="SPORT SHQIP",Art Sport 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD" tvg-logo="http://supertv.xyz:8080/images/9334b7670a3e9fff50e733b08de028f8.png" group-title="SPORT SHQIP",Art Sport 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 5 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 6 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75470.ts
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="Super Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7813.ts
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="Super Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7814.ts
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="Super Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7815.ts
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="Super Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7816.ts
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="Super Sport 5 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 5 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7817.ts
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="Tring Sport News" tvg-logo="http://supertv.xyz:8080/images/72d9e920e29783fef9f38b96e6a60a81.png" group-title="SPORT SHQIP",Tring Sport News
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7826.ts
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/51f1720f2ef5d47ea1175135de9f1ee7.png" group-title="SPORT SHQIP",Tring Sport 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7827.ts
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/534d26d0405186c838fa6db35f7db2a4.png" group-title="SPORT SHQIP",Tring Sport 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7828.ts
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/7cae9ed87e9b839eab765968dcb5fa91.png" group-title="SPORT SHQIP",Tring Sport 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7829.ts
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/043abbc570945fd5a7b5d0df636a38ac.png" group-title="SPORT SHQIP",Tring Sport 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7830.ts
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport FHD" tvg-logo="http://supertv.xyz:8080/images/5ef46b4036973b6928aa50d8de408ebb.png" group-title="SPORT SHQIP",RTSH Sport FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/3b679e3b60a1a68606480bafb47f53ea.png" group-title="SPORT SHQIP",Kujtesa Sport 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/19aa18f35e1be2dba70fe5b3cc3bc39d.png" group-title="SPORT SHQIP",Kujtesa Sport 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/6a7dedaea38ec30b475d72ac256afb12.png" group-title="SPORT SHQIP",Kujtesa Sport 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/b388ab13c425e833c20c5a2d730074ca.png" group-title="SPORT SHQIP",Kujtesa Sport 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 1 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75881.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 2 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75882.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 3 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75883.ts
+#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 4 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75884.ts
