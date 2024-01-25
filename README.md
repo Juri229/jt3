@@ -11,25 +11,25 @@ http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193753
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193752
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193754
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 1 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
 #EXTINF:-1 tvg-id="" tvg-name="AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: 5 Herë Jo - 5 Times No (2023) ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/82403
 #EXTINF:-1 tvg-id="" tvg-name="AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ" tvg-logo="" group-title="Filma",AL: Në kuadër të dashurisë - Within Love (2023) ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/81996
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 1 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80942.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 1 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="AL ? ALBANIA",AL: BIG BROTHER ALBANIA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 2 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/80943.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="Albania",AL: Its My Home 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Its My Home 3 FHD
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/63080.ts
-#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: First Channel TV HD" tvg-logo="http://hs-iptv.net:88/images/2252283dec66f089147867a0938aeb4d.png" group-title="Albania",AL: First Channel TV HD
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: First Channel TV HD" tvg-logo="http://hs-iptv.net:88/images/2252283dec66f089147867a0938aeb4d.png" group-title="**** Albania Shqipëtare ****",AL: First Channel TV HD
 http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/2573.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP 1 AL ⁴ᴷ" tvg-logo="" group-title="Shqipëtare",AL: Big Brother VIP 1 AL ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/83929
