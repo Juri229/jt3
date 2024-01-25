@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193751
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 1
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="KOMBETARE & LOKALE",BIGBROTHER VIP ALBANIA 2
+#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193753
@@ -215,11 +215,11 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/876
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/2467
 #EXTINF:-1 tvg-id="Junior" tvg-name="AL: Junior TV ᶠᴴᴰ" tvg-logo="" group-title="Fëmijët",AL: Junior TV ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/958
-#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring" tvg-logo="" group-title="Fëmijët",AL: Tring Tring
+#EXTINF:-1 tvg-id="ing ing" tvg-name="AL: ing ing" tvg-logo="" group-title="Fëmijët",AL: ing ing
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1175
 #EXTINF:-1 tvg-id="Tip TV" tvg-name="AL: Tip TV ᶠᴴᴰ" tvg-logo="" group-title="Fëmijët",AL: Tip TV ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1160
-#EXTINF:-1 tvg-id="Tring Kids" tvg-name="AL: Kids ᶠᴴᴰ" tvg-logo="" group-title="Fëmijët",AL: Kids ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Kids" tvg-name="AL: Kids ᶠᴴᴰ" tvg-logo="" group-title="Fëmijët",AL: Kids ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/4259
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Kids 1 ⁴ᴷ" tvg-logo="" group-title="Fëmijët",AL: Tëvë  Kids 1 ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/78776
@@ -277,21 +277,21 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/3007
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30077
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 3 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="Filma",AL: ART Kino 3 ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30076
-#EXTINF:-1 tvg-id="Tring Classic" tvg-name="AL: Tring Classic ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Classic.png" group-title="Filma",AL: Tring Classic ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Classic" tvg-name="AL: ing Classic ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Classic.png" group-title="Filma",AL: ing Classic ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63206
-#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="Filma",AL: Tring Super ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Super" tvg-name="AL: ing Super ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Super.png" group-title="Filma",AL: ing Super ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1174
-#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Action ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="Filma",AL: Tring Action ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Action" tvg-name="AL: ing Action ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Action.png" group-title="Filma",AL: ing Action ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1166
-#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="Filma",AL: Tring Fantasy ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Fantasy" tvg-name="AL: ing Fantasy ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Fantasy.png" group-title="Filma",AL: ing Fantasy ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1164
-#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" group-title="Filma",AL: Tring Life ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Life" tvg-name="AL: ing Life ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Life.png" group-title="Filma",AL: ing Life ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1165
-#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png" group-title="Filma",AL: Tring Comedy ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Comedy" tvg-name="AL: ing Comedy ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Comedy.png" group-title="Filma",AL: ing Comedy ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/25472
-#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Family ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: Tring Family ᶠᴴᴰ
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: ing Family ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: ing Family ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/77682
-#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Filma",AL: Tring Shqip ᶠᴴᴰ
+#EXTINF:-1 tvg-id="ing Shqip" tvg-name="AL: ing Shqip ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/ing%20Shqip.png" group-title="Filma",AL: ing Shqip ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1168
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip ⁴ᴷ" tvg-logo="" group-title="Filma",AL: Tëvë Shqip ⁴ᴷ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/78770
@@ -351,7 +351,7 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/2692
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26927
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: KS Filma24 Krim ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26928
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Triller ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: KS Filma24 Triller ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 iller ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: KS Filma24 Triller ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26929
 #EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister ᶠᴴᴰ" tvg-logo="" group-title="Filma",AL: KS Filma24 Mister ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26930
@@ -869,26 +869,7 @@ http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148124
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148117
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime MultiPlex HD FR" tvg-logo="" group-title="**** Vip Sports ****",Amazon Prime MultiPlex HD FR
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148116
-#EXTINF:-1 tvg-id="" tvg-name="•●★▼ Grecee Sports ▼★●•" tvg-logo="" group-title="**** Greece ****",•●★▼ Grecee Sports ▼★●•
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/146535
-#EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 5 GR" tvg-logo="http://falcon.ac:5000/images/vipsport/cosmotesport4hd.png" group-title="**** Greece ****",Cosmote Sport 5 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/31047
-#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 7 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 7 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164449
-#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 8 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 8 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164448
-#EXTINF:-1 tvg-id="" tvg-name="COSMOTE SPORT 9 GR" tvg-logo="" group-title="**** Greece ****",COSMOTE SPORT 9 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164447
-#EXTINF:-1 tvg-id="" tvg-name="NOVA Sports Premier League GR" tvg-logo="" group-title="**** Greece ****",NOVA Sports Premier League GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164444
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 1 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 1 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164440
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 2 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 2 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164441
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 3 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 3 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164442
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT 4 GR" tvg-logo="" group-title="**** Greece ****",NOVA SPORT 4 GR
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/164443
+
 #EXTINF:-1 tvg-id="" tvg-name="GR: ERT SPORTS 3 FHD" tvg-logo="https://asiagrandiptv.us/logo/ertsports.png" group-title="**** Vip Sports ****",GR: ERT SPORTS 3 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/3304
 #EXTINF:-1 tvg-id="" tvg-name="•●★▼ UK Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ UK Sport ▼★●•
