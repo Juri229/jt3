@@ -16,6 +16,16 @@ http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
 #EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32343
+tvg-logo="" group-title="ALBANIA",AL: Besa TV
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/1112
+#EXTINF:-1 tvg-name="AL: Shenja TV" tvg-logo="" group-title="ALBANIA",AL: Shenja TV
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/515
+#EXTINF:-1 tvg-name="AL: Baby TV" tvg-logo="" group-title="ALBANIA",AL: Baby TV
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3276
+#EXTINF:-1 tvg-name="AL: Cufo" tvg-logo="" group-title="ALBANIA",AL: Cufo
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/20
+#EXTINF:-1 tvg-name="AL: SuperSonic TV" tvg-logo="" group-title="ALBANIA",AL: SuperSonic TV
+http://allgames.onlygames.co:43666/peermk1/peeer@mk2/22
 #EXTINF:-1 tvg-id="Eurosport 1-PL" tvg-name="Euro Sport 1 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport.png" group-title="**** Vip Sports ****",Euro Sport 1 FHD PL
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32356
 #EXTINF:-1 tvg-id="Eurosport 2-PL" tvg-name="Euro Sport 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport2.png" group-title="**** Vip Sports ****",Euro Sport 2 FHD PL
