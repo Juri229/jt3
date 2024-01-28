@@ -2001,8 +2001,6 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134262
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134263
 #EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Action FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134270
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Fëmijët ****",AL: Filma24 Animuar FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134271
 #EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventur FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Aventur FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134272
 #EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Biografi FHD
@@ -2085,8 +2083,6 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187508
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187507
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Shqip
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187506
-#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring" tvg-logo="http://falcon.ac:5000/images/tringtring.png" group-title="**** Albania Fëmijët ****",AL: Tring Tring
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/870
 #EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold FHD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12247
 #EXTINF:-1 tvg-id="Max HD" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
@@ -2153,10 +2149,6 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89278
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147485
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Special FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Special FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146476
-#EXTINF:-1 tvg-id="" tvg-name="AL: Doku 1 FHD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Doku 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38555
-#EXTINF:-1 tvg-id="" tvg-name="AL: Doku 2 FHD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Doku 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38556
 #EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 2 HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film 2 HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38622
 #EXTINF:-1 tvg-id="" tvg-name="AL: Extream Premiere 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/epremiere3.png" group-title="**** Albania Film ****",AL: Extream Premiere 3 HD
@@ -2191,50 +2183,28 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187667
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187829
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star  The Flash HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star  The Flash HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187837
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Dasma ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Music & Islame ****",AL: L-Star Dasma ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187825
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star El Chapo ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star El Chapo ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187836
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Fara e Flliqt FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Fara e Flliqt FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187821
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Film Shqip  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star Film Shqip  HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187819
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Halo HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Halo HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187828
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Hetuesia FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Hetuesia FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187822
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Kids ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Fëmijët ****",AL: L-Star Kids ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187835
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Humor HD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Humor HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187839
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star La Casa de Papel  HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star La Casa de Papel  HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187826
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Masha & Bear  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Fëmijët ****",AL: L-Star Masha & Bear  HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187834
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Mixha Bibe & Martin FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Mixha Bibe & Martin FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187823
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Music FHD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Music FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187840
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 1  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 1  ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187830
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 2 ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 2 ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187831
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 3  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 3  ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187832
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Parlamenti FHD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Parlamenti FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187838
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Peacemaker HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Peacemaker HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187827
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 1 ᴴᴰ" tvg-logo="https://i.imgur.com/PMUUeOO.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 1 ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187817
 #EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 2 ᴴᴰ" tvg-logo="https://i.imgur.com/3KlY9sm.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 2 ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187818
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popullore  ᴴᴰ" tvg-logo="https://i.imgur.com/ZKe9o2R.png" group-title="**** Albania Music & Islame ****",AL: L-Star Popullore  ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187816
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popullore FHD" tvg-logo="https://i.imgur.com/ZKe9o2R.png" group-title="**** Albania Music & Islame ****",AL: L-Star Popullore FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187833
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Qumili 2022 HD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Qumili 2022 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187824
 #EXTINF:-1 tvg-id="" tvg-name="AL: M Aksion ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/1056220050920579152/1056221530062860398/20221224_154606_0000.png" group-title="**** Albania Film ****",AL: M Aksion ᴴᴰ
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192857
 #EXTINF:-1 tvg-id="" tvg-name="AL: M Cinema ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976244231490404413/20220518_000538.png" group-title="**** Albania Film ****",AL: M Cinema ᴴᴰ
@@ -2265,8 +2235,6 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94492
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94487
 #EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantazi" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Fantazi
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94481
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femije" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Fëmijët ****",AL: Netflix Femije
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94486
 #EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Horror
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94483
 #EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Jackie Chan
