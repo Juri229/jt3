@@ -428,7 +428,6 @@ http://smarters.link:80/RtMM2QrZq97/d2STOS55/99872
 http://smarters.link:80/RtMM2QrZq97/d2STOS55/22813
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg" group-title="Live: Albania",SuperSport 6 FHD AL
 http://smarters.link:80/RtMM2QrZq97/d2STOS55/22812
-#EXTM3U
 #EXTINF:0,Big Brother VIP Kosova 1 FHD
 #EXTVLCOPT:input-slave=
 #EXTVLCOPT:file-caching=1000
