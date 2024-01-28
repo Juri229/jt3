@@ -2562,174 +2562,78 @@ http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/3941
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/80224
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP Kosova 2 ᶠᴴᴰ" tvg-logo="" group-title="Shqipëtare",AL: BB VIP Kosova 2 ᶠᴴᴰ
 http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/80223
-#EXTINF:-1 tvg-id="" tvg-name="AL: KTV ⁴ᴷ" tvg-logo="https://i.imgur.com/vjZhvuL.jpg" group-title="Shqipëtare",AL: KTV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/39295
-#EXTINF:-1 tvg-id="KTV AL" tvg-name="AL: KTV ᶠᴴᴰ" tvg-logo="https://i.imgur.com/iKb6VEt.jpg" group-title="Shqipëtare",AL: KTV ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30129
-#EXTINF:-1 tvg-id="Kanal 10" tvg-name="AL: Kanal 10 ⁴ᴷ" tvg-logo="https://i.imgur.com/aE33PyV.jpg" group-title="Shqipëtare",AL: Kanal 10 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30170
-#EXTINF:-1 tvg-id="Kanal 10" tvg-name="AL: Kanal 10 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/aE33PyV.jpg" group-title="Shqipëtare",AL: Kanal 10 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/50432
-#EXTINF:-1 tvg-id="ATV" tvg-name="AL: ATV ⁴ᴷ" tvg-logo="https://i.imgur.com/XnxUiyL.jpg" group-title="Shqipëtare",AL: ATV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/50624
-#EXTINF:-1 tvg-id="T 7" tvg-name="AL: T7 ⁴ᴷ" tvg-logo="https://i.imgur.com/EZjFNq2.jpg" group-title="Shqipëtare",AL: T7 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/13940
-#EXTINF:-1 tvg-id="T 7" tvg-name="AL: T7 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/EZjFNq2.jpg" group-title="Shqipëtare",AL: T7 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30866
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTV 21 ⁴ᴷ" tvg-logo="https://i.imgur.com/NKil2eW.jpg" group-title="Shqipëtare",AL: RTV 21 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30130
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/MmVOV9S.jpg" group-title="Shqipëtare",AL: RTV 21 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/35957
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedonia ⁴ᴷ" tvg-logo="https://i.imgur.com/0XAleiJ.jpg" group-title="Shqipëtare",AL: RTV 21 Maqedonia ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30138
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedonia ᶠᴴᴰ" tvg-logo="https://i.imgur.com/0XAleiJ.jpg" group-title="Shqipëtare",AL: RTV 21 Maqedonia ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/53497
-#EXTINF:-1 tvg-id="TV Dukagjini AL" tvg-name="AL: RTV Dukagjini ⁴ᴷ" tvg-logo="https://i.imgur.com/7vilFJ6.jpg" group-title="Shqipëtare",AL: RTV Dukagjini ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30133
-#EXTINF:-1 tvg-id="TV Dukagjini AL" tvg-name="AL: RTV Dukagjini ᶠᴴᴰ" tvg-logo="https://i.imgur.com/wZpiNVe.jpg" group-title="Shqipëtare",AL: RTV Dukagjini ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43836
-#EXTINF:-1 tvg-id="Top Channel" tvg-name="AL: Top Channel ⁴ᴷ" tvg-logo="https://i.imgur.com/xBTiCXa.jpg" group-title="Shqipëtare",AL: Top Channel ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/52422
-#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel ᶠᴴᴰ" tvg-logo="https://i.imgur.com/xBTiCXa.jpg" group-title="Shqipëtare",AL: Top Channel ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30137
-#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat M ⁴ᴷ" tvg-logo="https://i.imgur.com/eGAjha0.jpg" group-title="Shqipëtare",AL: Alsat M ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30140
-#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat M ᶠᴴᴰ" tvg-logo="https://i.imgur.com/3ujt3JR.jpg" group-title="Shqipëtare",AL: Alsat M ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/39562
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë 1 ⁴ᴷ" tvg-logo="https://i.imgur.com/Fmubrj0.jpg" group-title="Shqipëtare",AL: Tëvë 1 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/71605
-#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="AL: TV Klan ⁴ᴷ" tvg-logo="https://i.imgur.com/sDbiuzQ.jpg" group-title="Shqipëtare",AL: TV Klan ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/38374
-#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="AL: TV Klan ᶠᴴᴰ" tvg-logo="https://i.imgur.com/sDbiuzQ.jpg" group-title="Shqipëtare",AL: TV Klan ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/25129
-#EXTINF:-1 tvg-id="Klan Plus" tvg-name="AL: Klan Plus ⁴ᴷ" tvg-logo="https://i.imgur.com/XL3lxMK.jpg" group-title="Shqipëtare",AL: Klan Plus ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30143
-#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus ⁴ᴷ" tvg-logo="https://i.imgur.com/jEVR9EM.jpg" group-title="Shqipëtare",AL: Vizion Plus ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30152
-#EXTINF:-1 tvg-id="Klan Macedonia" tvg-name="AL: Klan Macedonia ᶠᴴᴰ" tvg-logo="https://i.imgur.com/1G4PGsa.jpg" group-title="Shqipëtare",AL: Klan Macedonia ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/25523
-#EXTINF:-1 tvg-id="ABC News" tvg-name="AL: ABC News ⁴ᴷ" tvg-logo="https://i.imgur.com/us6xZfY.jpg" group-title="Lajme News 24h",AL: ABC News ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/843
-#EXTINF:-1 tvg-id="Ora News" tvg-name="AL: RTV Ora ᶠᴴᴰ" tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Shqipëtare",AL: RTV Ora ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/5868
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV ⁴ᴷ" tvg-logo="https://i.imgur.com/xCxGuFz.jpg" group-title="Shqipëtare",AL: Syri TV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/32718
-#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel ᶠᴴᴰ" tvg-logo="https://i.imgur.com/xaq3fsY.jpg" group-title="Shqipëtare",AL: Istogu Channel ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63500
-#EXTINF:-1 tvg-id="RTSH 1" tvg-name="AL: RTSH Satelit ᶠᴴᴰ" tvg-logo="https://i.imgur.com/NQY4k48.jpg" group-title="Shqipëtare",AL: RTSH Satelit ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/39446
-#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTSH 1 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/McNT7A8.jpg" group-title="Shqipëtare",AL: RTSH 1 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/3451
-#EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="AL: RTSH 2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/oz6JOEA.jpg" group-title="Shqipëtare",AL: RTSH 2 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/10912
-#EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTSH 3 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/Z5RGrH3.jpg" group-title="Shqipëtare",AL: RTSH 3 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/11182
-#EXTINF:-1 tvg-id="RTSH 24" tvg-name="AL: RTSH 24 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/eSXLuLt.jpg" group-title="Shqipëtare",AL: RTSH 24 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/10975
-#EXTINF:-1 tvg-id="RTSH Film" tvg-name="AL: RTSH Film ᶠᴴᴰ" tvg-logo="https://i.imgur.com/CGrPyVg.jpg" group-title="Shqipëtare",AL: RTSH Film ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/10809
-#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="AL: RTSH Plus ᶠᴴᴰ" tvg-logo="https://i.imgur.com/gB8vwGZ.jpg" group-title="Shqipëtare",AL: RTSH Plus ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/14989
-#EXTINF:-1 tvg-id="RTSH Shqip" tvg-name="AL: RTSH Shqip ᶠᴴᴰ" tvg-logo="https://i.imgur.com/GnCPBwR.jpg" group-title="Shqipëtare",AL: RTSH Shqip ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/9535
-#EXTINF:-1 tvg-id="RTSH Muzike" tvg-name="AL: RTSH Muzikë ᶠᴴᴰ" tvg-logo="https://i.imgur.com/hlasbl0.jpg" group-title="Shqipëtare",AL: RTSH Muzikë ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/12483
-#EXTINF:-1 tvg-id="RTSH Shkolle" tvg-name="AL: RTSH Shkollë ᶠᴴᴰ" tvg-logo="https://i.imgur.com/lLcEIat.jpg" group-title="Shqipëtare",AL: RTSH Shkollë ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43693
-#EXTINF:-1 tvg-id="RTSH Kukesi AL" tvg-name="AL: RTSH Kukësi ᶠᴴᴰ" tvg-logo="https://i.imgur.com/f2UcObf.jpg" group-title="Shqipëtare",AL: RTSH Kukësi ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43696
-#EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-name="AL: RTSH Gjirokastra ᶠᴴᴰ" tvg-logo="https://i.imgur.com/uuUZlDZ.jpg" group-title="Shqipëtare",AL: RTSH Gjirokastra ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43695
-#EXTINF:-1 tvg-id="" tvg-name="AL:  TV BERATI ᴴᴰ" tvg-logo="https://i.imgur.com/7KVJhAy.jpg" group-title="Shqipëtare",AL:  TV BERATI ᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/79993
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tropoja Tv ᶠᴴᴰ" tvg-logo="https://i.imgur.com/nsq9P9F.jpg" group-title="Shqipëtare",AL: Tropoja Tv ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/68038
-#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vision ᶠᴴᴰ" tvg-logo="https://i.imgur.com/rYEfFMy.jpg" group-title="Shqipëtare",AL: Syri Vision ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1325
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Presheva ᶠᴴᴰ" tvg-logo="https://i.imgur.com/sMolcBG.jpg" group-title="Shqipëtare",AL: RTV Presheva ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/45113
-#EXTINF:-1 tvg-id="RTM2" tvg-name="AL: RTM2 ᶠᴴᴰ" tvg-logo="https://i.imgur.com/YmVirtB.jpg" group-title="Shqipëtare",AL: RTM2 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/4701
-#EXTINF:-1 tvg-id="Koha TV" tvg-name="AL: TV Koha ᶠᴴᴰ" tvg-logo="https://i.imgur.com/a1SN64a.jpg" group-title="Shqipëtare",AL: TV Koha ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1182
-#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel  ᶠᴴᴰ" tvg-logo="https://i.imgur.com/SMZ2cIG.jpg" group-title="Shqipëtare",AL: First Channel  ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/944
-#EXTINF:-1 tvg-id="" tvg-name="AL: Bujanovci Tv ⁴ᴷ" tvg-logo="https://i.imgur.com/8a6HOQ1.jpg" group-title="Shqipëtare",AL: Bujanovci Tv ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/77268
-#EXTINF:-1 tvg-id="" tvg-name="AL: Era Tv ᶠᴴᴰ" tvg-logo="https://i.imgur.com/6L40Jm6.jpg" group-title="Shqipëtare",AL: Era Tv ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/12811
-#EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr TV ⁴ᴷ" tvg-logo="https://i.imgur.com/9DvJnoS.jpg" group-title="Shqipëtare",AL: Zjarr TV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/53223
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Ulqini ᶠᴴᴰ" tvg-logo="https://i.imgur.com/DPhs1Jt.jpg" group-title="Shqipëtare",AL: TV Ulqini ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/50701
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica ᶠᴴᴰ" tvg-logo="https://i.imgur.com/RGYVmoK.jpg" group-title="Shqipëtare",AL: TV Mitrovica ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1326
-#EXTINF:-1 tvg-id="" tvg-name="AL: Star+ Shkodra ᶠᴴᴰ" tvg-logo="https://i.imgur.com/kfTf9mC.jpg" group-title="Shqipëtare",AL: Star+ Shkodra ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/3852
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Kopliku ᶠᴴᴰ" tvg-logo="https://i.imgur.com/PVTtiV1.jpg" group-title="Shqipëtare",AL: TV Kopliku ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26419
-#EXTINF:-1 tvg-id="" tvg-name="AL: APOLLON TV" tvg-logo="https://i.imgur.com/e75Xcsm.jpg" group-title="Shqipëtare",AL: APOLLON TV
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30969
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tv Pollogu ᶠᴴᴰ" tvg-logo="https://i.imgur.com/MTtt6kd.jpg" group-title="Shqipëtare",AL: Tv Pollogu ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/6037
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Tema Ferizaj ᶠᴴᴰ" tvg-logo="https://i.imgur.com/wJxwbTh.jpg" group-title="Shqipëtare",AL: TV Tema Ferizaj ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/13126
-#EXTINF:-1 tvg-id="" tvg-name="AL: Start Tv ᶠᴴᴰ" tvg-logo="https://i.imgur.com/CPSA7Zl.jpg" group-title="Shqipëtare",AL: Start Tv ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/26915
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Malisheva ᶠᴴᴰ" tvg-logo="https://i.imgur.com/SC8JSsl.jpg" group-title="Shqipëtare",AL: RTV Malisheva ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/37079
-#EXTINF:-1 tvg-id="Arta HD" tvg-name="AL: Arta News ᶠᴴᴰ" tvg-logo="https://i.imgur.com/a0snaAg.jpg" group-title="Lajme News 24h",AL: Arta News ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1178
-#EXTINF:-1 tvg-id="Top News" tvg-name="AL: Top News ⁴ᴷ" tvg-logo="https://i.imgur.com/stnOIiD.jpg" group-title="Lajme News 24h",AL: Top News ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/4673
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan News ᶠᴴᴰ" tvg-logo="https://i.imgur.com/1XpSRH4.jpg" group-title="Lajme News 24h",AL: Klan News ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/51768
-#EXTINF:-1 tvg-id="News 24" tvg-name="AL: News 24 ⁴ᴷ" tvg-logo="https://i.imgur.com/ZYHID9p.jpg" group-title="Lajme News 24h",AL: News 24 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30169
-#EXTINF:-1 tvg-id="News 24" tvg-name="AL: News 24  ᶠᴴᴰ" tvg-logo="https://i.imgur.com/ZYHID9p.jpg" group-title="Lajme News 24h",AL: News 24  ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/3452
-#EXTINF:-1 tvg-id="" tvg-name="AL: ADN HD" tvg-logo="https://i.imgur.com/0jRsIMw.jpg" group-title="Lajme News 24h",AL: ADN HD
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/80421
-#EXTINF:-1 tvg-id="Report TV" tvg-name="AL: Report TV ⁴ᴷ" tvg-logo="https://i.imgur.com/5SeKjW4.jpg" group-title="Lajme News 24h",AL: Report TV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1461
-#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN ⁴ᴷ" tvg-logo="https://i.imgur.com/vDwd4ZG.jpg" group-title="Lajme News 24h",AL: A2 CNN ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/11347
-#EXTINF:-1 tvg-id="Ora News" tvg-name="AL: ORA News ᶠᴴᴰ" tvg-logo="https://i.imgur.com/X56qJh0.jpg" group-title="Lajme News 24h",AL: ORA News ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1001
-#EXTINF:-1 tvg-id="EuroNews Albania" tvg-name="AL: Euronews ⁴ᴷ" tvg-logo="https://i.imgur.com/c7WGway.jpg" group-title="Lajme News 24h",AL: Euronews ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/27158
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: Fax News ᶠᴴᴰ" tvg-logo="https://i.imgur.com/tXKLw9K.jpg" group-title="Lajme News 24h",AL: Fax News ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/9533
-#EXTINF:-1 tvg-id="Kanali 7" tvg-name="AL: Kanali 7 News ᶠᴴᴰ" tvg-logo="https://i.imgur.com/SFsk9jF.jpg" group-title="Lajme News 24h",AL: Kanali 7 News ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/961
-#EXTINF:-1 tvg-id="" tvg-name="AL: Scan TV ⁴ᴷ" tvg-logo="https://i.imgur.com/TPxgKVE.jpg" group-title="Lajme News 24h",AL: Scan TV ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/5822
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tv1 Shkoder ᶠᴴᴰ" tvg-logo="https://i.imgur.com/cfl627e.jpg" group-title="Shqipëtare",AL: Tv1 Shkoder ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/68768
-#EXTINF:-1 tvg-id="" tvg-name="AL: Panorma TV ᶠᴴᴰ" tvg-logo="https://i.imgur.com/KxM6y85.jpg" group-title="Shqipëtare",AL: Panorma TV ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/78731
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 1 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30158
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 1 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30081
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 2 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30159
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 2 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30080
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 3 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30160
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 3 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30079
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://i.imgur.com/bbjjutV.jpg" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 4 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63207
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://i.imgur.com/zkuyx3n.jpg" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 5 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63208
-#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://i.imgur.com/gtDMTle.jpg" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 6 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/63209
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/43729
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ᶠᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/1146
+#EXTINF:-1 tvg-id="Junior" tvg-name="AL: Junior TV" tvg-logo="http://falcon.ac:5000/images/juniortv.png" group-title="**** Albania Fëmijët ****",AL: Junior TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/924
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kids" tvg-logo="http://tv.kabllor.net/logo/Tring%20Kids.png" group-title="**** Albania Fëmijët ****",AL: Kids
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/11845
+#EXTINF:-1 tvg-id="Tring Kids" tvg-name="AL: TV Rozafa Shkoder" tvg-logo="http://falcon.ac:5000/images/tringkids.png" group-title="**** Albania Music & Islame ****",AL: TV Rozafa Shkoder
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12771
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia TV" tvg-logo="http://falcon.ac:5000/images/sofia.png" group-title="**** Albania Fëmijët ****",AL: Sofia TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/888
+#EXTINF:-1 tvg-id="" tvg-name="AL: Comedy Central Extra" tvg-logo="http://falcon.ac:5000/images/disneychannel.png" group-title="**** Albania Film ****",AL: Comedy Central Extra
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/934
+#EXTINF:-1 tvg-id="" tvg-name="AL: TROPOJA TV" tvg-logo="" group-title="**** Albania Music & Islame ****",AL: TROPOJA TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/28693
+#EXTINF:-1 tvg-id="" tvg-name="AL: Disney Junior" tvg-logo="http://falcon.ac:5000/images/disneyjunior.png" group-title="**** Albania Fëmijët ****",AL: Disney Junior
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/28690
+#EXTINF:-1 tvg-id="" tvg-name="AL: Nick Toons" tvg-logo="http://falcon.ac:5000/images/nickjr.png" group-title="**** Albania Fëmijët ****",AL: Nick Toons
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/28686
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATD HD" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: ATD HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/28685
+#EXTINF:-1 tvg-id="Tring Kids" tvg-name="AL: Tring Kids" tvg-logo="http://falcon.ac:5000/images/tringkids.png" group-title="**** Albania Fëmijët ****",AL: Tring Kids
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/28692
+#EXTINF:-1 tvg-id="" tvg-name="AL: BOIN TV" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: BOIN TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53852
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="AL: Boomerang" tvg-logo="http://falcon.ac:5000/images/boomerang.png" group-title="**** Albania Fëmijët ****",AL: Boomerang
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74946
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Fëmijët ****",AL: Filma24 Animuar FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134271
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134477
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 2 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134478
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 3 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134479
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Animuar 4 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134480
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Tom and Jerry HD" tvg-logo="http://falcon.ac:5000/images/tomandjerry.png" group-title="**** Albania Fëmijët ****",AL: EB Tom and Jerry HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/143115
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Cocomelon FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Cocomelon FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134471
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Baby Bus FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Baby Bus FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134472
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Diana Show FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Diana Show FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134473
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Masha and the Bear FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Masha and the Bear FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134474
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Super Simple Songs FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Super Simple Songs FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134475
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Vlada&Niki FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="**** Albania Fëmijët ****",AL: EB Kids Vlada&Niki FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134476
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Kids 2" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: Tëvë Kids 2
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187505
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Kids 1" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: Tëvë Kids 1
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187504
+#EXTINF:-1 tvg-id="" tvg-name="AL: Masha dhe Ariu HD" tvg-logo="" group-title="**** Albania Fëmijët ****",AL: Masha dhe Ariu HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/135732
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="AL: Tip TV" tvg-logo="http://falcon.ac:5000/images/tiptv.png" group-title="**** Albania Fëmijët ****",AL: Tip TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/886
+#EXTINF:-1 tvg-id="Smile" tvg-name="AL: Smile TV" tvg-logo="http://falcon.ac:5000/images/smile.png" group-title="**** Albania Fëmijët ****",AL: Smile TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/889
+#EXTINF:-1 tvg-id="Cufo TV" tvg-name="AL: Cufo TV" tvg-logo="http://falcon.ac:5000/images/cufo.png" group-title="**** Albania Fëmijët ****",AL: Cufo TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/922
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="AL: Bang Bang" tvg-logo="http://falcon.ac:5000/images/bangbang.png" group-title="**** Albania Fëmijët ****",AL: Bang Bang
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/923
+#EXTINF:-1 tvg-id="21 Junior" tvg-name="AL: RTV21 Junior FHD" tvg-logo="http://falcon.ac:5000/images/21junior.png" group-title="**** Albania Fëmijët ****",AL: RTV21 Junior FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/1616
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pikaboo" tvg-logo="http://falcon.ac:5000/images/pikaboo.png" group-title="**** Albania Fëmijët ****",AL: Pikaboo
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/64266
+#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring" tvg-logo="http://falcon.ac:5000/images/tringtring.png" group-title="**** Albania Fëmijët ****",AL: Tring Tring
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/870
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Masha & Bear  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Fëmijët ****",AL: L-Star Masha & Bear  HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187834
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femije" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Fëmijët ****",AL: Netflix Femije
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94486
 #EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport1.png" group-title="**** Vip Sports ****",Arena Sport 1 FHD SR
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/833
 #EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2 FHD SR" tvg-logo="http://falcon.ac:5000/images/exyu/arenasport2.png" group-title="**** Vip Sports ****",Arena Sport 2 FHD SR
