@@ -428,6 +428,1991 @@ http://smarters.link:80/RtMM2QrZq97/d2STOS55/99872
 http://smarters.link:80/RtMM2QrZq97/d2STOS55/22813
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg" group-title="Live: Albania",SuperSport 6 FHD AL
 http://smarters.link:80/RtMM2QrZq97/d2STOS55/22812
+#EXTM3U
+#EXTINF:0,Big Brother VIP Kosova 1 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lRhl3tHWrUXkPKWgSrN9LOU
+#EXTINF:0,Big Brother VIP Kosova 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lRtbhfqBbQRAuSh3z58ZKvY
+#EXTINF:0,Big Brother VIP Kosova 2 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lTj5Fi-UNL18HXk6tVoHPia
+#EXTINF:0,Big Brother VIP Kosova 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV2_68ko8UeskFhyJ4b2Z0FG
+#EXTINF:0,TV Shqiponja
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDS5O-lwcbk4cIVmAuJMTww
+#EXTINF:0,Shqiponja Popullore
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO4KILnsDez1K6Vbgug1XaQ
+#EXTINF:0,Shqiponja Muzikë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAiAvb2nEwbe35gtjfelqmY
+#EXTINF:0,Shqiponja Çifteli
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF9HuEYBORKdtzcOMhQ9XtM
+#EXTINF:0,Shqiponja Humor 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB0vNqGtT-yRtvEpSIbCyT8
+#EXTINF:0,Shqiponja Humor 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDsU1K07Ig4nUHhpNVAzP2o
+#EXTINF:0,Shqiponja Humor 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJmq71mXceg8HHCGGiAKYSk
+#EXTINF:0,Shqiponja Fëmijë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEAhWm8v_KOGsNMqqHa9alk
+#EXTINF:0,Shqiponja Animuar
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA8ti-4zfQkfBi2PjbooDjM
+#EXTINF:0,Shqiponja Kuzhinë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDypdO6a8nXgT9rAcDkyHV8
+#EXTINF:0,Shqiponja Doku
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHuN6E-TNVaxrTGVglwjaWE
+#EXTINF:0,Shqiponja Film
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKHS19zh6XnNIYt2U7vzdto
+#EXTINF:0,Shqiponja Kino 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI2-Fv1_hs-udxj2uvBK23A
+#EXTINF:0,Shqiponja Aksion
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP3UOB_3iftpwxQAgFcp8iI
+#EXTINF:0,Shqiponja Dramë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKBsjBV3-IGg124_JMn-1jg
+#EXTINF:0,Shqiponja Horror
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCSKDLFO7U7qh_tda4IAUyg
+#EXTINF:0,Shqiponja Thriller
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMafNwu_Wa-K4hmPKOGG_W0
+#EXTINF:0,Shqiponja Islam
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpITpKSLG7832cHuwUdidjuw
+#EXTINF:0,Shqiponja Ilahi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAHRp7jYGqeHM0MbtOTlvkM
+#EXTINF:0,Shqiponja Kuran
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNp8rqtH_FXFYxBtjWWP8Ok
+#EXTINF:0,TV Shqiponja FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDRXXYBlC3edSUCF05-scQw
+#EXTINF:0,TV Shqiponja
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpENItcQKAdpmNW5SsJGs_fo
+#EXTINF:0,Top Channel FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFp6AGl8Q7dgY3knrOvXrQw
+#EXTINF:0,Top Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBTvuITfIkjEoez9gpUkEzo
+#EXTINF:0,Klan FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP550b4hF9PlF1reuzsARdU
+#EXTINF:0,Klan
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPx9lmQigXbhUu4c46mpdhs
+#EXTINF:0,Klan Kosova FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAg1KjtJon0Ep5XoRYVNNEc
+#EXTINF:0,Klan Kosova
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGgEs-IKtc87pIKb81DZ1sQ
+#EXTINF:0,Alsat M FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAiXZEzlsVm-AHETyjXJ_6s
+#EXTINF:0,Alsat M
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNXplsKMSKqpqCcbvqQxFrw
+#EXTINF:0,RTK 1 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMy2i-jb140e47f1UOqf-FY
+#EXTINF:0,RTK 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEQfLTybSVZcUN-1VJ1mF1k
+#EXTINF:0,RTK 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGYffEB0nyluP_SNvRq14kM
+#EXTINF:0,RTK 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCiDWan2RTrblh9HjW2fNGU
+#EXTINF:0,RTK 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDnBPOoGqdXIOvVZaDxLpQY
+#EXTINF:0,RTV 21 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJrgA--C-eEu1mrGIMfj6Tk
+#EXTINF:0,RTV 21
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEoxiZh-woTgXX-WQDAauUU
+#EXTINF:0,KTV FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDKQvUCQeuOuICwKRsBxrJ0
+#EXTINF:0,KTV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA1bf4p3INCtc95Vfy-dNHQ
+#EXTINF:0,ATV FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5Il8qKegKPoZSuANAQZdw
+#EXTINF:0,ATV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCMJLJMdFKP-7S8z7hi4bIU
+#EXTINF:0,T7 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAesvcOGAfI-2UNdnhohqNs
+#EXTINF:0,T7
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLJ0AjjmvofDD0Ze_XDu-EU
+#EXTINF:0,Tëvë1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBNmc3MmItsYre-UgfuqYhk
+#EXTINF:0,PRO1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNShAgxs2cAyUw8Hv9Up5KI
+#EXTINF:0,DTV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG0B9zu4uFTqaX0cgB7GC6I
+#EXTINF:0,TV Dukagjini FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGL9Mb96LKHeIzaCv0vlSZI
+#EXTINF:0,TV Dukagjini
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDTE4PG2CHb1mwhUogC_kHU
+#EXTINF:0,Kanal 10 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCzygrg3QF5DVjsUuBZ220g
+#EXTINF:0,Kanal 10
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM7VJdG5rgRzFkcAebtvwEE
+#EXTINF:0,Klan Plus FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ2agza-PHFPkRsYu9RYc8w
+#EXTINF:0,Klan Plus
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA7jBCZwXGgMe9WCPWZJi1Y
+#EXTINF:0,Vizion Plus
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKQcZgm9CVHopa6N3ojS6jI
+#EXTINF:0,Syri TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGckM0avIDkVvlmufwt8aCk
+#EXTINF:0,Syri Vision
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAAAEEmqLpEg4gjBpH3-Kr4
+#EXTINF:0,First Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIr466Uv5WKiTNBJFntomFo
+#EXTINF:0,RTV Fontana
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHsXX3hUNzkLXLz7M57ZUUk
+#EXTINF:0,Istogu Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN5Zuj6Rezsf6BnV6IvFvPtW4PhqGlk_4iX11jlLBZF5
+#EXTINF:0,TV LLAPI
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB7KxC_yi4zlpRlWlKek7c0
+#EXTINF:0,Kanal D Drama FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBNkALTGOObvvKX5Qevf3A8
+#EXTINF:0,Kanal D Drama
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPDyFD8aH4X0duBOmXrMIHE
+#EXTINF:0,Tring Turkish Stories
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIarANCC-o88eJkjswQ21aQ
+#EXTINF:0,Tring Novelas
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFzz0FTgWIABs-5QfWNR4sCca3QkmvTc4ACedq8zMGnK
+#EXTINF:0,Tring Series
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMrs7s_hPMCyc_cVeBc9Lg37mjuAC2SqwnRp4UHneM-e
+#EXTINF:0,Tring 3+
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPQD-JoBc_J8eDwAWC-4pjE
+#EXTINF:0,TDC
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDz06_hMfpCQXPzmCClN5N8
+#EXTINF:0,21 Mix
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCquFKr6xA_JniPNGT5c4g4j
+#EXTINF:0,MTV 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHkq6CSNeC_3r12H5PkxASk
+#EXTINF:0,RTV 21 Macedonia
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAZ7RhL4kyKs2BYykuhaWhI
+#EXTINF:0,Klan Macedonia
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJgyz57qjSmfL0sIdJIJLSc
+#EXTINF:0,TV Shenja
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHW_XArHmZ5cguQhnhKUST0
+#EXTINF:0,TV Era
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNhMwe_gbGSDRV9eCn3ZWmo
+#EXTINF:0,TV Koha
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLSW9Hf0IQ93-Xt0PiCArdM
+#EXTINF:0,TV2 Gostivar
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEONdrGyvun_N3H75Itkybg
+#EXTINF:0,TV Uskana
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOChjCzqVpuDzh7AWjlQqlg
+#EXTINF:0,TV Dielli
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEJmyLJx4iIqIIixkGGDFLk
+#EXTINF:0,TV Besa
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGbA5DLCkrw4hO2fHHsOpZ4
+#EXTINF:0,TV Tema
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGaXhXit_Epo9Qs_RFpZSy4
+#EXTINF:0,TV Mitrovica
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL2n6nijVGiHd7gRVkg-49c
+#EXTINF:0,ATD TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCp6RJw50kkhqV1zhPMPpIF2
+#EXTINF:0,ALPO TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHzNCCAySna5A0Gzj1mh9tc
+#EXTINF:0,Nasa Live
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG50yHlaLIrUSVF6486eq6ymeUd_I2_ixTYtynW3Dcdv
+#EXTINF:0,Earth TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFaKx_g_UZ44s1J-_SbQ-76NZApZlz-4x3VXQ5O2a2cm
+#EXTINF:0,MCN24
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEnwoH7ucBXhfm4pPuiXtq8
+#EXTINF:0,RTSH 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK7B7ZSo-TbFENOPm2k2D7Y
+#EXTINF:0,RTSH 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB1RtT6W4OmuL1Jd2DLu7h0
+#EXTINF:0,RTSH 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDKH6azZgZG_t5QeQqhiYvM
+#EXTINF:0,RTSH Shqip
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNPRnf_vU47xsXmuZxJyyG4
+#EXTINF:0,RTSH Plus
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDA5EPKtnU11nObw535ymzw
+#EXTINF:0,RTSH 24
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKImVHn-4qwUdMHWeTFWzZE
+#EXTINF:0,RTSH Agro
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFlhP6punapfK-gMxjvaAmY
+#EXTINF:0,RTSH Kuvend
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFeSMBjoCMoN9wwGQhR1zOU
+#EXTINF:0,RTSH Kukesi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDRvA02hyCAWQIsfid-nhMY
+#EXTINF:0,RTSH Gjirokastra
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHOOFf30Puzhhbm3GW3P9Hw
+#EXTINF:0,RTSH Shkodra
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAVCa61HvdTdo6h6oZa4Obs
+#EXTINF:0,RTSH Korca
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP0s64xtJCNX-Q6J_0EpwU8
+#EXTINF:0,Korça +
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5LTsDs3vfbq-o-l6AWkdM
+#EXTINF:0,Star Plus
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOkMko1Pc0HUAvjbGUpqs1E
+#EXTINF:0,TV7 Albania
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJmd7-pLv1t7VRGZQ6K8DcE
+#EXTINF:0,24 Kitchen
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCpsxZ_52UtK224Wyg4QrvlI
+#EXTINF:0,Shqiponja Popullore
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDZe_HebGLKl7PX7lLSjeTvNb_MdNLI24XUkWBbR0zEi
+#EXTINF:0,Shqiponja Muzikë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOqlA_DE8kqPp-exi3yifqNl2BgQ0Y2q4cU7R3ItqaJD
+#EXTINF:0,Shqiponja Çifteli
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJhGq3ybQRAX-tYwwk2LNvIKj9aK8IUeH0WuCdhJYptV
+#EXTINF:0,X Music Hits
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNryEPeuAsfBldAeCCZ106od-TdBLTsIGrHNgid4_-xF
+#EXTINF:0,X Popullore
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEibTfRjpgQeA2_WFHtaDDZIGIHrEViHL-xZAQqaVPiq
+#EXTINF:0,X Cifteli
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHGcEQYuJoSaiDNafiNWW4VbK9DvFptygXBQhEtYmRea
+#EXTINF:0,RTV Fontana
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLIVW6uQWtMKOmlEx0Npu08p90Scs3AJcxeolb21u0-g
+#EXTINF:0,RTV 21 Popullore
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK0xy6O2I0z3lBeZid69MVAOEmCH9a93z6o0lMQUESLM
+#EXTINF:0,RTV 21 Plus
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOsIuzeZnSP-Hnqgv3G4QW7dQiWBXYMT-6qSiaMa20wj
+#EXTINF:0,ALB USA
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNjOLn2GbarZD3jPnQpx4nlAsHEPscz7QTV-e6wmKVnt
+#EXTINF:0,Alb UK
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEXPYMjonNuu40Vm3RoGDYk
+#EXTINF:0,TV Dielli
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpErFz6XJWPRanKvQ3A3NT2iLJ055SPOfOyvwxrrBl3hv
+#EXTINF:0,Zico TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKNEok1BXmhfYhG4iFT7ycl-b9x6N-OMUY2AQ0yCFeHV
+#EXTINF:0,ARTI TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJTCLOwMrZq1XUJtwaRea1PXo2DFQX-FXaKjO_3BeMl_
+#EXTINF:0,Top Estrada
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHKZz6OQbz3UF-HUDCTQd5HWTQ4rNESJ9MNPglV3-ldl
+#EXTINF:0,MTV Kosova
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOQJut-WwHOSL3UEzVdtOBfMTxpCo1zOGWJnrUbxKf5_
+#EXTINF:0,MFM Music
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLyQUMqReevaABDLRHSlK7rrwWZlxaUdtgSyJIcSvpAA
+#EXTINF:0,BBF Music
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOodywliuwdiU7nG2J5T-6mf7cC7n8NbH8DMSwLqKY1J
+#EXTINF:0,Klan Music
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCj2V9BxeQmoSQ1H0POklQIWyZvSbzl8S5C0XctuxerP
+#EXTINF:0,My Music
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOviJnXbn8OTfeQLaEEkW900oX9W-0LtzXdBOkKSmjPw
+#EXTINF:0,Shota TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5_fUCQkcc_zsar3qJtQ94kjmQo_-0BPTyZp8wqT8zH
+#EXTINF:0,Elrodi TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpORSp7oLdb--wsVB6QSqksTUij2iYHRt_ew1mNMYBWDr
+#EXTINF:0,TV Sharri
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAu2G7s5yg7ezbnFe3Xb0ckKoXclVznEY9ejDCnIAvSI
+#EXTINF:0,TV Flutura
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA41Lye-Izg6rLHHSMuPXgRJATdpZeeJWBYxNelmm29_
+#EXTINF:0,Folk +
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJaCZk0WKvpSE19AN5lg4FMu6ZYmqk5T-KJQWE2d8mo2
+#EXTINF:0,SuperSonic
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI_xa0ETniK-dxpHFt0lk9CPzDTrhKZOeD5PYROogd-6
+#EXTINF:0,Turbo Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM3vhp7dktTY8coKNculb0zrIu75US_yWQsHuest39dv
+#EXTINF:0,Shqiponja Humor 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKzMMGoOWPAih9hZwVelTvBLUJNshWmOWKtPg_oz8dOG
+#EXTINF:0,Shqiponja Humor 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJJGZJwiUVr4CoP1c0Nf4J5EWW91g2yPb-oID6O_H263
+#EXTINF:0,Shqiponja Humor 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOrzLtGhOxn3yaDpBXbVHLUwb1HNiJVocg3536rIYCAL
+#EXTINF:0,X Humor
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCc-hSl3M7pTAv9pzPuWibTSlpukHQ4H-NQVdS17KiLd
+#EXTINF:0,X Stupcat
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHvRcJj1afD-etNZnWjsXMauQ3ww6zSEhGYCxxrti9wQ
+#EXTINF:0,X Kafeneja Jone
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEPALumtFZoEfh0MwhgxxylDbgzood9WD4W8iMTOeD7b
+#EXTINF:0,X Cka Ka Shpija
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNfexnb3LQLnPIOoBg449AI96saG26jWHOk4Ey2YA2ca
+#EXTINF:0,X O sa mirë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBi6OBIo_P8En5ml9qVpr46XXXQb9i0fgZwytDbIeRCp
+#EXTINF:0,X 2XL
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK8w6LkBZo9vB4-ut9PvZ6mL2jw5gRSirCmsjQuFKJ4i
+#EXTINF:0,Euronews.AL
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH83_1rbFYD4fCXnWEbuAwM
+#EXTINF:0,Syri TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIkAti2EonQ5VgtaowLNBMp3dccOBBxhfZVARq0FYFqX
+#EXTINF:0,Top News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCbqREf345r1klFKgjOE_4w
+#EXTINF:0,Klan News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHfxI8lX_5wD8zBXMnD--dA
+#EXTINF:0,Arta News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIxMX25Z0GzcKH-_1DRUG1g
+#EXTINF:0,Ora News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMmNLsRJ4kLFQrOG5F2139tyY6J75kWBH3uORh3yUVQk
+#EXTINF:0,ABC News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQwQa1SxEv_Hd_REPhpXTLFDsEhmn7Bq8vNmGnsst3G
+#EXTINF:0,Fax News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHH90BTxvvmX7dLqs_CoCWJLFFrCRF2oGyy9zkObwhpz
+#EXTINF:0,Apollon News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHSae8cKD1lOuQhuULbxOk3PcebEMaB9cZmng90KoWLT
+#EXTINF:0,News 24
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKcDS1kz-nxfPgYXB97cTsex57ppfTgMrQ38MdB1fa90
+#EXTINF:0,A2 CNN
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPMW1-BJsrsPf0IGjZ9Ib1viK2xlt9tIVdkz6tNs58Co
+#EXTINF:0,Report TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNVcIUjuF59sIVrVr0JIYO02iSG766QACoBRUTLLgwWl
+#EXTINF:0,Kanali 7
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJxR0x5tamb8IwEMPLImVGmVSg-jh1KEAf1J7GIaZbxL
+#EXTINF:0,CNA
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF50enwgLyv9arLEDkk6j7nysse7_y7_CZ8PhJZjRtSd
+#EXTINF:0,Scan TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEtMSa_ZBmadRszoTSS5neguyK8t6QISbrxxks4MBGFA
+#EXTINF:0,DW Deutsch
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCqqfcod8Vgq46iVTnNtl3i_
+#EXTINF:0,Shqiponja Doku
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOLtXJIRxlT9zm6bdnAMgUnMjOtbmjxevfcmluEYnkK1
+#EXTINF:0,Exp Shkencë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEpC8iHMJ5hbSQbLnQr0vZ34EAKXnR6FSmuuefnsueRR
+#EXTINF:0,Exp Natyra
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDwDAIYDC2C6kEt_Nm7emYRGdFCF8pUHhySMidcBwwqu
+#EXTINF:0,Exp Histori
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH0FsTevM-jZ1V0CfexMMgLudhYGRoowIyeY8DJUgHlD
+#EXTINF:0,X Shkenca
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFmLf_8-vpL01W8GwcXaSQGhcdpzyTQBKWkY0neneD-r
+#EXTINF:0,X Natyra
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG8kY7we_ZRiEisTtDkR4ns4kzxMo9MsaqcwTM_YJVpy
+#EXTINF:0,X Histori
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFLTxMgL-L1kKM-KPZJJIcK981AVvmTfrlOdLPtS8iZh
+#EXTINF:0,Tring World
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK5gT0a1Kqq9HrzYMFg3uFQIs82yXJ0I7KPpj2uzLcU1
+#EXTINF:0,Tring Planet
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDaSDqw419MS_tMWhKAkRM8VeOoq0hbvg0pBsqVcFrf-
+#EXTINF:0,Tring History
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJnXHIj8e_yIDmErNYOFN5HJC82880fJ6AtOl_gRliUr
+#EXTINF:0,Tring Muse
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOx91omBySFZJ_oI0OWSPD6rCICRM4zq6IAk1gnBN5I2
+#EXTINF:0,Tring Living
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHjlNBgITD1ZvQNolLWbF9XpgjF34zkHJhNOGCLov-Qv
+#EXTINF:0,Art Doku 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPnpPh2HZz-T-NjnqQZ_LLcAWziDyQtbyM2R7JOfNwVx
+#EXTINF:0,Art Doku 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPy_VnzPtwnqD4FEz_hibQIAz9yqC5dR-Zx-ERaAymnH
+#EXTINF:0,tëvë Doku 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLFafSJy0w-VROSd5QaMT1DVR__W1sBwNuJkQH9bIhCd
+#EXTINF:0,tëvë Doku 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCqs4YQdFv3m7m50ujRelxG5kLK8OCf-J3ZH4uyVlbt0
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGA1C5LBFe7T7_4lwnW-3hUpvIIjdIj0mK2hFuMx110I
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFmsQzSazDtycum8c3sWE-waYrlVABK8d6Wq2CShjCzs
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ3kMeQtbz_VfnZ0Amp07nE0
+#EXTINF:0,National Geographic Wild
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYX_4dXfucMdRn_Ac1mIIg0Y
+#EXTINF:0,National Geographic
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AtVYn2dKtZxgN1NtPbn-k3Y
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLMFlsZ-KKvAb7TOWjhi_cC
+#EXTINF:0,History Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u2euCqhg18MEJlVsLMPZEwe
+#EXTINF:0,Al Jazeera English
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV2iZ0ru1QZ2pZBbQznkkk5z
+#EXTINF:0,ID
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIt5ZqbIeBjFCNTy52dzBCffam7MNLLwnmuRVWS2pUs7
+#EXTINF:0,Shqiponja Fëmije
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL2YtOQhrVrYoVv9c0PbfA9uGY1Dl35gy0gQmt0gK0lt
+#EXTINF:0,Shqiponja Animuar
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PszrxqxpOf7b2uOcCgI-YCFb
+#EXTINF:0,Tring Tring
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQoXbngZmjY083xsfov2PbVrHTURZZbj5zV6sGsmMNk
+#EXTINF:0,Tring Kids
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZB5BpfJzSZeyQDOTzXSAZuV
+#EXTINF:0,Tring Original
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFWZX6QrnmyavvFzR0dly7m3Ntk4-UEE5XIUmHrS-Mpf
+#EXTINF:0,Prince Kids
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkQDgViokdwQPeeocRN78Ws
+#EXTINF:0,Cufo TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO9yDY0yh2ObY-87V5USKKLGpWewV9jjVMq7Q7GkOT1S
+#EXTINF:0,Tao Tao
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHAIfo_Izi_S65EzPGYrM23heCqBWqsnKZ7aGqji5EtC
+#EXTINF:0,Sofia
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOYKNLKfSa_z_ZhWMUBdPjIWAFsZzaImdobicZCfkqy3
+#EXTINF:0,BabyTV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOPc39OSoZ5JFMMWu0VjrMzOV_fz1vNzizIHr2ojEeeR
+#EXTINF:0,Tip TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN9N3yNmTs1yl5k2maneo8J9Cxio6RFzIwnMmVasms1B
+#EXTINF:0,Duck TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPWTftTSSyBOT5R8L7gMYA4VnJalfk5Ei8d6oLXihHz4
+#EXTINF:0,X Kids
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB5XrcJNdfF5yuweuV2Lc7T1KJM631yqB_JEhF1KMgjq
+#EXTINF:0,tëvë Kids 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKOTKjD6QdVYCjbgpkxa0yTJRmzTYrWj9XTJcRj0vDBR
+#EXTINF:0,Bang Bang
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCrG5EfYEr6__G7-oZmikGbF
+#EXTINF:0,Boomerang
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV1nju9GvXGQNV8SfBHmrxxb
+#EXTINF:0,Tom & Jerry
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNz-Cusm3hqGMCNK94KAOQSd4wWcgLxwyf2edBLOE7it
+#EXTINF:0,RTSH Shkolle
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHWfW_rQz6M8Znx2c1iIuH9ipFAN9imajLyqHE-s4Iij
+#EXTINF:0,RTSH Femije
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMSUtqx9wGb6Ajldhkg61x1ffX4-B-34sodufr_CAyqT
+#EXTINF:0,RTV 21 Junior
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIzn1hB1QD8irPlm10mu4-XCKm2mguCKM67NYNxcjxX-
+#EXTINF:0,Carton Network
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lQ-BUJHiRql1xKL2Y3Pph1z
+#EXTINF:0,Bubble
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFkK9Pkt5yMEajYM2q8uoi1ZY_iGghMDAOMJ4TwPcOCC
+#EXTINF:0,tëvë Kids 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK53XhuDHbzTZGThQVBAbKmeB59k1B7T5QquK_P2rSmU
+#EXTINF:0,Pikaboo
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIqUolD7ubChF_46l0rIQ8mihzXYeoaVcROcwPYjfmWt
+#EXTINF:0,Shqiponja Islam
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpODryh1C49Qur1c3FN6pYs0DMYmA8WNzXzTBoOAG86Q6
+#EXTINF:0,Shqiponja Ilahi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI1w-0wpolak8PjSEFn8UQomAuuteSKN5Uk8MWPVdcnp
+#EXTINF:0,Shqiponja Kuran
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKI9_cg8MQ6AqKicnMbL4GkqlGFiwjkhiJPk4-ZCLhJh
+#EXTINF:0,RTV Pendimi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEjDDL2XH-BCazwYvnLEwlM_3rzjag-eIL9raIRfjSlV
+#EXTINF:0,RTV Islam
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB4p1ICTJ1AMyRjjLN_X8TNrr4MGH3N-PinMOew5Kf1S
+#EXTINF:0,RTI
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD-_JeMLfhDpkokZyV-D4DrvIhdZcNH6uhLsBP2pmvAT
+#EXTINF:0,Peace TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMBkJPbTGWSSvKFH9yDQcNKFBsNk2xwmlaYfXDV36WRH
+#EXTINF:0,Mekka Live
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDz5SQDQ2BQtoWRTEBOmW9YgxiHsgFh8cQG763z8Fo2o
+#EXTINF:0,Medina Live
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDfwB_GmeV6JXZxvHtWcRNmkHnx-3b1KdgQxFI3hTZZD
+#EXTINF:0,TV Opoja
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPQJ80Yl3QxB8DoJCBm5r0_4_fBn4aEqXcwEiinExCZg
+#EXTINF:0,RTV Elkalem
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZCr_5VYH4zpldLWi-SGGHXO
+#EXTINF:0,Xhamia e Tabakeve
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCGczVjB7KeXuJ5KZGZ1QuWRhq93UF7nk4CnaULVB6f7
+#EXTINF:0,Saudi Islam
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZA_pND14VaOZktO6n3Pj5Vx
+#EXTINF:0,Quran TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV0gmLwKyWO1dRant2Z2FY2Z
+#EXTINF:0,Islam Channel TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV03QGFESmR9Q3dW4dc9eJbO
+#EXTINF:0,Shqiponja Film
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMxr9_qNpFHm6Iq-0wmmAs10A3l3o8BQlBksGBDnU3I9
+#EXTINF:0,Shqiponja Kino 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAdMkFvEfJ8dF-Kjv5L5Hdwopl3n1q1E2HNUbR9NcHrk
+#EXTINF:0,Shqiponja Aksion
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpACMF23LrxpbKhYfV9gmDkFKA57pr9RxW9e2vRJxelch
+#EXTINF:0,Shqiponja Thriller
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKor87YiaNk5kA0odzghXGQPe_yXvN0pY5po3wv7flzm
+#EXTINF:0,Shqiponja Dramë
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBfFrSXjPri0kuAXlddxy0-9G4f_R23hQl4ThE5MHewW
+#EXTINF:0,Shqiponja Horror
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFFRV3GNgNjErnTJvAiHe25JT87Uxrqu4Efk-A7rUxAQ
+#EXTINF:0,Cine 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHjSkwheHrHgtGE5BoK9eqSQBiVQ7NmC2QvxNnL0SX6j
+#EXTINF:0,Cine 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFfq6n5311zilm0ni7fyzVS7P-jiQL2-CTRKHG3FK2I-
+#EXTINF:0,Cine 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpId5f39sJXot6h142cB--0GsK8tF_LskAjXYBJm0v7gl
+#EXTINF:0,Cine 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLFW73WMqeyS4FWmDtTvUfb3EUJzNJ9WjVkpuRmCFN6
+#EXTINF:0,Gold
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCvMO2gGlLsbKRhxyx_Vi8yBr0nDDCvqoAY8iaqf67YB
+#EXTINF:0,Gold 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOcLl-DT_Y9bERZ2H4L-dsI9Ls3Ma_mQDvglVD8VqaSn
+#EXTINF:0,Gold 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL7gYxmtxwvqG2l86igga1capE8Bhc4_JgilPWOZ1u6I
+#EXTINF:0,Gold 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM5QKogKawKqfzouGyJjBxRMBWmRDdgx3Kqg7EgCHcms
+#EXTINF:0,Gold 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOnN1FRXisoIRX-hizV3MDrHGeoY3tWcD5LLGtw6TVOa
+#EXTINF:0,Premiere 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHmzIMcsqTN-rg21yYI6bYGRSDt8J0-vcSgnq2EzxzJi
+#EXTINF:0,Premiere 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKacZUaAdhkKEMCeq6wugb4jbEf6UZNwgVeHs1z0R5yF
+#EXTINF:0,Premiere 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDu-PgXw_hL-6kmQU0jsTuW8glOtfLK9Ab9y7eTPRVs6
+#EXTINF:0,Premiere 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFxFsaB4IfCwrabrnqyQOswuL3ZCIB2YDT-zgE4cushc
+#EXTINF:0,Filma24
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOHu-tk3sy57SmypKiPMRajnmYjY4DdVpTiKxdBmXC0k
+#EXTINF:0,Privat Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHwEbVyuWYvI4o7BgzIjCW37dvyhTRIgD1VikRVLBzz2
+#EXTINF:0,Action
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM5wYRfkmNcRqECJ2DatPu4bXpfGuqp7PpZ-6mqtmx2d
+#EXTINF:0,Thriller
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFdn375CjcBXzNTRj177YJCpj_oz1m7yjNhrOIjoP-hH
+#EXTINF:0,Sci-Fi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGNLoSRYDy_-8V5ND37yEsflDDBwD5NUhAUUrawF0CUL
+#EXTINF:0,Comedy
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF5ejZaj5jhSc97B86K-FY1pngjCPx2bgdWzCwN98cE8
+#EXTINF:0,Romance
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJvdv5IEqx52tFrmCcg39kArQTumjL4kN89gdYOLgt_h
+#EXTINF:0,Drama
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPu3yBwvNwkn606ai_aWuRWY7EwaBtRL0f4gXAphiUFn
+#EXTINF:0,Dark
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGop9vKHCGWG9KZkTaxPuzcEsTwWfflYARo5olLDiveV
+#EXTINF:0,Western
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIUh2Bv5ZpMHGpdKFLTTx57-1FrCQ8jeoC9jWiqLCw7U
+#EXTINF:0,Family
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCFiE6j88SV34Mmh7TY9NvBcGbDWO5slunoVFPnY0I6s
+#EXTINF:0,Art Kino 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDGkWht9qpngt6lfHU-LAdL9E7ZsfwX7DVPyDOGsFpb6
+#EXTINF:0,Art Kino 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJRZi2nEfPTRCLoWDThk-DnTZAX7ZoFqnwSDcE0ZFJ42
+#EXTINF:0,Art Kino 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFC0Q4EDbHstX-ZsGogMm0FVErts7u7dg771mljA3-Ol
+#EXTINF:0,Film Gold
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFTHoP3aBL8D2iIcMfNyxVszcItGDanFcCsFDFoH8U4-
+#EXTINF:0,Film Max
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF27j-wvDDZ26bLJP_fEicqtOCVLOBCFC_yzTZ_DyijR
+#EXTINF:0,Film Aksion
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAYDN9b_J-KxF93xENzEX3tQxrQ_y4oJtAJyT7ci5tcI
+#EXTINF:0,Film Hits
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHbdribcy9chkZflU4b8BADkNh1T9Hn2c3pNfb5cuRFV
+#EXTINF:0,Film Thriller
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBYspEoFCTiEZudLHblLnCGLVb78ODavjFzCwRX-xI8C
+#EXTINF:0,Film Autor
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJqfS0rJLEJxYONs09-AxIRP57mtBXpl5AU8itlswwIN
+#EXTINF:0,Film Drame
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDUueKZSOfErAZ2Hc62a1B0ZVJvBESqcRTQzobIQ_nul
+#EXTINF:0,Film Komedi
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHrc7Wb9D0GjKO8aCCrjyUpqmm4ENCtqJBgDnZKc2FyT
+#EXTINF:0,Euro Film
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAazz_9wSgptC5H2wbtcJ-uWu9RK6CpoLje45rGNzFVq
+#EXTINF:0,Film Stinet
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGihWrlPyrHdUWBMT3IleHEWQYSQAZsItiddLGCF5vdL
+#EXTINF:0,Film Family
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO6QxVdiRcEmZUSxFH0qQi__gWAQUcFs-2vyU2iqE2os
+#EXTINF:0,Film T
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCNgQEDe2fpdw2vWQrvQAon1yBENvJIKbxsjwBbYpqcu
+#EXTINF:0,Tring Action
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDDy1-VETA4jQhIZPQd1h5pfDdw4NGxeMxCLQxcWJPGn
+#EXTINF:0,Tring Super
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGdDJ_UaT_x-iu7YLPRkEf7WYUR4h_mmFnuKJIWwOw41
+#EXTINF:0,Tring Collection
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNMRJgtr_UQiOdxgOuSnOe1uU11vzpaUqYF5u6kmX4RP
+#EXTINF:0,Tring Comedy
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHNLpB8aJWVS4JuKKnjZWsjcl-rNWG9W426acDaxlUj3
+#EXTINF:0,Tring Fantasy
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAkKuV8_bSbI7BnESVJJMASpot6oCFnegy3TVDTqCuvO
+#EXTINF:0,Tring Family
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNk40TaUOuW0x04TOjVE90t7aCF-QrLbghoQcSjNrFuc
+#EXTINF:0,Tring Classic
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBePOcVlLKEo4jP-f1KUIXIYUWD9tX2WSeXa3gTXEf02
+#EXTINF:0,Tring Life
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG1U4jWt4PQBKSg8vEM1P90tbkaDB3dfS7CK0ntEWKbg
+#EXTINF:0,Tring Shqip
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNi42iUvEZTlQeptWgAwJHdkIg9nwncWlAfNtktwVJ74
+#EXTINF:0,Tring Smile
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJPgIXtQBPlyLitRCrA35XeZuokQpEf1UNAMqG-XzTmD
+#EXTINF:0,Super Sport 1 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGcXUnWD4i7g62-5EW-dFRXpSvhsN6Knpc1YIXwob9Ve
+#EXTINF:0,Super Sport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDu6r4vDu0iLHh7CPdgJ6Zj2U8YNy7w7IAZpJXJlZvJN
+#EXTINF:0,Super Sport 2 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHg3EytT2rVaeMTDEFIHi4sKMf_RDvxdQMse-PICfYl2
+#EXTINF:0,Super Sport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJhYA0GmTD4Icmz_xgRqARqwd8pgZxMRFXO4XHtn79zy
+#EXTINF:0,Super Sport 3 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD_PCW4PAXpKJ5bGvsEa_tLlhLu73h0S9m08B6Zdg48o
+#EXTINF:0,Super Sport 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAZSf6Nq4_9HO0zNZhzqQ7QdgWy1nbwNLHDXhhgmRYs7
+#EXTINF:0,Super Sport 4 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI0b_57JqtsRkBPza3dJAp-9Dfh3VLO-kpf2H_6ELxwU
+#EXTINF:0,Super Sport 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHuYlAqU4GEQlnCKRi4beWxzZ8YAylUJj2ygwUqXOl2o
+#EXTINF:0,Super Sport 5 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN2QSzw-xU7yLBfO1D-c2gw8ZJzG1HzTJunRDjHhqVkm
+#EXTINF:0,Super Sport 5
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEC9Les4S95gqdcmajGfceq5V0PxkbiRWLXRzeK8bpTl
+#EXTINF:0,Super Sport 6
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNLbenA9HGKOjpTdb3P-reVP5_woAau85zqb0VjNtkWN
+#EXTINF:0,Super Sport 7
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCqJh6bjpPM6h_IletV8MFdH
+#EXTINF:0,Art Sport 1 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMmE0qm9W-xjyioBaSlv7epqhmqDiKFX0RgoKo-5ghhI
+#EXTINF:0,Art Sport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDTrtWZNs8hXKwqtqxf4VDTRsHpQ3UfuB0tiRLlZZiN9
+#EXTINF:0,Art Sport 2 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNX1cT0UrKBSnpWCkMwIgixjFzT4aaENU7udGodayEyV
+#EXTINF:0,Art Sport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLPOCkA9I_TE9-aQARGOm1LaTHiawbfNN9Tz1Qjs3zH0
+#EXTINF:0,Art Sport 3 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpADtXTq-aXoDcPfVI0jl-UNLh9AYN50FgrblxC7fEmDq
+#EXTINF:0,Art Sport 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO_XIIejPUHF2ANrLT6jrMPzX_sMHoeLna8ojFGe7VdZ
+#EXTINF:0,Art Sport 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGbgTjQ-efEH5jjFhN0_Tui9aq08fCFQlXQuxMI2LoxA
+#EXTINF:0,Art Sport 5
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFTbIQFpGA8BUoi8ASwuKtVSVmnNKz-_ZWroXQyi2eSN
+#EXTINF:0,Art Sport 6
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEv0UEqTKjm1dQ0ipy66Mb6VCF0yk0Qab2zywIa_VRMm
+#EXTINF:0,Tring Sport News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG0Ij138JBXjbYi64eW9Q8y-oQegY5p2UrsRGwdx-msx
+#EXTINF:0,Tring Sport 1 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEJXl7xdVeJI9dhCrOEVDTvrB8hq8HpdPpbbSMQXyP3h
+#EXTINF:0,Tring Sport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJSbIoABY-W8lERE9wiR5cv2c2-_5gqkFjWUJ3zWCCVQ
+#EXTINF:0,Tring Sport 2 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCAjazQi3XEBrFtA2sot5EI8dCNQRRkG7DTg_QfpYRLS
+#EXTINF:0,Tring Sport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDQ2uOTsjQN5FMC6l3t5HCfYXPCNuepx31letoaasf-5
+#EXTINF:0,Tring Sport 3 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMsnKhi2oMME7KUtSc2s0DnBL1COCD4-Q3rfQ8i_WHTj
+#EXTINF:0,Tring Sport 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKO3uSuFZ8R3IRS_ruOUOONE6CL4MhxRxPM1W-IVzJ8g
+#EXTINF:0,Tring Sport 4 FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBQAf6LIR5HjxUn_339wDtPmUBqyVh6OkVeI0OfDBOQk
+#EXTINF:0,Tring Sport 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLiMOUoL-oD4N2Q28SFG0NTSJlNbW42FuoaQzenM-DGV
+#EXTINF:0,Oversport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMPchGN9vVyoKszpDNG0uQxzUw5ezcdA2twYPLtcznRF
+#EXTINF:0,Oversport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKBoGX_BpghEzPqnaN0gk0IPdtvTmI8pbPubWkcjpdzJ
+#EXTINF:0,Oversport 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHONby1rOrFgVqkmx7Es4VvAi-x9QhzLkPs3AmhyDwkX
+#EXTINF:0,Oversport 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHzgVVJmn9fhMt0iLV2pXHRaAVLq9FhQz4FYZ5-01IWY
+#EXTINF:0,Kujtesa Sport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpInquhZuLW4JcW83bWzQaVQ8g6IP9VDw96ljGXsin8dE
+#EXTINF:0,Kujtesa Sport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpImlzBDW-BBOcXYzaGlhYZ0iIJD6cMnhcLXtFCqkCODS
+#EXTINF:0,Kujtesa Sport 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBrjwuaDrobFgAsawwQDIWR_z_b9rhou9hMbtKHup-Wh
+#EXTINF:0,Kujtesa Sport 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDgMAVnnU8-JWFgVnPiEbz82jxXU5Z7PTbxBC7GTodOh
+#EXTINF:0,RTSH Sport FHD
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPwogsoFtq2MPv5yhj3W1n1so8DcShwiH_L6gPJ0jTjs
+#EXTINF:0,RTSH Sport
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMGHWTAopmw8n4CRMKy2yc8EAej1Kb5BH-ecl0g6ccZW
+#EXTINF:0,Euro Sport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH2PZ-jnUadmn6DRAInP9p22O0H_cLwNtCaIpCM8IcCU
+#EXTINF:0,Euro Sport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIecbpwy1uMH8SF3wjAl09a8-AWD_GKPcn3BGCzt9Zvg
+#EXTINF:0,Arena Sport 1 Premium
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ0Y7WD2Jnc0mpqlqRVI67m_
+#EXTINF:0,Arena Sport 2 Premium
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ1VEMhLaOr0zeQQfJ-GOAh7
+#EXTINF:0,Arena Sport 3 Premium
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ2uqzaqBTBSpw51kaSA99un
+#EXTINF:0,PREMIER SPORTS 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GlPJrq6O-pnRfwsf9RIuV0e
+#EXTINF:0,PREMIER SPORTS 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7Gmf8kHRoN4KdAc1x_n_dw9h
+#EXTINF:0,TNT Sports 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYW3o9wLdc5aktFXs2_ugZw_
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYUvcDtNdtJRX1NBUf-kqltt
+#EXTINF:0,TNT Sports 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYWSU1cyJmGvHgGpNQ0IcTLN
+#EXTINF:0,TNT Sports 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYVIKyaz_adj8CZUICrDoAyI
+#EXTINF:0,Sky Sports Premier League
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYU-RAYdur1_-R4KDp0EKhGR
+#EXTINF:0,Sky Sports Football
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYXsQPGloUZ4uSOnKuIXkBjT
+#EXTINF:0,Sky Sports Main Event
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TI0mcJdWYfuEMCHRqwqV9MH
+#EXTINF:0,Sky Sports F1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TIrUQdP555drubNb8RbKLZt
+#EXTINF:0,Sky Sports MotoGP
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKZFJUokNz1DoLUSxolL5ew
+#EXTINF:0,Sky Sports Arena
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLACT6R7WwNI1rWXMRZkVpi
+#EXTINF:0,Sky Sports Mix
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKLQeyKc-3_Qr9fHA-fj-fg
+#EXTINF:0,Sky Sports Golf
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLNBfw0HoZ9Nq0tggrwVtN8
+#EXTINF:0,Sky Sports Racing
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TJiDYipWRymGUQRMA1K3ELs
+#EXTINF:0,Sky Sports Cricket
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TJX-dbuOv_4q33r1MQ5zE0M
+#EXTINF:0,Sky Sport Action
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFWZX6QrnmyavvFzR0dly7nXRGbq9KOifJ-EUZRU0e9q
+#EXTINF:0,Sky Sports News
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKG7NrGbkXaiwF_VNDE6417
+#EXTINF:0,SuperSport PremierLeague
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLwYrpz69Q0Q68_na7abyOQ
+#EXTINF:0,SuperSport Football
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u2GJ2sDtxpErDv74V4ULfRP
+#EXTINF:0,British Eurosport 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3QVKf6Lt9-AnVD-x1979CR
+#EXTINF:0,British Eurosport 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3l2ERvhrUiHqqfLsVq6Fm5
+#EXTINF:0,beIN Sports 1 English
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYXYXa_SYGbqkdL1xnXF37cD
+#EXTINF:0,beIN Sports 2 English
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYUTzVCDkSw6rbZDozZfG_qD
+#EXTINF:0,DAZN 1 UK
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u0JYhYoRjbbHSQ2-XwK2HlW
+#EXTINF:0,SSC SPORTS 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkueXe5Nik4AogEfrLeoQm2
+#EXTINF:0,SSC SPORTS 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmpY3oTFMB1yonCQat3k6Kw
+#EXTINF:0,SSC SPORTS 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GnIOnrxKoG6Ua6Bg1LAsoBS
+#EXTINF:0,SSC SPORTS 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkjcIHAWiOsDxBLX3rxOXlt
+#EXTINF:0,SSC SPORTS 5
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7Gk68ZjGNEwAhiXnut3XuVLI
+#EXTINF:0,SSC EXTRA 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkXgOciglUF0FP-NQgZEPOd
+#EXTINF:0,SSC EXTRA 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmII5DCLpJB1ZEvVC9dnNCL
+#EXTINF:0,SSC EXTRA 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmQ_IDbDDVHZsRRE26s3U-o
+#EXTINF:0,beIN Sports Premium 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ3DRSh_-AleHLITds0KbpTI
+#EXTINF:0,beIN Sports Premium 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AslI9udWQg713sZHXwVdP2j
+#EXTINF:0,beIN Sports Premium 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AsGVjDmTsnUeGYiLtMRDHXJ
+#EXTINF:0,beIN Sports Arabia 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AvSU52uqv4lvLAcKC03lF1M
+#EXTINF:0,beIN Sports Arabia 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Au6sCNIka2wPcVMiyrTxbT6
+#EXTINF:0,beIN Sports Arabia 3
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AubbCg78d381Gx_VaOhHtRy
+#EXTINF:0,beIN Sports Arabia 4
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Av9gnmAR0-tuZx3QVONrSBg
+#EXTINF:0,beIN Sports Arabia 5
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2As4LJ-l30pez6aRIde9hLUR
+#EXTINF:0,beIN Sports Arabia 6
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Athj-kJe8mDYE0FIAGAgDmu
+#EXTINF:0,beIN Sports Arabia 7
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AsMXndlp_8SHzodA1OBIrO2
+#EXTINF:0,beIN Sports Arabia 8
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Av8WQW85wPNseI2lYJa4HCh
+#EXTINF:0,beIN Sports Arabia 9
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYWcHgWtwiJW3OL0eTEP0yCy
+#EXTINF:0,beIN Sports Arabia 10
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYVGgjUVxtKGp_w89_HygrdC
+#EXTINF:0,ABU DHABI SPORTS 1
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PszD6yZ1o7GLRRAXYqlHBVes
+#EXTINF:0,ABU DHABI SPORTS 2
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PsxSUe1my7c0dzrm-NfVa6j-
+#EXTINF:0,UFC FIGHT PASS
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3BD0Yfu6i45TfQSV3s_gi6
+#EXTINF:0,Fight Channel
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3z3DSAUKEc0e_9xtJp_Tj_
+#EXTINF:0,NBA Live TV
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQoXbngZmjY083xsfov2PaTJkCKDlU-V3uRn29dLMco
+#EXTINF:0,Box Nation
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZBmiWsXssRGpOrpPEU4yvaT
+#EXTINF:0,TNT Sports Box Office
+#EXTVLCOPT:input-slave=
+#EXTVLCOPT:file-caching=1000
+http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIt5ZqbIeBjFCNTy52dzBCeSbUDyZ_LhjRN4HUFA1KBv
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB SHPK Nazi FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB SHPK Nazi FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/143111
+#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="AL: Jolly HD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/896
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus" tvg-logo="http://falcon.ac:5000/images/alb/tring3plus.png" group-title="**** Albania Seriale ****",AL: Tring 3 Plus
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/884
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale Turke FHD" tvg-logo="http://falcon.ac:5000/images/tdc.png" group-title="**** Albania Seriale ****",AL: TDC Seriale Turke FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53846
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramafhd.png" group-title="**** Albania Seriale ****",AL: Kanal D Drama FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4624
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus HD" tvg-logo="http://falcon.ac:5000/images/alb/tring3plushd.png" group-title="**** Albania Seriale ****",AL: Tring 3 Plus HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/883
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series HD" tvg-logo="http://tv.kabllor.net/logo/tring_jolly_hd.png" group-title="**** Albania Seriale ****",AL: Tring Series HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/161557
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRG COLLECTION HD" tvg-logo="" group-title="**** Albania Seriale ****",AL: TRG COLLECTION HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/163453
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama HD" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramahd.png" group-title="**** Albania Seriale ****",AL: Kanal D Drama HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/78700
+#EXTINF:-1 tvg-id="Novelas" tvg-name="AL: Tring Novelas FHD" tvg-logo="http://falcon.ac:5000/images/alb/TringNovelas.png" group-title="**** Albania Seriale ****",AL: Tring Novelas FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146011
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Jolly FHD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89687
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Prime FHD" tvg-logo="http://falcon.ac:5000/images/artprime.png" group-title="**** Albania Shqipëtare ****",AL: Art Prime FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4627
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode HD" tvg-logo="http://falcon.ac:5000/images/alb/episodehd.png" group-title="**** Albania Seriale ****",AL: Episode HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38560
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode FHD" tvg-logo="http://falcon.ac:5000/images/alb/episodefhd.png" group-title="**** Albania Seriale ****",AL: Episode FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/91079
+#EXTINF:-1 tvg-id="Film Thriller" tvg-name="AL: Film Thriller" tvg-logo="http://falcon.ac:5000/images/filmthriller.png" group-title="**** Albania Film ****",AL: Film Thriller
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/930
+#EXTINF:-1 tvg-id="Film Komedi" tvg-name="AL: Film Komedi" tvg-logo="http://falcon.ac:5000/images/filmkomedi.png" group-title="**** Albania Film ****",AL: Film Komedi
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/907
+#EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold HD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/931
+#EXTINF:-1 tvg-id="Max HD" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/932
+#EXTINF:-1 tvg-id="Film Drame" tvg-name="AL: Film Drame" tvg-logo="http://falcon.ac:5000/images/filmdrama.png" group-title="**** Albania Film ****",AL: Film Drame
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/928
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://falcon.ac:5000/images/filmautor.png" group-title="**** Albania Film ****",AL: Film Autor
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/929
+#EXTINF:-1 tvg-id="Stinet" tvg-name="AL: Stinet" tvg-logo="http://falcon.ac:5000/images/stinet.png" group-title="**** Albania Film ****",AL: Stinet
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/916
+#EXTINF:-1 tvg-id="Family HD" tvg-name="AL: Family HD" tvg-logo="http://falcon.ac:5000/images/family.png" group-title="**** Albania Film ****",AL: Family HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/11076
+#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="AL: Jolly HD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/896
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super FHD" tvg-logo="http://falcon.ac:5000/images/tringsuper.png" group-title="**** Albania Film ****",AL: Tring Super FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/871
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy" tvg-logo="http://falcon.ac:5000/images/tringfantasy.png" group-title="**** Albania Film ****",AL: Tring Fantasy
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/882
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy HD" tvg-logo="http://falcon.ac:5000/images/tringcomedy.png" group-title="**** Albania Film ****",AL: Tring Comedy HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/16061
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip" tvg-logo="http://falcon.ac:5000/images/tringshqip.png" group-title="**** Albania Film ****",AL: Tring Shqip
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/877
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life" tvg-logo="http://falcon.ac:5000/images/tringlife.png" group-title="**** Albania Film ****",AL: Tring Life
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/880
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 1 HD" tvg-logo="http://falcon.ac:5000/images/albmovie.png" group-title="**** Albania Film ****",AL: OneP. Prime 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4634
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 3 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 3 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/2056
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 2 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 2 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4636
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 1 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134264
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134265
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 3 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134266
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 4 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134267
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 5 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 5 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134268
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 6 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 6 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134269
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134262
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror 24 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror 24 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134263
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Action FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134270
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Animuar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Fëmijët ****",AL: Filma24 Animuar FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134271
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventur FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Aventur FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134272
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Biografi FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134273
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Drama FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134274
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Familjar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Familjar FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134275
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Fantasy FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134276
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Histori FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134277
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Komedi FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134278
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Krim FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134279
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Mister FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134280
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Netflix FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134281
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix 24 FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Netflix 24 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134282
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Romance FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134283
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Thriller FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Thriller FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134284
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144968
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144969
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144970
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144971
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 4 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Prime 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147081
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 2 FHD" tvg-logo="http://darkpower.art:8080/images/f41c849d883adcd86462f8a857b649a0.png" group-title="**** Albania Film ****",AL: Dark Prime 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147486
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 11 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 11 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147555
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 12 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 12 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147556
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 14 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 14 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147557
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 15 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 15 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147558
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 16 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 16 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147559
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 17 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 17 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147560
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 18 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 18 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147561
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89943
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Sci-Fi FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Sci-Fi FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89944
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89945
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Comedy FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Comedy FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89946
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Drama FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Drama FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89947
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Romance FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Romance FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89948
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Aktion FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Aktion FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89952
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Thriller FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Thriller FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89954
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Adventure FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Adventure FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89977
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Novela" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Novela
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187511
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Fantasy" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Fantasy
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187510
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Drame" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Drame
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187509
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Comedy" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Comedy
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187508
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Aksion
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187507
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Shqip
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187506
+#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring" tvg-logo="http://falcon.ac:5000/images/tringtring.png" group-title="**** Albania Fëmijët ****",AL: Tring Tring
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/870
+#EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold FHD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12247
+#EXTINF:-1 tvg-id="Max HD" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12246
+#EXTINF:-1 tvg-id="Film Hits" tvg-name="AL: Film Hits HD" tvg-logo="http://falcon.ac:5000/images/filmhits.png" group-title="**** Albania Film ****",AL: Film Hits HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/925
+#EXTINF:-1 tvg-id="Film Aksion" tvg-name="AL: Film Aksion HD" tvg-logo="http://falcon.ac:5000/images/filmaksion.png" group-title="**** Albania Film ****",AL: Film Aksion HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/906
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="AL: Fox Life" tvg-logo="http://falcon.ac:5000/images/alb/foxlifehd.png" group-title="**** Albania Film ****",AL: Fox Life
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/897
+#EXTINF:-1 tvg-id="FOX" tvg-name="AL: Fox HD" tvg-logo="http://falcon.ac:5000/images/alb/foxhd.png" group-title="**** Albania Film ****",AL: Fox HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/899
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOX Movies" tvg-logo="http://falcon.ac:5000/images/alb/foxmovies.png" group-title="**** Albania Film ****",AL: FOX Movies
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147079
+#EXTINF:-1 tvg-id="T HD" tvg-name="AL: T HD" tvg-logo="http://falcon.ac:5000/images/thd.png" group-title="**** Albania Film ****",AL: T HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/915
+#EXTINF:-1 tvg-id="INTV" tvg-name="AL: IN tv" tvg-logo="http://falcon.ac:5000/images/alb/intv.png" group-title="**** Albania Film ****",AL: IN tv
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147082
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38624
+#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: ACTV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101751
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Drame HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101752
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Komedi HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101753
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Thriller HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101754
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2 ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/artkino2.png" group-title="**** Albania Film ****",AL: Art Kino 2 ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38558
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3 ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/artkino3.png" group-title="**** Albania Film ****",AL: Art Kino 3 ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38559
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arti TV" tvg-logo="http://falcon.ac:5000/images/albmovie.png" group-title="**** Albania Film ****",AL: Arti TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4635
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cine 1" tvg-logo="http://falcon.ac:5000/images/alb/cinestartv1.png" group-title="**** Albania Film ****",AL: Cine 1
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146687
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cine 2" tvg-logo="http://falcon.ac:5000/images/alb/cinestartv2hd.png" group-title="**** Albania Film ****",AL: Cine 2
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146688
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/91081
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/6698
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146701
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144499
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146478
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144498
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 3 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146477
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 3 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144497
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/discoveryturboxtrahd.png" group-title="**** Albania Film ****",AL: Dark Gold 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146474
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 4 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144496
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Max GOLD 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Max GOLD 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144492
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Max Gold 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Max Gold 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89278
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/docuboxhd.png" group-title="**** Albania Film ****",AL: Dark Prime 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147485
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Special FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Special FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146476
+#EXTINF:-1 tvg-id="" tvg-name="AL: Doku 1 FHD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Doku 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38555
+#EXTINF:-1 tvg-id="" tvg-name="AL: Doku 2 FHD" tvg-logo="" group-title="**** Albania Lajme & Dokumentare ****",AL: Doku 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38556
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 2 HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film 2 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38622
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extream Premiere 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/epremiere3.png" group-title="**** Albania Film ****",AL: Extream Premiere 3 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144490
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Arthouse HD" tvg-logo="http://falcon.ac:5000/images/alb/filmboxarthousehd.png" group-title="**** Albania Film ****",AL: Filmbox Arthouse HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53848
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Extra FHD" tvg-logo="http://falcon.ac:5000/images/alb/filmboxextrahd.png" group-title="**** Albania Film ****",AL: Filmbox Extra FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53849
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: First TV" tvg-logo="http://falcon.ac:5000/images/first.png" group-title="**** Albania Film ****",AL: First TV
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/917
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime" tvg-logo="http://falcon.ac:5000/images/alb/foxcrimehd.png" group-title="**** Albania Film ****",AL: Fox Crime
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/898
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion MAX" tvg-logo="http://falcon.ac:5000/images/shqiptvfilm.png" group-title="**** Albania Film ****",AL: Kinema Aksion MAX
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75361
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="http://falcon.ac:5000/images/shqiptvjeta.png" group-title="**** Albania Film ****",AL: Kinema Family
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75357
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Fantasy" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Fantasy
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75355
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Gold
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75354
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/shqiptvhindi.png" group-title="**** Albania Film ****",AL: Kinema Max ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75360
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Premier ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Premier ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75359
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Republika" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Republika
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74845
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Shqip ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Shqip ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74843
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino 1 HD" tvg-logo="" group-title="**** Albania Film ****",AL: Kino 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187667
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star  Superman & Lois  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star  Superman & Lois  HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187829
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star  The Flash HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star  The Flash HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187837
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Dasma ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Music & Islame ****",AL: L-Star Dasma ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187825
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star El Chapo ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star El Chapo ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187836
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Fara e Flliqt FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Fara e Flliqt FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187821
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Film Shqip  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star Film Shqip  HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187819
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Halo HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Halo HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187828
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Hetuesia FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Hetuesia FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187822
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Kids ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Fëmijët ****",AL: L-Star Kids ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187835
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Humor HD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Humor HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187839
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star La Casa de Papel  HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star La Casa de Papel  HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187826
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Masha & Bear  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Fëmijët ****",AL: L-Star Masha & Bear  HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187834
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Mixha Bibe & Martin FHD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Mixha Bibe & Martin FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187823
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Music FHD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Music FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187840
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 1  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 1  ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187830
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 2 ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 2 ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187831
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 3  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 3  ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187832
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Parlamenti FHD" tvg-logo="https://i.imgur.com/YApqddJ.png" group-title="**** Albania Music & Islame ****",AL: L-Star Parlamenti FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187838
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Peacemaker HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Peacemaker HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187827
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 1 ᴴᴰ" tvg-logo="https://i.imgur.com/PMUUeOO.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 1 ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187817
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 2 ᴴᴰ" tvg-logo="https://i.imgur.com/3KlY9sm.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 2 ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187818
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popullore  ᴴᴰ" tvg-logo="https://i.imgur.com/ZKe9o2R.png" group-title="**** Albania Music & Islame ****",AL: L-Star Popullore  ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187816
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popullore FHD" tvg-logo="https://i.imgur.com/ZKe9o2R.png" group-title="**** Albania Music & Islame ****",AL: L-Star Popullore FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187833
+#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Qumili 2022 HD" tvg-logo="https://i.imgur.com/HZJxr0F.png" group-title="**** Albania Music & Islame ****",AL: L-Star Qumili 2022 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187824
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Aksion ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/1056220050920579152/1056221530062860398/20221224_154606_0000.png" group-title="**** Albania Film ****",AL: M Aksion ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192857
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Cinema ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976244231490404413/20220518_000538.png" group-title="**** Albania Film ****",AL: M Cinema ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192861
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Comedy ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/889950338851962900/20210921_210430.png" group-title="**** Albania Film ****",AL: M Comedy ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192865
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Epic ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976243578462412850/20220518_000312.png" group-title="**** Albania Film ****",AL: M Epic ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192863
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Film ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/773895800605638666/20201105_140526.png" group-title="**** Albania Film ****",AL: M Film ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192858
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Gold ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/939593589900599406/20220205_194828.png" group-title="**** Albania Film ****",AL: M Gold ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192859
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Horror ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/939593539816415312/20220205_194855.png" group-title="**** Albania Film ****",AL: M Horror ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192864
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Luftë ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976243403840974878/20220518_000237.png" group-title="**** Albania Film ****",AL: M Luftë ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192862
+#EXTINF:-1 tvg-id="" tvg-name="AL: M Max ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/939593572087373905/20220205_194840.png" group-title="**** Albania Film ****",AL: M Max ᴴᴰ
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192860
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aksion" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Aksion
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94480
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aventure" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Aventure
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94484
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Bud Spencer & Terence Hill" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Bud Spencer & Terence Hill
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94494
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Dwayne Johnson" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Dwayne Johnson
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94492
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Epik" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Epik
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94487
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantazi" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Fantazi
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94481
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femije" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Fëmijët ****",AL: Netflix Femije
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94486
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Horror
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94483
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Jackie Chan
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94490
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Komedi" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Komedi
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94482
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Relaks FHD" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Relaks FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94488
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Romance
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94485
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Spider-Man" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Spider-Man
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94489
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Sylvester Stallone" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Sylvester Stallone
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94493
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Van Damme" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Van Damme
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94491
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Aksion HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Aksion HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192841
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Best Of HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Best Of HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192839
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Classic HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Classic HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192844
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Collection HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Collection HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192840
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Extra HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Extra HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192836
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Family HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Family HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192845
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Filma Shqip HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Filma Shqip HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192847
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Horror HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Horror HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192846
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Komedi HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Komedi HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192843
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Netflix HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Netflix HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192838
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Premium HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Premium HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192837
+#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 4 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 4 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38623
+#EXTINF:-1 tvg-id="Digi Gold-AL" tvg-name="AL: Q  Premium 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Q  Premium 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4619
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Cine" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Cine
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74842
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Prime" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Prime
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/72198
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Stars
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/910
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="http://falcon.ac:5000/images/shqiptvakcion.png" group-title="**** Albania Film ****",AL: StatiON Stars
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/79037
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Top" tvg-logo="http://falcon.ac:5000/images/shqiptvwestern.png" group-title="**** Albania Film ****",AL: StatiON Top
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/20873
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone1.png" group-title="**** Albania Film ****",AL: TELE one 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65242
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone2.png" group-title="**** Albania Film ****",AL: TELE one 2 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65243
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone3.png" group-title="**** Albania Film ****",AL: TELE one 3 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65244
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone4.png" group-title="**** Albania Film ****",AL: TELE one 4 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65245
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 5 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone5.png" group-title="**** Albania Film ****",AL: TELE one 5 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89279
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 6 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone6.png" group-title="**** Albania Film ****",AL: TELE one 6 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89280
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aksion HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Aksion HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89271
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aventure HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Aventure HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89270
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Crime HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Crime HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89272
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Drama HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Drama HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89273
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Epik HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Epik HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89274
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one fantazi HD" tvg-logo="http://falcon.ac:5000/images/shqiptvhorror.png" group-title="**** Albania Film ****",AL: TELE one fantazi HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75358
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one GOLD Collection HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one GOLD Collection HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89277
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Action FHD" tvg-logo="http://falcon.ac:5000/images/tringaction.png" group-title="**** Albania Film ****",AL: Tring Action FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/879
+#EXTINF:-1 tvg-id="Tring Classic" tvg-name="AL: Tring Classics FHD" tvg-logo="http://falcon.ac:5000/images/tringclassic.png" group-title="**** Albania Film ****",AL: Tring Classics FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146014
+#EXTINF:-1 tvg-id="Tring Collection" tvg-name="AL: Tring Family HD" tvg-logo="http://falcon.ac:5000/images/alb/TringCollection.png" group-title="**** Albania Film ****",AL: Tring Family HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/142945
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1HD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5351
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/829
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2HD.png" group-title="**** Albania Sport ****",AL: Super Sport 2 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5352
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/830
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3HD.png" group-title="**** Albania Sport ****",AL: Super Sport 3 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5353
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/831
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4HD.png" group-title="**** Albania Sport ****",AL: Super Sport 4 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5354
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/832
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5HD.png" group-title="**** Albania Sport ****",AL: Super Sport 5 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/953
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 5 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/948
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport6HD.png" group-title="**** Albania Sport ****",AL: Super Sport 6 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5876
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport6FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 6 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/1130
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport7FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 7 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75473
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport1FHD.png" group-title="**** Albania Sport ****",AL: Sport 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187668
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="AL: Sport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport2FHD.png" group-title="**** Albania Sport ****",AL: Sport 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38553
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="AL: Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport3FHD.png" group-title="**** Albania Sport ****",AL: Sport 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38554
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="AL: Sport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport4FHD.png" group-title="**** Albania Sport ****",AL: Sport 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146532
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="AL: Sport 5 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Sport 5 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146533
+#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="AL: Sport 6 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Sport 6 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146534
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/tringsport1.png" group-title="**** Albania Sport ****",AL: Tring Sport 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/848
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/tringsport3.png" group-title="**** Albania Sport ****",AL: Tring Sport 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/874
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146265
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146266
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146267
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 4 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146268
+#EXTINF:-1 tvg-id="Kujtesa Sport 1" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/KSport1HD.png" group-title="**** Albania Sport ****",AL: Kujtesa Sport 1 HD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/1146
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa sport 5" tvg-logo="" group-title="**** Albania Sport ****",AL: Kujtesa sport 5
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192639
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 1 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147608
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova2FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 2 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147609
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova3FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 3 FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147610
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box FHD" tvg-logo="http://falcon.ac:5000/images/alb/fightboxhd.png" group-title="**** Albania Sport ****",AL: Fight Box FHD
+http://eurobest.top:5000/Gloria_tv/dFyMMnKb/887
 #EXTINF:-1 tvg-id="Eurosport 1-PL" tvg-name="Euro Sport 1 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport.png" group-title="**** Vip Sports ****",Euro Sport 1 FHD PL
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32356
 #EXTINF:-1 tvg-id="Eurosport 2-PL" tvg-name="Euro Sport 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport2.png" group-title="**** Vip Sports ****",Euro Sport 2 FHD PL
@@ -4157,5 +6142,237 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75881.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75882.ts
 #EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 3 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 3 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75883.ts
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ FILM & SERIJE ✦●✦" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,✦●✦ FILM & SERIJE ✦●✦
+http://client.nodomain.vip:80/live.ts?channelId=1117&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="ANDRIJA I ANDJELKA 24/7" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,ANDRIJA I ANDJELKA 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1867&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="LUD ZBUNJEN NORMALAN 24/7" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,LUD ZBUNJEN NORMALAN 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1866&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY ACTION" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY ACTION
+http://client.nodomain.vip:80/live.ts?channelId=2112&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY ADVENTURE" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY ADVENTURE
+http://client.nodomain.vip:80/live.ts?channelId=2113&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY COMEDY" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=2075&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY CRIME" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY CRIME
+http://client.nodomain.vip:80/live.ts?channelId=2114&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY DRAMA" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=2076&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY EXYU SERIES" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY EXYU SERIES
+http://client.nodomain.vip:80/live.ts?channelId=2118&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY FANTASY" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=2077&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY FILM" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY FILM
+http://client.nodomain.vip:80/live.ts?channelId=2082&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY HORROR" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY HORROR
+http://client.nodomain.vip:80/live.ts?channelId=2079&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY MARVEL UNIVERSE" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY MARVEL UNIVERSE
+http://client.nodomain.vip:80/live.ts?channelId=2124&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY MISTERY" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY MISTERY
+http://client.nodomain.vip:80/live.ts?channelId=2121&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY PREMIERE 4K" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY PREMIERE 4K
+http://client.nodomain.vip:80/live.ts?channelId=2219&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY PREMIERE 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=2110&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY PREMIERE 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=2111&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY ROMANCE" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY ROMANCE
+http://client.nodomain.vip:80/live.ts?channelId=2122&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY SERIES" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY SERIES
+http://client.nodomain.vip:80/live.ts?channelId=2119&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY SCI-FI" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY SCI-FI
+http://client.nodomain.vip:80/live.ts?channelId=2078&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY THRILLER" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY THRILLER
+http://client.nodomain.vip:80/live.ts?channelId=2083&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY WAR" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY WAR
+http://client.nodomain.vip:80/live.ts?channelId=2123&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN SKY WESTERN" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,BALKAN SKY WESTERN
+http://client.nodomain.vip:80/live.ts?channelId=2084&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="2009" tvg-name="GORA SELECT 1" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 1
+http://client.nodomain.vip:80/live.ts?channelId=2009&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 2
+http://client.nodomain.vip:80/live.ts?channelId=2010&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 3
+http://client.nodomain.vip:80/live.ts?channelId=2011&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 4
+http://client.nodomain.vip:80/live.ts?channelId=2012&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 5" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 5
+http://client.nodomain.vip:80/live.ts?channelId=2013&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 6" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 6
+http://client.nodomain.vip:80/live.ts?channelId=2014&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 7" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 7
+http://client.nodomain.vip:80/live.ts?channelId=2015&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 8" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 8
+http://client.nodomain.vip:80/live.ts?channelId=2016&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 9" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 9
+http://client.nodomain.vip:80/live.ts?channelId=2017&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA SELECT 10" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA SELECT 10
+http://client.nodomain.vip:80/live.ts?channelId=2018&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA PREMIERE 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=2019&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="GORA PREMIERE 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,GORA PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=2020&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1248" tvg-name="MAXCRO SELECT 1 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1248&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1249" tvg-name="MAXCRO SELECT 2 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1249&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 3  HD" tvg-name="MAXCRO SELECT 3 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1250&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 4  HD" tvg-name="MAXCRO SELECT 4 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1251&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 5  HD" tvg-name="MAXCRO SELECT 5 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1252&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 6  HD" tvg-name="MAXCRO SELECT 6 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 6 HD
+http://client.nodomain.vip:80/live.ts?channelId=1253&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 7  HD" tvg-name="MAXCRO SELECT 7 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 7 HD
+http://client.nodomain.vip:80/live.ts?channelId=1254&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 8  HD" tvg-name="MAXCRO SELECT 8 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 8 HD
+http://client.nodomain.vip:80/live.ts?channelId=1255&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 9  HD" tvg-name="MAXCRO SELECT 9 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 9 HD
+http://client.nodomain.vip:80/live.ts?channelId=1256&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 10  HD" tvg-name="MAXCRO SELECT 10 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 10 HD
+http://client.nodomain.vip:80/live.ts?channelId=1257&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="MAXCRO SELECT 11  HD" tvg-name="MAXCRO SELECT 11 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,MAXCRO SELECT 11 HD
+http://client.nodomain.vip:80/live.ts?channelId=1669&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP CINEMA 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP CINEMA 1
+http://client.nodomain.vip:80/live.ts?channelId=2233&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP CINEMA 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP CINEMA 2
+http://client.nodomain.vip:80/live.ts?channelId=2234&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP CINEMA 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP CINEMA 3
+http://client.nodomain.vip:80/live.ts?channelId=2235&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP CINEMA 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP CINEMA 4
+http://client.nodomain.vip:80/live.ts?channelId=2236&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP FILM 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP FILM 1
+http://client.nodomain.vip:80/live.ts?channelId=2237&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP FILM 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP FILM 2
+http://client.nodomain.vip:80/live.ts?channelId=2238&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP FILM 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP FILM 3
+http://client.nodomain.vip:80/live.ts?channelId=2239&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP FILM 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP FILM 4
+http://client.nodomain.vip:80/live.ts?channelId=2240&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP PREMIERE 1 EXYU" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP PREMIERE 1 EXYU
+http://client.nodomain.vip:80/live.ts?channelId=2241&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP PREMIERE 2 EXYU" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP PREMIERE 2 EXYU
+http://client.nodomain.vip:80/live.ts?channelId=2246&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP PREMIERE 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=2243&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP PREMIERE 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=2244&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP PREMIERE 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP PREMIERE 3
+http://client.nodomain.vip:80/live.ts?channelId=2245&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP SELECT 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP SELECT 1
+http://client.nodomain.vip:80/live.ts?channelId=2242&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP SELECT 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP SELECT 2
+http://client.nodomain.vip:80/live.ts?channelId=2247&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP SELECT 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP SELECT 3
+http://client.nodomain.vip:80/live.ts?channelId=2248&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP SELECT 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP SELECT 4
+http://client.nodomain.vip:80/live.ts?channelId=2249&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP MOVIES 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP MOVIES 1
+http://client.nodomain.vip:80/live.ts?channelId=2251&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP MOVIES 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP MOVIES 2
+http://client.nodomain.vip:80/live.ts?channelId=2252&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP MOVIES 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP MOVIES 3
+http://client.nodomain.vip:80/live.ts?channelId=2253&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP MOVIES 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP MOVIES 4
+http://client.nodomain.vip:80/live.ts?channelId=2254&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP NETFLIX 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP NETFLIX 1
+http://client.nodomain.vip:80/live.ts?channelId=2255&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP NETFLIX 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP NETFLIX 2
+http://client.nodomain.vip:80/live.ts?channelId=2256&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP NETFLIX 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP NETFLIX 3
+http://client.nodomain.vip:80/live.ts?channelId=2257&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP NETFLIX 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP NETFLIX 4
+http://client.nodomain.vip:80/live.ts?channelId=2258&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TOP CLASSIC 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TOP CLASSIC 1
+http://client.nodomain.vip:80/live.ts?channelId=2259&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TOP CLASSIC 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TOP CLASSIC 2
+http://client.nodomain.vip:80/live.ts?channelId=2260&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TOP CLASSIC 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TOP CLASSIC 3
+http://client.nodomain.vip:80/live.ts?channelId=2261&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TOP CLASSIC 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TOP CLASSIC 4
+http://client.nodomain.vip:80/live.ts?channelId=2263&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TURKEY 1" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TURKEY 1
+http://client.nodomain.vip:80/live.ts?channelId=2262&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TURKEY 2" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TURKEY 2
+http://client.nodomain.vip:80/live.ts?channelId=2264&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TURKEY 3" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TURKEY 3
+http://client.nodomain.vip:80/live.ts?channelId=2265&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="NETIP TURKEY 4" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,NETIP TURKEY 4
+http://client.nodomain.vip:80/live.ts?channelId=2266&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="611" tvg-name="AMC" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,AMC
+http://client.nodomain.vip:80/live.ts?channelId=611&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="122" tvg-name="AXN" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,AXN
+http://client.nodomain.vip:80/live.ts?channelId=122&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="612" tvg-name="AXN SPIN" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,AXN SPIN
+http://client.nodomain.vip:80/live.ts?channelId=612&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="2021" tvg-name="CINEMANIA HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,CINEMANIA HD
+http://client.nodomain.vip:80/live.ts?channelId=2021&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="Cinestar1" tvg-name="CINESTAR TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv1.svg" group-title="FILM & SERIJE" ,CINESTAR TV
+http://client.nodomain.vip:80/live.ts?channelId=224&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1814" tvg-name="CINESTAR TV 2" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv2.svg" group-title="FILM & SERIJE" ,CINESTAR TV 2
+http://client.nodomain.vip:80/live.ts?channelId=1814&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="CINESTAR_ACTION" tvg-name="CINESTAR ACTION" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/action.svg" group-title="FILM & SERIJE" ,CINESTAR ACTION
+http://client.nodomain.vip:80/live.ts?channelId=268&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1805" tvg-name="CINESTAR COMEDY" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-comedy.svg" group-title="FILM & SERIJE" ,CINESTAR COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=1805&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="607" tvg-name="CINESTAR FANTASY" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-fantasy.svg" group-title="FILM & SERIJE" ,CINESTAR FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=607&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CINESTAR PREMIERE 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere1.svg" group-title="FILM & SERIJE" ,CINESTAR PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=12&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CINESTAR PREMIERE 2" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere2.svg" group-title="FILM & SERIJE" ,CINESTAR PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=13&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="14" tvg-name="CINEMAX 1" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,CINEMAX 1
+http://client.nodomain.vip:80/live.ts?channelId=14&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="15" tvg-name="CINEMAX 2" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,CINEMAX 2
+http://client.nodomain.vip:80/live.ts?channelId=15&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,DIVA TV
+http://client.nodomain.vip:80/live.ts?channelId=1405&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="EURO CINEMA 1 HD" tvg-link="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Euro_Cinema_1_RS_logo.png" group-title="FILM & SERIJE" ,EURO CINEMA 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=2223&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="EURO CINEMA 2 HD" tvg-link="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Euro_Cinema_2_RS_logo.png" group-title="FILM & SERIJE" ,EURO CINEMA 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=2224&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="EURO CINEMA 3 HD" tvg-link="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Euro_Cinema_3_RS_logo.png" group-title="FILM & SERIJE" ,EURO CINEMA 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=2225&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="EURO CINEMA 4 HD" tvg-link="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Euro_Cinema_4_RS_logo.png" group-title="FILM & SERIJE" ,EURO CINEMA 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=2226&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="EPIC_DRAMA" tvg-name="EPIC DRAMA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,EPIC DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=1402&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="FILMBOX_EXTRA" tvg-name="FILMBOX EXTRA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,FILMBOX EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=586&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="525" tvg-name="FILMBOX STARS" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,FILMBOX STARS
+http://client.nodomain.vip:80/live.ts?channelId=525&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1845" tvg-name="FILM KLUB" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,FILM KLUB
+http://client.nodomain.vip:80/live.ts?channelId=1845&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png" group-title="FILM & SERIJE" ,HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="16" tvg-name="HBO 2" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png" group-title="FILM & SERIJE" ,HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="73" tvg-name="HBO 3" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png" group-title="FILM & SERIJE" ,HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="608" tvg-name="KINO TV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,KINO TV
+http://client.nodomain.vip:80/live.ts?channelId=608&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="M1_GOLD" tvg-name="M1 GOLD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,M1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1593&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="M1_FILM" tvg-name="M1 FILM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,M1 FILM
+http://client.nodomain.vip:80/live.ts?channelId=379&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="1211" tvg-name="PICKBOX TV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,PICKBOX TV
+http://client.nodomain.vip:80/live.ts?channelId=1211&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="609" tvg-name="SCI FI" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="" group-title="FILM & SERIJE" ,SCI FI
+http://client.nodomain.vip:80/live.ts?channelId=609&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="17" tvg-name="STAR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://sire-assets-natgeo.fichub.com/assets/fox-star/images/StarChannel.svg" group-title="FILM & SERIJE" ,STAR
+http://client.nodomain.vip:80/live.ts?channelId=17&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="19" tvg-name="STAR LIFE" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.starchannel-hr.com/assets/fox-star/images/StarLife.svg" group-title="FILM & SERIJE" ,STAR LIFE
+http://client.nodomain.vip:80/live.ts?channelId=19&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="18" tvg-name="STAR CRIME" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.starchannel-hr.com/assets/fox-star/images/StarCrime.svg" group-title="FILM & SERIJE" ,STAR CRIME
+http://client.nodomain.vip:80/live.ts?channelId=18&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="111" tvg-name="STAR MOVIES" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://www.starchannel-hr.com/assets/fox-star/images/StarMovies.svg" group-title="FILM & SERIJE" ,STAR MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="SUPERSTAR_TV" tvg-name="SUPER STAR TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://superstartv.rs/wp-content/uploads/2021/07/SUPERSTARTV-01-300x77.png" group-title="FILM & SERIJE" ,SUPER STAR TV
+http://client.nodomain.vip:80/live.ts?channelId=1503&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="" tvg-name="SUPER STAR 2 TV" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,SUPER STAR 2 TV
+http://client.nodomain.vip:80/live.ts?channelId=1445&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=ivica261Phz27XqU7r6TpNm" tvg-logo="https://superstartv.rs/wp-content/uploads/2021/07/SUPERSTARTV-02-300x66.png" group-title="FILM & SERIJE" ,TV 1000
+http://client.nodomain.vip:80/live.ts?channelId=480&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
 #EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 4 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 4 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75884.ts
