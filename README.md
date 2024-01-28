@@ -2546,22 +2546,6 @@ http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/117771
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89641
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 1 HD AL
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89640
-#EXTINF:-1 tvg-id="RTK1" tvg-name="AL: RTK 1 ⁴ᴷ" tvg-logo="https://i.imgur.com/CdVLwd5.jpg" group-title="Shqipëtare",AL: RTK 1 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30131
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK 2 ⁴ᴷ" tvg-logo="https://i.imgur.com/BVyfdA7.jpg" group-title="Shqipëtare",AL: RTK 2 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30134
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK 3 ⁴ᴷ" tvg-logo="https://i.imgur.com/3zyoBMq.jpg" group-title="Shqipëtare",AL: RTK 3 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30135
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK 4 ⁴ᴷ" tvg-logo="https://i.imgur.com/sN4QAKs.jpg" group-title="Shqipëtare",AL: RTK 4 ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30136
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova ⁴ᴷ" tvg-logo="https://i.imgur.com/ECApa3Z.jpg" group-title="Shqipëtare",AL: Klan Kosova ⁴ᴷ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/30128
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova ᶠᴴᴰ" tvg-logo="https://i.imgur.com/aRgT7eb.jpg" group-title="Shqipëtare",AL: Klan Kosova ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/39414
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP Kosova 1 ᶠᴴᴰ" tvg-logo="" group-title="Shqipëtare",AL: BB VIP Kosova 1 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/80224
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP Kosova 2 ᶠᴴᴰ" tvg-logo="" group-title="Shqipëtare",AL: BB VIP Kosova 2 ᶠᴴᴰ
-http://client.ksporttv.com:88/liv3cid90a49fe9a03af459ss/acacnYOO3I25PPPB5uW/80223
 #EXTINF:-1 tvg-id="Junior" tvg-name="AL: Junior TV" tvg-logo="http://falcon.ac:5000/images/juniortv.png" group-title="**** Albania Fëmijët ****",AL: Junior TV
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/924
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kids" tvg-logo="http://tv.kabllor.net/logo/Tring%20Kids.png" group-title="**** Albania Fëmijët ****",AL: Kids
