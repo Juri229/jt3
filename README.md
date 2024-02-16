@@ -1307,68 +1307,6 @@ http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20439
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20440
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 8 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 8 HD FR (ONLY EVENTS) VIP SPORTS
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20442
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1HD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5351
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/829
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2HD.png" group-title="**** Albania Sport ****",AL: Super Sport 2 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5352
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport2FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/830
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3HD.png" group-title="**** Albania Sport ****",AL: Super Sport 3 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5353
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport3FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/831
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4HD.png" group-title="**** Albania Sport ****",AL: Super Sport 4 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5354
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport4FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/832
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5HD.png" group-title="**** Albania Sport ****",AL: Super Sport 5 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/953
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport5FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 5 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/948
-#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport6HD.png" group-title="**** Albania Sport ****",AL: Super Sport 6 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5876
-#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport6FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 6 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/1130
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport7FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 7 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75473
-#EXTINF:-1 tvg-id="" tvg-name="AL: Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport1FHD.png" group-title="**** Albania Sport ****",AL: Sport 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187668
-#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="AL: Sport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport2FHD.png" group-title="**** Albania Sport ****",AL: Sport 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38553
-#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="AL: Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport3FHD.png" group-title="**** Albania Sport ****",AL: Sport 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38554
-#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="AL: Sport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/ArtSport4FHD.png" group-title="**** Albania Sport ****",AL: Sport 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146532
-#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="AL: Sport 5 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Sport 5 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146533
-#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="AL: Sport 6 FHD" tvg-logo="" group-title="**** Albania Sport ****",AL: Sport 6 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146534
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/tringsport1.png" group-title="**** Albania Sport ****",AL: Tring Sport 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/848
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://falcon.ac:5000/images/tringsport3.png" group-title="**** Albania Sport ****",AL: Tring Sport 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/874
-#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146265
-#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146266
-#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146267
-#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/oversport.png" group-title="**** Albania Sport ****",AL: OverSport 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146268
-#EXTINF:-1 tvg-id="Kujtesa Sport 1" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/KSport1HD.png" group-title="**** Albania Sport ****",AL: Kujtesa Sport 1 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/1146
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa sport 5" tvg-logo="" group-title="**** Albania Sport ****",AL: Kujtesa sport 5
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192639
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147608
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova2FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147609
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSportKosova3FHD.png" group-title="**** Albania Sport ****",AL: Super Sport Kosova 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147610
-#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box FHD" tvg-logo="http://falcon.ac:5000/images/alb/fightboxhd.png" group-title="**** Albania Sport ****",AL: Fight Box FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/887
 #EXTINF:-1 tvg-id="Eurosport 1-PL" tvg-name="Euro Sport 1 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport.png" group-title="**** Vip Sports ****",Euro Sport 1 FHD PL
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32356
 #EXTINF:-1 tvg-id="Eurosport 2-PL" tvg-name="Euro Sport 2 FHD PL" tvg-logo="http://falcon.ac:5000/images/pl/eurosport2.png" group-title="**** Vip Sports ****",Euro Sport 2 FHD PL
