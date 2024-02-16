@@ -16,6 +16,10 @@ http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
 #EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
 http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 1 (VIP)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 2 (VIP)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47748
 #EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
 http://smarters.link:80/RtMM2QrZq97/d2STOS55/16544
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
@@ -825,6 +829,34 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/879
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146014
 #EXTINF:-1 tvg-id="Tring Collection" tvg-name="AL: Tring Family HD" tvg-logo="http://falcon.ac:5000/images/alb/TringCollection.png" group-title="**** Albania Film ****",AL: Tring Family HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/142945
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/873
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/870
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/871
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/872
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/874
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/875
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/876
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/877
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/878
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/879
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/880
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/881
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/882
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/883
 #EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1HD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5351
 #EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 FHD
@@ -5397,3 +5429,195 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/80953
 #EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 4 HD" tvg-logo="http://hs-iptv.net:88/images/13ac507d93e21615219c805f64676386.png" group-title="Albania",AL: Rtk 4 HD
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/6
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/251
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/252
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/253
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/254
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top Channel
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/240
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/241
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsat-m-al-mk.png" group-title="★ ALBANIA-SHQIP",AL: Alsat M
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/242
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ABC News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/243
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Opoja
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/244
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/245
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_popullore.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Popullore
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/249
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_plus.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/248
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv 21 Mix" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Rtv 21 Mix
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/247
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedoni" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Maqedoni
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/246
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/250
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Kosova
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/255
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/256
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/257
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Vizion Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/258
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: KTV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/259
+#EXTINF:-1 tvg-id="" tvg-name="AL: NEWS 24" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: NEWS 24
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/261
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ALB UK
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1535
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/262
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Thriller" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Thriller
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/312
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Romance" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Romance
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/310
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Sci-Fi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Sci-Fi
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/313
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Natyra" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Natyra
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/305
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Music Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Music Hits
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/304
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Humor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Humor
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/303
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Histori
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/302
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Family
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/301
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Drama
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/300
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Cifteli " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Cifteli 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/308
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Action
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/306
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Femije
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/342
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Zjarr" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Zjarr
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/340
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Music" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb Music
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/322
+#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Koha TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/338
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring World
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/299
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Super
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/298
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Shqip
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/297
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Planet
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/296
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Life
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/294
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Kids
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/293
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Jolly
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/292
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring History
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/291
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Fantasy
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/290
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Comedy
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/289
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Action
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/288
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3 Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TRING 3 Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/287
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Euro Film
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/334
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Kuvend
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/265
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Digi Gold 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/330
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Hits
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/282
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Dy
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/281
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Drame
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/280
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Autor
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/278
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Aksion
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/329
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Thriller
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/271
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIGBROTHER 2 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: BIGBROTHER 2 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/331
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV Pendimi
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/347
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/260
+#EXTINF:-1 tvg-id="" tvg-name="AL: MRT 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_2_sat.jpg" group-title="★ ALBANIA-SHQIP",AL: MRT 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/264
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dielli
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/328
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: T HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/337
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb UK
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/327
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 24 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/325
+#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ERA TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/323
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Dasma TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/320
+#EXTINF:-1 tvg-id="RTSH Shqip.al" tvg-name="AL: RTSH 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/326
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb WesterN" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb WesterN
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/272
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL:  Stinet
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/279
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dukagjini
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/295
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: FOLK Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/324
+#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: National Geographic
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Histori
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/344
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Muzike
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/345
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Natyra
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/346
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Komedi
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47732
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Stinet
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47733
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Family
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47734
+#EXTINF:-1 tvg-id="" tvg-name="AL: Topestrada" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Topestrada
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47735
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV Fontana
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47736
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: MCN TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47738
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Scan
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47739
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Mitrovica
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47740
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Diaspora" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Diaspora
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47741
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: First Channel
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47742
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Big Brother 1 (VIP)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Big Brother 2 (VIP)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47748
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Kanal D Drama
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49822
+#EXTINF:-1 tvg-id="" tvg-name="AL: Smile" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Smile
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49823
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turkish Stories" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Turkish Stories
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49824
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Novelas
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49825
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Series
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49826
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Original" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Original
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49827
