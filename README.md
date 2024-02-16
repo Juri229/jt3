@@ -857,6 +857,456 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/881
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/882
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/883
+#EXTINF:-1 tvg-id="" tvg-name="•●★---| ALL | SPORT |----★●•" tvg-logo="" group-title="Sport",•●★---| ALL | SPORT |----★●•
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/8202
+#EXTINF:-1 tvg-id="a00c" tvg-name="AL: Super Sport 1 ᴴᴰ " tvg-logo="" group-title="Sport",AL: Super Sport 1 ᴴᴰ 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3481
+#EXTINF:-1 tvg-id="a00c" tvg-name="AL: Super Sport 1 HD" tvg-logo="" group-title="Sport",AL: Super Sport 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3487
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Super Sport 2 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3482
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="" group-title="Sport",AL: Super Sport 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3488
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Super Sport 3 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3483
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="" group-title="Sport",AL: Super Sport 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3489
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Super Sport 4 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3484
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD" tvg-logo="" group-title="Sport",AL: Super Sport 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3490
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD" tvg-logo="" group-title="Sport",AL: Super Sport 5 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17965
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-1 HD" tvg-logo="https://i.imgur.com/mPsVdeL.jpg" group-title="Sport",AL: SS-1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34239
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-2 HD  " tvg-logo="https://i.imgur.com/JI5LMWt.jpg" group-title="Sport",AL: SS-2 HD  
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34240
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-3 HD" tvg-logo="https://i.imgur.com/dLKrta8.png" group-title="Sport",AL: SS-3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34241
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS-4 HD" tvg-logo="https://i.imgur.com/4uOs3jQ.png" group-title="Sport",AL: SS-4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34242
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 1 HD" tvg-logo="" group-title="Sport",AL: Super Sport Kosova 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3479
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosovo 2 HD" tvg-logo="" group-title="Sport",AL: Super Sport Kosovo 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3480
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 HD" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: ART SPORT 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/25951
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 ᴴᴰ VIP" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: Art Sport 1 ᴴᴰ VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27153
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 HD" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: ART SPORT 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/25952
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 UHD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="Sport",AL: ART Sport 2 UHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29838
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 HD" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: ART SPORT 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/25953
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 UHD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="Sport",AL: ART Sport 3 UHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29839
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 4 HD" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: ART SPORT 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26595
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 ᴴᴰ VIP" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: Art Sport 4 ᴴᴰ VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27154
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 ᴴᴰ VIP" tvg-logo="https://i.imgur.com/nFsFacj.png" group-title="Sport",AL: Art Sport 5 ᴴᴰ VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27155
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6 UHD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="Sport",AL: ART Sport 6 UHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29837
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport VIP 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-1-HD.png" group-title="Sport",AL: Tring Sport VIP 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3475
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="https://www.tring.al/manager/includes/picker/images/sport1-hd.png" group-title="Sport",AL: Tring Sport 1 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3470
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport VIP 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-2-HD.png" group-title="Sport",AL: Tring Sport VIP 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3476
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-2-HD.png" group-title="Sport",AL: Tring Sport 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3471
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport  VIP 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-3-HD.jpg" group-title="Sport",AL: Tring Sport  VIP 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3477
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-3-HD.png" group-title="Sport",AL: Tring Sport 3 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3472
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport  VIP 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-4-HD.jpg" group-title="Sport",AL: Tring Sport  VIP 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3478
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/TRING-SPORT-4-HD.jpg" group-title="Sport",AL: Tring Sport 4 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3473
+#EXTINF:-1 tvg-id="" tvg-name="AL: T SPORT 1 FHD" tvg-logo="" group-title="Sport",AL: T SPORT 1 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22617
+#EXTINF:-1 tvg-id="" tvg-name="AL: T SPORT 2 FHD" tvg-logo="" group-title="Sport",AL: T SPORT 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22618
+#EXTINF:-1 tvg-id="" tvg-name="AL: T SPORT 3 FHD" tvg-logo="" group-title="Sport",AL: T SPORT 3 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22619
+#EXTINF:-1 tvg-id="" tvg-name="AL: T SPORT 4 FHD" tvg-logo="" group-title="Sport",AL: T SPORT 4 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22620
+#EXTINF:-1 tvg-id="" tvg-name="AL: S.S Kosova 3 ᴴᴰ  " tvg-logo="https://i.imgur.com/zEAvZuN.png" group-title="Sport",AL: S.S Kosova 3 ᴴᴰ  
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29800
+#EXTINF:-1 tvg-id="" tvg-name="AL:  K SPORT 1  HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-1.png" group-title="Sport",AL:  K SPORT 1  HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26601
+#EXTINF:-1 tvg-id="" tvg-name="AL:  K SPORT 2  HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-2.png" group-title="Sport",AL:  K SPORT 2  HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26602
+#EXTINF:-1 tvg-id="" tvg-name="AL:  K SPORT 3  HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-3.png" group-title="Sport",AL:  K SPORT 3  HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26603
+#EXTINF:-1 tvg-id="" tvg-name="AL:  K SPORT 4  HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-4.png" group-title="Sport",AL:  K SPORT 4  HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26604
+#EXTINF:-1 tvg-id="" tvg-name="AL: K SPORT 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-4.png" group-title="Sport",AL: K SPORT 5 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26605
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL K SPORT1 VIP HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-1.png" group-title="Sport",AL: AL K SPORT1 VIP HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3466
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL K SPORT2 VIP HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-2.png" group-title="Sport",AL: AL K SPORT2 VIP HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3467
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL K SPORT3 VIP HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-3.png" group-title="Sport",AL: AL K SPORT3 VIP HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3468
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL K SPORT4 VIP HD" tvg-logo="http://logo.protv.cc/picons/logos/K-SPORT-4.png" group-title="Sport",AL: AL K SPORT4 VIP HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/3469
+#EXTINF:-1 tvg-id="" tvg-name="========== VIP SPORT ==========" tvg-logo="" group-title="Sport",========== VIP SPORT ==========
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27056
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 1 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27050
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 2 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27051
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 3 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27052
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 4 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27053
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 6 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27055
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD VIP " tvg-logo="" group-title="Sport",AL: Super Sport 5 FHD VIP 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27054
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Tring Sport 1 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27149
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Tring Sport 2 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27150
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="" group-title="Sport",AL: Tring Sport 3 ᴴᴰ
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27151
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1  FHD" tvg-logo="https://www.oversport.tv/wp-content/uploads/2021/08/retina-logo-oversport.png" group-title="Sport",AL: OVERSPORT 1  FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/21643
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2  FHD" tvg-logo="https://www.oversport.tv/wp-content/uploads/2021/08/retina-logo-oversport.png" group-title="Sport",AL: OVERSPORT 2  FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/21644
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3 HD" tvg-logo="https://www.oversport.tv/wp-content/uploads/2021/08/retina-logo-oversport.png" group-title="Sport",AL: OVERSPORT 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22841
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 4 HD" tvg-logo="https://www.oversport.tv/wp-content/uploads/2021/08/retina-logo-oversport.png" group-title="Sport",AL: OVERSPORT 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22842
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Sport F1 HD " tvg-logo="" group-title="Sport",IT: S Sport F1 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30376
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD vip" tvg-logo="" group-title="Sport",FR: RMC SPORT 1 HD vip
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27042
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD VIP" tvg-logo="" group-title="Sport",FR: RMC SPORT 2 HD VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27043
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD VIP" tvg-logo="" group-title="Sport",FR: RMC SPORT 4 HD VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27045
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 4K" tvg-logo="" group-title="Sport",FR: BEIN SPORTS 1 4K
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/27046
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 1 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 1 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14155
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 2 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14156
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 3 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 3 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14157
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 4 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 4 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14158
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 5 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 5 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14159
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 6 FHD" tvg-logo="" group-title="Sport",Ex Yu: Sport Klub 6 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14160
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 1 HR FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 1 HR FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14161
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 2 HR FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 2 HR FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14162
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 3 HR FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 3 HR FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14163
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 4 HR FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 4 HR FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14164
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 1 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 1 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14165
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 2 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14166
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 3 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 3 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14167
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 4 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 4 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14168
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 5 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 5 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14169
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 6 FHD" tvg-logo="" group-title="Sport",Ex Yu: Arena Sport 6 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14170
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD (CRO)" tvg-logo="" group-title="Sport",Arena Sport 6 HD (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18667
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD (CRO)" tvg-logo="" group-title="Sport",Arena Sport 8 HD (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18669
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1 HD (SRB)  VIP" tvg-logo="" group-title="Sport",Arena Premium 1 HD (SRB)  VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/21634
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 2 FHD (SRB) VIP" tvg-logo="" group-title="Albania",Arena Premium 2 FHD (SRB) VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/21635
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 3 FHD (SRB) VIP" tvg-logo="" group-title="Sport",Arena Premium 3 FHD (SRB) VIP
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/21636
+#EXTINF:-1 tvg-id="" tvg-name="SK 2 HD (CRO)" tvg-logo="" group-title="Sport",SK 2 HD (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18677
+#EXTINF:-1 tvg-id="" tvg-name="SK 1 HD (CRO)" tvg-logo="" group-title="Sport",SK 1 HD (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18676
+#EXTINF:-1 tvg-id="" tvg-name="SK 3 HD (CRO)" tvg-logo="" group-title="Sport",SK 3 HD (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18678
+#EXTINF:-1 tvg-id="" tvg-name="SK 4 (CRO)" tvg-logo="" group-title="Sport",SK 4 (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18679
+#EXTINF:-1 tvg-id="" tvg-name="SK 5 (CRO)" tvg-logo="" group-title="Sport",SK 5 (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18680
+#EXTINF:-1 tvg-id="" tvg-name="SK 6 (CRO)" tvg-logo="" group-title="Sport",SK 6 (CRO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18681
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Eurosport 1 FHD" tvg-logo="" group-title="Sport",Ex Yu: Eurosport 1 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14150
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Eurosport 2 FHD" tvg-logo="" group-title="Sport",Ex Yu: Eurosport 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14151
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1" tvg-logo="" group-title="Sport",DE: Sky Sport F1
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26404
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TOP EVENT HD (O)" tvg-logo="" group-title="Sport",DE: SKY SPORT TOP EVENT HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30378
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIERE LEAGUE HD" tvg-logo="" group-title="Sport",DE: SKY SPORT PREMIERE LEAGUE HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30379
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIERE LEAGUE HD (O)" tvg-logo="" group-title="Sport",DE: SKY SPORT PREMIERE LEAGUE HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30380
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY BUNDESLIGA 1 HD (reserv)" tvg-logo="" group-title="Sport",DE: SKY BUNDESLIGA 1 HD (reserv)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30381
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 HD (O)" tvg-logo="" group-title="Sport",DE: EUROSPORT 1 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30382
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 HD (*)" tvg-logo="" group-title="Sport",DE: SPORT 1 HD (*)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30385
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HD (O)" tvg-logo="" group-title="Sport",DE: DAZN BAR 1 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20563
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HD (O)" tvg-logo="" group-title="Sport",DE: DAZN BAR 2 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20564
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn 1 Bar FHD" tvg-logo="" group-title="Sport",DE: Dazn 1 Bar FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14171
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 SD" tvg-logo="" group-title="Sport",DE: Dazn Sport 2 SD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14172
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 1 HD" tvg-logo="" group-title="Sport",DE: Bundesliga 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14175
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 2 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 2 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14176
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 3 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 3 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14177
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 4 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 4 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14178
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 5 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 5 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14179
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 6 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 6 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14180
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 7 HD " tvg-logo="" group-title="Sport",DE: Bundesliga 7 HD 
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14181
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 HD DE (local)" tvg-logo="" group-title="Sport",DE: SPORT 1 HD DE (local)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20568
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD (O)" tvg-logo="" group-title="Sport",DE: SKY SPORT 1 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20565
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD (O)" tvg-logo="" group-title="Sport",DE: SKY SPORT 2 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20566
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 HD (O)" tvg-logo="" group-title="Sport",DE: SKY SPORT 3 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20567
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14185
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14186
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14187
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14188
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 5 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14189
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD" tvg-logo="" group-title="Sport",DE: Sky Sport 6 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14190
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 FHD" tvg-logo="" group-title="Sport",DE: Eurosport 2 FHD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14174
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM  DEL SPORT 1" tvg-logo="" group-title="Sport",DE: TELEKOM  DEL SPORT 1
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29179
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM  DEL SPORT 2" tvg-logo="" group-title="Sport",DE: TELEKOM  DEL SPORT 2
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29180
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM  DEL SPORT 3" tvg-logo="" group-title="Sport",DE: TELEKOM  DEL SPORT 3
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29181
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM  DEL SPORT 4" tvg-logo="" group-title="Sport",DE: TELEKOM  DEL SPORT 4
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29182
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM  DEL SPORT 6" tvg-logo="" group-title="Sport",DE: TELEKOM  DEL SPORT 6
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/29184
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 1 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 1 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20639
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 2 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 2 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20640
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 3 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 3 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20641
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 4 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 4 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20642
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 5 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 5 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20643
+#EXTINF:-1 tvg-id="" tvg-name="MAGENTA SPORT 6 HD (DE)" tvg-logo="" group-title="Sport",MAGENTA SPORT 6 HD (DE)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20644
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Event 1 FHD (Only Live Events)" tvg-logo="" group-title="Sport",DE: Dazn Event 1 FHD (Only Live Events)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18117
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Event 2 FHD (Only Live Events)" tvg-logo="" group-title="Sport",DE: Dazn Event 2 FHD (Only Live Events)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18118
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Event 3 FHD (Only Live Events)" tvg-logo="" group-title="Sport",DE: Dazn Event 3 FHD (Only Live Events)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18119
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT 1 HD (O)" tvg-logo="" group-title="Sport",CH: BLUE SPORT 1 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30386
+#EXTINF:-1 tvg-id="" tvg-name="CH: BLUE SPORT 2 HD (O)" tvg-logo="" group-title="Sport",CH: BLUE SPORT 2 HD (O)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/30387
+#EXTINF:-1 tvg-id="" tvg-name="CH: TELECLUB SPORT 1 HD" tvg-logo="" group-title="Sport",CH: TELECLUB SPORT 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14211
+#EXTINF:-1 tvg-id="" tvg-name="SW: Teleclub Sport 1 HD" tvg-logo="" group-title="Sport",SW: Teleclub Sport 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26462
+#EXTINF:-1 tvg-id="" tvg-name="SW: Teleclub Sport 2 HD" tvg-logo="" group-title="Sport",SW: Teleclub Sport 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/26463
+#EXTINF:-1 tvg-id="" tvg-name="MySports 1 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 1 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17079
+#EXTINF:-1 tvg-id="" tvg-name="MySports 2/S 2 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 2/S 2 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17080
+#EXTINF:-1 tvg-id="" tvg-name="MySports 3/S 3 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 3/S 3 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17081
+#EXTINF:-1 tvg-id="" tvg-name="MySports 4/S 4 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 4/S 4 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17082
+#EXTINF:-1 tvg-id="" tvg-name="MySports 7/S 7 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 7/S 7 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17085
+#EXTINF:-1 tvg-id="" tvg-name="MySports 9/S 9 FHD CH [Multi-Language]" tvg-logo="" group-title="Sport",MySports 9/S 9 FHD CH [Multi-Language]
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17087
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Extra 1 (NL)" tvg-logo="" group-title="Sport",Ziggo Sport Extra 1 (NL)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34105
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Extra 2 (NL)" tvg-logo="" group-title="Sport",Ziggo Sport Extra 2 (NL)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34106
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing (NL)" tvg-logo="" group-title="Sport",Ziggo Sport Racing (NL)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34108
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV+ HD (PT)" tvg-logo="" group-title="Sport",Sport TV+ HD (PT)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34111
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD (PT)" tvg-logo="" group-title="Sport",Sport TV 2 HD (PT)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34113
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD (PT)" tvg-logo="" group-title="Sport",Sport TV 5 HD (PT)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34116
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3 HD (PT)" tvg-logo="" group-title="Sport",Eleven Sport 3 HD (PT)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34119
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 4 HD (PT)" tvg-logo="" group-title="Sport",Eleven Sport 4 HD (PT)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34120
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD (SLO)" tvg-logo="" group-title="Sport",Sport TV 1 HD (SLO)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/34123
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| BEIN SPORTS SD |✦●✦" tvg-logo="" group-title="Sport",✦●✦| BEIN SPORTS SD |✦●✦
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22639
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22641
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22642
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22643
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 4 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 4 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22644
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 5 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 5 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22645
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 6 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 6 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22646
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 7 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 7 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22647
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 8 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 8 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22648
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 9 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 9 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22649
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 10 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 10 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22650
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 11 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 11 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22651
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 12 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 12 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22652
+#EXTINF:-1 tvg-id="" tvg-name="AR|  BEIN SPORTS 1 PREMIUM HD" tvg-logo="" group-title="Sport",AR|  BEIN SPORTS 1 PREMIUM HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22653
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 PREMIUM HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 2 PREMIUM HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22654
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 PREMIUM HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS 3 PREMIUM HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22655
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX  5 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS MAX  5 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22740
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX  6 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS MAX  6 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22741
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 7 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS MAX 7 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22742
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 8 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS MAX 8 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22743
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 9 HD" tvg-logo="" group-title="Sport",AR| BEIN SPORTS MAX 9 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22744
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 1 HD" tvg-logo="" group-title="Sport",FR: RMC ACCESS SPORT 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22634
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 2 HD" tvg-logo="" group-title="Sport",FR: RMC ACCESS SPORT 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22635
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 3 HD" tvg-logo="" group-title="Sport",FR: RMC ACCESS SPORT 3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/22636
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 TH" tvg-logo="" group-title="Sport",beIN Sports 1 TH
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17088
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Event 4 FHD (Only Live Events)" tvg-logo="" group-title="Sport",DE: Dazn Event 4 FHD (Only Live Events)
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/18128
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV 1 HD" tvg-logo="" group-title="Sport",PT: SPORT.TV 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14192
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV 2" tvg-logo="" group-title="Sport",PT: SPORT.TV 2
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14193
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV 3" tvg-logo="" group-title="Sport",PT: SPORT.TV 3
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14194
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV 4" tvg-logo="" group-title="Sport",PT: SPORT.TV 4
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14195
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV 5" tvg-logo="" group-title="Sport",PT: SPORT.TV 5
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14196
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT.TV+ HD" tvg-logo="" group-title="Sport",PT: SPORT.TV+ HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14198
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 1 HD" tvg-logo="" group-title="Sport",PT: ELEVEN Sports 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14319
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2" tvg-logo="" group-title="Sport",PT: Eleven Sports 2
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14320
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3" tvg-logo="" group-title="Sport",PT: Eleven Sports 3
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14321
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4" tvg-logo="" group-title="Sport",PT: Eleven Sports 4
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14322
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5" tvg-logo="" group-title="Sport",PT: Eleven Sports 5
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14323
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6" tvg-logo="" group-title="Sport",PT: Eleven Sports 6
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14324
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="Sport",UK: BT Sport 1
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14095
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="" group-title="Sport",UK: BT SPORT 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14096
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="Sport",UK: BT Sport 2
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14097
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2 HD" tvg-logo="" group-title="Sport",UK: BT SPORT 2 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14098
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport  3 HD" tvg-logo="" group-title="Sport",UK: BT Sport  3 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14099
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Arena HD" tvg-logo="" group-title="Sport",UK: Sky Sport Arena HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14079
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Football HD" tvg-logo="" group-title="Sport",UK: Sky Sport Football HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14082
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Main Event HD" tvg-logo="" group-title="Sport",UK: Sky Sport Main Event HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14086
+#EXTINF:-1 tvg-id="" tvg-name="UK:  Sky Sports Action" tvg-logo="" group-title="Sport",UK:  Sky Sports Action
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14087
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Premiere League" tvg-logo="" group-title="Sport",UK: Sky Sport Premiere League
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14089
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 UK HD" tvg-logo="" group-title="Sport",UK: Sky Sports F1 UK HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14092
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR Sports 1 HD" tvg-logo="" group-title="Sport",UK: EIR Sports 1 HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14106
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Espn HD" tvg-logo="" group-title="Sport",UK: BT Sport Espn HD
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/14109
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 VIP UK" tvg-logo="" group-title="Sport",BT Sport 1 VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17097
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 VIP UK" tvg-logo="" group-title="Sport",BT Sport 2 VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17099
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 FHD UK" tvg-logo="" group-title="Sport",BT Sport 3 FHD UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17100
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport Extra 2 VIP UK" tvg-logo="" group-title="Sport",BT Sport Extra 2 VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17104
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 HD VIP UK" tvg-logo="" group-title="Sport",BT Sports 2 HD VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17112
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 FHD VIP UK" tvg-logo="" group-title="Sport",BT Sports 3 FHD VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17113
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 HD VIP UK" tvg-logo="" group-title="Sport",BT Sports 3 HD VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17114
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports ESPN HD VIP UK" tvg-logo="" group-title="Sport",BT Sports ESPN HD VIP UK
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/17116
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 1 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 1 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20435
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 2 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20436
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 3 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 3 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20437
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 4 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 4 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20438
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 5 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 5 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20439
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 6 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 6 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20440
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 8 HD FR (ONLY EVENTS) VIP SPORTS" tvg-logo="" group-title="Sport",AMAZON PRIME 8 HD FR (ONLY EVENTS) VIP SPORTS
+http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/20442
 #EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1HD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 HD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/5351
 #EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/SuperSport1FHD.png" group-title="**** Albania Sport ****",AL: Super Sport 1 FHD
@@ -1377,7 +1827,6 @@ http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148124
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148117
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime MultiPlex HD FR" tvg-logo="" group-title="**** Vip Sports ****",Amazon Prime MultiPlex HD FR
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/148116
-
 #EXTINF:-1 tvg-id="" tvg-name="GR: ERT SPORTS 3 FHD" tvg-logo="https://asiagrandiptv.us/logo/ertsports.png" group-title="**** Vip Sports ****",GR: ERT SPORTS 3 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/3304
 #EXTINF:-1 tvg-id="" tvg-name="•●★▼ UK Sport ▼★●•" tvg-logo="" group-title="**** Vip Sports ****",•●★▼ UK Sport ▼★●•
