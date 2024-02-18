@@ -3,6 +3,11 @@
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193751
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
+http://premium-ks.vip:2082/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321wscaqu625ldnbdhe/80942
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-titl"**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
+http://premium-ks.vip:2082/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321wscaqu625ldnbdhe/80943
+#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title"**** Albania Shqipëtare ****",AL: Its My Home 3 FHD
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1 FHD
