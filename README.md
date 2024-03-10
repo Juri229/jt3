@@ -10,6 +10,10 @@ http://premium-ks.vip:2082/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321wscaqu6
 #EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title"**** Albania Shqipëtare ****",AL: Its My Home 3 FHD
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 1
+http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/703917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 2
+http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/703918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1 FHD
 http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193753
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2
@@ -654,6 +658,20 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144498
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146477
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 3 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 3 FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144497
+#EXTINF:-1 tvg-id="" tvg-name="AL: GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: GOLD HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110477
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: FILM GOLD HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110478
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110479
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 1 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 1 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110480
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 3 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 3 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110481
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 4 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 4 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110482
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX EXTRA HD" tvg-logo="" group-title="**** Albania Film ****",ALB: FILMBOX EXTRA HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110484
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/discoveryturboxtrahd.png" group-title="**** Albania Film ****",AL: Dark Gold 4 FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146474
 #EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 4 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 4 FHD
@@ -5555,3 +5573,139 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49825
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49826
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tring Original" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Original
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49827
+#EXTINF:-1 tvg-id="467" tvg-name="==== Italija ====" tvg-logo="http://185.180.221.139:82/logo_channels/itv_italia.png" group-title="ITALIJA",==== Italija ==== - 
+http://176.9.1.143:8000/live?channelId=467&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1796" tvg-name="IT | Rai 1 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai 1 HD - 
+http://195.154.102.152:8000/live?channelId=1796&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1797" tvg-name="IT | Rai 2 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai 2 HD - 
+http://195.154.102.152:8000/live?channelId=1797&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1798" tvg-name="IT | Rai 3 FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai 3 FHD - 
+http://195.154.102.152:8000/live?channelId=1798&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1799" tvg-name="IT | Rai 4 FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai 4 FHD - 
+http://195.154.102.152:8000/live?channelId=1799&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1800" tvg-name="IT | Rai 5 FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai 5 FHD - 
+http://195.154.102.152:8000/live?channelId=1800&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1801" tvg-name="IT | Rai Gulp SD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Gulp SD - 
+http://195.154.102.152:8000/live?channelId=1801&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1802" tvg-name="IT | Rai Movie FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Movie FHD - 
+http://195.154.102.152:8000/live?channelId=1802&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1803" tvg-name="IT | Rai News 24 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai News 24 HD - 
+http://195.154.102.152:8000/live?channelId=1803&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1804" tvg-name="IT | Rai Premium FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Premium FHD - 
+http://195.154.102.152:8000/live?channelId=1804&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1805" tvg-name="IT | Rai Scuola FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Scuola FHD - 
+http://195.154.102.152:8000/live?channelId=1805&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1806" tvg-name="IT | Rai Sport FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Sport FHD - 
+http://195.154.102.152:8000/live?channelId=1806&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1807" tvg-name="IT | Rai Storia SD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai Storia SD - 
+http://195.154.102.152:8000/live?channelId=1807&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1808" tvg-name="IT | Rai YoYo FHD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Rai YoYo FHD - 
+http://195.154.102.152:8000/live?channelId=1808&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1809" tvg-name="IT | MEDIASET 20" tvg-logo="/noicon.png" group-title="ITALIJA",IT | MEDIASET 20 - 
+http://195.154.102.152:8000/live?channelId=1809&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1810" tvg-name="IT | Mediaset Focus" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset Focus - 
+http://195.154.102.152:8000/live?channelId=1810&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1811" tvg-name="IT | Mediaset Canale 5" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset Canale 5 - 
+http://195.154.102.152:8000/live?channelId=1811&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1812" tvg-name="IT | Mediaset Cartoonito SD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset Cartoonito SD - 
+http://195.154.102.152:8000/live?channelId=1812&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1813" tvg-name="IT | Mediaset iris" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset iris - 
+http://195.154.102.152:8000/live?channelId=1813&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1814" tvg-name="IT | Mediaset LA 5 SD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset LA 5 SD - 
+http://195.154.102.152:8000/live?channelId=1814&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1815" tvg-name="IT | Mediaset 20 " tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset 20  - 
+http://195.154.102.152:8000/live?channelId=1815&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1816" tvg-name="IT | Mediaset Italia 2  " tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset Italia 2   - 
+http://195.154.102.152:8000/live?channelId=1816&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1817" tvg-name="IT | RSI La 1 " tvg-logo="/noicon.png" group-title="ITALIJA",IT | RSI La 1  - 
+http://195.154.102.152:8000/live?channelId=1817&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1818" tvg-name="IT | RSI La 2 " tvg-logo="/noicon.png" group-title="ITALIJA",IT | RSI La 2  - 
+http://195.154.102.152:8000/live?channelId=1818&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1819" tvg-name="IT | Sky Cinema Action HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Action HD - 
+http://195.154.102.152:8000/live?channelId=1819&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1820" tvg-name="IT | Sky Cinema Comedy HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Comedy HD - 
+http://195.154.102.152:8000/live?channelId=1820&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1821" tvg-name="IT | Sky Cinema Drama HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Drama HD - 
+http://195.154.102.152:8000/live?channelId=1821&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1822" tvg-name="IT | Sky Cinema Due HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Due HD - 
+http://195.154.102.152:8000/live?channelId=1822&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1823" tvg-name="IT | Sky Cinema Romance HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Romance HD - 
+http://195.154.102.152:8000/live?channelId=1823&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1824" tvg-name="IT | Sky Cinema Uno HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Cinema Uno HD - 
+http://195.154.102.152:8000/live?channelId=1824&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1825" tvg-name="IT | Sky Primafila 1 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 1 HD - 
+http://195.154.102.152:8000/live?channelId=1825&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1826" tvg-name="IT | Sky Primafila 2 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 2 HD - 
+http://195.154.102.152:8000/live?channelId=1826&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1827" tvg-name="IT | Sky Primafila 3 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 3 HD - 
+http://195.154.102.152:8000/live?channelId=1827&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1828" tvg-name="IT | Sky Primafila 4 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 4 HD - 
+http://195.154.102.152:8000/live?channelId=1828&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1829" tvg-name="IT | Sky Primafila 5 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 5 HD - 
+http://195.154.102.152:8000/live?channelId=1829&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1830" tvg-name="IT | Sky Primafila 6 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 6 HD - 
+http://195.154.102.152:8000/live?channelId=1830&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1831" tvg-name="IT | Sky Primafila 7 HD" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Primafila 7 HD - 
+http://195.154.102.152:8000/live?channelId=1831&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1832" tvg-name="IT | Discovery DMAX " tvg-logo="/noicon.png" group-title="ITALIJA",IT | Discovery DMAX  - 
+http://195.154.102.152:8000/live?channelId=1832&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1833" tvg-name="IT | Discovery Giallo " tvg-logo="/noicon.png" group-title="ITALIJA",IT | Discovery Giallo  - 
+http://195.154.102.152:8000/live?channelId=1833&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1834" tvg-name="IT | Onda TV" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Onda TV - 
+http://195.154.102.152:8000/live?channelId=1834&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1835" tvg-name="IT | BLAZE " tvg-logo="/noicon.png" group-title="ITALIJA",IT | BLAZE  - 
+http://195.154.102.152:8000/live?channelId=1835&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1836" tvg-name="IT | Esperia TV 18 Calabria" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Esperia TV 18 Calabria - 
+http://195.154.102.152:8000/live?channelId=1836&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1837" tvg-name="IT | IT: MEDIASET EXTRA " tvg-logo="/noicon.png" group-title="ITALIJA",IT | IT: MEDIASET EXTRA  - 
+http://195.154.102.152:8000/live?channelId=1837&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1838" tvg-name="IT | Sky Sport Serie A" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport Serie A - 
+http://195.154.102.152:8000/live?channelId=1838&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1839" tvg-name="IT | Sky Sport Uno" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport Uno - 
+http://195.154.102.152:8000/live?channelId=1839&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1840" tvg-name="IT | Sky Sport NBA" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Sky Sport NBA - 
+http://195.154.102.152:8000/live?channelId=1840&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1841" tvg-name="IT | Mediaset Rete 4" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Mediaset Rete 4 - 
+http://195.154.102.152:8000/live?channelId=1841&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1842" tvg-name="IT | Italia uno" tvg-logo="/noicon.png" group-title="ITALIJA",IT | Italia uno - 
+http://195.154.102.152:8000/live?channelId=1842&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="1843" tvg-name="IT | REAL TIME" tvg-logo="/noicon.png" group-title="ITALIJA",IT | REAL TIME - 
+http://195.154.102.152:8000/live?channelId=1843&uid=9690&deviceMac=00:1A:79:42:CD:B8
+#EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 1 HD" tvg-logo="" group-title="ALBANIA",ALB: EUROSPORT 1 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110555
+#EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110556
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 1 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 1 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110557
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110558
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 3 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 3 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110559
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 5 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 5 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110561
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 6 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110562
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT KOSOVA 1 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT KOSOVA 1 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110563
+#EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT KOSOVA 2 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT KOSOVA 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110564
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TRING SPORT NEWS HD" tvg-logo="" group-title="sportshqip",ALB: TRING SPORT NEWS HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110565
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TRING SPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: TRING SPORT 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110567
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TRING SPORT 3 HD" tvg-logo="" group-title="sportshqip",ALB: TRING SPORT 3 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110568
+#EXTINF:-1 tvg-id="" tvg-name="ALB: TRING SPORT 4 HD" tvg-logo="" group-title="sportshqip",ALB: TRING SPORT 4 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110569
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KUJTESA SPORT 1 HD" tvg-logo="http://myott.co/get.php?username=@BYxtreme&password=baranxtremetv&type=m3u_plus&output=mpegts" group-title="sportshqip",ALB: KUJTESA SPORT 1 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110570
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KUJTESA SPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: KUJTESA SPORT 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110571
+#EXTINF:-1 tvg-id="" tvg-name="ALB: KUJTESA SPORT 3 HD" tvg-logo="" group-title="sportshqip",ALB: KUJTESA SPORT 3 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110572
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 1 FHD" tvg-logo="" group-title="sportshqip",ALB: ART SPORT 1 FHD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110574
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: ART SPORT 2 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110575
+#EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: ART SPORT 6 HD
+http://medotv.nl:8000/totocorono/fG2bBmbzRO/110579
