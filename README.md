@@ -5709,3 +5709,645 @@ http://medotv.nl:8000/totocorono/fG2bBmbzRO/110574
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110575
 #EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: ART SPORT 6 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110579
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40635
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 1 (SD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46623
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40636
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 2 (SD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46624
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40637
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 3 (SD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46625
+#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-name="SPORT: ArenaSport 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/699
+#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-name="SPORT: ArenaSport 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29070
+#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-name="SPORT: ArenaSport 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/700
+#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-name="SPORT: ArenaSport 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29071
+#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-name="SPORT: ArenaSport 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/701
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29072
+#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-name="SPORT: ArenaSport 4 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/702
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 4 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29073
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/703
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29074
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ArenaSport BH" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport BH
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/704
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/705
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29066
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/706
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29067
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/707
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29068
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/708
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR (HD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29069
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-name="SPORT: ArenaSport 5 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/709
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-name="SPORT: ArenaSport 6 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 6 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/710
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: ARENA FIGHT
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39561
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT: Sport Klub 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 1 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/711
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="Ex-Yu: Sport Klub 1 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 SR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36527
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/712
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="Ex-Yu: Sport Klub 2 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 SR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36528
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT: Sport Klub 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/713
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="SPORT: Sport Klub 4 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 4 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/714
+#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="SPORT: Sport Klub 5 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 5 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/715
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-name="SPORT: Sport Klub 6 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 6 SR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/716
+#EXTINF:-1 tvg-id="sportgolf.rs" tvg-name="SPORT: Sport Klub Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub Golf 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/717
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 1 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/718
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36530
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/719
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36531
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/720
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 3 HR HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36532
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 4 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 4 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/721
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 5 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 5 HR
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/722
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/723
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/724
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Nova Sport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Nova Sport  
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36529
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/41332
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/41333
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu: Discovery DTX" tvg-logo="" group-title="★ DOKUMENTARNI KANALI",Ex-yu: Discovery DTX
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39139
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sportska TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sportska TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/884
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: S Fight Club" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: S Fight Club
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/848
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Zvezda TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Zvezda TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36284
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/725
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/726
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2 Xtra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2 Xtra
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/727
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/728
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/729
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/730
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S Bundesliga 1 (FHD)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 1 (FHD)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/731
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/732
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-name="SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/733
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-name="SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/734
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-name="SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/735
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD.de" tvg-name="SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/736
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD+
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/737
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/738
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 3 (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/739
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 4 (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/740
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 5  (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/741
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 6  (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/742
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 7 (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/743
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/745
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 HD (Live Event)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 HD (Live Event)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/744
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/747
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 FHD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/746
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/748
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Auto Motor Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Auto Motor Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/749
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: FC Bayern TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: FC Bayern TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/750
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sports Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sports Austria
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/751
+#EXTINF:-1 tvg-id="" tvg-name="AT: S Sport Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",AT: S Sport Austria 1 HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29047
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport Digital
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/924
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AT: ORF Sport+" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AT: ORF Sport+
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/752
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 1 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 1 HD [Match Time]
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29032
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 2 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 2 HD [Match Time] 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29033
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 3 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 3 HD [Match Time]
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29034
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 4 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 4 HD [Match Time]
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29035
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 5 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 5 HD [Match Time] 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29036
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS Premium 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN SPORTS Premium 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47452
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47454
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47455
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: Bein Sports News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: Bein Sports News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/789
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/776
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/777
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/778
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/779
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/780
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 6
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/781
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 7
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/782
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 9
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/784
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 10
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/785
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40609
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40610
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue ZOOM D" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue ZOOM D
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40611
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Premier League
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6278
+#EXTINF:-1 tvg-id="" tvg-name=" ZA: SuperSport Action" tvg-logo="" group-title="★ SPORTS (All World Sports)", ZA: SuperSport Action
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6275
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Cricket 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6269
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Grandstand
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6272
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Maximo 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6274
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport MotorSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport MotorSport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6276
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36176
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36177
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 4 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36178
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Blitz
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36179
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 1 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6701
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 2 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 2 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6702
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 3 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 3 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6703
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 4 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6704
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6705
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 6 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 6 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6706
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 7 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 7 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6707
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 8 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 8 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6708
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6709
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1 FHD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6710
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6711
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2 FHD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6712
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6713
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 1 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/20989
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/20990
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/768
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/769
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Premier Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Premier Sports
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/772
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Liverpool  TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Liverpool  TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/774
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Manchester United (MUTV)" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Manchester United (MUTV)
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/775
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Kombat Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Kombat Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/788
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/790
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/791
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/792
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Canal+  Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Canal+  Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/793
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/794
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/795
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: GOLF" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: GOLF
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/796
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: InfoSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: InfoSport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/797
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/798
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/799
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/800
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/801
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/802
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Uno" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Uno
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1486
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT 2 " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT 2 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1487
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Rai Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Rai Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1484
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",IT: RAI SPORT 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1485
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport 24" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport 24
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1475
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT F1 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT F1 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1477
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: PREMIUM SPORT HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: PREMIUM SPORT HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1480
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT Collection" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT Collection
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1481
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1478
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: EUROSPORT 2 HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: EUROSPORT 2 HD
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1479
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Super Tennis" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Super Tennis
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1474
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Sport Italia" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Sport Italia
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1473
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Moto GP" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Moto GP
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1483
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  AUTO MOTO TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  AUTO MOTO TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1489
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Juventus Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Juventus Channel
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1491
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  LAZIO CHANNEL" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  LAZIO CHANNEL
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1492
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/803
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/804
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/805
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/806
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/807
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: S-Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: S-Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/810
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Tivibuspor 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Tivibuspor 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/811
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/812
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/813
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR:  A Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR:  A Spor
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/815
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TRT Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TRT Spor
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/816
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Smart Spor
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/809
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Fb Tv
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/817
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: BEIN Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: BEIN Sports
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/818
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: AFN Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: AFN Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/819
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/820
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/821
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Soccer Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Soccer Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/822
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",US: NHL Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21002
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/823
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/824
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBA
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/826
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/827
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL NOW" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL NOW
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/828
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/829
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Red Zone" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Red Zone
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/830
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: CBS Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: CBS Sports
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/831
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/832
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/833
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/834
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/835
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/836
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Washington" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Washington
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/837
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Bay Area" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Bay Area
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/838
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Los Angeles" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Los Angeles
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/839
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Arizona" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Arizona
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/841
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Golf
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/842
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MLB Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MLB Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/847
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet One" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet One
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/849
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet 360" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet 360
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/850
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Willow Cricket" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Willow Cricket
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/851
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TyC Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TyC Sports
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/852
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Tennis Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Tennis Channel
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/853
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: WWE Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: WWE Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/854
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FightBox" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FightBox
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/856
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Chicago" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Chicago
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/888
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MSNBC" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MSNBC
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/889
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet World
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/891
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet Ontario" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet Ontario
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/892
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/894
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/895
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Six " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Six 
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/898
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: BoxNation" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: BoxNation
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/855
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Fight Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/859
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: De: Motorvision" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: De: Motorvision
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/857
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Channel World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Channel World
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/858
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/860
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport tv NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport tv NBA
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/861
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK:  At The Races
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/862
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Racing
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/863
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/864
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/865
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Racing UK" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Racing UK
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/866
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Network
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/867
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: MotorSport TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: MotorSport TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/868
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13226
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13227
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13228
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/873
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/870
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/871
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/872
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/874
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/875
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/876
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/877
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/878
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/879
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/880
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/881
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/882
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/883
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/900
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/901
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/902
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/903
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 5" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/904
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/911
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport 1 Voetbal" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport 1 Voetbal
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/905
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Select" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Select
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/906
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Racing
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/907
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport  Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport  Golf
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/908
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport Extra 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport Extra 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/909
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport Extra 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport Extra 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/910
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39149
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39150
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39151
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39152
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39153
+#EXTINF:-1 tvg-id="" tvg-name="Sport: NL: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: NL: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39155
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/912
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/913
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/914
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/915
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sporting TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sporting TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/916
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/917
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/918
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/919
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/920
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/921
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1468
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1469
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1470
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1471
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 5
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1472
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: RO: EuroSport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/922
+#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: London Live
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/429
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: UFC Fight PASS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: UFC Fight PASS
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/923
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Polsat Sport Extra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Polsat Sport Extra
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/926
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/927
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Canal Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Canal Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/928
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/929
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Fight Channel
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/931
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: TVP Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: TVP Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/932
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: FightClub" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: FightClub
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/933
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/934
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/935
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/936
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/937
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Nova Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Nova Sport
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/938
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Ring TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Ring TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/940
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Sport Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Sport Plus
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/941
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21530
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21531
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: EuroSport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: EuroSport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/942
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Barca TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Barca TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/943
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Real Madrid TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Real Madrid TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/944
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Movistar LaLiga" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Movistar LaLiga
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/945
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: beINSport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: beINSport  
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/946
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: M Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: M Golf
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/949
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fox Sports News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fox Sports News
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/950
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: MovieStar Futbol" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: MovieStar Futbol
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/951
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Gol TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Gol TV
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/952
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Motor Trend" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Motor Trend
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/953
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: La  Liga Bar" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: La  Liga Bar
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/954
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1733
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1734
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1735
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1736
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/955
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 2
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/956
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 3
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/957
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 4
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/958
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: OWN" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: OWN
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/959
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN U" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN U
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/961
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 1
+http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/960
