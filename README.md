@@ -482,388 +482,312 @@ http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4627
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38560
 #EXTINF:-1 tvg-id="" tvg-name="AL: Episode FHD" tvg-logo="http://falcon.ac:5000/images/alb/episodefhd.png" group-title="**** Albania Seriale ****",AL: Episode FHD
 http://eurobest.top:5000/Gloria_tv/dFyMMnKb/91079
-#EXTINF:-1 tvg-id="Film Thriller" tvg-name="AL: Film Thriller" tvg-logo="http://falcon.ac:5000/images/filmthriller.png" group-title="**** Albania Film ****",AL: Film Thriller
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/930
-#EXTINF:-1 tvg-id="Film Komedi" tvg-name="AL: Film Komedi" tvg-logo="http://falcon.ac:5000/images/filmkomedi.png" group-title="**** Albania Film ****",AL: Film Komedi
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/907
-#EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold HD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/931
-#EXTINF:-1 tvg-id="Max HD" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/932
-#EXTINF:-1 tvg-id="Film Drame" tvg-name="AL: Film Drame" tvg-logo="http://falcon.ac:5000/images/filmdrama.png" group-title="**** Albania Film ****",AL: Film Drame
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/928
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://falcon.ac:5000/images/filmautor.png" group-title="**** Albania Film ****",AL: Film Autor
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/929
-#EXTINF:-1 tvg-id="Stinet" tvg-name="AL: Stinet" tvg-logo="http://falcon.ac:5000/images/stinet.png" group-title="**** Albania Film ****",AL: Stinet
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/916
-#EXTINF:-1 tvg-id="Family HD" tvg-name="AL: Family HD" tvg-logo="http://falcon.ac:5000/images/family.png" group-title="**** Albania Film ****",AL: Family HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/11076
-#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="AL: Jolly HD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/896
-#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super FHD" tvg-logo="http://falcon.ac:5000/images/tringsuper.png" group-title="**** Albania Film ****",AL: Tring Super FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/871
-#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy" tvg-logo="http://falcon.ac:5000/images/tringfantasy.png" group-title="**** Albania Film ****",AL: Tring Fantasy
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/882
-#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy HD" tvg-logo="http://falcon.ac:5000/images/tringcomedy.png" group-title="**** Albania Film ****",AL: Tring Comedy HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/16061
-#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip" tvg-logo="http://falcon.ac:5000/images/tringshqip.png" group-title="**** Albania Film ****",AL: Tring Shqip
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/877
-#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life" tvg-logo="http://falcon.ac:5000/images/tringlife.png" group-title="**** Albania Film ****",AL: Tring Life
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/880
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 1 HD" tvg-logo="http://falcon.ac:5000/images/albmovie.png" group-title="**** Albania Film ****",AL: OneP. Prime 1 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4634
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 3 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 3 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/2056
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 2 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 2 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4636
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 1 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134264
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134265
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 3 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134266
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 4 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134267
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 5 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 5 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134268
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 6 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Premium 6 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134269
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134262
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror 24 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Horror 24 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134263
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Action FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Action FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134270
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Aventur FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Aventur FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134272
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Biografi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Biografi FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134273
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Drama FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134274
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Familjar FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Familjar FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134275
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Fantasy FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Fantasy FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134276
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Histori FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Histori FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134277
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Komedi FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Komedi FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134278
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Krim FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Krim FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134279
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Mister FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Mister FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134280
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Netflix FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134281
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Netflix 24 FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Netflix 24 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134282
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Romance FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Romance FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134283
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Thriller FHD" tvg-logo="http://falcon.ac:5000/images/alb/filma24fhd.png" group-title="**** Albania Film ****",AL: Filma24 Thriller FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/134284
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144968
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144969
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144970
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144971
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 4 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Prime 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147081
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 2 FHD" tvg-logo="http://darkpower.art:8080/images/f41c849d883adcd86462f8a857b649a0.png" group-title="**** Albania Film ****",AL: Dark Prime 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147486
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 11 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 11 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147555
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 12 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 12 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147556
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 14 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 14 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147557
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 15 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 15 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147558
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 16 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 16 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147559
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 17 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 17 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147560
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 18 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="**** Albania Film ****",AL: EB Premiere Select 18 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147561
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89943
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Sci-Fi FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Sci-Fi FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89944
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Gold 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89945
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Comedy FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Comedy FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89946
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Drama FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Drama FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89947
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Romance FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Romance FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89948
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Aktion FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Aktion FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89952
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Thriller FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Thriller FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89954
-#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Adventure FHD" tvg-logo="http://falcon.ac:5000/images/created123/falconcinema.png" group-title="**** Albania Film ****",AL: Falcon Cinema Adventure FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89977
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Novela" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Novela
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187511
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Fantasy" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Fantasy
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187510
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Drame" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Drame
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187509
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Comedy" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë  Comedy
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187508
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Aksion
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187507
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip" tvg-logo="" group-title="**** Albania Film ****",AL: Tëvë Shqip
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187506
-#EXTINF:-1 tvg-id="Gold HD" tvg-name="AL: Film Gold FHD" tvg-logo="http://falcon.ac:5000/images/alb/goldhd.png" group-title="**** Albania Film ****",AL: Film Gold FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12247
-#EXTINF:-1 tvg-id="Max HD" tvg-name="AL: Film Max FHD" tvg-logo="http://falcon.ac:5000/images/alb/MaxHD.png" group-title="**** Albania Film ****",AL: Film Max FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/12246
-#EXTINF:-1 tvg-id="Film Hits" tvg-name="AL: Film Hits HD" tvg-logo="http://falcon.ac:5000/images/filmhits.png" group-title="**** Albania Film ****",AL: Film Hits HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/925
-#EXTINF:-1 tvg-id="Film Aksion" tvg-name="AL: Film Aksion HD" tvg-logo="http://falcon.ac:5000/images/filmaksion.png" group-title="**** Albania Film ****",AL: Film Aksion HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/906
-#EXTINF:-1 tvg-id="FOX Life" tvg-name="AL: Fox Life" tvg-logo="http://falcon.ac:5000/images/alb/foxlifehd.png" group-title="**** Albania Film ****",AL: Fox Life
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/897
-#EXTINF:-1 tvg-id="FOX" tvg-name="AL: Fox HD" tvg-logo="http://falcon.ac:5000/images/alb/foxhd.png" group-title="**** Albania Film ****",AL: Fox HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/899
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOX Movies" tvg-logo="http://falcon.ac:5000/images/alb/foxmovies.png" group-title="**** Albania Film ****",AL: FOX Movies
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147079
-#EXTINF:-1 tvg-id="T HD" tvg-name="AL: T HD" tvg-logo="http://falcon.ac:5000/images/thd.png" group-title="**** Albania Film ****",AL: T HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/915
-#EXTINF:-1 tvg-id="INTV" tvg-name="AL: IN tv" tvg-logo="http://falcon.ac:5000/images/alb/intv.png" group-title="**** Albania Film ****",AL: IN tv
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147082
-#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38624
-#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: ACTV
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101751
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Drame HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101752
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Komedi HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101753
-#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller HD" tvg-logo="http://falcon.ac:5000/images/alb/8ova.png" group-title="**** Albania Film ****",AL: 8ova Thriller HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/101754
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2 ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/artkino2.png" group-title="**** Albania Film ****",AL: Art Kino 2 ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38558
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3 ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/artkino3.png" group-title="**** Albania Film ****",AL: Art Kino 3 ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38559
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arti TV" tvg-logo="http://falcon.ac:5000/images/albmovie.png" group-title="**** Albania Film ****",AL: Arti TV
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4635
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cine 1" tvg-logo="http://falcon.ac:5000/images/alb/cinestartv1.png" group-title="**** Albania Film ****",AL: Cine 1
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146687
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cine 2" tvg-logo="http://falcon.ac:5000/images/alb/cinestartv2hd.png" group-title="**** Albania Film ****",AL: Cine 2
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146688
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/91081
-#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Cinema FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/6698
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146701
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144499
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146478
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144498
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 3 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Gold 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146477
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 3 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144497
-#EXTINF:-1 tvg-id="" tvg-name="AL: GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: GOLD HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110477
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILM GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: FILM GOLD HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110478
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110479
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 1 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 1 HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110480
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 3 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 3 HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110481
-#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 4 HD" tvg-logo="" group-title="**** Albania Film ****",ALB: DIGI GOLD 4 HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110482
-#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX EXTRA HD" tvg-logo="" group-title="**** Albania Film ****",ALB: FILMBOX EXTRA HD
-http://medotv.nl:8000/totocorono/fG2bBmbzRO/110484
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Gold 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/discoveryturboxtrahd.png" group-title="**** Albania Film ****",AL: Dark Gold 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146474
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 4 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark GOLD 4 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144496
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Max GOLD 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Max GOLD 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144492
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Max Gold 2 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Max Gold 2 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89278
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Prime 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/docuboxhd.png" group-title="**** Albania Film ****",AL: Dark Prime 3 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/147485
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Special FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Dark Special FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146476
-#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 2 HD" tvg-logo="http://falcon.ac:5000/images/eurofilm.png" group-title="**** Albania Film ****",AL: Euro Film 2 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38622
-#EXTINF:-1 tvg-id="" tvg-name="AL: Extream Premiere 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/epremiere3.png" group-title="**** Albania Film ****",AL: Extream Premiere 3 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/144490
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Arthouse HD" tvg-logo="http://falcon.ac:5000/images/alb/filmboxarthousehd.png" group-title="**** Albania Film ****",AL: Filmbox Arthouse HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53848
-#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Extra FHD" tvg-logo="http://falcon.ac:5000/images/alb/filmboxextrahd.png" group-title="**** Albania Film ****",AL: Filmbox Extra FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53849
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: First TV" tvg-logo="http://falcon.ac:5000/images/first.png" group-title="**** Albania Film ****",AL: First TV
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/917
-#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime" tvg-logo="http://falcon.ac:5000/images/alb/foxcrimehd.png" group-title="**** Albania Film ****",AL: Fox Crime
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/898
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion MAX" tvg-logo="http://falcon.ac:5000/images/shqiptvfilm.png" group-title="**** Albania Film ****",AL: Kinema Aksion MAX
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75361
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="http://falcon.ac:5000/images/shqiptvjeta.png" group-title="**** Albania Film ****",AL: Kinema Family
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75357
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Fantasy" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Fantasy
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75355
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Gold
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75354
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max ᴴᴰ" tvg-logo="http://falcon.ac:5000/images/shqiptvhindi.png" group-title="**** Albania Film ****",AL: Kinema Max ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75360
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Premier ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Premier ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75359
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Republika" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Republika
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74845
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Shqip ᴴᴰ" tvg-logo="" group-title="**** Albania Film ****",AL: Kinema Shqip ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74843
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kino 1 HD" tvg-logo="" group-title="**** Albania Film ****",AL: Kino 1 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187667
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star  Superman & Lois  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star  Superman & Lois  HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187829
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star  The Flash HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star  The Flash HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187837
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star El Chapo ᴴᴰ" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star El Chapo ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187836
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Film Shqip  HD" tvg-logo="https://i.imgur.com/ALHx8v2.png" group-title="**** Albania Film ****",AL: L-Star Film Shqip  HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187819
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Halo HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Halo HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187828
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star La Casa de Papel  HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star La Casa de Papel  HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187826
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 1  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 1  ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187830
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 2 ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 2 ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187831
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star NETFLIX 3  ᴴᴰ" tvg-logo="https://i.imgur.com/YVSjJrl.png" group-title="**** Albania Film ****",AL: L-Star NETFLIX 3  ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187832
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Peacemaker HD" tvg-logo="https://i.imgur.com/aR7X1NC.png" group-title="**** Albania Film ****",AL: L-Star Peacemaker HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187827
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 1 ᴴᴰ" tvg-logo="https://i.imgur.com/PMUUeOO.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 1 ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187817
-#EXTINF:-1 tvg-id="" tvg-name="AL: L-Star Popcorn 2 ᴴᴰ" tvg-logo="https://i.imgur.com/3KlY9sm.png" group-title="**** Albania Film ****",AL: L-Star Popcorn 2 ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/187818
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Aksion ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/1056220050920579152/1056221530062860398/20221224_154606_0000.png" group-title="**** Albania Film ****",AL: M Aksion ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192857
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Cinema ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976244231490404413/20220518_000538.png" group-title="**** Albania Film ****",AL: M Cinema ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192861
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Comedy ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/889950338851962900/20210921_210430.png" group-title="**** Albania Film ****",AL: M Comedy ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192865
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Epic ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976243578462412850/20220518_000312.png" group-title="**** Albania Film ****",AL: M Epic ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192863
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Film ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/773895800605638666/20201105_140526.png" group-title="**** Albania Film ****",AL: M Film ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192858
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Gold ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/939593589900599406/20220205_194828.png" group-title="**** Albania Film ****",AL: M Gold ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192859
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Horror ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/939593539816415312/20220205_194855.png" group-title="**** Albania Film ****",AL: M Horror ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192864
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Luftë ᴴᴰ" tvg-logo="https://media.discordapp.net/attachments/696720405800419360/976243403840974878/20220518_000237.png" group-title="**** Albania Film ****",AL: M Luftë ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192862
-#EXTINF:-1 tvg-id="" tvg-name="AL: M Max ᴴᴰ" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/939593572087373905/20220205_194840.png" group-title="**** Albania Film ****",AL: M Max ᴴᴰ
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192860
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aksion" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Aksion
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94480
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aventure" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Aventure
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94484
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Bud Spencer & Terence Hill" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Bud Spencer & Terence Hill
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94494
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Dwayne Johnson" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Dwayne Johnson
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94492
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Epik" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Epik
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94487
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantazi" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Fantazi
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94481
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Horror
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94483
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Jackie Chan
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94490
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Komedi" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Komedi
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94482
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Relaks FHD" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Relaks FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94488
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Romance
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94485
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Spider-Man" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Spider-Man
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94489
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Sylvester Stallone" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Sylvester Stallone
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94493
-#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Van Damme" tvg-logo="http://falcon.ac:5000/images/alb/netflix.png" group-title="**** Albania Film ****",AL: Netflix Van Damme
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/94491
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Aksion HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Aksion HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192841
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Best Of HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Best Of HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192839
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Classic HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Classic HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192844
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Collection HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Collection HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192840
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Extra HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Extra HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192836
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Family HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Family HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192845
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Filma Shqip HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Filma Shqip HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192847
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Horror HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Horror HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192846
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Komedi HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Komedi HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192843
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Netflix HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Netflix HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192838
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Premium HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Premium HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/192837
-#EXTINF:-1 tvg-id="" tvg-name="AL: OneP. Prime 4 HD" tvg-logo="" group-title="**** Albania Film ****",AL: OneP. Prime 4 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38623
-#EXTINF:-1 tvg-id="Digi Gold-AL" tvg-name="AL: Q  Premium 1 FHD" tvg-logo="" group-title="**** Albania Film ****",AL: Q  Premium 1 FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4619
-#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Cine" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Cine
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/74842
-#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Prime" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Prime
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/72198
-#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="" group-title="**** Albania Film ****",AL: StatiON Stars
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/910
-#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="http://falcon.ac:5000/images/shqiptvakcion.png" group-title="**** Albania Film ****",AL: StatiON Stars
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/79037
-#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Top" tvg-logo="http://falcon.ac:5000/images/shqiptvwestern.png" group-title="**** Albania Film ****",AL: StatiON Top
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/20873
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone1.png" group-title="**** Albania Film ****",AL: TELE one 1 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65242
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone2.png" group-title="**** Albania Film ****",AL: TELE one 2 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65243
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone3.png" group-title="**** Albania Film ****",AL: TELE one 3 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65244
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone4.png" group-title="**** Albania Film ****",AL: TELE one 4 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/65245
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 5 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone5.png" group-title="**** Albania Film ****",AL: TELE one 5 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89279
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 6 HD" tvg-logo="http://falcon.ac:5000/images/alb/teleone6.png" group-title="**** Albania Film ****",AL: TELE one 6 HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89280
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aksion HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Aksion HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89271
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aventure HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Aventure HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89270
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Crime HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Crime HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89272
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Drama HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Drama HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89273
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Epik HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one Epik HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89274
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one fantazi HD" tvg-logo="http://falcon.ac:5000/images/shqiptvhorror.png" group-title="**** Albania Film ****",AL: TELE one fantazi HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/75358
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one GOLD Collection HD" tvg-logo="" group-title="**** Albania Film ****",AL: TELE one GOLD Collection HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89277
-#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Action FHD" tvg-logo="http://falcon.ac:5000/images/tringaction.png" group-title="**** Albania Film ****",AL: Tring Action FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/879
-#EXTINF:-1 tvg-id="Tring Classic" tvg-name="AL: Tring Classics FHD" tvg-logo="http://falcon.ac:5000/images/tringclassic.png" group-title="**** Albania Film ****",AL: Tring Classics FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146014
-#EXTINF:-1 tvg-id="Tring Collection" tvg-name="AL: Tring Family HD" tvg-logo="http://falcon.ac:5000/images/alb/TringCollection.png" group-title="**** Albania Film ****",AL: Tring Family HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/142945
+#EXTINF:-1 tvg-id="" tvg-name="#### ALBANIA FILM CHANNELS ####" tvg-logo="" group-title="EX-YU⭐",#### ALBANIA FILM CHANNELS ####
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121505.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: FAMILY HD" tvg-logo="" group-title="EX-YU⭐",AL: FAMILY HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121506.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="" group-title="EX-YU⭐",AL: Film Stinet
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121507.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion FHD" tvg-logo="" group-title="EX-YU⭐",AL: Film Aksion FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121508.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="" group-title="EX-YU⭐",AL: Film Autor
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121509.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film drame" tvg-logo="" group-title="EX-YU⭐",AL: Film drame
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121510.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film MAX FHD" tvg-logo="" group-title="EX-YU⭐",AL: Film MAX FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121511.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 1" tvg-logo="" group-title="EX-YU⭐",AL: Film Gold 1
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121512.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits FHD" tvg-logo="" group-title="EX-YU⭐",AL: Film Hits FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121513.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="EX-YU⭐",AL: Film Komedi
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121514.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film NJE HD" tvg-logo="" group-title="EX-YU⭐",AL: Film NJE HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121515.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller" tvg-logo="" group-title="EX-YU⭐",AL: Film Thriller
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121516.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: ART Kino 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121517.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: ART Kino 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121518.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: ART Kino 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121519.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: DIGI GOLD 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121520.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: DIGI GOLD 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121521.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: DIGI GOLD 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121522.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIGI GOLD 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: DIGI GOLD 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121523.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121524.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121525.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121526.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121527.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One 5 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121528.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD." tvg-logo="" group-title="EX-YU⭐",AL: Tele One 6 HD.
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121529.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aksion HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Aksion HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121530.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Aventure HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Aventure HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121531.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Crime HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Crime HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121532.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Gold Collection HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Gold Collection HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121533.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Fantasy HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Fantasy HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121534.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Drama HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Drama HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121535.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Epik HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Epik HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121536.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Gags HD" tvg-logo="" group-title="EX-YU⭐",AL: Tele One Gags HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121537.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3" tvg-logo="" group-title="EX-YU⭐",AL: Tring 3
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121538.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus" tvg-logo="" group-title="EX-YU⭐",AL: Tring 3 Plus
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121539.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="EX-YU⭐",AL: Tring Comedy
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121540.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="EX-YU⭐",AL: Tring Fantasy
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121541.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Life HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121542.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="EX-YU⭐",AL: Tring Shqip
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121543.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Smile" tvg-logo="" group-title="EX-YU⭐",AL: Tring Smile
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121544.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Super HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121545.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring SERIES (JOLLY) HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring SERIES (JOLLY) HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121546.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Max" tvg-logo="" group-title="EX-YU⭐",AL: Tring Max
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121547.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="" group-title="EX-YU⭐",AL: Tring Action
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121548.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max" tvg-logo="" group-title="EX-YU⭐",AL: Sky Max
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121549.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY Novela" tvg-logo="" group-title="EX-YU⭐",AL: SKY Novela
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121550.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY HISTORI" tvg-logo="" group-title="EX-YU⭐",AL: SKY HISTORI
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121551.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY DRAMA" tvg-logo="" group-title="EX-YU⭐",AL: SKY DRAMA
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121552.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY AKSION" tvg-logo="" group-title="EX-YU⭐",AL: SKY AKSION
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121553.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi" tvg-logo="" group-title="EX-YU⭐",AL: Sky Komedi
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121554.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOX HD" tvg-logo="" group-title="EX-YU⭐",AL: FOX HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121555.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox" tvg-logo="" group-title="EX-YU⭐",AL: Fox
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121556.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime" tvg-logo="" group-title="EX-YU⭐",AL: Fox Crime
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121557.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Life" tvg-logo="" group-title="EX-YU⭐",AL: Fox Life
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121558.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Movies" tvg-logo="" group-title="EX-YU⭐",AL: Fox Movies
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121559.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama FHD" tvg-logo="" group-title="EX-YU⭐",AL: Kanal D Drama FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121560.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC" tvg-logo="" group-title="EX-YU⭐",AL: TDC
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121561.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode HD" tvg-logo="" group-title="EX-YU⭐",AL: Episode HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121562.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: STAR PLUS HD" tvg-logo="" group-title="EX-YU⭐",AL: STAR PLUS HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121563.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FILM" tvg-logo="" group-title="EX-YU⭐",AL: RTSH FILM
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121564.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 Family FHD" tvg-logo="" group-title="EX-YU⭐",AL: Filma24 Family FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121565.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Living FHD" tvg-logo="" group-title="EX-YU⭐",AL: Living FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121566.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: Euro Film 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121567.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: Euro Film 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121568.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: Euro Film 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121569.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: Euro Film 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121570.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: X PREMIUM 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121571.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: X PREMIUM 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121572.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X PREMIUM 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: X PREMIUM 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121573.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X SCI-FI HD" tvg-logo="" group-title="EX-YU⭐",AL: X SCI-FI HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121574.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X THRILLER HD" tvg-logo="" group-title="EX-YU⭐",AL: X THRILLER HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121575.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X COMEDY HD" tvg-logo="" group-title="EX-YU⭐",AL: X COMEDY HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121576.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X FAMILY HD" tvg-logo="" group-title="EX-YU⭐",AL: X FAMILY HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121577.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X HUMOR HD" tvg-logo="" group-title="EX-YU⭐",AL: X HUMOR HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121578.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: X Gold 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121579.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: X Gold 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121580.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: X Gold 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121581.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: X Gold 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121582.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Western FHD" tvg-logo="" group-title="EX-YU⭐",AL: X Western FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121583.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Aksion
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121584.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion MAX" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Aksion MAX
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121585.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 2" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Milenium 2
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121586.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 3" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Milenium 3
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121587.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema GOLD" tvg-logo="" group-title="EX-YU⭐",AL: Kinema GOLD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121588.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema DRAME" tvg-logo="" group-title="EX-YU⭐",AL: Kinema DRAME
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121589.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema PREMIER" tvg-logo="" group-title="EX-YU⭐",AL: Kinema PREMIER
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121590.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium HD" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Milenium HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121591.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Family
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121592.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 4" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Milenium 4
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121593.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Shqip" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Shqip
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121594.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Classics" tvg-logo="" group-title="EX-YU⭐",AL: Kinema Classics
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8OVA Thriller HD" tvg-logo="" group-title="EX-YU⭐",AL: 8OVA Thriller HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121596.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8OVA ACTION HD" tvg-logo="" group-title="EX-YU⭐",AL: 8OVA ACTION HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121597.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8OVA GJURME SHQIPTARE HD" tvg-logo="" group-title="EX-YU⭐",AL: 8OVA GJURME SHQIPTARE HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121598.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8OVA KOMEDI HD" tvg-logo="" group-title="EX-YU⭐",AL: 8OVA KOMEDI HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121599.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8OVA DRAME HD" tvg-logo="" group-title="EX-YU⭐",AL: 8OVA DRAME HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121600.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Humor 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: Alb Humor 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121601.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL:  ALB WESTERN" tvg-logo="" group-title="EX-YU⭐",AL:  ALB WESTERN
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121602.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Horror" tvg-logo="" group-title="EX-YU⭐",AL: KS Filma24 Horror
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121603.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Thriller" tvg-logo="" group-title="EX-YU⭐",AL: Alb Thriller
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121604.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim" tvg-logo="" group-title="EX-YU⭐",AL: KS Filma24 Krim
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121605.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: MAX PREMIER 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: MAX PREMIER 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121606.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: Dark Netflix 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121607.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Thriller FHD" tvg-logo="" group-title="EX-YU⭐",AL: Dark Thriller FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121608.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: Dark GOLD 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121609.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121610.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121611.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121612.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 5 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 5 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121613.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 6 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 6 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121614.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 7 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 7 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121615.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK GOLD 8 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK GOLD 8 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121616.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Premiere 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: KS Premiere 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121617.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister" tvg-logo="" group-title="EX-YU⭐",AL: KS Filma24 Mister
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121618.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: MAX PREMIER 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: MAX PREMIER 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121619.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Comedy HD" tvg-logo="" group-title="EX-YU⭐",AL: KS Comedy HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121620.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: kS premiere 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: kS premiere 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121621.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS DRAMA FHD" tvg-logo="" group-title="EX-YU⭐",AL: KS DRAMA FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121622.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Horror FHD" tvg-logo="" group-title="EX-YU⭐",AL: KS Horror FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121623.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: MAX PREMIER 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: MAX PREMIER 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121624.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Romance" tvg-logo="" group-title="EX-YU⭐",AL: KS Filma24 Romance
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121625.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Stupcat FHD" tvg-logo="" group-title="EX-YU⭐",AL: KS Stupcat FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121626.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aventure HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Aventure HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121627.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Bud Spencer & Terence Hill HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Bud Spencer & Terence Hill HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121628.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Dwayne Johnson HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Dwayne Johnson HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121629.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Epik HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Epik HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121630.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantazi HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Fantazi HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121631.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femije HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Femije HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121632.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Horror HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121633.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Jackie Chan HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121634.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Komedi FHD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Komedi FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121635.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Relaks FHD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Relaks FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121636.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Spider Man HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Spider Man HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121637.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Sylvester Stallone HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Sylvester Stallone HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121638.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Van Damme HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Van Damme HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121639.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Arnold Schwarzenegger HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Arnold Schwarzenegger HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121640.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aksion FHD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Aksion FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121641.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance HD" tvg-logo="" group-title="EX-YU⭐",AL: Netflix Romance HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121642.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FAMILY" tvg-logo="" group-title="EX-YU⭐",AL: TRING FAMILY
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121643.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Internacional FHD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Internacional FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121644.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film" tvg-logo="" group-title="EX-YU⭐",AL: Euro Film
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121645.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK FARA E FLLIQT FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK FARA E FLLIQT FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121646.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK NETFLIX 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK NETFLIX 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121647.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK NETFLIX 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK NETFLIX 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121648.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK NETFLIX 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK NETFLIX 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK NETFLIX 5 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK NETFLIX 5 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121650.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK iSTAR SERIALI FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK iSTAR SERIALI FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121651.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK PRIME 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK PRIME 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121652.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK PRIME 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK PRIME 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121653.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK PRIME 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK PRIME 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121654.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: DARK PRIME 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: DARK PRIME 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121655.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM FAMILY FHD" tvg-logo="" group-title="EX-YU⭐",AL: FILM FAMILY FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121656.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING CLASSIC HD" tvg-logo="" group-title="EX-YU⭐",AL: TRING CLASSIC HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121657.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/873
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
