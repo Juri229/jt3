@@ -6056,5 +6056,99 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1649
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1653
 #EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/number1_turk_tv.jpg" group-title="★ Türkiye",TR: NR 1 Turk
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1654
+#EXTINF:-1 tvg-id="" tvg-name="#### ALBANIA SPORT CHANNELS ####" tvg-logo="" group-title="EX-YU⭐",#### ALBANIA SPORT CHANNELS ####
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121658.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport News HD" tvg-logo="" group-title="EX-YU⭐",AL: Super Sport News HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121659.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121660.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121661.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121662.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121663.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121664.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121665.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121666.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121667.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 5 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121668.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 5 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121669.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 6 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 6 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121670.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 7 FHD" tvg-logo="" group-title="EX-YU⭐",AL: SUPER SPORT 7 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121671.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Sport News HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121672.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Sport 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121673.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: TRING SPORT 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121674.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Sport 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121675.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: TRING SPORT 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121676.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Sport 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121677.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: TRING SPORT 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121678.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: Tring Sport 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121679.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: TRING SPORT 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121680.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 1 HD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 1 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121681.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 2 HD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 2 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121682.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 3 HD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 3 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121683.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 4 HD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 4 HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121684.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: ART SPORT 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121685.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: ART SPORT 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121686.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: ART SPORT 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121687.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 FHD" tvg-logo="" group-title="EX-YU⭐",AL: Art Sport 5 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121688.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 FHD" tvg-logo="" group-title="EX-YU⭐",AL: Art Sport 6 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121689.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SPORT FHD" tvg-logo="" group-title="EX-YU⭐",AL: RTSH SPORT FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121690.ts
+#EXTINF:-1 tvg-id="" tvg-name="KS: Super Sport Kosova 1" tvg-logo="" group-title="EX-YU⭐",KS: Super Sport Kosova 1
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121691.ts
+#EXTINF:-1 tvg-id="" tvg-name="KS: Super Sport Kosova 2" tvg-logo="" group-title="EX-YU⭐",KS: Super Sport Kosova 2
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121692.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 1" tvg-logo="" group-title="EX-YU⭐",AL: Eurosport 1
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121693.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 2" tvg-logo="" group-title="EX-YU⭐",AL: Eurosport 2
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121694.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: OVERSPORT 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121695.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: OVERSPORT 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121696.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: OVERSPORT 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121697.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: OVERSPORT 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121698.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: ART SPORT 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121699.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box HD" tvg-logo="" group-title="EX-YU⭐",AL: Fight Box HD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121700.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 1 FHD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121701.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 2 FHD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121702.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 3 FHD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 3 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121703.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 4 FHD" tvg-logo="" group-title="EX-YU⭐",AL: KUJTESA SPORT 4 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121704.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1655
