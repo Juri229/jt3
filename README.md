@@ -5752,3 +5752,33 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1653
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1654
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1655
+#EXTINF:-1 tvg-id="" tvg-name="=============== Sport ===============" tvg-logo="" group-title="ALBANIA-KOSOVA",=============== Sport ===============
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104085
+#EXTINF:-1 tvg-id="" tvg-name="Sport AL 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/smart/width/386/height/259?cb=20160805101035" group-title="ALBANIA-KOSOVA",Sport AL 1
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104086
+#EXTINF:-1 tvg-id="" tvg-name="Sport AL 2" tvg-logo="http://saturn.dyndns.tv:80/images/w2OmUTQjO-I0KUNmdTsdrYlyY2T5cI93_bhKvQrFQTcmWdOwbT_UFSJm2iNnX0GGbeU38uR-CFlD977yq80Q9TzzMZEAYzlV5B5mdsPm3yQ.jpg" group-title="ALBANIA-KOSOVA",Sport AL 2
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104087
+#EXTINF:-1 tvg-id="" tvg-name="Sport AL 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/SS3-Albania.jpg/revision/latest/smart/width/386/height/259?cb=20160805102748" group-title="ALBANIA-KOSOVA",Sport AL 3
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104088
+#EXTINF:-1 tvg-id="" tvg-name="Sport AL 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/SS4-Albania.jpg/revision/latest?cb=20160805103409" group-title="ALBANIA-KOSOVA",Sport AL 4
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104089
+#EXTINF:-1 tvg-id="" tvg-name="Sport AL 5" tvg-logo="" group-title="ALBANIA-KOSOVA",Sport AL 5
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104090
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="https://i.goalzz.com/?i=anis%2F2018%2F08%2Ftrings1.gif" group-title="ALBANIA-KOSOVA",Tring Sport 1
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104091
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="http://saturn.dyndns.tv:80/images/Lv5W6zgXRVQeDlxljhrqh9wshHJOkyzUW99XBN3NlxzHktEA8W4VRkQQi2dUrJvXe_kWxDw6r2wzoKCLO7zKmSsZ0tDaiatHbp5vnKLp8VQ.png" group-title="ALBANIA-KOSOVA",Tring Sport 3
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104092
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2" tvg-logo="http://saturn.dyndns.tv:80/images/lO4I6ENDRiY1iG64O8qqg44RvPdhgK0ZtdXceQWDIxD3NYpb3a4UlNu-XrRZAl4Acta91n6UEtRna93iQHqpNTOSC813gbjCmDAxkwMSXmB-FgdfDYW1viPILXYN2L0gB9A2EjIy0P8bksEay5VztnZiBPQZIcp4VKQxDjucR66Z9SCaRu-A8p2YSLY3lWu9.png" group-title="ALBANIA-KOSOVA",Tring Sport 2
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104093
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4" tvg-logo="" group-title="ALBANIA-KOSOVA",Tring Sport 4
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104094
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/29/ca/2429cad5-c832-5169-3526-794ac7ddfa1e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="ALBANIA-KOSOVA",BT Sport 1 HD
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104095
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/29/ca/2429cad5-c832-5169-3526-794ac7ddfa1e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="ALBANIA-KOSOVA",BT Sport 2 HD
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104096
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/29/ca/2429cad5-c832-5169-3526-794ac7ddfa1e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="ALBANIA-KOSOVA",BT Sport 3 HD
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104097
+#EXTINF:-1 tvg-id="" tvg-name="SS Kosova 1" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 1
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104098
+#EXTINF:-1 tvg-id="" tvg-name="SS Kosova 2" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 2
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104099
