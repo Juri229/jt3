@@ -5752,7 +5752,7 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1653
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1654
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1655
-#EXTINF:-1 tvg-id="" tvg-name="=============== Sport ===============" tvg-logo="" group-title="ALBANIA-KOSOVA",=============== Sport ===============
+#EXTINF:-1 tvg-id="" tvg-name="=============== Sport ===============" tvg-logo="" group-title"Sporte shqip",=============== Sport ===============
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104085
 #EXTINF:-1 tvg-id="" tvg-name="Sport AL 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/smart/width/386/height/259?cb=20160805101035" group-title="ALBANIA-KOSOVA",Sport AL 1
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104086
