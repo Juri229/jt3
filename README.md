@@ -5612,146 +5612,6 @@ http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1105
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1106
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 1
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/960
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt1.jpg" group-title="★ Türkiye",TR: TRT 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/184
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_haber.jpg" group-title="★ Türkiye",TR: TRT Haber
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/185
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="" group-title="★ Türkiye",TR: TGRT Haber
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/186
-#EXTINF:-1 tvg-id="" tvg-name="TR:  Kemal Sunal" tvg-logo="" group-title="★ Türkiye",TR:  Kemal Sunal
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/187
-#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnn_turk.jpg" group-title="★ Türkiye",TR: CNN Turk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/188
-#EXTINF:-1 tvg-id="" tvg-name="TR: HaberTurk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/haber_turk.jpg" group-title="★ Türkiye",TR: HaberTurk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/189
-#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_tv_tr_hd.jpg" group-title="★ Türkiye",TR: STAR TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/190
-#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo-thumbnail.png" group-title="★ Türkiye",TR: Show TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/191
-#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/show_max.jpg" group-title="★ Türkiye",TR: Show Max
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/192
-#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ Türkiye",TR: History Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/193
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="★ Türkiye",TR: Kanal D
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/194
-#EXTINF:-1 tvg-id="" tvg-name="TR:  ATV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_turkiye.jpg" group-title="★ Türkiye",TR:  ATV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/195
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_avrupa.jpg" group-title="★ Türkiye",TR: ATV Avrupa
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/196
-#EXTINF:-1 tvg-id="" tvg-name="TR: EuroStar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euro_star.jpg" group-title="★ Türkiye",TR: EuroStar
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/197
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="★ Türkiye",TR: TV8
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/198
-#EXTINF:-1 tvg-id="" tvg-name="TR: NR1" tvg-logo="" group-title="★ Türkiye",TR: NR1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/199
-#EXTINF:-1 tvg-id="" tvg-name="TR: HULUSI KENTMEN" tvg-logo="" group-title="★ Türkiye",TR: HULUSI KENTMEN
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/200
-#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="★ Türkiye",TR: DMAX
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/201
-#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" tvg-logo="" group-title="★ Türkiye",TR: TGRT Belgesel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/203
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kral_pop_tv.jpg" group-title="★ Türkiye",TR: Kral Pop
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/205
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kral_tv.jpg" group-title="★ Türkiye",TR: Kral TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/206
-#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Muzik" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_muzik.jpg" group-title="★ Türkiye",TR: Trt Muzik
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/207
-#EXTINF:-1 tvg-id="FOX FHD TR" tvg-name="TR: FOX TV" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="★ Türkiye",TR: FOX TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/208
-#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="★ Türkiye",TR: TLC
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/209
-#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_tr.jpg" group-title="★ Türkiye",TR: National Geographic
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/210
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="" group-title="★ Türkiye",TR: beIN Movies Premiere 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/212
-#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 1" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/213
-#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 2" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/214
-#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 3" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/215
-#EXTINF:-1 tvg-id="" tvg-name="TR: Game of Thrones 7/24" tvg-logo="" group-title="★ Türkiye",TR: Game of Thrones 7/24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39588
-#EXTINF:-1 tvg-id="" tvg-name="TR: Aşkı Memnu 7/24" tvg-logo="" group-title="★ Türkiye",TR: Aşkı Memnu 7/24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39592
-#EXTINF:-1 tvg-id="" tvg-name="TR: Diriliş Ertuğrul 7/24" tvg-logo="" group-title="★ Türkiye",TR: Diriliş Ertuğrul 7/24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39593
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sokağın Çocukları 7/24" tvg-logo="" group-title="★ Türkiye",TR: Sokağın Çocukları 7/24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39596
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN Series Comedy" tvg-logo="" group-title="★ Türkiye",TR: BEiN Series Comedy
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/216
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ Türkiye",TR: Discovery Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/217
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ Türkiye",TR: Nat Geo Wild
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/219
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal Kanal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ulusal_kanal.jpg" group-title="★ Türkiye",TR: Ulusal Kanal
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/220
-#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/d_tay_tv.jpg" group-title="★ Türkiye",TR: Discovery Science
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/221
-#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth" tvg-logo="" group-title="★ Türkiye",TR: BBC Earth
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/222
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN MOVIES ACTION
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/223
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: MOVIE SMART TURK
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/224
-#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Classic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: MovieSmart Classic
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/225
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN Movies Family
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/226
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5" tvg-logo="" group-title="★ Türkiye",TR: TV 8.5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/227
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein MovieSmart Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: Bein MovieSmart Turk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/228
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN MOVIES ACTION 2 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/230
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ Türkiye",TR: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/234
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 TV" tvg-logo="" group-title="★ Türkiye",TR: A2 TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/236
-#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Cocuk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_cocuk.jpg" group-title="★ Türkiye",TR: Trt Cocuk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/237
-#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/beyaz_tv.jpg" group-title="★ Türkiye",TR: Beyaz TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/239
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal7_tr.jpg" group-title="★ Türkiye",TR: Kanal 7
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/351
-#EXTINF:-1 tvg-id="" tvg-name="TR: DiZi SMART MAX" tvg-logo="" group-title="★ Türkiye",TR: DiZi SMART MAX
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1631
-#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM" tvg-logo="" group-title="★ Türkiye",TR: DIZI SMART PREMIUM
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1632
-#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV YERLI" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sinema_tv2.jpg" group-title="★ Türkiye",TR: SINEMA TV YERLI
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1633
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere 1" tvg-logo="" group-title="★ Türkiye",TR: beIN Movies Premiere 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1634
-#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Kitchen" tvg-logo="" group-title="★ Türkiye",TR: 24 Kitchen
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1636
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber" tvg-logo="" group-title="★ Türkiye",TR: A Haber
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1637
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Para" tvg-logo="" group-title="★ Türkiye",TR: A Para
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1638
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg HT" tvg-logo="" group-title="★ Türkiye",TR: Bloomberg HT
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1639
-#EXTINF:-1 tvg-id="" tvg-name="TR: EkoTurk" tvg-logo="" group-title="★ Türkiye",TR: EkoTurk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1640
-#EXTINF:-1 tvg-id="" tvg-name="TR: Trt World" tvg-logo="" group-title="★ Türkiye",TR: Trt World
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1643
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Kurdi" tvg-logo="" group-title="★ Türkiye",TR: TRT Kurdi
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1644
-#EXTINF:-1 tvg-id="" tvg-name="TR : TRT Avaz" tvg-logo="" group-title="★ Türkiye",TR : TRT Avaz
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1645
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_diyanet_tr.jpg" group-title="★ Türkiye",TR: TRT Diyanet
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1646
-#EXTINF:-1 tvg-id="" tvg-name="TR: ER TV" tvg-logo="" group-title="★ Türkiye",TR: ER TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1647
-#EXTINF:-1 tvg-id="" tvg-name="TR: SERTAB ERENER MUZIKLERI" tvg-logo="" group-title="★ Türkiye",TR: SERTAB ERENER MUZIKLERI
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1648
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="" group-title="★ Türkiye",TR: TRT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1649
-#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/power_turk_tv.jpg" group-title="★ Türkiye",TR: Power Turk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1653
-#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/number1_turk_tv.jpg" group-title="★ Türkiye",TR: NR 1 Turk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1654
-#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1655
 #EXTINF:-1 tvg-id="" tvg-name="=============== Sport ===============" tvg-logo="" group-title"Sporte shqip",=============== Sport ===============
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104085
 #EXTINF:-1 tvg-id="" tvg-name="Sport AL 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/smart/width/386/height/259?cb=20160805101035" group-title="ALBANIA-KOSOVA",Sport AL 1
@@ -5781,4 +5641,253 @@ http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104097
 #EXTINF:-1 tvg-id="" tvg-name="SS Kosova 1" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 1
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104098
 #EXTINF:-1 tvg-id="" tvg-name="SS Kosova 2" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 2
-http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104099
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104099#EXTINF:-1 tvg-ID="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turk Channel",TR: ATV HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/826
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES 1 HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES 1 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50148
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES 3 HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES 3 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50799
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES 2 HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES 2 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50146
+#EXTINF:-1 tvg-ID="" tvg-name="TR: BEIN SERIES COMEDY HD" tvg-logo="" group-title="Turk Channel",TR: BEIN SERIES COMEDY HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50147
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN IZ TV" tvg-logo="" group-title="Turk Channel",TR: beIN IZ TV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48274
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN Movies Family HD" tvg-logo="" group-title="Turk Channel",TR: beIN Movies Family HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1553
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Kanal D HD" tvg-logo="" group-title="Turk Channel",TR: Kanal D HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1646
+#EXTINF:-1 tvg-ID="" tvg-name="TR: Euro D" tvg-logo="" group-title="Turk Channel",TR: Euro D
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48384
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Digi Gold 3 HD" tvg-logo="" group-title="Albanie Channel",AL: Digi Gold 3 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52060
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Digi Gold 4 HD" tvg-logo="" group-title="Albanie Channel",AL: Digi Gold 4 HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52061
+#EXTINF:-1 tvg-ID="" tvg-name="AL: MetiTV Music" tvg-logo="" group-title="Albanie Channel",AL: MetiTV Music
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47153
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Explorer Histori" tvg-logo="" group-title="Albanie Channel",AL: Explorer Histori
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47152
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Explorer Natyra" tvg-logo="" group-title="Albanie Channel",AL: Explorer Natyra
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47151
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Explorer Shkenca" tvg-logo="" group-title="Albanie Channel",AL: Explorer Shkenca
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47150
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Aksion" tvg-logo="" group-title="Albanie Channel",AL: Film Aksion
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1397
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Autor" tvg-logo="" group-title="Albanie Channel",AL: Film Autor
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47148
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film drama HD" tvg-logo="" group-title="Albanie Channel",AL: Film drama HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47142
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Dy HD" tvg-logo="" group-title="Albanie Channel",AL: Film Dy HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1394
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Gold" tvg-logo="" group-title="Albanie Channel",AL: Film Gold
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47145
+#EXTINF:-1 tvg-ID="" tvg-name="AL: ISTOGU CHANNEL HD" tvg-logo="" group-title="Albanie Channel",AL: ISTOGU CHANNEL HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47143
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Hits" tvg-logo="" group-title="Albanie Channel",AL: Film Hits
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1393
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="Albanie Channel",AL: Film Komedi
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47139
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Nje HD" tvg-logo="" group-title="Albanie Channel",AL: Film Nje HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47138
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Stinet" tvg-logo="" group-title="Albanie Channel",AL: Film Stinet
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47137
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Film Thriller" tvg-logo="" group-title="Albanie Channel",AL: Film Thriller
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1388
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Jolly HD" tvg-logo="" group-title="Albanie Channel",AL: Jolly HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47132
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Junior TV" tvg-logo="" group-title="Albanie Channel",AL: Junior TV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47130
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring 3+" tvg-logo="" group-title="Albanie Channel",AL: Tring 3+
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1310
+#EXTINF:-1 tvg-ID="" tvg-name="Al: Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="Albanie Channel",Kanal D Drama
+http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104035
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring turkish" tvg-logo="" group-title="Albanie Channel",AL: Tring turkish
+http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/117
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Action HD" tvg-logo="" group-title="Albanie Channel",AL: Tring Action HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1305
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="Albanie Channel",AL: Tring Comedy
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1309
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="Albanie Channel",AL: Tring Fantasy
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1308
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Histori" tvg-logo="" group-title="Albanie Channel",AL: Tring Histori
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1307
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Jolly HD" tvg-logo="" group-title="Albanie Channel",AL: Tring Jolly HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1386
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Life" tvg-logo="" group-title="Albanie Channel",AL: Tring Life
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1385
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Planet" tvg-logo="" group-title="Albanie Channel",AL: Tring Planet
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1304
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="Albanie Channel",AL: Tring Shqip
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1303
+#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Smile" tvg-logo="" group-title="Albanie Channel",AL: Tring Smile
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47052
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTSH F�mij� HD" tvg-logo="" group-title="Albanie Channel",AL: RTSH F�mij� HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54656
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Kids Rritu dhe Meso Shqip 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Kids Rritu dhe Meso Shqip 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56253
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Kids Shqip 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Kids Shqip 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56254
+#EXTINF:-1 tvg-ID="" tvg-name="OnePlay Kids Dhelpera" tvg-logo="" group-title="Albanie Channel",OnePlay Kids Dhelpera
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56255
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Tom&Jerry 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Tom&Jerry 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56256
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Mickey Mouse 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Mickey Mouse 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56257
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Masha&Bear 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Masha&Bear 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56258
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Peppa Pig 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Peppa Pig 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56259
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay BabyShark 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay BabyShark 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56260
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Vlad&Niki 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Vlad&Niki 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56261
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Diana Show 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Diana Show 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56262
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Nastya 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Nastya 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56263
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Paw Patrol 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Paw Patrol 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56264
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Pj Masks 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Pj Masks 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56265
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Bloopies 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Bloopies 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56266
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay SpongeBob 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay SpongeBob 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56267
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Pets 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Pets 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56268
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Spidey 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Spidey 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56269
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Oddbods 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Oddbods 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56270
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Larva 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Larva 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56271
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Grizzy 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Grizzy 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56272
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Bob The Builder 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Bob The Builder 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56273
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay CloudBabies 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay CloudBabies 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56274
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay Cocomelon 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay Cocomelon 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56275
+#EXTINF:-1 tvg-ID="" tvg-name="AL: OnePlay BabyTV 4?" tvg-logo="" group-title="Albanie Channel",AL: OnePlay BabyTV 4?
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56276
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Family ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Family ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56277
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Premiere ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Premiere ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56278
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Oscars ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Oscars ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56279
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Aksion ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Aksion ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56280
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Drame ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Drame ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56281
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Aventure ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Aventure ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56282
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Romance ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Romance ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56283
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Biografi ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Biografi ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56284
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Krim ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Krim ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56285
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Triller ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Triller ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56286
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Mister ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Mister ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56287
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Horror ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Horror ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56288
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 SCI-Fi ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 SCI-Fi ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56289
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Western ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Western ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56290
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Animacion ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Animacion ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56291
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Hindi ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Hindi ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56292
+#EXTINF:-1 tvg-ID="" tvg-name="AL: KS Filma24 Aziatika ???" tvg-logo="" group-title="Albanie Channel",AL: KS Filma24 Aziatika ???
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/56293
+#EXTINF:-1 tvg-id="1244" tvg-name="3 Plus" tvg-logo="https://tvprofil.com/img/kanali-logo/Tring3TV.png" group-title="Albanie Channel",3 Plus
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1659
+#EXTINF:-1 tvg-id="1385" tvg-name="HBO" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/hbo-logo.png" group-title="Film & serije",HBO
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1385
+#EXTINF:-1 tvg-id="1384" tvg-name="HBO 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO2_b_p.png" group-title="Film & serije",HBO 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1384
+#EXTINF:-1 tvg-id="1383" tvg-name="HBO 3" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/HBO3_logo.png" group-title="Film & serije",HBO 3
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1383
+#EXTINF:-1 tvg-id="1382" tvg-name="CineStar TV" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",CineStar TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1382
+#EXTINF:-1 tvg-id="1381" tvg-name="CineStar Premiere" tvg-logo="http://caffe.link:25461/images/cb3272cef2e6fb58387c7e25d07adaee.png" group-title="Film & serije",CineStar Premiere
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1381
+#EXTINF:-1 tvg-id="1380" tvg-name="CineStar Premiere 2" tvg-logo="http://caffe.link:25461/images/3f709962dc81fefd67d71def236379e9.png" group-title="Film & serije",CineStar Premiere 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1380
+#EXTINF:-1 tvg-id="1377" tvg-name="Cinemax 1" tvg-logo="http://caffe.link:25461/images/a6b5ba80347e1fddf8660df8cb201c40.png" group-title="Film & serije",Cinemax 1
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1377
+#EXTINF:-1 tvg-id="1376" tvg-name="Cinemax 2" tvg-logo="http://caffe.link:25461/images/9cce6235ca31e849206127bf0a6c59e7.png" group-title="Film & serije",Cinemax 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1376
+#EXTINF:-1 tvg-id="1375" tvg-name="M1 Film" tvg-logo="http://caffe.link:25461/images/b2479cb301b7e0e67a2fd846750350b5.png" group-title="Film & serije",M1 Film
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1375
+#EXTINF:-1 tvg-id="1374" tvg-name="Kino TV" tvg-logo="http://caffe.link:25461/images/fbcbe07e312381f9ac5367b55865bde0.png" group-title="Film & serije",Kino TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1374
+#EXTINF:-1 tvg-id="3655" tvg-name="Film Klub" tvg-logo="http://caffe.link:25461/images/0689a376d8967ebca6e4ca289e9f7b73.png" group-title="Film & serije",Film Klub
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3655
+#EXTINF:-1 tvg-id="1373" tvg-name="FilmBox Extra" tvg-logo="http://nextgen-iptv.com/logo/filmbox.png" group-title="Film & serije",FilmBox Extra
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1373
+#EXTINF:-1 tvg-id="1371" tvg-name="Klasik TV" tvg-logo="http://epg.netsolutionpro.com/logo-tv/122.hr.png" group-title="Film & serije",Klasik TV
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1371
+#EXTINF:-1 tvg-id="1370" tvg-name="TV 1000" tvg-logo="http://epg.netsolutionpro.com/logo-tv/149.hr.png" group-title="Film & serije",TV 1000
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1370
+#EXTINF:-1 tvg-id="5387" tvg-name="DIVA" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/DIVA_ENGLISH_STACK_CORAL_RGB.png" group-title="Film & serije",DIVA
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5387
+#EXTINF:-1 tvg-id="1244" tvg-name="C mania" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinemania-logo.png" group-title="Film & serije",C mania
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5214
+#EXTINF:-1 tvg-id="5445" tvg-name="AXN Spin" tvg-logo="http://caffe.link:25461/images/7992919c8fac2b64ec57a6b68f45add4.png" group-title="Film & serije",AXN Spin
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/5445
+#EXTINF:-1 tvg-id="4827" tvg-name="AMC" tvg-logo="http://epg.netsolutionpro.com/logo-tv/155.hr.png" group-title="Film & serije",AMC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/4827
+#EXTINF:-1 tvg-id="1369" tvg-name="AXN" tvg-logo="http://caffe.link:25461/images/005d646fc58240959ccda3435c209b55.png" group-title="Film & serije",AXN
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1369
+#EXTINF:-1 tvg-id="1368" tvg-name="FOX" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-logo.png" group-title="Film & serije",FOX
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1368
+#EXTINF:-1 tvg-id="1367" tvg-name="FOX Movies" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox-movies-logo.png" group-title="Film & serije",FOX Movies
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1367
+#EXTINF:-1 tvg-id="1366" tvg-name="FOX Life" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_life_ru.png" group-title="Film & serije",FOX Life
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1366
+#EXTINF:-1 tvg-id="1365" tvg-name="FOX Crime" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/fox_crime_logo.png" group-title="Film & serije",FOX Crime
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1365
+#EXTINF:-1 tvg-id="1404" tvg-name="National Geographic" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1404
+#EXTINF:-1 tvg-id="1403" tvg-name="Discovery Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="Doku & Style",Discovery Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1403
+#EXTINF:-1 tvg-id="1402" tvg-name="History Channel" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/history-logo.png" group-title="Doku & Style",History Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1402
+#EXTINF:-1 tvg-id="1401" tvg-name="History Channel 2" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/H2_logo.png" group-title="Doku & Style",History Channel 2
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1401
+#EXTINF:-1 tvg-id="1400" tvg-name="Viasat Explore" tvg-logo="http://caffe.link:25461/images/78fc90bf0ef1af02fa73abb2b37403fc.png" group-title="Doku & Style",Viasat Explore
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1400
+#EXTINF:-1 tvg-id="1399" tvg-name="Viasat History" tvg-logo="http://caffe.link:25461/images/3ed399a4b1dee605b3b8b9a25b3a3f91.png" group-title="Doku & Style",Viasat History
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1399
+#EXTINF:-1 tvg-id="1396" tvg-name="Viasat Nature" tvg-logo="http://caffe.link:25461/images/9f66dbd204358af98ec59f5c3199a36f.png" group-title="Doku & Style",Viasat Nature
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1396
+#EXTINF:-1 tvg-id="1395" tvg-name="NatGeo Wild" tvg-logo="http://caffe.link:25461/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="Doku & Style",NatGeo Wild
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1395
+#EXTINF:-1 tvg-id="1394" tvg-name="Animal Planet" tvg-logo="http://caffe.link:25461/images/2ae20085ab28d1ecbb3a4ca4e797d483.png" group-title="Doku & Style",Animal Planet
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1394
+#EXTINF:-1 tvg-id="1386" tvg-name="Lov i Ribolov" tvg-logo="http://caffe.link:25461/images/b0702ed6a2111e2ade8dc6fd095a8e5d.png" group-title="Doku & Style",Lov i Ribolov
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1386
+#EXTINF:-1 tvg-id="1398" tvg-name="Travel Channel" tvg-logo="http://caffe.link:25461/images/28ddfc274d22ef447aa649aa103ed5fb.png" group-title="Doku & Style",Travel Channel
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1398
+#EXTINF:-1 tvg-id="3639" tvg-name="BBC Earth (Test)" tvg-logo="http://epg.netsolutionpro.com/logo-tv/188.hr.png" group-title="Doku & Style",BBC Earth (Test)
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/3639
+#EXTINF:-1 tvg-id="1393" tvg-name="Crime Investigation" tvg-logo="http://caffe.link:25461/images/10116afbb86e4a29cde074b825db49bb.png" group-title="Doku & Style",Crime Investigation
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1393
+#EXTINF:-1 tvg-id="1244" tvg-name="Investigation Discovery" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",Investigation Discovery
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1392
+#EXTINF:-1 tvg-id="1244" tvg-name="ID Backup" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",ID Backup
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1391
+#EXTINF:-1 tvg-id="1397" tvg-name="Pink Pedia" tvg-logo="http://caffe.link:25461/images/60e8cdb9178abcc08f81c8a34b79a85b.png" group-title="Pink",Pink Pedia
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1397
+#EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://epg.netsolutionpro.com/logo-tv/185.hr.png" group-title="Doku & Style",E!
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1390
+#EXTINF:-1 tvg-id="1389" tvg-name="TLC" tvg-logo="http://caffe.link:25461/images/adb1dd921634dd6d09ad9da5820f0f92.png" group-title="Doku & Style",TLC
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1389
+#EXTINF:-1 tvg-id="1387" tvg-name="24 Kitchen" tvg-logo="http://caffe.link:25461/images/9f3f201e08e2b18f6a2cd29d79bcb3b4.png" group-title="Doku & Style",24 Kitchen
+http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1387
