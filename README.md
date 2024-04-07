@@ -9,6 +9,11 @@ http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/116
 http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/118
 #EXTINF:-1 tvg-id="" tvg-name="Ferma vip 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",ferma vip 2
 http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/119
+#EXTINF:-1tvg-id="" tvg-name="Ferma vip 1" tvg-logo="" group-title="**** Albania Shqipëtare ****"FERMA VIP 1
+http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
+http://original.999pozt.com:80/ORIGINALEsss/9a8s5897as98578asuios/118
+#EXTINF:-1tvg-id="" tvg-name="Ferma vip 1" tvg-logo="" group-title="**** Albania Shqipëtare ****"FERMA VIP 2
+http://79.106.90.119:1444/fermavip2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
