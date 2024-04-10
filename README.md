@@ -5445,3 +5445,385 @@ http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1390
 http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1389
 #EXTINF:-1 tvg-id="1387" tvg-name="24 Kitchen" tvg-logo="http://caffe.link:25461/images/9f3f201e08e2b18f6a2cd29d79bcb3b4.png" group-title="Doku & Style",24 Kitchen
 http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1387
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 UHD" tvg-logo="" group-title="Sport Channels",AL: ART Sport 1 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/11850
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 UHD" tvg-logo="" group-title="Sport Channels",AL: ART Sport 2 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/11851
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 UHD" tvg-logo="" group-title="Sport Channels",AL: ART Sport 3 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/11852
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 4 HD" tvg-logo="" group-title="Sport Channels",AL: ART SPORT 4 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36726
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 5 HD" tvg-logo="" group-title="Sport Channels",AL: ART SPORT 5 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36727
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 6 HD" tvg-logo="" group-title="Sport Channels",AL: ART SPORT 6 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36728
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 1" tvg-logo="http://albepg.com/tvlogi/SS%20Kosova%201.png" group-title="Sport Channels",AL: Super Sport Kosova 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/1789
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport Kosova 2" tvg-logo="http://albepg.com/tvlogi/SS%20Kosova%202.png" group-title="Sport Channels",AL: Super Sport Kosova 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/1790
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 1 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1794
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport  2 UHD" tvg-logo="" group-title="Sport Channels",AL: Super Sport  2 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36489
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/SuperSport-3-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 3 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1796
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 UHD" tvg-logo="http://aziptv.live:6969/images/8ba1120c41cde791bd1766ae00963c37.png" group-title="Sport Channels",AL: Super Sport 4 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1797
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/SuperSport-5-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 5 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1798
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 UHD" tvg-logo="http://media02.statarea.com/images/tv/570.png" group-title="Sport Channels",AL: Super Sport 6 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1799
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-1-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1766
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Super-Sport-2-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1767
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png" group-title="Sport Channels",AL: Super Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1768
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png" group-title="Sport Channels",AL: Super Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1769
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/SuperSport-5-Live-300x225.png" group-title="Sport Channels",AL: Super Sport 5 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1770
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://media02.statarea.com/images/tv/570.png" group-title="Sport Channels",AL: Super Sport 6 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1771
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1 HD" tvg-logo="" group-title="Sport Channels",AL: OVERSPORT 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36722
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2 HD" tvg-logo="" group-title="Sport Channels",AL: OVERSPORT 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36723
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3 HD" tvg-logo="" group-title="Sport Channels",AL: OVERSPORT 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36724
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 UHD" tvg-logo="http://aziptv.live:6969/images/385fa35267e0d5ce28a45e9c7d8140ee.png" group-title="Sport Channels",AL: Tring Sport 1 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1801
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 UHD" tvg-logo="http://aziptv.live:6969/images/f2d2841717d064992fd859eb1cf477cc.png" group-title="Sport Channels",AL: Tring Sport 2 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1802
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 UHD" tvg-logo="http://aziptv.live:6969/images/3225c08f6afaedb74f16d7cce3eae59e.png" group-title="Sport Channels",AL: Tring Sport 3 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1803
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 UHD" tvg-logo="http://aziptv.live:6969/images/4a310877c5f6060c23c85a203c5887a6.png" group-title="Sport Channels",AL: Tring Sport 4 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1804
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://aziptv.live:6969/images/385fa35267e0d5ce28a45e9c7d8140ee.png" group-title="Sport Channels",AL: Tring Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1762
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="http://aziptv.live:6969/images/f2d2841717d064992fd859eb1cf477cc.png" group-title="Sport Channels",AL: Tring Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1763
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://aziptv.live:6969/images/3225c08f6afaedb74f16d7cce3eae59e.png" group-title="Sport Channels",AL: Tring Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1764
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="http://aziptv.live:6969/images/4a310877c5f6060c23c85a203c5887a6.png" group-title="Sport Channels",AL: Tring Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1765
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-2-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 2 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1782
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-3-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 3 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1783
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 UHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-4-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 4 UHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1784
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 FHD" tvg-logo="http://aziptv.live:6969/images/2290805cb2d3078f682f23bceb45df01.png" group-title="Sport Channels",AL: Kujtesa Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1773
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-2-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1774
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-3-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1775
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Kujtesa-Sport-4-Live-300x225.png" group-title="Sport Channels",AL: Kujtesa Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1776
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/2bdd2b8d79aa5c38a677eac07b628c1c.png" group-title="Sport Channels",Arena Sport 1 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36436
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/908ab159e48ae3abd84778445557f922.png" group-title="Sport Channels",Arena Sport 2 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36437
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/cc9bdf21823ceffb9daf17a693ebc351.png" group-title="Sport Channels",Arena Sport 3 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36438
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/5f68979f410a0139a0ccfff6b624feef.png" group-title="Sport Channels",Arena Sport 4 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36439
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/1d29d290e4e9fcbb3d9e20b4de7713f9.png" group-title="Sport Channels",Arena Sport 5 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36440
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/89f20d32d4fe27ad58fdecaba2a187c7.png" group-title="Sport Channels",Arena Sport 6 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36441
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/0d22956d2293936aa989943308d7e14e.png" group-title="Sport Channels",Arena Sport 7 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36442
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 (HR)" tvg-logo="http://138.201.58.101:8080/images/b0ee0f38ab6a572c46458e61c14d0b9c.png" group-title="Sport Channels",Arena Sport 8 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36443
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/ae2979904d8e9b6255e7514b59034256.png" group-title="Sport Channels",Arena Sport 9 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36444
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/b96d37a5243f2961e9f5a4b6a7edc2cb.png" group-title="Sport Channels",Arena Sport 10 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36445
+#EXTINF:-1 tvg-id="" tvg-name="ARENA FIGHT" tvg-logo="http://138.201.58.101:8080/images/1ce4d8daa0fa844c564d4e83b055af67.png" group-title="Sport Channels",ARENA FIGHT
+http://aziptv.net:8080/boosskypee/skypeboosexch/36446
+#EXTINF:-1 tvg-id="" tvg-name="ARENA ESPORTS" tvg-logo="http://138.201.58.101:8080/images/6d4a1a621d3df2d6ae5a404f0dfea219.png" group-title="Sport Channels",ARENA ESPORTS
+http://aziptv.net:8080/boosskypee/skypeboosexch/36447
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/2bdd2b8d79aa5c38a677eac07b628c1c.png" group-title="Sport Channels",ARENA SPORT 1 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36448
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/908ab159e48ae3abd84778445557f922.png" group-title="Sport Channels",ARENA SPORT 2 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36449
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/cc9bdf21823ceffb9daf17a693ebc351.png" group-title="Sport Channels",ARENA SPORT 3 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36450
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/5f68979f410a0139a0ccfff6b624feef.png" group-title="Sport Channels",ARENA SPORT 4 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36451
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/1d29d290e4e9fcbb3d9e20b4de7713f9.png" group-title="Sport Channels",ARENA SPORT 5 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36452
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 6 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/89f20d32d4fe27ad58fdecaba2a187c7.png" group-title="Sport Channels",ARENA SPORT 6 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36453
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/9e7f662d54d26f2947d1c90d8356c900.png" group-title="Sport Channels",ARENA SPORT 7 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36454
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/caa32a31508afa00c4893a56f687d5dc.png" group-title="Sport Channels",ARENA SPORT 8 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36455
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 1 " tvg-logo="" group-title="Sport Channels",ARENA SPORT PREMIUM 1 
+http://aziptv.net:8080/boosskypee/skypeboosexch/36486
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 2 " tvg-logo="" group-title="Sport Channels",ARENA SPORT PREMIUM 2 
+http://aziptv.net:8080/boosskypee/skypeboosexch/36487
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 3" tvg-logo="" group-title="Sport Channels",ARENA SPORT PREMIUM 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36488
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/04196ca87f13edc48d32c58102f6109b.png" group-title="Sport Channels",Sport Klub 1 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36456
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/d1a2425ca709def211a2334b21c038b0.png" group-title="Sport Channels",Sport Klub 2 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36457
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/2eb783e91df2420bf99dd61c43470169.png" group-title="Sport Channels",Sport Klub 3 (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36458
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 HD (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/e1469273236c8ad7329853ba5659a4b2.png" group-title="Sport Channels",SPORT KLUB 4 HD (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36459
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5 HD (HR)" tvg-logo="http://panel.cableguy.pro:8080/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Sport Channels",SPORT KLUB 5 HD (HR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36460
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD 1 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/04196ca87f13edc48d32c58102f6109b.png" group-title="Sport Channels",Sport Klub HD 1 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36461
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD 2 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/d1a2425ca709def211a2334b21c038b0.png" group-title="Sport Channels",Sport Klub HD 2 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36462
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD 3 (SR)" tvg-logo="http://138.201.58.101:8080/images/2eb783e91df2420bf99dd61c43470169.png" group-title="Sport Channels",Sport Klub HD 3 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36463
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 HD (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/e1469273236c8ad7329853ba5659a4b2.png" group-title="Sport Channels",SPORT KLUB 4 HD (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36464
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5 HD (MULTIAUDIO HR/RS) LOCAL" tvg-logo="http://panel.cableguy.pro:8080/images/d9e687be27e9faec65b380401300ae7b.png" group-title="Sport Channels",SPORT KLUB 5 HD (MULTIAUDIO HR/RS) LOCAL
+http://aziptv.net:8080/boosskypee/skypeboosexch/36465
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6 (MULTIAUDIO HR/RS) LOCAL" tvg-logo="http://panel.cableguy.pro:8080/images/99a7618ad3fb771ee4102f2126fd76df.png" group-title="Sport Channels",SPORT KLUB 6 (MULTIAUDIO HR/RS) LOCAL
+http://aziptv.net:8080/boosskypee/skypeboosexch/36466
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 7 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/ec4b81a995a9b682160fcbd07cd48a86.png" group-title="Sport Channels",SPORT KLUB 7 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36467
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 8 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/ec4b81a995a9b682160fcbd07cd48a86.png" group-title="Sport Channels",SPORT KLUB 8 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36468
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 9 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/ec4b81a995a9b682160fcbd07cd48a86.png" group-title="Sport Channels",SPORT KLUB 9 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36469
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 10 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/ec4b81a995a9b682160fcbd07cd48a86.png" group-title="Sport Channels",SPORT KLUB 10 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36470
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD HR" tvg-logo="http://138.201.58.101:8080/images/ec4b81a995a9b682160fcbd07cd48a86.png" group-title="Sport Channels",SPORT KLUB HD HR
+http://aziptv.net:8080/boosskypee/skypeboosexch/36471
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="http://panel.cableguy.pro:8080/images/fe66d752210931296c0de5504ac35804.png" group-title="Sport Channels",Sport Klub Golf
+http://aziptv.net:8080/boosskypee/skypeboosexch/36472
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport  1 (SR)" tvg-logo="http://panel.cableguy.pro:8080/images/393519029eb769a586c77f6473d66f08.jpg" group-title="Sport Channels",Eurosport  1 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36473
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (SR)" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text-thumbnail.png" group-title="Sport Channels",Eurosport 2 (SR)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36474
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 (BIH)" tvg-logo="http://panel.cableguy.pro:8080/images/2bdd2b8d79aa5c38a677eac07b628c1c.png" group-title="Sport Channels",ARENA SPORT 1 (BIH)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36475
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 (BIH)" tvg-logo="http://panel.cableguy.pro:8080/images/908ab159e48ae3abd84778445557f922.png" group-title="Sport Channels",ARENA SPORT 2 (BIH)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36476
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 (BIH)" tvg-logo="http://panel.cableguy.pro:8080/images/cc9bdf21823ceffb9daf17a693ebc351.png" group-title="Sport Channels",ARENA SPORT 3 (BIH)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36477
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 (BIH)" tvg-logo="http://panel.cableguy.pro:8080/images/5f68979f410a0139a0ccfff6b624feef.png" group-title="Sport Channels",ARENA SPORT 4 (BIH)
+http://aziptv.net:8080/boosskypee/skypeboosexch/36478
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn 1 Bar HD" tvg-logo="http://uniquetv.xyz/0751351001533665308.png" group-title="Sport Channels",DE: Dazn 1 Bar HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1807
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn 2 Bar HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="Sport Channels",DE: Dazn 2 Bar HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1808
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 1 HD" tvg-logo="http://uniquetv.xyz/0751351001533665308.png" group-title="Sport Channels",DE: Dazn Sport 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1809
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Sport 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="Sport Channels",DE: Dazn Sport 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1810
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Sport Channels",DE: Eurosport 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1811
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://pici.life/eurosport2_2.png" group-title="Sport Channels",DE: Eurosport 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1812
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 1 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="Sport Channels",DE: Bundesliga 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1825
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 2 FHD (Match Time)" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli2.png" group-title="Sport Channels",DE: Bundesliga 2 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1826
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 3 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Sport Channels",DE: Bundesliga 3 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1827
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 4 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/219.png" group-title="Sport Channels",DE: Bundesliga 4 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1828
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 5 FHD (Match Time)" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-buli5.png" group-title="Sport Channels",DE: Bundesliga 5 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1829
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 6 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/372.png" group-title="Sport Channels",DE: Bundesliga 6 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1830
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 7 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/368.png" group-title="Sport Channels",DE: Bundesliga 7 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1831
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 8 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/223.png" group-title="Sport Channels",DE: Bundesliga 8 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1832
+#EXTINF:-1 tvg-id="" tvg-name="DE: Bundesliga 9 FHD (Match Time)" tvg-logo="http://apps.iptv.lu/images/channel/original/224.png" group-title="Sport Channels",DE: Bundesliga 9 FHD (Match Time)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1833
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="Sport Channels",DE: Sky Bundesliga 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1838
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli2.png" group-title="Sport Channels",DE: Sky Bundesliga 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1839
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 FHD" tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Sport Channels",DE: Sky Bundesliga 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1840
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Bundesliga 1 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli1-hd.png" group-title="Sport Channels",DE: Sky Germany Bundesliga 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1841
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Bundesliga 2 FHD (Only on Matchday)" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport-buli2.png" group-title="Sport Channels",DE: Sky Germany Bundesliga 2 FHD (Only on Matchday)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1842
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Germany Bundesliga 3 FHD (Only on Matchday)" tvg-logo="http://apps.iptv.lu/images/channel/original/218.png" group-title="Sport Channels",DE: Sky Germany Bundesliga 3 FHD (Only on Matchday)
+http://aziptv.net:8080/boosskypee/skypeboosexch/1843
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Sky_Sport_Austria_Logo_2016.png" group-title="Sport Channels",DE: Sky Sport Austria FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1837
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="Sport Channels",DE: Sky Sport News FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1835
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/25645/skysport1.png" group-title="Sport Channels",DE: Sky Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1813
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="http://kapirovska.weebly.com/uploads/1/3/2/9/13294946/1324971_orig.png" group-title="Sport Channels",DE: Sky Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1814
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 FHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport3-hd.png" group-title="Sport Channels",DE: Sky Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1815
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 FHD" tvg-logo="http://apps.iptv.lu/images/channel/original/376.png" group-title="Sport Channels",DE: Sky Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1816
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 FHD" tvg-logo="https://www.thesportsdb.com/images/media/logo/wxqusv1433965308.png" group-title="Sport Channels",DE: Sky Sport 5 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1817
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 FHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport6-hd.png" group-title="Sport Channels",DE: Sky Sport 6 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1818
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport7-hd.png" group-title="Sport Channels",DE: Sky Sport 7 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1819
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 FHD" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/sky_logo_sky-sport8-hd.png" group-title="Sport Channels",DE: Sky Sport 8 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1820
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Eurosport 1 FHD" tvg-logo="http://pici.life/eurosport1hd_2.png" group-title="Sport Channels",Ex Yu: Eurosport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1893
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Eurosport 2 FHD" tvg-logo="http://pici.life/eurosport2_2.png" group-title="Sport Channels",Ex Yu: Eurosport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1894
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Planet Sport 1 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1517.png" group-title="Sport Channels",Ex Yu: Planet Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1890
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Planet Sport 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1518.png" group-title="Sport Channels",Ex Yu: Planet Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1891
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Planet Sport 3 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a1519.png" group-title="Sport Channels",Ex Yu: Planet Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1892
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 1 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_1.png" group-title="Sport Channels",Ex Yu: Sport Klub 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1874
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 2 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_2.png" group-title="Sport Channels",Ex Yu: Sport Klub 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1875
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 3 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_3.png" group-title="Sport Channels",Ex Yu: Sport Klub 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1876
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 4 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_4.png" group-title="Sport Channels",Ex Yu: Sport Klub 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1877
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 5 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_5.png" group-title="Sport Channels",Ex Yu: Sport Klub 5 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1878
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Sport Klub 6 FHD" tvg-logo="http://sportklub.hr/assets/images/programs/epg/w_sk_6.png" group-title="Sport Channels",Ex Yu: Sport Klub 6 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1879
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 1 HR FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-1-Live.png" group-title="Sport Channels",Ex Yu: Arena Sport 1 HR FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1880
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 2 HR FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-2-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 2 HR FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1882
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 3 HR FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-3-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 3 HR FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1884
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 4 HR FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-4-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 4 HR FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1886
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 1 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-1-Live.png" group-title="Sport Channels",Ex Yu: Arena Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1881
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 2 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-2-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1883
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 3 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-3-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1885
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 4 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-4-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1887
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 5 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-5-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 5 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1888
+#EXTINF:-1 tvg-id="" tvg-name="Ex Yu: Arena Sport 6 FHD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Arena-Sport-6-Live-300x225.png" group-title="Sport Channels",Ex Yu: Arena Sport 6 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1889
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 1" tvg-logo="" group-title="Sport Channels",Arena Premium 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/33511
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 2" tvg-logo="" group-title="Sport Channels",Arena Premium 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/33512
+#EXTINF:-1 tvg-id="" tvg-name="Arena Premium 3" tvg-logo="" group-title="Sport Channels",Arena Premium 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/33513
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 1 FHD" tvg-logo="https://sport-tv-guide.live/images/tv-station-ziggo-extra-289.png" group-title="Sport Channels",NL: Ziggo Sport Extra 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1918
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 2 FHD" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/ziggosportextra2.png" group-title="Sport Channels",NL: Ziggo Sport Extra 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1919
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 1 Eredivisie FHD" tvg-logo="https://www.delta.nl/sites/default/files/zender/2018-08/Nieuwlogo1_0.png" group-title="Sport Channels",NL: Fox Sports 1 Eredivisie FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1920
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sport 2 FHD" tvg-logo="https://www.delta.nl/sites/default/files/zender/2018-08/logo2.png" group-title="Sport Channels",NL: Fox Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1921
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sports 3 Eredivisie FHD" tvg-logo="https://www.delta.nl/sites/default/files/zender/2018-08/Nieuwlogo3_0.png" group-title="Sport Channels",NL: Fox Sports 3 Eredivisie FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1922
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sport 4 FHD" tvg-logo="https://www.delta.nl/sites/default/files/zender/2018-08/Nieuwlogo4_1.png" group-title="Sport Channels",NL: Fox Sport 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1923
+#EXTINF:-1 tvg-id="" tvg-name="NL: ZiggoSport Voetbal FHD" tvg-logo="http://info.ziggosporttotaal.nl/images/over_ziggosporttotaal//onze_kanalen/ziggo_sport_voetbal.png" group-title="Sport Channels",NL: ZiggoSport Voetbal FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1913
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select FHD" tvg-logo="http://info.ziggosporttotaal.nl/images/over_ziggosporttotaal//onze_kanalen/ziggo_sport_select.png" group-title="Sport Channels",NL: Ziggo Sport Select FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1914
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Racing FHD" tvg-logo="https://www.xs4all.nl/upload/1ccf189e-b53a-47d8-8058-17d99bf3b91d_image2330260164111594081.png" group-title="Sport Channels",NL: Ziggo Sport Racing FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1915
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Golf FHD" tvg-logo="https://www.xs4all.nl/upload/8457df8d-6695-4dfb-ad3d-53c0d7e1d3a7_image5225415953626135670.png" group-title="Sport Channels",NL: Ziggo Sport Golf FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1917
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv1.png" group-title="Sport Channels",PT: Sport TV 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1925
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://sportstvon.com/wp-content/uploads/2018/12/sport-tv2.png" group-title="Sport Channels",PT: Sport TV 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1926
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv3.png" group-title="Sport Channels",PT: Sport TV 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1927
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv4.png" group-title="Sport Channels",PT: Sport TV 4 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1928
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2018/12/sport-tv5.png" group-title="Sport Channels",PT: Sport TV 5 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1929
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://www.hdtvlivestream.com/wp-content/uploads/2017/09/bt-sport-11.png" group-title="Sport Channels",UK: BT Sport 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1865
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://sportstvon.com/wp-content/uploads/2017/12/btsport2.png" group-title="Sport Channels",UK: BT Sport 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1866
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://tvmonster.co/wp-content/uploads/2018/09/bt-sport-3.png" group-title="Sport Channels",UK: BT Sport 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1867
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="https://www.pngfind.com/pngs/m/49-490263_bt-sport-espn-bt-sports-espn-hd-hd.png" group-title="Sport Channels",UK: BT Sport ESPN FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1868
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="Sport Channels",UK: Sky Sports Premier League FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1858
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2017/07/SkySports-MAIN-EVENT.png" group-title="Sport Channels",UK: Sky Sports Main Event FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1860
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="https://media.info/i/lf/0/1507600241/6752.png" group-title="Sport Channels",UK: Sky Sports Football FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1859
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-CRICKET.png" group-title="Sport Channels",UK: Sky Sports Cricket FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1862
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png" group-title="Sport Channels",UK: Sky Sports Action FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1863
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="https://www.rokt.co.uk/wp-content/uploads/sky-sports-news-UK-logo.png" group-title="Sport Channels",UK: Sky Sports News FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1856
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo-small.png" group-title="Sport Channels",UK: Sky Sports Mix FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1861
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 FHD" tvg-logo="https://www.studiouniversal.it/logo_thumb/sky-sport-f1-thumb.png" group-title="Sport Channels",UK: Sky Sports F1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1864
+#EXTINF:-1 tvg-id="" tvg-name="UK Manchester UTD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sport Channels",UK Manchester UTD HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8257
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1 HD" tvg-logo="http://www.hdtvler.tv/media/images/tvlogo/tivibuspor-hdtvler-u0hb.png" group-title="Sport Channels",TR: Tivibu Spor 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1951
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="http://www.bitontv.com/wp-content/uploads/2018/12/tivibu-spor2.png" group-title="Sport Channels",TR: Tivibu Spor 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1952
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 HD" tvg-logo="https://sport-tv-guide.live/images/stations/a668.png" group-title="Sport Channels",TR: Tivibu Spor 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1953
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 1 FHD" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Sport Channels",TR: beIN Sports 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1947
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://pici.life/beinsports2hd_2.png" group-title="Sport Channels",TR: beIN Sports 2 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1948
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="http://pici.life/beinsports3hd_2.png" group-title="Sport Channels",TR: beIN Sports 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1949
+#EXTINF:-1 tvg-id="" tvg-name="IT Sky Sport Uno HD" tvg-logo="http://www.liveonlinetv.org/images/skysport1italia.png" group-title="Sport Channels",IT Sky Sport Uno HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6702
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 1 HD" tvg-logo="http://www.liveonlinetv.org/images/skysport1italia.png" group-title="Sport Channels",IT: Sky Sport 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1852
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/1280px-Sky_Sport_2_HD_-_Logo_2015.svg.png" group-title="Sport Channels",IT: Sky Sport 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1853
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://www.studiouniversal.it/logo_thumb/sky-sport-f1-thumb.png" group-title="Sport Channels",IT: Sky Sport F1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1855
+#EXTINF:-1 tvg-id="" tvg-name="FR: Besin Sports 2 HD" tvg-logo="" group-title="Sport Channels",FR: Besin Sports 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1961
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1 HD" tvg-logo="" group-title="Sport Channels",FR: beIN Sports 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8523
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2 HD" tvg-logo="" group-title="Sport Channels",FR: beIN Sports 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8524
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3 HD" tvg-logo="" group-title="Sport Channels",FR: beIN Sports 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8525
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 1 HD" tvg-logo="" group-title="Sport Channels",AR: BEIN Sports 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8510
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 2 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-2-Live.png" group-title="Sport Channels",AR: BEIN Sports 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8511
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 3 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-3-Live-300x225.png" group-title="Sport Channels",AR: BEIN Sports 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8512
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 4 HD" tvg-logo="tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-4-Live-300x225.png" group-title="Sport Channels",AR: BEIN Sports 4 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8513
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 5 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-5-Live-300x225.png" group-title="Sport Channels",AR: BEIN Sports 5 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8514
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 6 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-6-Live-300x225.png" group-title="Sport Channels",AR: BEIN Sports 6 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8515
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 7 HD" tvg-logo="http://www.tvshqipon.com/wp-content/uploads/2019/06/Bein-Sports-7-Live-300x225.png" group-title="Sport Channels",AR: BEIN Sports 7 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8516
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 8 HD" tvg-logo="https://1.bp.blogspot.com/-oJ1g8wsALXw/WtsGm84ccLI/AAAAAAAAAFA/8NG5_FxYOvogvUQsbg-lQGQYV1l_U60KwCPcBGAYYCw/s1600/8-HD.png" group-title="Sport Channels",AR: BEIN Sports 8 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8517
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 9 HD" tvg-logo="https://video.toggle.sg/image/10607100/16x9/947/533/da3a5ad4a38f3d95485ad43229e1bc53/mr/18th-asian-games-ch06.png" group-title="Sport Channels",AR: BEIN Sports 9 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8518
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 10 HD" tvg-logo="https://3.bp.blogspot.com/-GqJ5UvQvhzg/WlPYvyj_Q7I/AAAAAAAAAcw/rG7Zw3vkKT8pHFUa_MRy5l4PrJM9KEBnQCLcBGAs/s1600/10-HD.png" group-title="Sport Channels",AR: BEIN Sports 10 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/8519
