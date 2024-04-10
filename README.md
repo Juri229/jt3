@@ -7,6 +7,10 @@ http://aziptv.net:8080/boosskypee/skypeboosexch/36812
 http://aziptv.net:8080/boosskypee/skypeboosexch/36876
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 2
 http://aziptv.net:8080/boosskypee/skypeboosexch/36877
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma. VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma. VIP 1
+http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma. VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma. VIP 2
+http://79.106.90.119:1444/fermavip2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
