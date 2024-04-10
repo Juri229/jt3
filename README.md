@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193751
+#EXTINF:-1 tvg-id="" tvg-name="AL: BigBrother AL 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BigBrother AL 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36811
+#EXTINF:-1 tvg-id="" tvg-name="AL: BigBrother AL 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BigBrother AL 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36812
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 1
 http://aziptv.net:8080/boosskypee/skypeboosexch/36876
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 2
@@ -5815,3 +5817,227 @@ http://aziptv.net:8080/boosskypee/skypeboosexch/8517
 http://aziptv.net:8080/boosskypee/skypeboosexch/8518
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Sports 10 HD" tvg-logo="https://3.bp.blogspot.com/-GqJ5UvQvhzg/WlPYvyj_Q7I/AAAAAAAAAcw/rG7Zw3vkKT8pHFUa_MRy5l4PrJM9KEBnQCLcBGAs/s1600/10-HD.png" group-title="Sport Channels",AR: BEIN Sports 10 HD
 http://aziptv.net:8080/boosskypee/skypeboosexch/8519
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1 HD" tvg-logo="http://aziptv.live:6969/images/5e43f058c76231c0f24febfcecd17936.png" group-title="Albania Channels",AL: Art Kino 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/7546
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2 HD" tvg-logo="http://aziptv.live:6969/images/5e43f058c76231c0f24febfcecd17936.png" group-title="Albania Channels",AL: Art Kino 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/7547
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3 HD" tvg-logo="http://aziptv.live:6969/images/5e43f058c76231c0f24febfcecd17936.png" group-title="Albania Channels",AL: Art Kino 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/7548
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1" tvg-logo="" group-title="Albania Channels",Premiere 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36493
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="Albania Channels",Premiere 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36494
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="Albania Channels",Premiere 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36495
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="Albania Channels",Premiere 4
+http://aziptv.net:8080/boosskypee/skypeboosexch/36496
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="Albania Channels",Premiere 5
+http://aziptv.net:8080/boosskypee/skypeboosexch/36497
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Shqip" tvg-logo="" group-title="Albania Channels",TEVE Shqip
+http://aziptv.net:8080/boosskypee/skypeboosexch/36498
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Aksion" tvg-logo="" group-title="Albania Channels",TEVE Aksion
+http://aziptv.net:8080/boosskypee/skypeboosexch/36499
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Komedi" tvg-logo="" group-title="Albania Channels",TEVE Komedi
+http://aziptv.net:8080/boosskypee/skypeboosexch/36500
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Novela" tvg-logo="" group-title="Albania Channels",TEVE Novela
+http://aziptv.net:8080/boosskypee/skypeboosexch/36501
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Fantasy" tvg-logo="" group-title="Albania Channels",TEVE Fantasy
+http://aziptv.net:8080/boosskypee/skypeboosexch/36502
+#EXTINF:-1 tvg-id="" tvg-name="TEVE Drame" tvg-logo="" group-title="Albania Channels",TEVE Drame
+http://aziptv.net:8080/boosskypee/skypeboosexch/36503
+#EXTINF:-1 tvg-id="" tvg-name="EuroFilm" tvg-logo="" group-title="Albania Channels",EuroFilm
+http://aziptv.net:8080/boosskypee/skypeboosexch/36504
+#EXTINF:-1 tvg-id="" tvg-name="T Prime 1 " tvg-logo="" group-title="Albania Channels",T Prime 1 
+http://aziptv.net:8080/boosskypee/skypeboosexch/36505
+#EXTINF:-1 tvg-id="" tvg-name="T Prime 2" tvg-logo="" group-title="Albania Channels",T Prime 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36506
+#EXTINF:-1 tvg-id="" tvg-name="T Action" tvg-logo="" group-title="Albania Channels",T Action
+http://aziptv.net:8080/boosskypee/skypeboosexch/36507
+#EXTINF:-1 tvg-id="" tvg-name="T Thriller" tvg-logo="" group-title="Albania Channels",T Thriller
+http://aziptv.net:8080/boosskypee/skypeboosexch/36508
+#EXTINF:-1 tvg-id="" tvg-name="T Comedy" tvg-logo="" group-title="Albania Channels",T Comedy
+http://aziptv.net:8080/boosskypee/skypeboosexch/36509
+#EXTINF:-1 tvg-id="" tvg-name="T Drama" tvg-logo="" group-title="Albania Channels",T Drama
+http://aziptv.net:8080/boosskypee/skypeboosexch/36510
+#EXTINF:-1 tvg-id="" tvg-name="T Serial" tvg-logo="" group-title="Albania Channels",T Serial
+http://aziptv.net:8080/boosskypee/skypeboosexch/36511
+#EXTINF:-1 tvg-id="" tvg-name="T Shqip" tvg-logo="" group-title="Albania Channels",T Shqip
+http://aziptv.net:8080/boosskypee/skypeboosexch/36512
+#EXTINF:-1 tvg-id="" tvg-name="T Sofa" tvg-logo="" group-title="Albania Channels",T Sofa
+http://aziptv.net:8080/boosskypee/skypeboosexch/36513
+#EXTINF:-1 tvg-id="" tvg-name="T Godfather" tvg-logo="" group-title="Albania Channels",T Godfather
+http://aziptv.net:8080/boosskypee/skypeboosexch/36514
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Aksion" tvg-logo="" group-title="Albania Channels",ShqipTV Aksion
+http://aziptv.net:8080/boosskypee/skypeboosexch/36515
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Fantasy" tvg-logo="" group-title="Albania Channels",ShqipTV Fantasy
+http://aziptv.net:8080/boosskypee/skypeboosexch/36516
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Komedi" tvg-logo="" group-title="Albania Channels",ShqipTV Komedi
+http://aziptv.net:8080/boosskypee/skypeboosexch/36517
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Drama" tvg-logo="" group-title="Albania Channels",ShqipTV Drama
+http://aziptv.net:8080/boosskypee/skypeboosexch/36518
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Romance" tvg-logo="" group-title="Albania Channels",ShqipTV Romance
+http://aziptv.net:8080/boosskypee/skypeboosexch/36519
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Marvel" tvg-logo="" group-title="Albania Channels",ShqipTV Marvel
+http://aziptv.net:8080/boosskypee/skypeboosexch/36520
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Family" tvg-logo="" group-title="Albania Channels",ShqipTV Family
+http://aziptv.net:8080/boosskypee/skypeboosexch/36521
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Thriller " tvg-logo="" group-title="Albania Channels",ShqipTV Thriller 
+http://aziptv.net:8080/boosskypee/skypeboosexch/36522
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Hits" tvg-logo="" group-title="Albania Channels",ShqipTV Hits
+http://aziptv.net:8080/boosskypee/skypeboosexch/36523
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Cinema" tvg-logo="" group-title="Albania Channels",ShqipTV Cinema
+http://aziptv.net:8080/boosskypee/skypeboosexch/36524
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Film" tvg-logo="" group-title="Albania Channels",ShqipTV Film
+http://aziptv.net:8080/boosskypee/skypeboosexch/36525
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Hindi" tvg-logo="" group-title="Albania Channels",ShqipTV Hindi
+http://aziptv.net:8080/boosskypee/skypeboosexch/36526
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Western" tvg-logo="" group-title="Albania Channels",ShqipTV Western
+http://aziptv.net:8080/boosskypee/skypeboosexch/36527
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Serial" tvg-logo="" group-title="Albania Channels",ShqipTV Serial
+http://aziptv.net:8080/boosskypee/skypeboosexch/36528
+#EXTINF:-1 tvg-id="" tvg-name="Premier 1" tvg-logo="" group-title="Albania Channels",Premier 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36529
+#EXTINF:-1 tvg-id="" tvg-name="Premier 2" tvg-logo="" group-title="Albania Channels",Premier 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36530
+#EXTINF:-1 tvg-id="" tvg-name="Premier 3" tvg-logo="" group-title="Albania Channels",Premier 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36531
+#EXTINF:-1 tvg-id="" tvg-name="Premier 4" tvg-logo="" group-title="Albania Channels",Premier 4
+http://aziptv.net:8080/boosskypee/skypeboosexch/36532
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1" tvg-logo="" group-title="Albania Channels",Kino Premiere 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36533
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2" tvg-logo="" group-title="Albania Channels",Kino Premiere 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36534
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3" tvg-logo="" group-title="Albania Channels",Kino Premiere 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36535
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 4" tvg-logo="" group-title="Albania Channels",Kino Premiere 4
+http://aziptv.net:8080/boosskypee/skypeboosexch/36536
+#EXTINF:-1 tvg-id="" tvg-name="Film MIX" tvg-logo="" group-title="Albania Channels",Film MIX
+http://aziptv.net:8080/boosskypee/skypeboosexch/36537
+#EXTINF:-1 tvg-id="" tvg-name="Film Mix 2" tvg-logo="" group-title="Albania Channels",Film Mix 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36538
+#EXTINF:-1 tvg-id="" tvg-name="Film Romance" tvg-logo="" group-title="Albania Channels",Film Romance
+http://aziptv.net:8080/boosskypee/skypeboosexch/36539
+#EXTINF:-1 tvg-id="" tvg-name="Filma Horror" tvg-logo="" group-title="Albania Channels",Filma Horror
+http://aziptv.net:8080/boosskypee/skypeboosexch/36540
+#EXTINF:-1 tvg-id="" tvg-name="Filma Premier" tvg-logo="" group-title="Albania Channels",Filma Premier
+http://aziptv.net:8080/boosskypee/skypeboosexch/36541
+#EXTINF:-1 tvg-id="" tvg-name="Karate HD" tvg-logo="" group-title="Albania Channels",Karate HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36542
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 1" tvg-logo="" group-title="Albania Channels",StarFilm 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36543
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 2" tvg-logo="" group-title="Albania Channels",StarFilm 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36544
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 3" tvg-logo="" group-title="Albania Channels",StarFilm 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36545
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 4" tvg-logo="" group-title="Albania Channels",StarFilm 4
+http://aziptv.net:8080/boosskypee/skypeboosexch/36546
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 5" tvg-logo="" group-title="Albania Channels",StarFilm 5
+http://aziptv.net:8080/boosskypee/skypeboosexch/36547
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 6" tvg-logo="" group-title="Albania Channels",StarFilm 6
+http://aziptv.net:8080/boosskypee/skypeboosexch/36548
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 7" tvg-logo="" group-title="Albania Channels",StarFilm 7
+http://aziptv.net:8080/boosskypee/skypeboosexch/36549
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 8" tvg-logo="" group-title="Albania Channels",StarFilm 8
+http://aziptv.net:8080/boosskypee/skypeboosexch/36550
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 9" tvg-logo="" group-title="Albania Channels",StarFilm 9
+http://aziptv.net:8080/boosskypee/skypeboosexch/36551
+#EXTINF:-1 tvg-id="" tvg-name="StarFilm 10" tvg-logo="" group-title="Albania Channels",StarFilm 10
+http://aziptv.net:8080/boosskypee/skypeboosexch/36552
+#EXTINF:-1 tvg-id="" tvg-name="Film 1 HD" tvg-logo="" group-title="Albania Channels",Film 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/36553
+#EXTINF:-1 tvg-id="" tvg-name="Film Action" tvg-logo="" group-title="Albania Channels",Film Action
+http://aziptv.net:8080/boosskypee/skypeboosexch/36554
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Albania Channels",Film Hits
+http://aziptv.net:8080/boosskypee/skypeboosexch/36555
+#EXTINF:-1 tvg-id="" tvg-name="FILM Aksion" tvg-logo="" group-title="Albania Channels",FILM Aksion
+http://aziptv.net:8080/boosskypee/skypeboosexch/36556
+#EXTINF:-1 tvg-id="" tvg-name="ILIRIDA Film" tvg-logo="" group-title="Albania Channels",ILIRIDA Film
+http://aziptv.net:8080/boosskypee/skypeboosexch/36557
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 aksion 1" tvg-logo="" group-title="Albania Channels",FILM24 aksion 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/36558
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 aksion 2" tvg-logo="" group-title="Albania Channels",FILM24 aksion 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/36559
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 aksion 3" tvg-logo="" group-title="Albania Channels",FILM24 aksion 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/36560
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 aziatik" tvg-logo="" group-title="Albania Channels",FILM24 aziatik
+http://aziptv.net:8080/boosskypee/skypeboosexch/36561
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 aventure" tvg-logo="" group-title="Albania Channels",FILM24 aventure
+http://aziptv.net:8080/boosskypee/skypeboosexch/36562
+#EXTINF:-1 tvg-id="" tvg-name="FILM24 drame" tvg-logo="" group-title="Albania Channels",FILM24 drame
+http://aziptv.net:8080/boosskypee/skypeboosexch/36563
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 1 FHD" tvg-logo="http://albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Albania Channels",AL: Digi Gold 1 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1241
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 3 FHD" tvg-logo="http://albepg.com/tvlogi/Digi%20Gold%203.png" group-title="Albania Channels",AL: Digi Gold 3 FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1243
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 1 HD" tvg-logo="https://www.novonordisk.com/content/dam/Denmark/HQ/Patients/DiabetesCare/shared/Icon-Type1.png" group-title="Albania Channels",AL: Tele one 1 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6731
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 2 HD" tvg-logo="https://www.gvsu.edu/cms4/asset/0C8DCB57-B043-FD12-E02C1C476021864A/t2_title_web.png" group-title="Albania Channels",AL: Tele one 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6732
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 3 HD" tvg-logo="https://magazynt3.pl/wp-content/uploads/2015/07/t3-logo-foot.png" group-title="Albania Channels",AL: Tele one 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6733
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 4 HD" tvg-logo="https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/venturebridge/images/summer-2019-cohort-logos/t4-logo.png" group-title="Albania Channels",AL: Tele one 4 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6734
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/T5_Logo.png" group-title="Albania Channels",AL: Tele one 5 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6735
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one 6 HD" tvg-logo="http://dawson.illinois.gov/portals/dawson/T6-logo.png" group-title="Albania Channels",AL: Tele one 6 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6736
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one Crime HD" tvg-logo="" group-title="Albania Channels",AL: Tele one Crime HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/13276
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele one Drama HD" tvg-logo="" group-title="Albania Channels",AL: Tele one Drama HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/13279
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma 24 HD" tvg-logo="http://albepg.com/tvlogi/Filma24%20HD.png" group-title="Albania Channels",AL: Filma 24 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/6336
+#EXTINF:-1 tvg-id="" tvg-name="AL: Q Thriller HD" tvg-logo="" group-title="Albania Channels",AL: Q Thriller HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/13289
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 2 HD" tvg-logo="http://albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Albania Channels",AL: X Premium 2 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/7555
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 3 HD" tvg-logo="http://albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Albania Channels",AL: X Premium 3 HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/7556
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Dark HD" tvg-logo="" group-title="Albania Channels",AL: X Dark HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/11347
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Family HD" tvg-logo="" group-title="Albania Channels",AL: X Family HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/11348
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Thriller FHD" tvg-logo="" group-title="Albania Channels",AL: X Thriller FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/12081
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Aksion HD" tvg-logo="" group-title="Albania Channels",AL:  X Aksion HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/12593
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 1" tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/25.-KINO-TV.png" group-title="Albania Channels",AL: Kinema 1
+http://aziptv.net:8080/boosskypee/skypeboosexch/8410
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 2" tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/25.-KINO-TV.png" group-title="Albania Channels",AL: Kinema 2
+http://aziptv.net:8080/boosskypee/skypeboosexch/8409
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 3" tvg-logo="https://nasaott.com/wp-content/uploads/2019/06/25.-KINO-TV.png" group-title="Albania Channels",AL: Kinema 3
+http://aziptv.net:8080/boosskypee/skypeboosexch/8408
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion FHD" tvg-logo="https://www.skycostarica.com/Code/templates/images/logos/sky-logo.png" group-title="Albania Channels",AL: Sky Aksion FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1227
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drame FHD" tvg-logo="https://www.skycostarica.com/Code/templates/images/logos/sky-logo.png" group-title="Albania Channels",AL: Sky Drame FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1229
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi FHD" tvg-logo="https://www.skycostarica.com/Code/templates/images/logos/sky-logo.png" group-title="Albania Channels",AL: Sky Komedi FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1228
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela FHD" tvg-logo="https://www.skycostarica.com/Code/templates/images/logos/sky-logo.png" group-title="Albania Channels",AL: Sky Novela FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1231
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max FHD" tvg-logo="https://www.skycostarica.com/Code/templates/images/logos/sky-logo.png" group-title="Albania Channels",AL: Sky Max FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D drama" tvg-logo="" group-title="Serjale 1",AL: Kanal D drama
+http://aziptv.net:8080/boosskypee/skypeboosexch/13675
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale" tvg-logo="" group-title="Serjale 1",AL: TDC Seriale
+http://aziptv.net:8080/boosskypee/skypeboosexch/13259
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus FHD" tvg-logo="https://tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring3TV.png" group-title="Serjale 1",AL: Tring 3 Plus FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/1225
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D FHD" tvg-logo="" group-title="Serjale 1",TR: Kanal D FHD
+http://aziptv.net:8080/boosskypee/skypeboosexch/33318
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro D" tvg-logo="" group-title="Serjale 1",TR: Euro D
+http://aziptv.net:8080/boosskypee/skypeboosexch/33319
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="Serjale 1",TR: ATV HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/33320
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="" group-title="Serjale 1",TR: ATV Avrupa
+http://aziptv.net:8080/boosskypee/skypeboosexch/33322
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star HD" tvg-logo="" group-title="Serjale 1",TR: Star HD
+http://aziptv.net:8080/boosskypee/skypeboosexch/33323
+#EXTINF:-1 tvg-id="" tvg-name="TR: Euro Star" tvg-logo="" group-title="Serjale 1",TR: Euro Star
+http://aziptv.net:8080/boosskypee/skypeboosexch/33325
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring 3 Plus FHD" tvg-logo="https://tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring3TV.png" group-title="Serjale 1",AL: Tring 3 Plus FHD
+http://aziptv.net:8080/kintveuskype/exchangeking/1225
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D drama" tvg-logo="" group-title="Serjale 1",AL: Kanal D drama
+http://aziptv.net:8080/kintveuskype/exchangeking/13675
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale" tvg-logo="" group-title="Serjale 1",AL: TDC Seriale
+http://aziptv.net:8080/kintveuskype/exchangeking/13259
