@@ -3006,8 +3006,6 @@ http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1393
 http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1392
 #EXTINF:-1 tvg-id="1244" tvg-name="ID Backup" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/investigation_discovery_logo.png" group-title="Doku & Style",ID Backup
 http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1391
-#EXTINF:-1 tvg-id="1397" tvg-name="Pink Pedia" tvg-logo="http://caffe.link:25461/images/60e8cdb9178abcc08f81c8a34b79a85b.png" group-title="Pink",Pink Pedia
-http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1397
 #EXTINF:-1 tvg-id="1390" tvg-name="E!" tvg-logo="http://epg.netsolutionpro.com/logo-tv/185.hr.png" group-title="Doku & Style",E!
 http://caffe.link:25461/wardenbratmodrica/4NzKukSNAL4C/1390
 #EXTINF:-1 tvg-id="1389" tvg-name="TLC" tvg-logo="http://caffe.link:25461/images/adb1dd921634dd6d09ad9da5820f0f92.png" group-title="Doku & Style",TLC
