@@ -531,1498 +531,6 @@ http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89641
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 1 HD AL
 http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89640
 #EXTM3U
-#EXTINF:0,Big Brother VIP Kosova 1 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lRhl3tHWrUXkPKWgSrN9LOU
-#EXTINF:0,Big Brother VIP Kosova 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lRtbhfqBbQRAuSh3z58ZKvY
-#EXTINF:0,Big Brother VIP Kosova 2 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lTj5Fi-UNL18HXk6tVoHPia
-#EXTINF:0,Big Brother VIP Kosova 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV2_68ko8UeskFhyJ4b2Z0FG
-#EXTINF:0,TV Shqiponja
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDS5O-lwcbk4cIVmAuJMTww
-#EXTINF:0,Shqiponja Popullore
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO4KILnsDez1K6Vbgug1XaQ
-#EXTINF:0,Shqiponja Muzikë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAiAvb2nEwbe35gtjfelqmY
-#EXTINF:0,Shqiponja Çifteli
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF9HuEYBORKdtzcOMhQ9XtM
-#EXTINF:0,Shqiponja Humor 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB0vNqGtT-yRtvEpSIbCyT8
-#EXTINF:0,Shqiponja Humor 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDsU1K07Ig4nUHhpNVAzP2o
-#EXTINF:0,Shqiponja Humor 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJmq71mXceg8HHCGGiAKYSk
-#EXTINF:0,Shqiponja Fëmijë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEAhWm8v_KOGsNMqqHa9alk
-#EXTINF:0,Shqiponja Animuar
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA8ti-4zfQkfBi2PjbooDjM
-#EXTINF:0,Shqiponja Kuzhinë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDypdO6a8nXgT9rAcDkyHV8
-#EXTINF:0,Shqiponja Doku
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHuN6E-TNVaxrTGVglwjaWE
-#EXTINF:0,Shqiponja Film
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKHS19zh6XnNIYt2U7vzdto
-#EXTINF:0,Shqiponja Kino 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI2-Fv1_hs-udxj2uvBK23A
-#EXTINF:0,Shqiponja Aksion
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP3UOB_3iftpwxQAgFcp8iI
-#EXTINF:0,Shqiponja Dramë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKBsjBV3-IGg124_JMn-1jg
-#EXTINF:0,Shqiponja Horror
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCSKDLFO7U7qh_tda4IAUyg
-#EXTINF:0,Shqiponja Thriller
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMafNwu_Wa-K4hmPKOGG_W0
-#EXTINF:0,Shqiponja Islam
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpITpKSLG7832cHuwUdidjuw
-#EXTINF:0,Shqiponja Ilahi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAHRp7jYGqeHM0MbtOTlvkM
-#EXTINF:0,Shqiponja Kuran
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNp8rqtH_FXFYxBtjWWP8Ok
-#EXTINF:0,TV Shqiponja FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDRXXYBlC3edSUCF05-scQw
-#EXTINF:0,TV Shqiponja
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpENItcQKAdpmNW5SsJGs_fo
-#EXTINF:0,Top Channel FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFp6AGl8Q7dgY3knrOvXrQw
-#EXTINF:0,Top Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBTvuITfIkjEoez9gpUkEzo
-#EXTINF:0,Klan FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP550b4hF9PlF1reuzsARdU
-#EXTINF:0,Klan
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPx9lmQigXbhUu4c46mpdhs
-#EXTINF:0,Klan Kosova FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAg1KjtJon0Ep5XoRYVNNEc
-#EXTINF:0,Klan Kosova
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGgEs-IKtc87pIKb81DZ1sQ
-#EXTINF:0,Alsat M FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAiXZEzlsVm-AHETyjXJ_6s
-#EXTINF:0,Alsat M
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNXplsKMSKqpqCcbvqQxFrw
-#EXTINF:0,RTK 1 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMy2i-jb140e47f1UOqf-FY
-#EXTINF:0,RTK 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEQfLTybSVZcUN-1VJ1mF1k
-#EXTINF:0,RTK 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGYffEB0nyluP_SNvRq14kM
-#EXTINF:0,RTK 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCiDWan2RTrblh9HjW2fNGU
-#EXTINF:0,RTK 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDnBPOoGqdXIOvVZaDxLpQY
-#EXTINF:0,RTV 21 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJrgA--C-eEu1mrGIMfj6Tk
-#EXTINF:0,RTV 21
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEoxiZh-woTgXX-WQDAauUU
-#EXTINF:0,KTV FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDKQvUCQeuOuICwKRsBxrJ0
-#EXTINF:0,KTV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA1bf4p3INCtc95Vfy-dNHQ
-#EXTINF:0,ATV FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5Il8qKegKPoZSuANAQZdw
-#EXTINF:0,ATV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCMJLJMdFKP-7S8z7hi4bIU
-#EXTINF:0,T7 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAesvcOGAfI-2UNdnhohqNs
-#EXTINF:0,T7
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLJ0AjjmvofDD0Ze_XDu-EU
-#EXTINF:0,Tëvë1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBNmc3MmItsYre-UgfuqYhk
-#EXTINF:0,PRO1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNShAgxs2cAyUw8Hv9Up5KI
-#EXTINF:0,DTV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG0B9zu4uFTqaX0cgB7GC6I
-#EXTINF:0,TV Dukagjini FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGL9Mb96LKHeIzaCv0vlSZI
-#EXTINF:0,TV Dukagjini
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDTE4PG2CHb1mwhUogC_kHU
-#EXTINF:0,Kanal 10 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCzygrg3QF5DVjsUuBZ220g
-#EXTINF:0,Kanal 10
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM7VJdG5rgRzFkcAebtvwEE
-#EXTINF:0,Klan Plus FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ2agza-PHFPkRsYu9RYc8w
-#EXTINF:0,Klan Plus
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA7jBCZwXGgMe9WCPWZJi1Y
-#EXTINF:0,Vizion Plus
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKQcZgm9CVHopa6N3ojS6jI
-#EXTINF:0,Syri TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGckM0avIDkVvlmufwt8aCk
-#EXTINF:0,Syri Vision
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAAAEEmqLpEg4gjBpH3-Kr4
-#EXTINF:0,First Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIr466Uv5WKiTNBJFntomFo
-#EXTINF:0,RTV Fontana
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHsXX3hUNzkLXLz7M57ZUUk
-#EXTINF:0,Istogu Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN5Zuj6Rezsf6BnV6IvFvPtW4PhqGlk_4iX11jlLBZF5
-#EXTINF:0,TV LLAPI
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB7KxC_yi4zlpRlWlKek7c0
-#EXTINF:0,Kanal D Drama FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBNkALTGOObvvKX5Qevf3A8
-#EXTINF:0,Kanal D Drama
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPDyFD8aH4X0duBOmXrMIHE
-#EXTINF:0,Tring Turkish Stories
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIarANCC-o88eJkjswQ21aQ
-#EXTINF:0,Tring Novelas
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFzz0FTgWIABs-5QfWNR4sCca3QkmvTc4ACedq8zMGnK
-#EXTINF:0,Tring Series
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMrs7s_hPMCyc_cVeBc9Lg37mjuAC2SqwnRp4UHneM-e
-#EXTINF:0,Tring 3+
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPQD-JoBc_J8eDwAWC-4pjE
-#EXTINF:0,TDC
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDz06_hMfpCQXPzmCClN5N8
-#EXTINF:0,21 Mix
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCquFKr6xA_JniPNGT5c4g4j
-#EXTINF:0,MTV 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHkq6CSNeC_3r12H5PkxASk
-#EXTINF:0,RTV 21 Macedonia
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAZ7RhL4kyKs2BYykuhaWhI
-#EXTINF:0,Klan Macedonia
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJgyz57qjSmfL0sIdJIJLSc
-#EXTINF:0,TV Shenja
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHW_XArHmZ5cguQhnhKUST0
-#EXTINF:0,TV Era
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNhMwe_gbGSDRV9eCn3ZWmo
-#EXTINF:0,TV Koha
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLSW9Hf0IQ93-Xt0PiCArdM
-#EXTINF:0,TV2 Gostivar
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEONdrGyvun_N3H75Itkybg
-#EXTINF:0,TV Uskana
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOChjCzqVpuDzh7AWjlQqlg
-#EXTINF:0,TV Dielli
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEJmyLJx4iIqIIixkGGDFLk
-#EXTINF:0,TV Besa
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGbA5DLCkrw4hO2fHHsOpZ4
-#EXTINF:0,TV Tema
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGaXhXit_Epo9Qs_RFpZSy4
-#EXTINF:0,TV Mitrovica
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL2n6nijVGiHd7gRVkg-49c
-#EXTINF:0,ATD TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCp6RJw50kkhqV1zhPMPpIF2
-#EXTINF:0,ALPO TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHzNCCAySna5A0Gzj1mh9tc
-#EXTINF:0,Nasa Live
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG50yHlaLIrUSVF6486eq6ymeUd_I2_ixTYtynW3Dcdv
-#EXTINF:0,Earth TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFaKx_g_UZ44s1J-_SbQ-76NZApZlz-4x3VXQ5O2a2cm
-#EXTINF:0,MCN24
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEnwoH7ucBXhfm4pPuiXtq8
-#EXTINF:0,RTSH 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK7B7ZSo-TbFENOPm2k2D7Y
-#EXTINF:0,RTSH 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB1RtT6W4OmuL1Jd2DLu7h0
-#EXTINF:0,RTSH 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDKH6azZgZG_t5QeQqhiYvM
-#EXTINF:0,RTSH Shqip
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNPRnf_vU47xsXmuZxJyyG4
-#EXTINF:0,RTSH Plus
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDA5EPKtnU11nObw535ymzw
-#EXTINF:0,RTSH 24
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKImVHn-4qwUdMHWeTFWzZE
-#EXTINF:0,RTSH Agro
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFlhP6punapfK-gMxjvaAmY
-#EXTINF:0,RTSH Kuvend
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFeSMBjoCMoN9wwGQhR1zOU
-#EXTINF:0,RTSH Kukesi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDRvA02hyCAWQIsfid-nhMY
-#EXTINF:0,RTSH Gjirokastra
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHOOFf30Puzhhbm3GW3P9Hw
-#EXTINF:0,RTSH Shkodra
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAVCa61HvdTdo6h6oZa4Obs
-#EXTINF:0,RTSH Korca
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpP0s64xtJCNX-Q6J_0EpwU8
-#EXTINF:0,Korça +
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5LTsDs3vfbq-o-l6AWkdM
-#EXTINF:0,Star Plus
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOkMko1Pc0HUAvjbGUpqs1E
-#EXTINF:0,TV7 Albania
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJmd7-pLv1t7VRGZQ6K8DcE
-#EXTINF:0,24 Kitchen
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCpsxZ_52UtK224Wyg4QrvlI
-#EXTINF:0,Shqiponja Popullore
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDZe_HebGLKl7PX7lLSjeTvNb_MdNLI24XUkWBbR0zEi
-#EXTINF:0,Shqiponja Muzikë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOqlA_DE8kqPp-exi3yifqNl2BgQ0Y2q4cU7R3ItqaJD
-#EXTINF:0,Shqiponja Çifteli
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJhGq3ybQRAX-tYwwk2LNvIKj9aK8IUeH0WuCdhJYptV
-#EXTINF:0,X Music Hits
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNryEPeuAsfBldAeCCZ106od-TdBLTsIGrHNgid4_-xF
-#EXTINF:0,X Popullore
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEibTfRjpgQeA2_WFHtaDDZIGIHrEViHL-xZAQqaVPiq
-#EXTINF:0,X Cifteli
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHGcEQYuJoSaiDNafiNWW4VbK9DvFptygXBQhEtYmRea
-#EXTINF:0,RTV Fontana
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLIVW6uQWtMKOmlEx0Npu08p90Scs3AJcxeolb21u0-g
-#EXTINF:0,RTV 21 Popullore
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK0xy6O2I0z3lBeZid69MVAOEmCH9a93z6o0lMQUESLM
-#EXTINF:0,RTV 21 Plus
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOsIuzeZnSP-Hnqgv3G4QW7dQiWBXYMT-6qSiaMa20wj
-#EXTINF:0,ALB USA
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNjOLn2GbarZD3jPnQpx4nlAsHEPscz7QTV-e6wmKVnt
-#EXTINF:0,Alb UK
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEXPYMjonNuu40Vm3RoGDYk
-#EXTINF:0,TV Dielli
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpErFz6XJWPRanKvQ3A3NT2iLJ055SPOfOyvwxrrBl3hv
-#EXTINF:0,Zico TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKNEok1BXmhfYhG4iFT7ycl-b9x6N-OMUY2AQ0yCFeHV
-#EXTINF:0,ARTI TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJTCLOwMrZq1XUJtwaRea1PXo2DFQX-FXaKjO_3BeMl_
-#EXTINF:0,Top Estrada
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHKZz6OQbz3UF-HUDCTQd5HWTQ4rNESJ9MNPglV3-ldl
-#EXTINF:0,MTV Kosova
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOQJut-WwHOSL3UEzVdtOBfMTxpCo1zOGWJnrUbxKf5_
-#EXTINF:0,MFM Music
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLyQUMqReevaABDLRHSlK7rrwWZlxaUdtgSyJIcSvpAA
-#EXTINF:0,BBF Music
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOodywliuwdiU7nG2J5T-6mf7cC7n8NbH8DMSwLqKY1J
-#EXTINF:0,Klan Music
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCj2V9BxeQmoSQ1H0POklQIWyZvSbzl8S5C0XctuxerP
-#EXTINF:0,My Music
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOviJnXbn8OTfeQLaEEkW900oX9W-0LtzXdBOkKSmjPw
-#EXTINF:0,Shota TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD5_fUCQkcc_zsar3qJtQ94kjmQo_-0BPTyZp8wqT8zH
-#EXTINF:0,Elrodi TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpORSp7oLdb--wsVB6QSqksTUij2iYHRt_ew1mNMYBWDr
-#EXTINF:0,TV Sharri
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAu2G7s5yg7ezbnFe3Xb0ckKoXclVznEY9ejDCnIAvSI
-#EXTINF:0,TV Flutura
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpA41Lye-Izg6rLHHSMuPXgRJATdpZeeJWBYxNelmm29_
-#EXTINF:0,Folk +
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJaCZk0WKvpSE19AN5lg4FMu6ZYmqk5T-KJQWE2d8mo2
-#EXTINF:0,SuperSonic
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI_xa0ETniK-dxpHFt0lk9CPzDTrhKZOeD5PYROogd-6
-#EXTINF:0,Turbo Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM3vhp7dktTY8coKNculb0zrIu75US_yWQsHuest39dv
-#EXTINF:0,Shqiponja Humor 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKzMMGoOWPAih9hZwVelTvBLUJNshWmOWKtPg_oz8dOG
-#EXTINF:0,Shqiponja Humor 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJJGZJwiUVr4CoP1c0Nf4J5EWW91g2yPb-oID6O_H263
-#EXTINF:0,Shqiponja Humor 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOrzLtGhOxn3yaDpBXbVHLUwb1HNiJVocg3536rIYCAL
-#EXTINF:0,X Humor
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCc-hSl3M7pTAv9pzPuWibTSlpukHQ4H-NQVdS17KiLd
-#EXTINF:0,X Stupcat
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHvRcJj1afD-etNZnWjsXMauQ3ww6zSEhGYCxxrti9wQ
-#EXTINF:0,X Kafeneja Jone
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEPALumtFZoEfh0MwhgxxylDbgzood9WD4W8iMTOeD7b
-#EXTINF:0,X Cka Ka Shpija
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNfexnb3LQLnPIOoBg449AI96saG26jWHOk4Ey2YA2ca
-#EXTINF:0,X O sa mirë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBi6OBIo_P8En5ml9qVpr46XXXQb9i0fgZwytDbIeRCp
-#EXTINF:0,X 2XL
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK8w6LkBZo9vB4-ut9PvZ6mL2jw5gRSirCmsjQuFKJ4i
-#EXTINF:0,Euronews.AL
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH83_1rbFYD4fCXnWEbuAwM
-#EXTINF:0,Syri TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIkAti2EonQ5VgtaowLNBMp3dccOBBxhfZVARq0FYFqX
-#EXTINF:0,Top News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCbqREf345r1klFKgjOE_4w
-#EXTINF:0,Klan News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHfxI8lX_5wD8zBXMnD--dA
-#EXTINF:0,Arta News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIxMX25Z0GzcKH-_1DRUG1g
-#EXTINF:0,Ora News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMmNLsRJ4kLFQrOG5F2139tyY6J75kWBH3uORh3yUVQk
-#EXTINF:0,ABC News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQwQa1SxEv_Hd_REPhpXTLFDsEhmn7Bq8vNmGnsst3G
-#EXTINF:0,Fax News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHH90BTxvvmX7dLqs_CoCWJLFFrCRF2oGyy9zkObwhpz
-#EXTINF:0,Apollon News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHSae8cKD1lOuQhuULbxOk3PcebEMaB9cZmng90KoWLT
-#EXTINF:0,News 24
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKcDS1kz-nxfPgYXB97cTsex57ppfTgMrQ38MdB1fa90
-#EXTINF:0,A2 CNN
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPMW1-BJsrsPf0IGjZ9Ib1viK2xlt9tIVdkz6tNs58Co
-#EXTINF:0,Report TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNVcIUjuF59sIVrVr0JIYO02iSG766QACoBRUTLLgwWl
-#EXTINF:0,Kanali 7
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJxR0x5tamb8IwEMPLImVGmVSg-jh1KEAf1J7GIaZbxL
-#EXTINF:0,CNA
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF50enwgLyv9arLEDkk6j7nysse7_y7_CZ8PhJZjRtSd
-#EXTINF:0,Scan TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEtMSa_ZBmadRszoTSS5neguyK8t6QISbrxxks4MBGFA
-#EXTINF:0,DW Deutsch
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCqqfcod8Vgq46iVTnNtl3i_
-#EXTINF:0,Shqiponja Doku
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOLtXJIRxlT9zm6bdnAMgUnMjOtbmjxevfcmluEYnkK1
-#EXTINF:0,Exp Shkencë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEpC8iHMJ5hbSQbLnQr0vZ34EAKXnR6FSmuuefnsueRR
-#EXTINF:0,Exp Natyra
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDwDAIYDC2C6kEt_Nm7emYRGdFCF8pUHhySMidcBwwqu
-#EXTINF:0,Exp Histori
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH0FsTevM-jZ1V0CfexMMgLudhYGRoowIyeY8DJUgHlD
-#EXTINF:0,X Shkenca
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFmLf_8-vpL01W8GwcXaSQGhcdpzyTQBKWkY0neneD-r
-#EXTINF:0,X Natyra
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG8kY7we_ZRiEisTtDkR4ns4kzxMo9MsaqcwTM_YJVpy
-#EXTINF:0,X Histori
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFLTxMgL-L1kKM-KPZJJIcK981AVvmTfrlOdLPtS8iZh
-#EXTINF:0,Tring World
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK5gT0a1Kqq9HrzYMFg3uFQIs82yXJ0I7KPpj2uzLcU1
-#EXTINF:0,Tring Planet
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDaSDqw419MS_tMWhKAkRM8VeOoq0hbvg0pBsqVcFrf-
-#EXTINF:0,Tring History
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJnXHIj8e_yIDmErNYOFN5HJC82880fJ6AtOl_gRliUr
-#EXTINF:0,Tring Muse
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOx91omBySFZJ_oI0OWSPD6rCICRM4zq6IAk1gnBN5I2
-#EXTINF:0,Tring Living
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHjlNBgITD1ZvQNolLWbF9XpgjF34zkHJhNOGCLov-Qv
-#EXTINF:0,Art Doku 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPnpPh2HZz-T-NjnqQZ_LLcAWziDyQtbyM2R7JOfNwVx
-#EXTINF:0,Art Doku 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPy_VnzPtwnqD4FEz_hibQIAz9yqC5dR-Zx-ERaAymnH
-#EXTINF:0,tëvë Doku 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLFafSJy0w-VROSd5QaMT1DVR__W1sBwNuJkQH9bIhCd
-#EXTINF:0,tëvë Doku 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCqs4YQdFv3m7m50ujRelxG5kLK8OCf-J3ZH4uyVlbt0
-#EXTINF:0,Travel Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGA1C5LBFe7T7_4lwnW-3hUpvIIjdIj0mK2hFuMx110I
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFmsQzSazDtycum8c3sWE-waYrlVABK8d6Wq2CShjCzs
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ3kMeQtbz_VfnZ0Amp07nE0
-#EXTINF:0,National Geographic Wild
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYX_4dXfucMdRn_Ac1mIIg0Y
-#EXTINF:0,National Geographic
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AtVYn2dKtZxgN1NtPbn-k3Y
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLMFlsZ-KKvAb7TOWjhi_cC
-#EXTINF:0,History Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u2euCqhg18MEJlVsLMPZEwe
-#EXTINF:0,Al Jazeera English
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV2iZ0ru1QZ2pZBbQznkkk5z
-#EXTINF:0,ID
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIt5ZqbIeBjFCNTy52dzBCffam7MNLLwnmuRVWS2pUs7
-#EXTINF:0,Shqiponja Fëmije
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL2YtOQhrVrYoVv9c0PbfA9uGY1Dl35gy0gQmt0gK0lt
-#EXTINF:0,Shqiponja Animuar
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PszrxqxpOf7b2uOcCgI-YCFb
-#EXTINF:0,Tring Tring
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQoXbngZmjY083xsfov2PbVrHTURZZbj5zV6sGsmMNk
-#EXTINF:0,Tring Kids
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZB5BpfJzSZeyQDOTzXSAZuV
-#EXTINF:0,Tring Original
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFWZX6QrnmyavvFzR0dly7m3Ntk4-UEE5XIUmHrS-Mpf
-#EXTINF:0,Prince Kids
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkQDgViokdwQPeeocRN78Ws
-#EXTINF:0,Cufo TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO9yDY0yh2ObY-87V5USKKLGpWewV9jjVMq7Q7GkOT1S
-#EXTINF:0,Tao Tao
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHAIfo_Izi_S65EzPGYrM23heCqBWqsnKZ7aGqji5EtC
-#EXTINF:0,Sofia
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOYKNLKfSa_z_ZhWMUBdPjIWAFsZzaImdobicZCfkqy3
-#EXTINF:0,BabyTV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOPc39OSoZ5JFMMWu0VjrMzOV_fz1vNzizIHr2ojEeeR
-#EXTINF:0,Tip TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN9N3yNmTs1yl5k2maneo8J9Cxio6RFzIwnMmVasms1B
-#EXTINF:0,Duck TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPWTftTSSyBOT5R8L7gMYA4VnJalfk5Ei8d6oLXihHz4
-#EXTINF:0,X Kids
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB5XrcJNdfF5yuweuV2Lc7T1KJM631yqB_JEhF1KMgjq
-#EXTINF:0,tëvë Kids 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKOTKjD6QdVYCjbgpkxa0yTJRmzTYrWj9XTJcRj0vDBR
-#EXTINF:0,Bang Bang
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCrG5EfYEr6__G7-oZmikGbF
-#EXTINF:0,Boomerang
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV1nju9GvXGQNV8SfBHmrxxb
-#EXTINF:0,Tom & Jerry
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNz-Cusm3hqGMCNK94KAOQSd4wWcgLxwyf2edBLOE7it
-#EXTINF:0,RTSH Shkolle
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHWfW_rQz6M8Znx2c1iIuH9ipFAN9imajLyqHE-s4Iij
-#EXTINF:0,RTSH Femije
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMSUtqx9wGb6Ajldhkg61x1ffX4-B-34sodufr_CAyqT
-#EXTINF:0,RTV 21 Junior
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIzn1hB1QD8irPlm10mu4-XCKm2mguCKM67NYNxcjxX-
-#EXTINF:0,Carton Network
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBZVHCeydrp2ET2csofo6lQ-BUJHiRql1xKL2Y3Pph1z
-#EXTINF:0,Bubble
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFkK9Pkt5yMEajYM2q8uoi1ZY_iGghMDAOMJ4TwPcOCC
-#EXTINF:0,tëvë Kids 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpK53XhuDHbzTZGThQVBAbKmeB59k1B7T5QquK_P2rSmU
-#EXTINF:0,Pikaboo
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIqUolD7ubChF_46l0rIQ8mihzXYeoaVcROcwPYjfmWt
-#EXTINF:0,Shqiponja Islam
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpODryh1C49Qur1c3FN6pYs0DMYmA8WNzXzTBoOAG86Q6
-#EXTINF:0,Shqiponja Ilahi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI1w-0wpolak8PjSEFn8UQomAuuteSKN5Uk8MWPVdcnp
-#EXTINF:0,Shqiponja Kuran
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKI9_cg8MQ6AqKicnMbL4GkqlGFiwjkhiJPk4-ZCLhJh
-#EXTINF:0,RTV Pendimi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEjDDL2XH-BCazwYvnLEwlM_3rzjag-eIL9raIRfjSlV
-#EXTINF:0,RTV Islam
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpB4p1ICTJ1AMyRjjLN_X8TNrr4MGH3N-PinMOew5Kf1S
-#EXTINF:0,RTI
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD-_JeMLfhDpkokZyV-D4DrvIhdZcNH6uhLsBP2pmvAT
-#EXTINF:0,Peace TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMBkJPbTGWSSvKFH9yDQcNKFBsNk2xwmlaYfXDV36WRH
-#EXTINF:0,Mekka Live
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDz5SQDQ2BQtoWRTEBOmW9YgxiHsgFh8cQG763z8Fo2o
-#EXTINF:0,Medina Live
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDfwB_GmeV6JXZxvHtWcRNmkHnx-3b1KdgQxFI3hTZZD
-#EXTINF:0,TV Opoja
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPQJ80Yl3QxB8DoJCBm5r0_4_fBn4aEqXcwEiinExCZg
-#EXTINF:0,RTV Elkalem
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZCr_5VYH4zpldLWi-SGGHXO
-#EXTINF:0,Xhamia e Tabakeve
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCGczVjB7KeXuJ5KZGZ1QuWRhq93UF7nk4CnaULVB6f7
-#EXTINF:0,Saudi Islam
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZA_pND14VaOZktO6n3Pj5Vx
-#EXTINF:0,Quran TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV0gmLwKyWO1dRant2Z2FY2Z
-#EXTINF:0,Islam Channel TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH62hVETNLtTBjuoMUUUkV03QGFESmR9Q3dW4dc9eJbO
-#EXTINF:0,Shqiponja Film
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMxr9_qNpFHm6Iq-0wmmAs10A3l3o8BQlBksGBDnU3I9
-#EXTINF:0,Shqiponja Kino 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAdMkFvEfJ8dF-Kjv5L5Hdwopl3n1q1E2HNUbR9NcHrk
-#EXTINF:0,Shqiponja Aksion
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpACMF23LrxpbKhYfV9gmDkFKA57pr9RxW9e2vRJxelch
-#EXTINF:0,Shqiponja Thriller
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKor87YiaNk5kA0odzghXGQPe_yXvN0pY5po3wv7flzm
-#EXTINF:0,Shqiponja Dramë
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBfFrSXjPri0kuAXlddxy0-9G4f_R23hQl4ThE5MHewW
-#EXTINF:0,Shqiponja Horror
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFFRV3GNgNjErnTJvAiHe25JT87Uxrqu4Efk-A7rUxAQ
-#EXTINF:0,Cine 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHjSkwheHrHgtGE5BoK9eqSQBiVQ7NmC2QvxNnL0SX6j
-#EXTINF:0,Cine 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFfq6n5311zilm0ni7fyzVS7P-jiQL2-CTRKHG3FK2I-
-#EXTINF:0,Cine 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpId5f39sJXot6h142cB--0GsK8tF_LskAjXYBJm0v7gl
-#EXTINF:0,Cine 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLFW73WMqeyS4FWmDtTvUfb3EUJzNJ9WjVkpuRmCFN6
-#EXTINF:0,Gold
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCvMO2gGlLsbKRhxyx_Vi8yBr0nDDCvqoAY8iaqf67YB
-#EXTINF:0,Gold 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOcLl-DT_Y9bERZ2H4L-dsI9Ls3Ma_mQDvglVD8VqaSn
-#EXTINF:0,Gold 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpL7gYxmtxwvqG2l86igga1capE8Bhc4_JgilPWOZ1u6I
-#EXTINF:0,Gold 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM5QKogKawKqfzouGyJjBxRMBWmRDdgx3Kqg7EgCHcms
-#EXTINF:0,Gold 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOnN1FRXisoIRX-hizV3MDrHGeoY3tWcD5LLGtw6TVOa
-#EXTINF:0,Premiere 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHmzIMcsqTN-rg21yYI6bYGRSDt8J0-vcSgnq2EzxzJi
-#EXTINF:0,Premiere 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKacZUaAdhkKEMCeq6wugb4jbEf6UZNwgVeHs1z0R5yF
-#EXTINF:0,Premiere 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDu-PgXw_hL-6kmQU0jsTuW8glOtfLK9Ab9y7eTPRVs6
-#EXTINF:0,Premiere 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFxFsaB4IfCwrabrnqyQOswuL3ZCIB2YDT-zgE4cushc
-#EXTINF:0,Filma24
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpOHu-tk3sy57SmypKiPMRajnmYjY4DdVpTiKxdBmXC0k
-#EXTINF:0,Privat Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHwEbVyuWYvI4o7BgzIjCW37dvyhTRIgD1VikRVLBzz2
-#EXTINF:0,Action
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM5wYRfkmNcRqECJ2DatPu4bXpfGuqp7PpZ-6mqtmx2d
-#EXTINF:0,Thriller
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFdn375CjcBXzNTRj177YJCpj_oz1m7yjNhrOIjoP-hH
-#EXTINF:0,Sci-Fi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGNLoSRYDy_-8V5ND37yEsflDDBwD5NUhAUUrawF0CUL
-#EXTINF:0,Comedy
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF5ejZaj5jhSc97B86K-FY1pngjCPx2bgdWzCwN98cE8
-#EXTINF:0,Romance
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJvdv5IEqx52tFrmCcg39kArQTumjL4kN89gdYOLgt_h
-#EXTINF:0,Drama
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPu3yBwvNwkn606ai_aWuRWY7EwaBtRL0f4gXAphiUFn
-#EXTINF:0,Dark
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGop9vKHCGWG9KZkTaxPuzcEsTwWfflYARo5olLDiveV
-#EXTINF:0,Western
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIUh2Bv5ZpMHGpdKFLTTx57-1FrCQ8jeoC9jWiqLCw7U
-#EXTINF:0,Family
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCFiE6j88SV34Mmh7TY9NvBcGbDWO5slunoVFPnY0I6s
-#EXTINF:0,Art Kino 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDGkWht9qpngt6lfHU-LAdL9E7ZsfwX7DVPyDOGsFpb6
-#EXTINF:0,Art Kino 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJRZi2nEfPTRCLoWDThk-DnTZAX7ZoFqnwSDcE0ZFJ42
-#EXTINF:0,Art Kino 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFC0Q4EDbHstX-ZsGogMm0FVErts7u7dg771mljA3-Ol
-#EXTINF:0,Film Gold
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFTHoP3aBL8D2iIcMfNyxVszcItGDanFcCsFDFoH8U4-
-#EXTINF:0,Film Max
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpF27j-wvDDZ26bLJP_fEicqtOCVLOBCFC_yzTZ_DyijR
-#EXTINF:0,Film Aksion
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAYDN9b_J-KxF93xENzEX3tQxrQ_y4oJtAJyT7ci5tcI
-#EXTINF:0,Film Hits
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHbdribcy9chkZflU4b8BADkNh1T9Hn2c3pNfb5cuRFV
-#EXTINF:0,Film Thriller
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBYspEoFCTiEZudLHblLnCGLVb78ODavjFzCwRX-xI8C
-#EXTINF:0,Film Autor
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJqfS0rJLEJxYONs09-AxIRP57mtBXpl5AU8itlswwIN
-#EXTINF:0,Film Drame
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDUueKZSOfErAZ2Hc62a1B0ZVJvBESqcRTQzobIQ_nul
-#EXTINF:0,Film Komedi
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHrc7Wb9D0GjKO8aCCrjyUpqmm4ENCtqJBgDnZKc2FyT
-#EXTINF:0,Euro Film
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAazz_9wSgptC5H2wbtcJ-uWu9RK6CpoLje45rGNzFVq
-#EXTINF:0,Film Stinet
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGihWrlPyrHdUWBMT3IleHEWQYSQAZsItiddLGCF5vdL
-#EXTINF:0,Film Family
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO6QxVdiRcEmZUSxFH0qQi__gWAQUcFs-2vyU2iqE2os
-#EXTINF:0,Film T
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCNgQEDe2fpdw2vWQrvQAon1yBENvJIKbxsjwBbYpqcu
-#EXTINF:0,Tring Action
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDDy1-VETA4jQhIZPQd1h5pfDdw4NGxeMxCLQxcWJPGn
-#EXTINF:0,Tring Super
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGdDJ_UaT_x-iu7YLPRkEf7WYUR4h_mmFnuKJIWwOw41
-#EXTINF:0,Tring Collection
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNMRJgtr_UQiOdxgOuSnOe1uU11vzpaUqYF5u6kmX4RP
-#EXTINF:0,Tring Comedy
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHNLpB8aJWVS4JuKKnjZWsjcl-rNWG9W426acDaxlUj3
-#EXTINF:0,Tring Fantasy
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAkKuV8_bSbI7BnESVJJMASpot6oCFnegy3TVDTqCuvO
-#EXTINF:0,Tring Family
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNk40TaUOuW0x04TOjVE90t7aCF-QrLbghoQcSjNrFuc
-#EXTINF:0,Tring Classic
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBePOcVlLKEo4jP-f1KUIXIYUWD9tX2WSeXa3gTXEf02
-#EXTINF:0,Tring Life
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG1U4jWt4PQBKSg8vEM1P90tbkaDB3dfS7CK0ntEWKbg
-#EXTINF:0,Tring Shqip
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNi42iUvEZTlQeptWgAwJHdkIg9nwncWlAfNtktwVJ74
-#EXTINF:0,Tring Smile
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJPgIXtQBPlyLitRCrA35XeZuokQpEf1UNAMqG-XzTmD
-#EXTINF:0,Super Sport 1 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGcXUnWD4i7g62-5EW-dFRXpSvhsN6Knpc1YIXwob9Ve
-#EXTINF:0,Super Sport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDu6r4vDu0iLHh7CPdgJ6Zj2U8YNy7w7IAZpJXJlZvJN
-#EXTINF:0,Super Sport 2 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHg3EytT2rVaeMTDEFIHi4sKMf_RDvxdQMse-PICfYl2
-#EXTINF:0,Super Sport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJhYA0GmTD4Icmz_xgRqARqwd8pgZxMRFXO4XHtn79zy
-#EXTINF:0,Super Sport 3 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpD_PCW4PAXpKJ5bGvsEa_tLlhLu73h0S9m08B6Zdg48o
-#EXTINF:0,Super Sport 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpAZSf6Nq4_9HO0zNZhzqQ7QdgWy1nbwNLHDXhhgmRYs7
-#EXTINF:0,Super Sport 4 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpI0b_57JqtsRkBPza3dJAp-9Dfh3VLO-kpf2H_6ELxwU
-#EXTINF:0,Super Sport 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHuYlAqU4GEQlnCKRi4beWxzZ8YAylUJj2ygwUqXOl2o
-#EXTINF:0,Super Sport 5 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpN2QSzw-xU7yLBfO1D-c2gw8ZJzG1HzTJunRDjHhqVkm
-#EXTINF:0,Super Sport 5
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEC9Les4S95gqdcmajGfceq5V0PxkbiRWLXRzeK8bpTl
-#EXTINF:0,Super Sport 6
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNLbenA9HGKOjpTdb3P-reVP5_woAau85zqb0VjNtkWN
-#EXTINF:0,Super Sport 7
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ0ukEiMyV3g4c_VY_aMmCqJh6bjpPM6h_IletV8MFdH
-#EXTINF:0,Art Sport 1 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMmE0qm9W-xjyioBaSlv7epqhmqDiKFX0RgoKo-5ghhI
-#EXTINF:0,Art Sport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDTrtWZNs8hXKwqtqxf4VDTRsHpQ3UfuB0tiRLlZZiN9
-#EXTINF:0,Art Sport 2 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpNX1cT0UrKBSnpWCkMwIgixjFzT4aaENU7udGodayEyV
-#EXTINF:0,Art Sport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLPOCkA9I_TE9-aQARGOm1LaTHiawbfNN9Tz1Qjs3zH0
-#EXTINF:0,Art Sport 3 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpADtXTq-aXoDcPfVI0jl-UNLh9AYN50FgrblxC7fEmDq
-#EXTINF:0,Art Sport 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpO_XIIejPUHF2ANrLT6jrMPzX_sMHoeLna8ojFGe7VdZ
-#EXTINF:0,Art Sport 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpGbgTjQ-efEH5jjFhN0_Tui9aq08fCFQlXQuxMI2LoxA
-#EXTINF:0,Art Sport 5
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFTbIQFpGA8BUoi8ASwuKtVSVmnNKz-_ZWroXQyi2eSN
-#EXTINF:0,Art Sport 6
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEv0UEqTKjm1dQ0ipy66Mb6VCF0yk0Qab2zywIa_VRMm
-#EXTINF:0,Tring Sport News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpG0Ij138JBXjbYi64eW9Q8y-oQegY5p2UrsRGwdx-msx
-#EXTINF:0,Tring Sport 1 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEJXl7xdVeJI9dhCrOEVDTvrB8hq8HpdPpbbSMQXyP3h
-#EXTINF:0,Tring Sport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJSbIoABY-W8lERE9wiR5cv2c2-_5gqkFjWUJ3zWCCVQ
-#EXTINF:0,Tring Sport 2 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpCAjazQi3XEBrFtA2sot5EI8dCNQRRkG7DTg_QfpYRLS
-#EXTINF:0,Tring Sport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDQ2uOTsjQN5FMC6l3t5HCfYXPCNuepx31letoaasf-5
-#EXTINF:0,Tring Sport 3 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMsnKhi2oMME7KUtSc2s0DnBL1COCD4-Q3rfQ8i_WHTj
-#EXTINF:0,Tring Sport 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKO3uSuFZ8R3IRS_ruOUOONE6CL4MhxRxPM1W-IVzJ8g
-#EXTINF:0,Tring Sport 4 FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBQAf6LIR5HjxUn_339wDtPmUBqyVh6OkVeI0OfDBOQk
-#EXTINF:0,Tring Sport 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLiMOUoL-oD4N2Q28SFG0NTSJlNbW42FuoaQzenM-DGV
-#EXTINF:0,Oversport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMPchGN9vVyoKszpDNG0uQxzUw5ezcdA2twYPLtcznRF
-#EXTINF:0,Oversport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpKBoGX_BpghEzPqnaN0gk0IPdtvTmI8pbPubWkcjpdzJ
-#EXTINF:0,Oversport 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHONby1rOrFgVqkmx7Es4VvAi-x9QhzLkPs3AmhyDwkX
-#EXTINF:0,Oversport 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpHzgVVJmn9fhMt0iLV2pXHRaAVLq9FhQz4FYZ5-01IWY
-#EXTINF:0,Kujtesa Sport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpInquhZuLW4JcW83bWzQaVQ8g6IP9VDw96ljGXsin8dE
-#EXTINF:0,Kujtesa Sport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpImlzBDW-BBOcXYzaGlhYZ0iIJD6cMnhcLXtFCqkCODS
-#EXTINF:0,Kujtesa Sport 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpBrjwuaDrobFgAsawwQDIWR_z_b9rhou9hMbtKHup-Wh
-#EXTINF:0,Kujtesa Sport 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpDgMAVnnU8-JWFgVnPiEbz82jxXU5Z7PTbxBC7GTodOh
-#EXTINF:0,RTSH Sport FHD
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPwogsoFtq2MPv5yhj3W1n1so8DcShwiH_L6gPJ0jTjs
-#EXTINF:0,RTSH Sport
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMGHWTAopmw8n4CRMKy2yc8EAej1Kb5BH-ecl0g6ccZW
-#EXTINF:0,Euro Sport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH2PZ-jnUadmn6DRAInP9p22O0H_cLwNtCaIpCM8IcCU
-#EXTINF:0,Euro Sport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIecbpwy1uMH8SF3wjAl09a8-AWD_GKPcn3BGCzt9Zvg
-#EXTINF:0,Arena Sport 1 Premium
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ0Y7WD2Jnc0mpqlqRVI67m_
-#EXTINF:0,Arena Sport 2 Premium
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ1VEMhLaOr0zeQQfJ-GOAh7
-#EXTINF:0,Arena Sport 3 Premium
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ2uqzaqBTBSpw51kaSA99un
-#EXTINF:0,PREMIER SPORTS 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GlPJrq6O-pnRfwsf9RIuV0e
-#EXTINF:0,PREMIER SPORTS 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7Gmf8kHRoN4KdAc1x_n_dw9h
-#EXTINF:0,TNT Sports 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYW3o9wLdc5aktFXs2_ugZw_
-#EXTINF:0,TNT Sports 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYUvcDtNdtJRX1NBUf-kqltt
-#EXTINF:0,TNT Sports 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYWSU1cyJmGvHgGpNQ0IcTLN
-#EXTINF:0,TNT Sports 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYVIKyaz_adj8CZUICrDoAyI
-#EXTINF:0,Sky Sports Premier League
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYU-RAYdur1_-R4KDp0EKhGR
-#EXTINF:0,Sky Sports Football
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYXsQPGloUZ4uSOnKuIXkBjT
-#EXTINF:0,Sky Sports Main Event
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TI0mcJdWYfuEMCHRqwqV9MH
-#EXTINF:0,Sky Sports F1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TIrUQdP555drubNb8RbKLZt
-#EXTINF:0,Sky Sports MotoGP
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKZFJUokNz1DoLUSxolL5ew
-#EXTINF:0,Sky Sports Arena
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLACT6R7WwNI1rWXMRZkVpi
-#EXTINF:0,Sky Sports Mix
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKLQeyKc-3_Qr9fHA-fj-fg
-#EXTINF:0,Sky Sports Golf
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLNBfw0HoZ9Nq0tggrwVtN8
-#EXTINF:0,Sky Sports Racing
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TJiDYipWRymGUQRMA1K3ELs
-#EXTINF:0,Sky Sports Cricket
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TJX-dbuOv_4q33r1MQ5zE0M
-#EXTINF:0,Sky Sport Action
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFWZX6QrnmyavvFzR0dly7nXRGbq9KOifJ-EUZRU0e9q
-#EXTINF:0,Sky Sports News
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TKG7NrGbkXaiwF_VNDE6417
-#EXTINF:0,SuperSport PremierLeague
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpJ4_EPsY4wlRJhp0yLqI3TLwYrpz69Q0Q68_na7abyOQ
-#EXTINF:0,SuperSport Football
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u2GJ2sDtxpErDv74V4ULfRP
-#EXTINF:0,British Eurosport 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3QVKf6Lt9-AnVD-x1979CR
-#EXTINF:0,British Eurosport 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3l2ERvhrUiHqqfLsVq6Fm5
-#EXTINF:0,beIN Sports 1 English
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYXYXa_SYGbqkdL1xnXF37cD
-#EXTINF:0,beIN Sports 2 English
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYUTzVCDkSw6rbZDozZfG_qD
-#EXTINF:0,DAZN 1 UK
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u0JYhYoRjbbHSQ2-XwK2HlW
-#EXTINF:0,SSC SPORTS 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkueXe5Nik4AogEfrLeoQm2
-#EXTINF:0,SSC SPORTS 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmpY3oTFMB1yonCQat3k6Kw
-#EXTINF:0,SSC SPORTS 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GnIOnrxKoG6Ua6Bg1LAsoBS
-#EXTINF:0,SSC SPORTS 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkjcIHAWiOsDxBLX3rxOXlt
-#EXTINF:0,SSC SPORTS 5
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7Gk68ZjGNEwAhiXnut3XuVLI
-#EXTINF:0,SSC EXTRA 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GkXgOciglUF0FP-NQgZEPOd
-#EXTINF:0,SSC EXTRA 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmII5DCLpJB1ZEvVC9dnNCL
-#EXTINF:0,SSC EXTRA 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpMR3aLZnDcjOeU9POOag7GmQ_IDbDDVHZsRRE26s3U-o
-#EXTINF:0,beIN Sports Premium 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpLLLhbEQaPAOVRC7ygyzBQ3DRSh_-AleHLITds0KbpTI
-#EXTINF:0,beIN Sports Premium 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AslI9udWQg713sZHXwVdP2j
-#EXTINF:0,beIN Sports Premium 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AsGVjDmTsnUeGYiLtMRDHXJ
-#EXTINF:0,beIN Sports Arabia 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AvSU52uqv4lvLAcKC03lF1M
-#EXTINF:0,beIN Sports Arabia 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Au6sCNIka2wPcVMiyrTxbT6
-#EXTINF:0,beIN Sports Arabia 3
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AubbCg78d381Gx_VaOhHtRy
-#EXTINF:0,beIN Sports Arabia 4
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Av9gnmAR0-tuZx3QVONrSBg
-#EXTINF:0,beIN Sports Arabia 5
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2As4LJ-l30pez6aRIde9hLUR
-#EXTINF:0,beIN Sports Arabia 6
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Athj-kJe8mDYE0FIAGAgDmu
-#EXTINF:0,beIN Sports Arabia 7
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2AsMXndlp_8SHzodA1OBIrO2
-#EXTINF:0,beIN Sports Arabia 8
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpM2QA69g1uWz4jqOZlvK2Av8WQW85wPNseI2lYJa4HCh
-#EXTINF:0,beIN Sports Arabia 9
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYWcHgWtwiJW3OL0eTEP0yCy
-#EXTINF:0,beIN Sports Arabia 10
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIeMmif1V1qNLSOA_AHNBYVGgjUVxtKGp_w89_HygrdC
-#EXTINF:0,ABU DHABI SPORTS 1
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PszD6yZ1o7GLRRAXYqlHBVes
-#EXTINF:0,ABU DHABI SPORTS 2
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpPvCfKh5k6geYH4CpGz-PsxSUe1my7c0dzrm-NfVa6j-
-#EXTINF:0,UFC FIGHT PASS
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3BD0Yfu6i45TfQSV3s_gi6
-#EXTINF:0,Fight Channel
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpEBQyBd1GpGY_8l_F8_k7u3z3DSAUKEc0e_9xtJp_Tj_
-#EXTINF:0,NBA Live TV
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpFQoXbngZmjY083xsfov2PaTJkCKDlU-V3uRn29dLMco
-#EXTINF:0,Box Nation
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpH9kr8IH9dIX_VbgctLNBZBmiWsXssRGpOrpPEU4yvaT
-#EXTINF:0,TNT Sports Box Office
-#EXTVLCOPT:input-slave=
-#EXTVLCOPT:file-caching=1000
-#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 1 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk1.png" group-title="KOMBETARE & LOKALE",RTK 1 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8714.ts
@@ -4159,198 +2667,6 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/80953
 #EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 4 HD" tvg-logo="http://hs-iptv.net:88/images/13ac507d93e21615219c805f64676386.png" group-title="Albania",AL: Rtk 4 HD
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/6
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/251
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/252
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/253
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/254
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/240
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/241
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsat-m-al-mk.png" group-title="★ ALBANIA-SHQIP",AL: Alsat M
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/242
-#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ABC News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/243
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Opoja
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/244
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/245
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_popullore.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Popullore
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/249
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_plus.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/248
-#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv 21 Mix" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Rtv 21 Mix
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/247
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedoni" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Maqedoni
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/246
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/250
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Kosova
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/255
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/256
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/257
-#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Vizion Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/258
-#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: KTV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/259
-#EXTINF:-1 tvg-id="" tvg-name="AL: NEWS 24" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: NEWS 24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/261
-#EXTINF:-1 tvg-id="" tvg-name="AL: ALB UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ALB UK
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1535
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/262
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Thriller" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Thriller
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/312
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Romance" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Romance
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/310
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Sci-Fi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Sci-Fi
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/313
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Natyra" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Natyra
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/305
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Music Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Music Hits
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/304
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Humor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Humor
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/303
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Histori
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/302
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Family
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/301
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Drama
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/300
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Cifteli " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Cifteli 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/308
-#EXTINF:-1 tvg-id="" tvg-name="AL: X Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Action
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/306
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Femije
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/342
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Zjarr" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Zjarr
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/340
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Music" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb Music
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/322
-#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Koha TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/338
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring World
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/299
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Super
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/298
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Shqip
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/297
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Planet
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/296
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Life
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/294
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Kids
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/293
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Jolly
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/292
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring History
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/291
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Fantasy
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/290
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Comedy
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/289
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Action
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/288
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3 Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TRING 3 Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/287
-#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Euro Film
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/334
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Kuvend
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/265
-#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Digi Gold 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/330
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Hits
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/282
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Dy
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/281
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Drame
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/280
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Autor
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/278
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Aksion
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/329
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Thriller
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/271
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIGBROTHER 2 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: BIGBROTHER 2 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/331
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV Pendimi
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/347
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/260
-#EXTINF:-1 tvg-id="" tvg-name="AL: MRT 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_2_sat.jpg" group-title="★ ALBANIA-SHQIP",AL: MRT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/264
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dielli
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/328
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: T HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/337
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb UK
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/327
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 24 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/325
-#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ERA TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/323
-#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Dasma TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/320
-#EXTINF:-1 tvg-id="RTSH Shqip.al" tvg-name="AL: RTSH 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/326
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb WesterN" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb WesterN
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/272
-#EXTINF:-1 tvg-id="" tvg-name="AL:  Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL:  Stinet
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/279
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dukagjini
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/295
-#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: FOLK Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/324
-#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: National Geographic
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/343
-#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Histori
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/344
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Muzike
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/345
-#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Natyra
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/346
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Komedi
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47732
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Stinet
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47733
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Family
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47734
-#EXTINF:-1 tvg-id="" tvg-name="AL: Topestrada" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Topestrada
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47735
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV Fontana
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47736
-#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: MCN TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47738
-#EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Scan
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47739
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Mitrovica
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47740
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Diaspora" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Diaspora
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47741
-#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: First Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47742
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Big Brother 1 (VIP)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47747
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Big Brother 2 (VIP)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47748
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Kanal D Drama
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49822
-#EXTINF:-1 tvg-id="" tvg-name="AL: Smile" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Smile
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49823
-#EXTINF:-1 tvg-id="" tvg-name="AL: Turkish Stories" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Turkish Stories
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49824
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Novelas
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49825
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Series
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49826
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Original" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Original
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49827
 #EXTINF:-1 tvg-id="Rai1" tvg-name="Rai 1 FHD" tvg-logo="" group-title="Italian",Rai 1 FHD
 http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8291.ts
 #EXTINF:-1 tvg-id="Rai2" tvg-name="Rai 2 FHD" tvg-logo="" group-title="Italian",Rai 2 FHD
@@ -4419,747 +2735,6 @@ http://medotv.nl:8000/totocorono/fG2bBmbzRO/110574
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110575
 #EXTINF:-1 tvg-id="" tvg-name="ALB: ART SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: ART SPORT 6 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110579
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40635
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 1 (SD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46623
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40636
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 2 (SD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46624
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40637
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 3 (SD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/46625
-#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-name="SPORT: ArenaSport 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/699
-#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-name="SPORT: ArenaSport 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29070
-#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-name="SPORT: ArenaSport 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/700
-#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-name="SPORT: ArenaSport 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29071
-#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-name="SPORT: ArenaSport 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/701
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29072
-#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-name="SPORT: ArenaSport 4 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/702
-#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 4 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29073
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/703
-#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29074
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ArenaSport BH" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport BH
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/704
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/705
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29066
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/706
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29067
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/707
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29068
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/708
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR (HD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29069
-#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-name="SPORT: ArenaSport 5 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/709
-#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-name="SPORT: ArenaSport 6 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 6 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/710
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: ARENA FIGHT
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39561
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT: Sport Klub 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 1 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/711
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="Ex-Yu: Sport Klub 1 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 SR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36527
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/712
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="Ex-Yu: Sport Klub 2 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 SR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36528
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT: Sport Klub 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/713
-#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="SPORT: Sport Klub 4 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 4 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/714
-#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="SPORT: Sport Klub 5 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 5 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/715
-#EXTINF:-1 tvg-id="sportklub6.rs" tvg-name="SPORT: Sport Klub 6 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 6 SR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/716
-#EXTINF:-1 tvg-id="sportgolf.rs" tvg-name="SPORT: Sport Klub Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub Golf 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/717
-#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 1 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/718
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36530
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/719
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36531
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/720
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 3 HR HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36532
-#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 4 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 4 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/721
-#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 5 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 5 HR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/722
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/723
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/724
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Nova Sport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Nova Sport  
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36529
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/41332
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/41333
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sportska TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sportska TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/884
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: S Fight Club" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: S Fight Club
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/848
-#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Zvezda TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Zvezda TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36284
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/725
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/726
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2 Xtra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2 Xtra
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/727
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/728
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/729
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/730
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S Bundesliga 1 (FHD)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 1 (FHD)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/731
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/732
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-name="SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/733
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-name="SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/734
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-name="SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/735
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD.de" tvg-name="SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/736
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD+
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/737
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/738
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 3 (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/739
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 4 (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/740
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 5  (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/741
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 6  (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/742
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 7 (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/743
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/745
-#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 HD (Live Event)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 HD (Live Event)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/744
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/747
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 FHD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/746
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/748
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Auto Motor Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Auto Motor Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/749
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: FC Bayern TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: FC Bayern TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/750
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sports Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sports Austria
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/751
-#EXTINF:-1 tvg-id="" tvg-name="AT: S Sport Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",AT: S Sport Austria 1 HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29047
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport Digital
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/924
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AT: ORF Sport+" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AT: ORF Sport+
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/752
-#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 1 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 1 HD [Match Time]
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29032
-#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 2 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 2 HD [Match Time] 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29033
-#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 3 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 3 HD [Match Time]
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29034
-#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 4 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 4 HD [Match Time]
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29035
-#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 5 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 5 HD [Match Time] 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/29036
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS Premium 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN SPORTS Premium 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47452
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47454
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47455
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: Bein Sports News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: Bein Sports News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/789
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/776
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/777
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/778
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/779
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/780
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 6
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/781
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 7
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/782
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 9
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/784
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 10
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/785
-#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40609
-#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40610
-#EXTINF:-1 tvg-id="" tvg-name="SW: Blue ZOOM D" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue ZOOM D
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/40611
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Premier League
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6278
-#EXTINF:-1 tvg-id="" tvg-name=" ZA: SuperSport Action" tvg-logo="" group-title="★ SPORTS (All World Sports)", ZA: SuperSport Action
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6275
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Cricket 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6269
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Grandstand
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6272
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Maximo 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6274
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport MotorSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport MotorSport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6276
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36176
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36177
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 4 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36178
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Blitz
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/36179
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 1 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6701
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 2 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 2 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6702
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 3 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 3 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6703
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 4 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6704
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6705
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 6 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 6 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6706
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 7 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 7 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6707
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 8 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 8 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6708
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6709
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1 FHD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6710
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6711
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2 FHD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6712
-#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/6713
-#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 1 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/20989
-#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/20990
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/768
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/769
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Premier Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Premier Sports
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/772
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Liverpool  TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Liverpool  TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/774
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Manchester United (MUTV)" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Manchester United (MUTV)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/775
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Kombat Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Kombat Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/788
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/790
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/791
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/792
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Canal+  Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Canal+  Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/793
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/794
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/795
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: GOLF" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: GOLF
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/796
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: InfoSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: InfoSport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/797
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/798
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/799
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/800
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/801
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/802
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Uno" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Uno
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1486
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT 2 " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT 2 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1487
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Rai Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Rai Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1484
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",IT: RAI SPORT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1485
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport 24" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport 24
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1475
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT F1 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT F1 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1477
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: PREMIUM SPORT HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: PREMIUM SPORT HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1480
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT Collection" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT Collection
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1481
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1478
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: EUROSPORT 2 HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: EUROSPORT 2 HD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1479
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Super Tennis" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Super Tennis
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1474
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Sport Italia" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Sport Italia
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1473
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Moto GP" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Moto GP
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1483
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  AUTO MOTO TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  AUTO MOTO TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1489
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Juventus Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Juventus Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1491
-#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  LAZIO CHANNEL" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  LAZIO CHANNEL
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1492
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/803
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/804
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/805
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/806
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/807
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: S-Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: S-Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/810
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Tivibuspor 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Tivibuspor 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/811
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/812
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/813
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR:  A Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR:  A Spor
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/815
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TRT Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TRT Spor
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/816
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Smart Spor
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/809
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Fb Tv
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/817
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: BEIN Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: BEIN Sports
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/818
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: AFN Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: AFN Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/819
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/820
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/821
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Soccer Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Soccer Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/822
-#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",US: NHL Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21002
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/823
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/824
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBA
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/826
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/827
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL NOW" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL NOW
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/828
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/829
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Red Zone" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Red Zone
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/830
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: CBS Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: CBS Sports
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/831
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/832
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/833
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/834
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/835
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/836
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Washington" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Washington
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/837
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Bay Area" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Bay Area
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/838
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Los Angeles" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Los Angeles
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/839
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Arizona" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Arizona
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/841
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Golf
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/842
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MLB Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MLB Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/847
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet One" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet One
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/849
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet 360" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet 360
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/850
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Willow Cricket" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Willow Cricket
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/851
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TyC Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TyC Sports
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/852
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Tennis Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Tennis Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/853
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: WWE Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: WWE Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/854
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: FightBox" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FightBox
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/856
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Chicago" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Chicago
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/888
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MSNBC" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MSNBC
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/889
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet World
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/891
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet Ontario" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet Ontario
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/892
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/894
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/895
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Six " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Six 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/898
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: BoxNation" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: BoxNation
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/855
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Fight Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/859
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: De: Motorvision" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: De: Motorvision
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/857
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Channel World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Channel World
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/858
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/860
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport tv NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport tv NBA
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/861
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK:  At The Races
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/862
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Racing
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/863
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/864
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/865
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Racing UK" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Racing UK
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/866
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/867
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: MotorSport TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: MotorSport TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/868
-#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13226
-#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13227
-#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/13228
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/873
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/870
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/871
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/872
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/874
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/875
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/876
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/877
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/878
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/879
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/880
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/881
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/882
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/883
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/900
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/901
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/902
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/903
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 5" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/904
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/911
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport 1 Voetbal" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport 1 Voetbal
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/905
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Select" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Select
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/906
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Racing
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/907
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport  Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport  Golf
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/908
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport Extra 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport Extra 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/909
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport Extra 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport Extra 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/910
-#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39149
-#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39150
-#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39151
-#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39152
-#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39153
-#EXTINF:-1 tvg-id="" tvg-name="Sport: NL: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: NL: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/39155
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/912
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/913
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/914
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/915
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sporting TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sporting TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/916
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/917
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/918
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/919
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/920
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/921
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1468
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1469
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1470
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1471
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 5
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1472
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: RO: EuroSport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/922
-#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: London Live
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/429
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: UFC Fight PASS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: UFC Fight PASS
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/923
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Polsat Sport Extra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Polsat Sport Extra
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/926
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/927
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Canal Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Canal Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/928
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/929
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Fight Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/931
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: TVP Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: TVP Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/932
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: FightClub" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: FightClub
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/933
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/934
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/935
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/936
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/937
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Nova Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Nova Sport
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/938
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Ring TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Ring TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/940
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Sport Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Sport Plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/941
-#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21530
-#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21531
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: EuroSport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: EuroSport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/942
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Barca TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Barca TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/943
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Real Madrid TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Real Madrid TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/944
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Movistar LaLiga" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Movistar LaLiga
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/945
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: beINSport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: beINSport  
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/946
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: M Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: M Golf
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/949
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fox Sports News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fox Sports News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/950
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: MovieStar Futbol" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: MovieStar Futbol
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/951
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Gol TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Gol TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/952
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Motor Trend" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Motor Trend
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/953
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: La  Liga Bar" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: La  Liga Bar
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/954
-#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1733
-#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1734
-#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1735
-#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1736
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/955
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/956
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/957
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/958
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: OWN" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: OWN
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/959
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN U" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN U
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/961
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ CARTOOONS for Kids",CAR: UK: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1056
-#EXTINF:-1 tvg-id="" tvg-name="CAR: US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: US: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1057
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Boomerang
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1058
-#EXTINF:-1 tvg-id="" tvg-name="CAR: TR: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_de.jpg" group-title="★ CARTOOONS for Kids",CAR: TR: Cartoonito
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1059
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Disney Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1060
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Disney Junior
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1061
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Disney XD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1062
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nick Jr" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nick Jr
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1063
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nicktoons" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nicktoons
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1064
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ CARTOOONS for Kids",CAR: UK: Baby First TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1065
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nickelodeon Evrope" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nickelodeon Evrope
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1066
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Cartoonito" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Cartoonito
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1067
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: CBeebies" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: CBeebies
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1068
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Tiny Pop" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Tiny Pop
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1070
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: DE: Boomerang
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1071
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ CARTOOONS for Kids",CAR: DE: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1072
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: KIKA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kika-de.svg" group-title="★ CARTOOONS for Kids",CAR: DE: KIKA
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1073
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.png" group-title="★ CARTOOONS for Kids",CAR: DE: Disney Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1075
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Disney Cinemagic" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: DE: Disney Cinemagic
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1076
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Nickelodeon AT" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: DE: Nickelodeon AT
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1077
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: TOGGO plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toggo-de.png" group-title="★ CARTOOONS for Kids",CAR: DE: TOGGO plus
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1078
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Super RTL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_rtl_de.jpg" group-title="★ CARTOOONS for Kids",CAR: DE: Super RTL
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1079
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Pikaboo" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Pikaboo
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1080
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Rtl Kockica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuc98jGRuCxu0LsCOpDxLlhGBPw35woWFsULhtYyRFsVWvZOb1&usqp=CAU" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Rtl Kockica
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1081
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Nick JR" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Nick JR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1082
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Disney Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1083
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Nickelodeon
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1084
-#EXTINF:-1 tvg-id="" tvg-name="CAR:  Baby Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ CARTOOONS for Kids",CAR:  Baby Tv
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1085
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Pink Kids" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Pink Kids
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1086
-#EXTINF:-1 tvg-id="" tvg-name="CAR:Ex-Yu: Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="★ CARTOOONS for Kids",CAR:Ex-Yu: Mini Ultra
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1087
-#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: POP Max" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: POP Max
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1088
-#EXTINF:-1 tvg-id="" tvg-name="CAR: PINK PANTHER" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: PINK PANTHER
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1089
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Tom & Jerry " tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Tom & Jerry 
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1090
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Dexy TV" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Dexy TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1718
-#EXTINF:-1 tvg-id="" tvg-name="CAR: Masa & Medo" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Masa & Medo
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1720
-#EXTINF:-1 tvg-id="" tvg-name="DE: NDR" tvg-logo="" group-title="★ GERMANY Channels",DE: NDR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1719
-#EXTINF:-1 tvg-id="" tvg-name="SE: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",SE: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/21573
-#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Disney Channel
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1092
-#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Cartoonito" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Cartoonito
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1093
-#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: SE: Disney Junior
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1094
-#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Nick JR" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Nick JR
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1096
-#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Nickelodeon
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1097
-#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR:DK: Nickelodeon
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1432
-#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR:DK: Cartoon Network
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1436
-#EXTINF:-1 tvg-id="" tvg-name="CAR: DK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: DK: Disney XD
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1099
-#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Bang Bang" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Bang Bang
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1102
-#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: TIP TV" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: TIP TV
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1103
-#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Junior" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Junior
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1104
-#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Tring Tring" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Tring Tring
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1105
-#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Cufo" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Cufo
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/1106
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/960
 #EXTINF:-1 tvg-id="" tvg-name="=============== Sport ===============" tvg-logo="" group-title"Sporte shqip",=============== Sport ===============
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104085
 #EXTINF:-1 tvg-id="" tvg-name="Sport AL 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SS1-Albania.jpg/revision/latest/smart/width/386/height/259?cb=20160805101035" group-title="ALBANIA-KOSOVA",Sport AL 1
@@ -6275,3 +3850,455 @@ http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146516
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146514
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Netflix Jackie Chan" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Netflix Jackie Chan
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146512
+#EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50162
+#EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50163
+#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50164
+#EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50165
+#EXTINF:-1 tvg-id="Rai 5 HD" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/800px-Rai_5_HD_Logo.svg.png"  group-title="Italiane",Rai 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50166
+#EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rai_Movie_HD_-_Logo.svg/1000px-Rai_Movie_HD_-_Logo.svg.png" group-title="Italiane",Rai Movie
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80495
+#EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_%282010%29.svg/500px-Rai_Premium_Logo_%282010%29.svg.png" group-title="Italiane",Rai Premium
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80496
+#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/320px-Rai_Sport_-_Logo_2022.svg.png" group-title="Italiane",Rai Sport
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2274
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1000px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italiane",Rai Storia
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80498
+#EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/320px-Rai_News_24_logo_%282022%29.svg.png" group-title="Italiane",Rai News 24
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80499
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/520px-Logo_Italia_1.svg.png"  group-title="Italiane",Italia 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50169
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c0/Rete_4_-_Logo_2018.svg/520px-Rete_4_-_Logo_2018.svg.png"  group-title="Italiane",Rete 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50167
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/520px-Canale_5_-_2018_logo.svg.png"  group-title="Italiane",Canale 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="Italiane",La 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80448
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/18716
+#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iris_logo_2013.svg/320px-Iris_logo_2013.svg.png" group-title="Italiane",Iris
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80451
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80447
+#EXTINF:-1 tvg-id="LA 7d" tvg-name="LA 7d" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80564
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/205px-TV8_Logo_2016.svg.png" group-title="Italiane",TV8 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80446
+#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="MEDIASET Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/500px-Mediaset_Extra_logo.svg.png"  group-title="Italiane",Mediaset Extra
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80452
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Mediaset 20" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/20_Mediaset_-_Logo_2018.svg/616px-20_Mediaset_-_Logo_2018.svg.png"  group-title="Italiane",Mediaset 20
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80524
+#EXTINF:-1 tvg-id="Cine 34" tvg-name="Mediaset Cine 34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/769px-Cine34_logo.svg.png" group-title="Italiane",Mediaset Cine34
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80544
+#EXTINF:-1 tvg-ID="RSILA1.it" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RSI_La_1.svg/500px-RSI_La_1.svg.png" group-title="Italiane",RSI LA 1 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50170
+#EXTINF:-1 tvg-ID="RSILA2.it" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RSI_La_2.svg/500px-RSI_La_2.svg.png" group-title="Italiane",RSI LA 2 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50171
+#EXTINF:-1 tvg-ID="Sky Documentari" tvg-name="Sky Documentari HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/640px-Sky_Documentaries_Logo_2020.png" group-title="Italiane",Sky Documentari
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/83810
+#EXTINF:-1 tvg-ID="Sky Arte FHD" tvg-name="Sky Arte FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_sky_arte_2018-2021.png" group-title="Italiane",Sky Arte 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80509
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/320px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Italiane",Sky Atlantic
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80473
+#EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italiane",Sky Uno
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80508
+#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/320px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="Italiane",Sky Cinema Uno
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80568
+#EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA Due HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Cinema_Due_-_Logo_2019.svg/1000px-Sky_Cinema_Due_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Due
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80539
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="SKY CINEMA Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Cinema_Action_-_Logo_2019.svg/500px-Sky_Cinema_Action_-_Logo_2019.svg.png" group-title="Italiane",Sky Cinema Action
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/5669
+#EXTINF:-1 tvg-ID="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/640px-Sky_Cinema_Comedy_-_Logo_2018.svg.png" group-title="Italiane",Sky Cinema Comedy 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80470
+#EXTINF:-1 tvg-id="SKY Cinema Collection" tvg-name="SKY Cinema COLLECTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Cinema_Collection_-_Logo_2019.svg/500px-Sky_Cinema_Collection_-_Logo_2019.svg.png"  group-title="Italiane",SKY Cinema Collection
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80550
+#EXTINF:-1 tvg-id="Sky Cinema Drama" tvg-name="SKY CINEMA Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/800px-Sky_Cinema_Drama_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Drama
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80469
+#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Cinema_Family_-_Logo_2018.svg/1000px-Sky_Cinema_Family_-_Logo_2018.svg.png"  group-title="Italiane",Sky Cinema Family
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80538
+#EXTINF:-1 tvg-id="Sky Cinema Romance" tvg-name="Sky Cinema Romance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Cinema_Romance_-_Logo_2019.svg/1000px-Sky_Cinema_Romance_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Romance
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80475
+#EXTINF:-1 tvg-id="Sky Cinema Suspense" tvg-name="SKY Cinema Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Suspense_-_Logo_2019.svg/1024px-Sky_Cinema_Suspense_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Suspense
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80468
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Prima Visione
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35027
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Thriller" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Thriller
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35020
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Avventura" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Avventura
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Passione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Passione
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Azione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Azione
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35026
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Commedia" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Commedia
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35023
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Drammatico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Drammatico
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35017
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Fantastico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Fantastico
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35024
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Horror" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Horror
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35016
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Sorriso" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Sorriso
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35022
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Storico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Storico
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35019
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Animazione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Animazione
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35028
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Prima Fila 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34992
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Prima Fila 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY PrimaFila 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34991
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Prima Fila 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34990
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Prima Fila 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 4 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34989
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Prima Fila 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 6 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34987
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Prima Fila 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 8 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34985
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Prima Fila 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 9 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34984
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Prima Fila 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 10 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34983
+#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Prima Fila 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 11 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34995
+#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Prima Fila 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 12 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34994
+#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Prima Fila 13 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 13 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35000
+#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Prima Fila 14 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 14 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35001
+#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Prima Fila 15 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 15 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35002
+#EXTINF:-1 tvg-id="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/1050
+#EXTINF:-1 tvg-name="Klan TV HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/15661
+#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29897
+#EXTINF:-1 tvg-id="ABC News Albania" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/26563
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29855
+#EXTINF:-1 tvg-id="Ora News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2106
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/26566
+#EXTINF:-1 tvg-id="MCN TV" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29797
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/1078
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",KTV
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/1077
+#EXTINF:-1 tvg-id="Big Brother VIP Albania 1" tvg-name="BigBrother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/160500
+#EXTINF:-1 tvg-id="Big Brother VIP Albania 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/160501
+#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+#EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare", RTV ORA 
+http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
+#EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
+http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
+http://185.183.35.119:8080/SyRItVsfhao/index.m3u8
+#EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/26561
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/1143
+#EXTINF:-1 tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2107
+#EXTINF:-1 tvg-ID="" tvg-name="Folk" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Folk 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2131
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Supersonic" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Supersonic
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2118
+#EXTINF:-1 tvg-ID="" tvg-name="AL: BBF" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", BBF
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2135
+#EXTINF:-1 tvg-id="RTSH 1" tvg-name="RTSH 1" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29894
+#EXTINF:-1 tvg-id="RTSH 2" tvg-name="RTSH 2" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="Shqiptare",RTSH 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29893
+#EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqiptare",RTSH 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29892
+#EXTINF:-1 tvg-id="RTSH Film" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Shqiptare",RTSH Film
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/7924
+#EXTINF:-1 tvg-id="RTSH Shqip" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqiptare",RTSH Shqip
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29891
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2102
+#EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29890
+#EXTINF:-1 tvg-id="RTSH Korca" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqiptare",RTSH Korca
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29889
+#EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29888
+#EXTINF:-1 tvg-id="Tring Sport News" tvg-name="Tring Sport News" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA" ,Tring Sport News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/212
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/213
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2156
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2155
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2154
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2153
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98714
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98715
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98716
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 4 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98717
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 AL" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/224
+#EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/223
+#EXTINF:-1 tvg-id="SuperSport 3 AL" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/222
+#EXTINF:-1 tvg-id="SuperSport 4 AL" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/221
+#EXTINF:-1 tvg-id="SuperSport 5 AL" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19809
+#EXTINF:-1 tvg-id="SuperSport 6 AL" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19810
+#EXTINF:-1 tvg-id="SuperSport 1 AL" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/226
+#EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/225
+#EXTINF:-1 tvg-id="Art Sport 1" tvg-name="Art Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png"  group-title="Sport ALB-ITA",Art Sport 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29801
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="Art Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png"  group-title="Sport ALB-ITA",Art Sport 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29800
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="Art Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png"  group-title="Sport ALB-ITA",Art Sport 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29799
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="Art Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="Sport ALB-ITA",Art Sport 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98718
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="Art Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="Sport ALB-ITA",Art Sport 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98719
+#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="Art Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="Sport ALB-ITA",Art Sport 6
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/98720
+#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 1" tvg-name="Kujtesa Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png"  group-title="Sport ALB-ITA",KSport 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2115
+#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 2" tvg-name="Kujtesa Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png"  group-title="Sport ALB-ITA",KSport 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2114
+#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 3" tvg-name="Kujtesa Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png"  group-title="Sport ALB-ITA",KSport 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2113
+#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 4" tvg-name="Kujtesa Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"  group-title="Sport ALB-ITA",KSport 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2112
+#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 5" tvg-name="Kujtesa Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg"  group-title="Sport ALB-ITA",KSport 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/
+#EXTINF:-1 tvg-id="SuperSport 1 AL" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80227
+#EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80228
+#EXTINF:-1 tvg-id="SuperSport 3 AL" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80229
+#EXTINF:-1 tvg-id="SuperSport 4 AL" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80230
+#EXTINF:-1 tvg-id="SuperSport 5 AL" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80232
+#EXTINF:-1 tvg-id="SuperSport 6 AL" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80233
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/29821
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80543
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/320px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport 24
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80488
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80519
+#EXTINF:-1 tvg-id="Sky Calcio 1" tvg-name="SKY Calcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/800px-Sky_Calcio_-_Logo_2015.svg.png" group-title="Sport ALB-ITA",Sky Sport Calcio
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80489
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport Arena
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80490
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sky_Sport_Serie_A_HD_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_HD_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Serie A
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/138460
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sky_Sport_F1_2018.svg/512px-Sky_Sport_F1_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport F1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80521
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sky_Sport_F1_2018.svg/512px-Sky_Sport_F1_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport F1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/5675
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80532
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80518
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80491
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Sport ALB-ITA",Euro Sport 2 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80492
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150295
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150294
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150293
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150292
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150291
+#EXTINF:-1 tvg-id="Mediaset Infinity" tvg-name="Mediaset Infinity 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mediaset_Infinity_logo.svg/640px-Mediaset_Infinity_logo.svg.png" group-title="Sport ALB-ITA",Mediaset Infinity 6
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/150290
+#EXTINF:-1 tvg-ID="" tvg-name="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/18771
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30338
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30341
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Main Event
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30342
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Football
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30344
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Mix
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30339
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/320px-Sky_Sport_Action.svg.png" group-title="UK Sports",Sky Sport Action
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30348
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports F1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30345
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Arena
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30347
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League 4K
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/144299
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports Ultimate
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/124500
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/60877
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/60878
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/60879
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/60880
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118260
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 6
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118261
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 7
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118262
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 8
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118263
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 9
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118264
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sport 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 10
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118265
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="UK Sports",DAZN 1 UK
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/74229
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="UK Sports",Eleven Sport UK
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/18770
+#EXTINF:-1 tvg-ID="" tvg-name="Viaplay Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viaplay_logo.png/320px-Viaplay_logo.png" group-title="UK Sports",Viaplay Sports 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/22620
+#EXTINF:-1 tvg-ID="" tvg-name="Viaplay Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viaplay_logo.png/320px-Viaplay_logo.png" group-title="UK Sports",Viaplay Sports 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30440
+#EXTINF:-1 tvg-ID="" tvg-name="Viaplay Xtra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viaplay_logo.png/320px-Viaplay_logo.png" group-title="UK Sports",Viaplay Xtra
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/16288
+#EXTINF:-1 tvg-ID="" tvg-name="British Eurosport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/500px-Eurosport_1_Logo_2015.svg.png" group-title="UK Sports",EuroSports 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/66148
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="UK Sports",EuroSports 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/66149
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/28991
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8176
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Football HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/12663
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Main Events HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8172
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Mix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Mix HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/28990
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports F1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8177
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Arena HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/12662
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/320px-Sky_Sport_Action.svg.png" group-title="UK Sports",Sky Sport Action HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8174
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 1 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8178
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 2 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8179
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 3 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/8180
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports 4 HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/20199
+#EXTINF:-1 tvg-ID="" tvg-name="Viaplay Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viaplay_logo.png/320px-Viaplay_logo.png" group-title="UK Sports",Viaplay Sports 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/376
+#EXTINF:-1 tvg-ID="" tvg-name="Viaplay Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Viaplay_logo.png/320px-Viaplay_logo.png" group-title="UK Sports",Viaplay Sports 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/18130
+#EXTINF:-1 tvg-ID="M+ LaLiga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/49814
+#EXTINF:-1 tvg-ID="LALIGATV BAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/800px-LaLiga_TV_Bar_HD.png" group-title="Spain Sports",ES: La Liga BAR HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/7180
+#EXTINF:-1 tvg-ID="LALIGATV BAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/800px-LaLiga_TV_Bar_HD.png" group-title="Spain Sports",ES: La Liga BAR FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23045
+#EXTINF:-1 tvg-ID="M+DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23041
+#EXTINF:-1 tvg-ID="M+LaLiga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. Laliga FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/30737
+#EXTINF:-1 tvg-ID="M+LaLiga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 1FHD (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23105
+#EXTINF:-1 tvg-ID="M+LaLiga TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 2FHD (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. Campeones UHD 4K
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34560
+#EXTINF:-1 tvg-ID="M+LCAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23035
+#EXTINF:-1 tvg-ID="M+LCAMPEON2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19204
+#EXTINF:-1 tvg-ID="M+LCAMPEON3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19203
+#EXTINF:-1 tvg-ID="M+LCAMPEON4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19202
+#EXTINF:-1 tvg-ID="M+LCAMPEON5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19201
+#EXTINF:-1 tvg-ID="M+LCAMPEON6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 6
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23098
+#EXTINF:-1 tvg-ID="M+LCAMPEON7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 7
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19200
+#EXTINF:-1 tvg-ID="M+LCAMPEON8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Liga De Campeones 8
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/19199
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga TV l" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 1 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/7181
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 2 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 3 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/7183
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 4 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 5 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+ LaLiga 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 6 (event only)
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23099
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN LaLiga 4K
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/118104
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LaLiga 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN 1 ESPAÑA FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/63104
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN 2 ESPAÑA FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/63105
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LaLiga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN 3 ESPAÑA FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/63106
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN LaLiga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN 4 ESPAÑA FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/63107
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN F1 ESPAÑA FHD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/63100
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="M+DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes HD
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2407
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="M+DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/636
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 1
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 2
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 3
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 4
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 5
+http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23090
