@@ -2667,36 +2667,7 @@ http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdc
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/80953
 #EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 4 HD" tvg-logo="http://hs-iptv.net:88/images/13ac507d93e21615219c805f64676386.png" group-title="Albania",AL: Rtk 4 HD
 http://premium-ks.vip:2082/PremiumALBSTREAMS951478563/sdfghjklm96214mlkjhgfdsxdcfghj9513547mlkjzhfsrtre6643/6
-#EXTINF:-1 tvg-id="Rai1" tvg-name="Rai 1 FHD" tvg-logo="" group-title="Italian",Rai 1 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8291.ts
-#EXTINF:-1 tvg-id="Rai2" tvg-name="Rai 2 FHD" tvg-logo="" group-title="Italian",Rai 2 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8290.ts
-#EXTINF:-1 tvg-id="Rai3" tvg-name="Rai 3 FHD" tvg-logo="" group-title="Italian",Rai 3 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8289.ts
-#EXTINF:-1 tvg-id="Rai4" tvg-name="Rai 4 FHD" tvg-logo="" group-title="Italian",Rai 4 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8288.ts
-#EXTINF:-1 tvg-id="Canale5" tvg-name="Canale 5 HD" tvg-logo="" group-title="Italian",Canale 5 HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/11143.ts
-#EXTINF:-1 tvg-id="Italia1" tvg-name="Italia 1 FHD" tvg-logo="" group-title="Italian",Italia 1 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8284.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rete 4 FHD" tvg-logo="" group-title="Italian",Rete 4 FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8286.ts
-#EXTINF:-1 tvg-id="RsiLa1" tvg-name="RSI LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Italian",RSI LA 1 HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8283.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 HD" tvg-logo="" group-title="Italian",LA 7 HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8281.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" group-title="Italian",Rai Movie
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8276.ts
-#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="Italian",Sky Cinema Family FHD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8270.ts
-#EXTINF:-1 tvg-id="PremiumCrimeHD" tvg-name="Premium Crime HD" tvg-logo="" group-title="Italian",Premium Crime HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8261.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 IT HD" tvg-logo="" group-title="Italian",EuroSport 1 IT HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8256.ts
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 IT HD" tvg-logo="" group-title="Italian",EuroSport 2 IT HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/8255.ts
-#EXTINF:-1 tvg-id="marvelchannel" tvg-name="Pesca HD" tvg-logo="" group-title="Italian",Pesca HD
-http://mana.etnoselo.tv:80/kgK5gQfbx6/eMVCKyZnNA/12102.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 1 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 1 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110555
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 2 HD
@@ -2711,6 +2682,60 @@ http://medotv.nl:8000/totocorono/fG2bBmbzRO/110559
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110561
 #EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 6 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110562
+#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport1.png" group-title="sportshqip",AL: EUROSPORT 1 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51442
+#EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport2.png" group-title="sportshqip",AL: EUROSPORT 2 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51443
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/albania/artsport1.png" group-title="sportshqip",AL: ART SPORT 1 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51407
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 FHD" tvg-logo="https://docdog.top/logo/countries/albania/ARTSPORTF.png" group-title="sportshqip",AL: ART SPORT 2 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51408
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 FHD" tvg-logo="https://docdog.top/logo/countries/albania/artsport3.png" group-title="sportshqip",AL: ART SPORT 3 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51409
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport1.png" group-title="sportshqip",AL: KUJTESA SPORT 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51508
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport2.png" group-title="sportshqip",AL: KUJTESA SPORT 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51509
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/kujtesasport3.png" group-title="sportshqip",AL: KUJTESA SPORT 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51510
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/OVERSPORT.jpg" group-title="sportshqip",AL: OVERSPORT 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51535
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/OVERSPORT.jpg" group-title="sportshqip",AL: OVERSPORT 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51536
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/OVERSPORT.jpg" group-title="sportshqip",AL: OVERSPORT 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51537
+#EXTINF:-1 tvg-id="" tvg-name="AL: OVERSPORT 4" tvg-logo="https://docdog.top/logo/countries/albania/OVERSPORT.jpg" group-title="sportshqip",AL: OVERSPORT 4
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51538
+#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KOSOVA 1" tvg-logo="https://docdog.top/logo/countries/albania/supersportkosova1.png" group-title="sportshqip",AL: SPORT KOSOVA 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51592
+#EXTINF:-1 tvg-id="" tvg-name="AL: SPORT KOSOVA 2" tvg-logo="https://docdog.top/logo/countries/albania/supersportkosova2.png" group-title="sportshqip",AL: SPORT KOSOVA 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51593
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 1 FHD" tvg-logo="https://docdog.top/logo/countries/albania/supersport1.png" group-title="sportshqip",AL: SUPER SPORTS 1 FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51599
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 2" tvg-logo="https://docdog.top/logo/countries/albania/supersport2.png" group-title="sportshqip",AL: SUPER SPORTS 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51600
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 3" tvg-logo="https://docdog.top/logo/countries/albania/supersport3.png" group-title="sportshqip",AL: SUPER SPORTS 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51601
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 4" tvg-logo="https://docdog.top/logo/countries/albania/supersport4.png" group-title="sportshqip",AL: SUPER SPORTS 4
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51602
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 5" tvg-logo="https://docdog.top/logo/countries/albania/supersport5.png" group-title="sportshqip",AL: SUPER SPORTS 5
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51603
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 6" tvg-logo="https://docdog.top/logo/countries/albania/supersport6.png" group-title="sportshqip",AL: SUPER SPORTS 6
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51604
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS 7" tvg-logo="https://docdog.top/logo/countries/albania/supersport7.png" group-title="sportshqip",AL: SUPER SPORTS 7
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51605
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/albania/supersportnews.png" group-title="sportshqip",AL: SUPER SPORTS NEWS
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51606
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1" tvg-logo="https://docdog.top/logo/countries/albania/tringsport1.png" group-title="sportshqip",AL: TRING SPORT 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51637
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2" tvg-logo="https://docdog.top/logo/countries/albania/tringsport2.png" group-title="sportshqip",AL: TRING SPORT 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51638
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3" tvg-logo="https://docdog.top/logo/countries/albania/tringsport3.png" group-title="sportshqip",AL: TRING SPORT 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51639
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4" tvg-logo="https://docdog.top/logo/countries/albania/tringsport4.png" group-title="sportshqip",AL: TRING SPORT 4
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51640
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT NEWS" tvg-logo="https://docdog.top/logo/countries/albania/tringsportnews.png" group-title="sportshqip",AL: TRING SPORT NEWS
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51641
 #EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT KOSOVA 1 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT KOSOVA 1 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110563
 #EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT KOSOVA 2 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT KOSOVA 2 HD
@@ -2822,6 +2847,10 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47132
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/47130
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Tring 3+" tvg-logo="" group-title="Albanie Channel",AL: Tring 3+
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1310
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3+" tvg-logo="https://docdog.top/logo/countries/albania/TRING+.png" group-title="Albanie Channel",AL: TRING 3+
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51623
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3" tvg-logo="https://docdog.top/logo/countries/albania/tring3.png" group-title="Albanie Channel",AL: TRING 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51622
 #EXTINF:-1 tvg-ID="" tvg-name="Al: Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="Albanie Channel",Kanal D Drama
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104035
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Tring turkish" tvg-logo="" group-title="Albanie Channel",AL: Tring turkish
@@ -3848,130 +3877,6 @@ http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146516
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146514
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Netflix Jackie Chan" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Netflix Jackie Chan
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/146512
-#EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50162
-#EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50163
-#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50164
-#EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50165
-#EXTINF:-1 tvg-id="Rai 5 HD" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/800px-Rai_5_HD_Logo.svg.png"  group-title="Italiane",Rai 5
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50166
-#EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rai_Movie_HD_-_Logo.svg/1000px-Rai_Movie_HD_-_Logo.svg.png" group-title="Italiane",Rai Movie
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80495
-#EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_%282010%29.svg/500px-Rai_Premium_Logo_%282010%29.svg.png" group-title="Italiane",Rai Premium
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80496
-#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/320px-Rai_Sport_-_Logo_2022.svg.png" group-title="Italiane",Rai Sport
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/2274
-#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1000px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italiane",Rai Storia
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80498
-#EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/320px-Rai_News_24_logo_%282022%29.svg.png" group-title="Italiane",Rai News 24
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80499
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/520px-Logo_Italia_1.svg.png"  group-title="Italiane",Italia 1
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50169
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c0/Rete_4_-_Logo_2018.svg/520px-Rete_4_-_Logo_2018.svg.png"  group-title="Italiane",Rete 4
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50167
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/520px-Canale_5_-_2018_logo.svg.png"  group-title="Italiane",Canale 5
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="Italiane",La 5
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80448
-#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/18716
-#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iris_logo_2013.svg/320px-Iris_logo_2013.svg.png" group-title="Italiane",Iris
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80451
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80447
-#EXTINF:-1 tvg-id="LA 7d" tvg-name="LA 7d" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80564
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/205px-TV8_Logo_2016.svg.png" group-title="Italiane",TV8 
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80446
-#EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="MEDIASET Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/500px-Mediaset_Extra_logo.svg.png"  group-title="Italiane",Mediaset Extra
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80452
-#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="Mediaset 20" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/20_Mediaset_-_Logo_2018.svg/616px-20_Mediaset_-_Logo_2018.svg.png"  group-title="Italiane",Mediaset 20
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80524
-#EXTINF:-1 tvg-id="Cine 34" tvg-name="Mediaset Cine 34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/769px-Cine34_logo.svg.png" group-title="Italiane",Mediaset Cine34
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80544
-#EXTINF:-1 tvg-ID="RSILA1.it" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RSI_La_1.svg/500px-RSI_La_1.svg.png" group-title="Italiane",RSI LA 1 
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50170
-#EXTINF:-1 tvg-ID="RSILA2.it" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RSI_La_2.svg/500px-RSI_La_2.svg.png" group-title="Italiane",RSI LA 2 
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/50171
-#EXTINF:-1 tvg-ID="Sky Documentari" tvg-name="Sky Documentari HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/640px-Sky_Documentaries_Logo_2020.png" group-title="Italiane",Sky Documentari
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/83810
-#EXTINF:-1 tvg-ID="Sky Arte FHD" tvg-name="Sky Arte FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_sky_arte_2018-2021.png" group-title="Italiane",Sky Arte 
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80509
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/320px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Italiane",Sky Atlantic
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80473
-#EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italiane",Sky Uno
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80508
-#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/320px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="Italiane",Sky Cinema Uno
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80568
-#EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA Due HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Cinema_Due_-_Logo_2019.svg/1000px-Sky_Cinema_Due_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Due
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80539
-#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="SKY CINEMA Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Cinema_Action_-_Logo_2019.svg/500px-Sky_Cinema_Action_-_Logo_2019.svg.png" group-title="Italiane",Sky Cinema Action
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/5669
-#EXTINF:-1 tvg-ID="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Cinema_Comedy_-_Logo_2018.svg/640px-Sky_Cinema_Comedy_-_Logo_2018.svg.png" group-title="Italiane",Sky Cinema Comedy 
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80470
-#EXTINF:-1 tvg-id="SKY Cinema Collection" tvg-name="SKY Cinema COLLECTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Cinema_Collection_-_Logo_2019.svg/500px-Sky_Cinema_Collection_-_Logo_2019.svg.png"  group-title="Italiane",SKY Cinema Collection
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80550
-#EXTINF:-1 tvg-id="Sky Cinema Drama" tvg-name="SKY CINEMA Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/800px-Sky_Cinema_Drama_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Drama
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80469
-#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Cinema_Family_-_Logo_2018.svg/1000px-Sky_Cinema_Family_-_Logo_2018.svg.png"  group-title="Italiane",Sky Cinema Family
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80538
-#EXTINF:-1 tvg-id="Sky Cinema Romance" tvg-name="Sky Cinema Romance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Cinema_Romance_-_Logo_2019.svg/1000px-Sky_Cinema_Romance_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Romance
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80475
-#EXTINF:-1 tvg-id="Sky Cinema Suspense" tvg-name="SKY Cinema Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Suspense_-_Logo_2019.svg/1024px-Sky_Cinema_Suspense_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Suspense
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/80468
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Prima Visione
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35027
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Thriller" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Thriller
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35020
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Avventura" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Avventura
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35025
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Passione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Passione
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35018
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Azione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Azione
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35026
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Commedia" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Commedia
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35023
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Drammatico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Drammatico
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35017
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Fantastico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Fantastico
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35024
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Horror" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Horror
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35016
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Sorriso" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Sorriso
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35022
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Storico" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Storico
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35019
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Animazione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Animazione
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35028
-#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Prima Fila 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 1 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34992
-#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Prima Fila 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY PrimaFila 2 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34991
-#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Prima Fila 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 3 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34990
-#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Prima Fila 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 4 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34989
-#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Prima Fila 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 6 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34987
-#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Prima Fila 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 8 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34985
-#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Prima Fila 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 9 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34984
-#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Prima Fila 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 10 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34983
-#EXTINF:-1 tvg-id="Primafila11.it" tvg-name="Prima Fila 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 11 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34995
-#EXTINF:-1 tvg-id="Primafila12.it" tvg-name="Prima Fila 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 12 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/34994
-#EXTINF:-1 tvg-id="Primafila13.it" tvg-name="Prima Fila 13 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 13 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35000
-#EXTINF:-1 tvg-id="Primafila14.it" tvg-name="Prima Fila 14 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 14 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35001
-#EXTINF:-1 tvg-id="Primafila15.it" tvg-name="Prima Fila 15 HD" tvg-logo="http://mstat.sky.it/content/dam/sky/extra/per-te-dal-mondo-sky/primafila_2.jpg" group-title="Italiane",SKY Primafila 15 HD
-http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/35002
 #EXTINF:-1 tvg-id="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/1050
 #EXTINF:-1 tvg-name="Klan TV HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
@@ -4300,3 +4205,79 @@ http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23092
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23091
 #EXTINF:-1 tvg-ID="NULL" tvg-name="M+DEPORTES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 5
 http://livego.club:8080/QpDQqSTPM8/cpZ9UJCR1A/23090
+#EXTINF:-1 tvg-id="" tvg-name="IT: ✦●✦GENERALE✦●✦" tvg-logo="https://docdog.top/logo/countries/italy/countrypic.png" group-title="IT | ITALY",IT: ✦●✦GENERALE✦●✦
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/56030
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1" tvg-logo="https://docdog.top/logo/countries/italy/rai-1-it.png" group-title="IT | ITALY",IT: RAI 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24573
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="https://docdog.top/logo/countries/italy/rai-2-it.png" group-title="IT | ITALY",IT: RAI 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24574
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3" tvg-logo="https://docdog.top/logo/countries/italy/rai3.png" group-title="IT | ITALY",IT: RAI 3
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24543
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="https://docdog.top/logo/countries/italy/rai-4-it.png" group-title="IT | ITALY",IT: RAI 4
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24575
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 5" tvg-logo="https://docdog.top/logo/countries/italy/rai5.png" group-title="IT | ITALY",IT: RAI 5
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24576
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="https://docdog.top/logo/countries/italy/raiitalia.png" group-title="IT | ITALY",IT: RAI ITALIA
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24578
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI NEWS 24" tvg-logo="https://docdog.top/logo/countries/italy/rai-news-24-it.png" group-title="IT | ITALY",IT: RAI NEWS 24
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24580
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SCUOLA" tvg-logo="https://docdog.top/logo/countries/italy/rai-scuola-it.png" group-title="IT | ITALY",IT: RAI SCUOLA
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24582
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="https://docdog.top/logo/countries/italy/rai-premium-it.png" group-title="IT | ITALY",IT: RAI PREMIUM
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24581
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="https://docdog.top/logo/countries/italy/rai-gulp-it.png" group-title="IT | ITALY",IT: RAI GULP
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24577
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI LA 1" tvg-logo="https://docdog.top/logo/countries/italy/rsila1.png" group-title="IT | ITALY",IT: RSI LA 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24592
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI LA 2" tvg-logo="https://docdog.top/logo/countries/italy/rsila2.png" group-title="IT | ITALY",IT: RSI LA 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/25154
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4" tvg-logo="" group-title="IT | ITALY",IT: RETE 4
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24587
+#EXTINF:-1 tvg-id="" tvg-name="IT: RDS SOCIAL" tvg-logo="https://docdog.top/logo/countries/italy/rds-it.png" group-title="IT | ITALY",IT: RDS SOCIAL
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24585
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5" tvg-logo="https://docdog.top/logo/countries/italy/canale5.png" group-title="IT | ITALY",IT: CANALE 5
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24479
+#EXTINF:-1 tvg-id="" tvg-name="IT: DEEJAY TV" tvg-logo="https://docdog.top/logo/countries/italy/deejay-tv-it.png" group-title="IT | ITALY",IT: DEEJAY TV
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24491
+#EXTINF:-1 tvg-id="" tvg-name="IT: EURONEWS LIVE" tvg-logo="https://docdog.top/logo/countries/italy/countrypic.png" group-title="IT | ITALY",IT: EURONEWS LIVE
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24516
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1" tvg-logo="" group-title="IT | ITALY",IT: ITALIA 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24534
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 2" tvg-logo="https://docdog.top/logo/countries/italy/italia2-it.png" group-title="IT | ITALY",IT: ITALIA 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24535
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY TG 24" tvg-logo="https://docdog.top/logo/countries/italy/sky-tg24-it.png" group-title="IT | ITALY",IT: SKY TG 24
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24622
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="https://docdog.top/logo/countries/italy/la5.png" group-title="IT | ITALY",IT: LA 5
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24537
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 7" tvg-logo="https://docdog.top/logo/countries/italy/la7-it.png" group-title="IT | ITALY",IT: LA 7
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/56037
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 7d" tvg-logo="https://docdog.top/logo/countries/italy/la7-it.png" group-title="IT | ITALY",IT: LA 7d
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24538
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 8" tvg-logo="https://docdog.top/logo/countries/italy/tv8-it.png" group-title="IT | ITALY",IT: TV 8
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24650
+#EXTINF:-1 tvg-id="" tvg-name="IT: TOP CALCIO 24" tvg-logo="https://docdog.top/logo/countries/italy/topcalcio24.png" group-title="IT | ITALY",IT: TOP CALCIO 24
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24643
+#EXTINF:-1 tvg-id="" tvg-name="IT: TOP CRIME" tvg-logo="https://docdog.top/logo/countries/italy/top-crime-it.png" group-title="IT | ITALY",IT: TOP CRIME
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24644
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET 20" tvg-logo="https://docdog.top/logo/countries/italy/mediaset20.png" group-title="IT | ITALY",IT: MEDIASET 20
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24541
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET EXTRA" tvg-logo="https://docdog.top/logo/countries/italy/mediasetextra.png" group-title="IT | ITALY",IT: MEDIASET EXTRA
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/25153
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA 2" tvg-logo="https://docdog.top/logo/countries/italy/mediasetitalia2.png" group-title="IT | ITALY",IT: MEDIASET ITALIA 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24544
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG COM 24" tvg-logo="https://docdog.top/logo/countries/italy/tgcom24-it.png" group-title="IT | ITALY",IT: TG COM 24
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24641
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG NORBA 24" tvg-logo="https://docdog.top/logo/countries/italy/tg-norba-24-it.png" group-title="IT | ITALY",IT: TG NORBA 24
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24642
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOVE" tvg-logo="https://docdog.top/logo/countries/italy/nove-it.png" group-title="IT | ITALY",IT: NOVE
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24552
+#EXTINF:-1 tvg-id="" tvg-name="IT: GIALLO" tvg-logo="https://docdog.top/logo/countries/italy/giallo-it.png" group-title="IT | ITALY",IT: GIALLO
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24528
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 2000" tvg-logo="" group-title="IT | ITALY",IT: TV 2000
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/25159
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOCUS" tvg-logo="https://docdog.top/logo/countries/italy/focus-it.png" group-title="IT | ITALY",IT: FOCUS
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24521
+#EXTINF:-1 tvg-id="" tvg-name="IT: GAMBERO ROSSO" tvg-logo="https://docdog.top/logo/countries/italy/gambero-rosso-it.png" group-title="IT | ITALY",IT: GAMBERO ROSSO
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24527
+#EXTINF:-1 tvg-id="" tvg-name="IT: UNIRE SAT" tvg-logo="https://docdog.top/logo/countries/italy/unire-sat-it.png" group-title="IT | ITALY",IT: UNIRE SAT
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24655
