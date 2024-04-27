@@ -2851,6 +2851,8 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1310
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51623
 #EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3" tvg-logo="https://docdog.top/logo/countries/albania/tring3.png" group-title="Albanie Channel",AL: TRING 3
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51622
+#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL D DRAMA FHD" tvg-logo="" group-title="Albanie Channel",AL: KANAL D DRAMA FHD
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/6913
 #EXTINF:-1 tvg-ID="" tvg-name="Al: Kanal D Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Kanal_D_Drama_2018.svg/revision/latest/scale-to-width-down/1200?cb=20230208035231&path-prefix=es" group-title="Albanie Channel",Kanal D Drama
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104035
 #EXTINF:-1 tvg-ID="" tvg-name="AL: Tring turkish" tvg-logo="" group-title="Albanie Channel",AL: Tring turkish
