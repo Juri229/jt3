@@ -7,10 +7,10 @@ http://aziptv.net:8080/boosskypee/skypeboosexch/36812
 http://aziptv.net:8080/boosskypee/skypeboosexch/36876
 #EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 2
 http://aziptv.net:8080/boosskypee/skypeboosexch/36877
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma. VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma. VIP 1
-http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma. VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma. VIP 2
-http://79.106.90.119:1444/fermavip2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL : Tring Ferma VIP 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83177
+#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL : Tring Ferma VIP 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83178
 #EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
@@ -39,497 +39,1315 @@ http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32343
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47747
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 2 (VIP)
 http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47748
-#EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16544
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
-http://45.12.1.14:80/MGrippoo/eBLH0O3395/117771
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
-http://45.12.1.14:80/MGrippoo/eBLH0O3395/117772
-#EXTINF:-1 tvg-id="" tvg-name="RTK1 (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK1 (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9458
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22814
-#EXTINF:-1 tvg-id="" tvg-name="RTK 2 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk2al.jpg" group-title="Live: Albania",RTK 2 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7061
-#EXTINF:-1 tvg-id="" tvg-name="RTK 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk3al.jpg" group-title="Live: Albania",RTK 3 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7036
-#EXTINF:-1 tvg-id="" tvg-name="RTK 4 AL" tvg-logo="https://picon-13398.kxcdn.com/rtk4al.jpg" group-title="Live: Albania",RTK 4 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7037
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9451
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3832
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Maqedonia AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21maqedonia.jpg" group-title="Live: Albania",RTV 21 Maqedonia AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9453
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21mixal.jpg" group-title="Live: Albania",RTV 21 Mix AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16616
-#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7065
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Klan Kosova HD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4189
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",Klan Kosova FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9455
-#EXTINF:-1 tvg-id="" tvg-name="T7 AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20167
-#EXTINF:-1 tvg-id="" tvg-name="T7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T7 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/23108
-#EXTINF:-1 tvg-id="" tvg-name="Dukagjini HD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/96435
-#EXTINF:-1 tvg-id="" tvg-name="Dukagjini FHD AL" tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",Dukagjini FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4236
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9454
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",Klan FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3800
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="Live: Albania",Klan Plus HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7074
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9457
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Top Channel FHD AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4178
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Alsat M AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6259
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Alsat M (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9450
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Alsat M FHD AL" tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",Alsat M FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22783
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="Live: Albania",Vizion Plus HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4214
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="Live: Albania",Vizion Plus (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9463
-#EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12044
-#EXTINF:-1 tvg-id="" tvg-name="arta TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/artatval.jpg" group-title="Live: Albania",arta TV HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/21901
-#EXTINF:-1 tvg-id="" tvg-name="Koha TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/kohatval.jpg" group-title="Live: Albania",Koha TV HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19145
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="Live: Albania",RTSH Shqip AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19478
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg" group-title="Live: Albania",RTSH 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/15632
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 2 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh2al.jpg" group-title="Live: Albania",RTSH 2 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19480
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 3 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh3al.jpg" group-title="Live: Albania",RTSH 3 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20168
-#EXTINF:-1 tvg-id="" tvg-name="TV Mitrovica AL" tvg-logo="https://picon-13398.kxcdn.com/tvmitrovica.jpg" group-title="Live: Albania",TV Mitrovica AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12037
-#EXTINF:-1 tvg-id="" tvg-name="TV Prizreni AL" tvg-logo="https://picon-13398.kxcdn.com/tvprizreni.jpg" group-title="Live: Albania",TV Prizreni AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/43387
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21plus.jpg" group-title="Live: Albania",RTV 21 Plus FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8455
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg" group-title="Live: Albania",RTV 21 Popullore AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6257
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Popullore FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21popullore.jpg" group-title="Live: Albania",RTV 21 Popullore FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9452
-#EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Kosoves HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvzerial.jpg" group-title="Live: Albania",RTV Zeri Kosoves HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/17183
-#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg" group-title="Live: Albania",RTV Fontana FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/24860
-#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22802
-#EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Live: Albania",X music hits HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22800
-#EXTINF:-1 tvg-id="" tvg-name="X popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpopularal.jpg" group-title="Live: Albania",X popullore HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22801
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg" group-title="Live: Albania",TV Opoja AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16475
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Live: Albania",Dasma TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7076
-#EXTINF:-1 tvg-id="" tvg-name="My Music AL" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg" group-title="Live: Albania",My Music AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7070
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg" group-title="Live: Albania",Folk + AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6260
-#EXTINF:-1 tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://picon-13398.kxcdn.com/bbfmusic.jpg" group-title="Live: Albania",BBF Music AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6261
-#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV AL" tvg-logo="https://picon-13398.kxcdn.com/zjarrtv.jpg" group-title="Live: Albania",Zjarr TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9372
-#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg" group-title="Live: Albania",Besa TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9395
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9368
-#EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12046
-#EXTINF:-1 tvg-id="" tvg-name="Zico TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Live: Albania",Zico TV FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/23854
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike AL" tvg-logo="https://picon-13398.kxcdn.com/rtshmusical.jpg" group-title="Live: Albania",RTSH Muzike AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20172
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Live: Albania",Elrodi Music AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4235
-#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Live: Albania",MTV Kosova AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12051
-#EXTINF:-1 tvg-id="" tvg-name="E Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Stupcat AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19545
-#EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Live: Albania",X humor HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22803
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12031
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 2 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12030
-#EXTINF:-1 tvg-id="" tvg-name="E Premium 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Premium 3 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12029
-#EXTINF:-1 tvg-id="" tvg-name="E premium 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpremium4al.jpg" group-title="Live: Albania",E premium 4 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22787
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/15778
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 2 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/15779
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3 AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 3 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16814
-#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 4 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16815
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino1al.jpg" group-title="Live: Albania",Art Kino 1 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28175
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg" group-title="Live: Albania",Art Kino 3 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28177
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Film Dy HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmdyhd.jpg" group-title="Live: Albania",Film Dy HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3816
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits AL" tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg" group-title="Live: Albania",Film Hits AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3818
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Live: Albania",Film Aksion AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3820
-#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi AL" tvg-logo="https://picon-13398.kxcdn.com/filmkomedi.jpg" group-title="Live: Albania",Film Komedi AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3821
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor AL" tvg-logo="https://picon-13398.kxcdn.com/filmautor.jpg" group-title="Live: Albania",Film Autor AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3803
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4193
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë AL" tvg-logo="https://picon-13398.kxcdn.com/filmdrame.jpg" group-title="Live: Albania",Film Dramë AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4194
-#EXTINF:-1 tvg-id="" tvg-name="Euro Channel AL" tvg-logo="https://picon-13398.kxcdn.com/eurochannelal.jpg" group-title="Live: Albania",Euro Channel AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20180
-#EXTINF:-1 tvg-id="" tvg-name="Eurofilm AL" tvg-logo="https://picon-13398.kxcdn.com/eurofilmal.jpg" group-title="Live: Albania",Eurofilm AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20191
-#EXTINF:-1 tvg-id="" tvg-name="Sky Komedy AL" tvg-logo="https://picon-13398.kxcdn.com/albcomedy.jpg" group-title="Live: Albania",Sky Komedy AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9878
-#EXTINF:-1 tvg-id="" tvg-name="Sky Drame AL" tvg-logo="https://picon-13398.kxcdn.com/skydrame.jpg" group-title="Live: Albania",Sky Drame AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8772
-#EXTINF:-1 tvg-id="" tvg-name="Sky Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg" group-title="Live: Albania",Sky Aksion AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9134
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8774
-#EXTINF:-1 tvg-id="" tvg-name="RTSH film AL" tvg-logo="https://picon-13398.kxcdn.com/rtshfilmal.jpg" group-title="Live: Albania",RTSH film AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/17168
-#EXTINF:-1 tvg-id="" tvg-name="Stinët AL" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg" group-title="Live: Albania",Stinët AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/17171
-#EXTINF:-1 tvg-id="TChannel.al" tvg-name="T HD AL" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg" group-title="Live: Albania",T HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7055
-#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="Live: Albania",Tring 3+ AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4237
-#EXTINF:-1 tvg-id="TringTring.al" tvg-name="Tring Tring AL" tvg-logo="https://picon-13398.kxcdn.com/tringtring.jpg" group-title="Live: Albania",Tring Tring AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4215
-#EXTINF:-1 tvg-id="TringLife.al" tvg-name="Tring Life HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringlife.jpg" group-title="Live: Albania",Tring Life HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4224
-#EXTINF:-1 tvg-id="" tvg-name="Tring Jolly HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringjully.jpg" group-title="Live: Albania",Tring Jolly HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4227
-#EXTINF:-1 tvg-id="" tvg-name="Tring Smile AL" tvg-logo="https://picon-13398.kxcdn.com/tringsmile.jpg" group-title="Live: Albania",Tring Smile AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6258
-#EXTINF:-1 tvg-id="TringSuper.al" tvg-name="Tring Super AL" tvg-logo="https://picon-13398.kxcdn.com/tringsuper.jpg" group-title="Live: Albania",Tring Super AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4218
-#EXTINF:-1 tvg-id="TringShqip.al" tvg-name="Tring Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/tringshqip.jpg" group-title="Live: Albania",Tring Shqip AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4219
-#EXTINF:-1 tvg-id="TringAction.al" tvg-name="Tring Action AL" tvg-logo="https://picon-13398.kxcdn.com/tringactional.jpg" group-title="Live: Albania",Tring Action AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4223
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Tring Comedy AL" tvg-logo="https://picon-13398.kxcdn.com/tringcomedy.jpg" group-title="Live: Albania",Tring Comedy AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/2054
-#EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="Tring Planet AL" tvg-logo="https://picon-13398.kxcdn.com/tringplanet.jpg" group-title="Live: Albania",Tring Planet AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6088
-#EXTINF:-1 tvg-id="TringWorld.al" tvg-name="Tring World AL" tvg-logo="https://picon-13398.kxcdn.com/tringworld.jpg" group-title="Live: Albania",Tring World AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4213
-#EXTINF:-1 tvg-id="T-Hist.al" tvg-name="Tring History AL" tvg-logo="https://picon-13398.kxcdn.com/tringhistory.jpg" group-title="Live: Albania",Tring History AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4228
-#EXTINF:-1 tvg-id="TringFantazi.al" tvg-name="Tring Fantasy AL" tvg-logo="https://picon-13398.kxcdn.com/tringfantasy.jpg" group-title="Live: Albania",Tring Fantasy AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4230
-#EXTINF:-1 tvg-id="" tvg-name="X action HD AL" tvg-logo="https://picon-13398.kxcdn.com/xactional.jpg" group-title="Live: Albania",X action HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22788
-#EXTINF:-1 tvg-id="" tvg-name="X comedy HD AL" tvg-logo="https://picon-13398.kxcdn.com/xcomedyal.jpg" group-title="Live: Albania",X comedy HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22789
-#EXTINF:-1 tvg-id="" tvg-name="X dark HD AL" tvg-logo="https://picon-13398.kxcdn.com/xdarkal.jpg" group-title="Live: Albania",X dark HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22792
-#EXTINF:-1 tvg-id="" tvg-name="X histori HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhistorial.jpg" group-title="Live: Albania",X histori HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22798
-#EXTINF:-1 tvg-id="" tvg-name="X family HD AL" tvg-logo="https://picon-13398.kxcdn.com/xfamilyal.jpg" group-title="Live: Albania",X family HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22799
-#EXTINF:-1 tvg-id="" tvg-name="X natyra HD AL" tvg-logo="https://picon-13398.kxcdn.com/xnatyraal.jpg" group-title="Live: Albania",X natyra HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22797
-#EXTINF:-1 tvg-id="" tvg-name="X romance HD AL" tvg-logo="https://picon-13398.kxcdn.com/xromanceal.jpg" group-title="Live: Albania",X romance HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22794
-#EXTINF:-1 tvg-id="" tvg-name="X drama HD AL" tvg-logo="https://picon-13398.kxcdn.com/xdramaal.jpg" group-title="Live: Albania",X drama HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22791
-#EXTINF:-1 tvg-id="" tvg-name="X scyfy HD AL" tvg-logo="https://picon-13398.kxcdn.com/xscyfyal.jpg" group-title="Live: Albania",X scyfy HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22793
-#EXTINF:-1 tvg-id="" tvg-name="X shkenca HD AL" tvg-logo="https://picon-13398.kxcdn.com/xshkencaal.jpg" group-title="Live: Albania",X shkenca HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22796
-#EXTINF:-1 tvg-id="" tvg-name="X thriller HD AL" tvg-logo="https://picon-13398.kxcdn.com/xthrilleral.jpg" group-title="Live: Albania",X thriller HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22790
-#EXTINF:-1 tvg-id="" tvg-name="X western HD AL" tvg-logo="https://picon-13398.kxcdn.com/xwesternal.jpg" group-title="Live: Albania",X western HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22795
-#EXTINF:-1 tvg-id="" tvg-name="X filma24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/xfilm24al.jpg" group-title="Live: Albania",X filma24 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22815
-#EXTINF:-1 tvg-id="" tvg-name="E Action HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Action HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12047
-#EXTINF:-1 tvg-id="" tvg-name="ALBUK HD AL" tvg-logo="https://picon-13398.kxcdn.com/albukhd.jpg" group-title="Live: Albania",ALBUK HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12053
-#EXTINF:-1 tvg-id="" tvg-name="Sky Planet AL" tvg-logo="https://picon-13398.kxcdn.com/skyplanetal.jpg" group-title="Live: Albania",Sky Planet AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20189
-#EXTINF:-1 tvg-id="FoxCrime.al" tvg-name="FOX Crime AL" tvg-logo="https://picon-13398.kxcdn.com/foxcrime.jpg" group-title="Live: Albania",FOX Crime AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3814
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang AL" tvg-logo="https://picon-13398.kxcdn.com/bangbang.jpg" group-title="Live: Albania",Bang Bang AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7062
-#EXTINF:-1 tvg-id="CufoTV.al" tvg-name="Çufo AL" tvg-logo="https://picon-13398.kxcdn.com/cufo.jpg" group-title="Live: Albania",Çufo AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4208
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV AL" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Albania",Baby TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8410
-#EXTINF:-1 tvg-id="TringKids.al" tvg-name="Tring Kids AL" tvg-logo="https://picon-13398.kxcdn.com/tringkids.jpg" group-title="Live: Albania",Tring Kids AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8773
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Junior AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21junior.jpg" group-title="Live: Albania",RTV 21 Junior AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16804
-#EXTINF:-1 tvg-id="JuniorTV.al" tvg-name="Junior TV AL" tvg-logo="https://picon-13398.kxcdn.com/juniortval.jpg" group-title="Live: Albania",Junior TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/17182
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="Live: Albania",Top News AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4209
-#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="Live: Albania",ABC News AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6263
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="Live: Albania",News 24 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3795
-#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="Live: Albania",Ora News AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7066
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News AL" tvg-logo="https://picon-13398.kxcdn.com/kanali7news.jpg" group-title="Live: Albania",Kanali 7 News AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8777
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 24 AL" tvg-logo="https://picon-13398.kxcdn.com/rtsh24al.jpg" group-title="Live: Albania",RTSH 24 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20173
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 AL" tvg-logo="https://picon-13398.kxcdn.com/kanali7al.jpg" group-title="Live: Albania",Kanali 7 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19544
-#EXTINF:-1 tvg-id="" tvg-name="E! AL" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Albania",E! AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7072
-#EXTINF:-1 tvg-id="" tvg-name="Art Doku 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku1sr.jpg" group-title="Live: Albania",Art Doku 1 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28178
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD AL" tvg-logo="https://picon-13398.kxcdn.com/discoveryhd.jpg" group-title="Live: Albania",Discovery HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/11291
-#EXTINF:-1 tvg-id="EXPShkence.al" tvg-name="Explorer Shkencë AL" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg" group-title="Live: Albania",Explorer Shkencë AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4203
-#EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="Explorer Natyra AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Explorer Natyra AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4202
-#EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="Explorer Natyra (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Explorer Natyra (Backup) AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9462
-#EXTINF:-1 tvg-id="EXPHistori.al" tvg-name="Explorer Histori AL" tvg-logo="https://picon-13398.kxcdn.com/explorerhistori.jpg" group-title="Live: Albania",Explorer Histori AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4204
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="National Geographic AL" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Albania",National Geographic AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3793
-#EXTINF:-1 tvg-id="TravelChannel.al" tvg-name="Travel Channel AL" tvg-logo="https://picon-13398.kxcdn.com/travelchannel.jpg" group-title="Live: Albania",Travel Channel AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7060
-#EXTINF:-1 tvg-id="Living.al" tvg-name="Living HD AL" tvg-logo="https://picon-13398.kxcdn.com/livinghd.jpg" group-title="Live: Albania",Living HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9370
-#EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Live: Albania",SuperSport News FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22807
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4198
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22808
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Live: Albania",SuperSport 2 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4199
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22809
-#EXTINF:-1 tvg-id="ClickTV.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Live: Albania",SuperSport 3 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4200
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22810
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Live: Albania",SuperSport 4 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4201
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22811
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Live: Albania",SuperSport 5 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9373
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg" group-title="Live: Albania",RTSH Sport AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/15635
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Tring Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsportnewshd.jpg" group-title="Live: Albania",Tring Sport News HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8077
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Live: Albania",Tring Sport 1 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8078
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Live: Albania",Tring Sport 2 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8079
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Live: Albania",Tring Sport 3 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8080
-#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg" group-title="Live: Albania",Tring Sport 4 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/8081
-#EXTINF:-1 tvg-id="" tvg-name="K-Sport 1 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport1.jpg" group-title="Live: Albania",K-Sport 1 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9150
-#EXTINF:-1 tvg-id="" tvg-name="K-Sport 2 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport2.jpg" group-title="Live: Albania",K-Sport 2 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9151
-#EXTINF:-1 tvg-id="" tvg-name="K-Sport 3 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport3.jpg" group-title="Live: Albania",K-Sport 3 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9152
-#EXTINF:-1 tvg-id="" tvg-name="K-Sport 4 AL" tvg-logo="https://picon-13398.kxcdn.com/ksport4.jpg" group-title="Live: Albania",K-Sport 4 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9153
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 1 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28182
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 2 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28183
-#EXTINF:-1 tvg-id="" tvg-name="E Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/albthriller.jpg" group-title="Live: Albania",E Thriller AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9143
-#EXTINF:-1 tvg-id="ClickTV.al" tvg-name="Click AL" tvg-logo="https://picon-13398.kxcdn.com/click.jpg" group-title="Live: Albania",Click AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12033
-#EXTINF:-1 tvg-id="" tvg-name="Era TV AL" tvg-logo="https://picon-13398.kxcdn.com/eratv.jpg" group-title="Live: Albania",Era TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/4231
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="FOX AL" tvg-logo="https://picon-13398.kxcdn.com/foxchannel.jpg" group-title="Live: Albania",FOX AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9392
-#EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia AL" tvg-logo="https://picon-13398.kxcdn.com/klammk.jpg" group-title="Live: Albania",Klan Macedonia AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/27538
-#EXTINF:-1 tvg-id="Muse.al" tvg-name="Muse AL" tvg-logo="https://picon-13398.kxcdn.com/muse.jpg" group-title="Live: Albania",Muse AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/6092
-#EXTINF:-1 tvg-id="" tvg-name="Novela AL" tvg-logo="https://picon-13398.kxcdn.com/novelaal.jpg" group-title="Live: Albania",Novela AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/17181
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Plus AL" tvg-logo="https://picon-13398.kxcdn.com/rtshplusal.jpg" group-title="Live: Albania",RTSH Plus AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/15633
-#EXTINF:-1 tvg-id="" tvg-name="Report TV AL" tvg-logo="https://picon-13398.kxcdn.com/reporttv.jpg" group-title="Live: Albania",Report TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9366
-#EXTINF:-1 tvg-id="" tvg-name="Shenja TV AL" tvg-logo="https://picon-13398.kxcdn.com/shenja.jpg" group-title="Live: Albania",Shenja TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9399
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus Shkodar AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus Shkodar AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9384
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV AL" tvg-logo="https://picon-13398.kxcdn.com/syriblueal.jpg" group-title="Live: Albania",Syri TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/16571
-#EXTINF:-1 tvg-id="" tvg-name="Syri Vision AL" tvg-logo="https://picon-13398.kxcdn.com/syrivisional.jpg" group-title="Live: Albania",Syri Vision AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20179
-#EXTINF:-1 tvg-id="" tvg-name="TemaTV AL" tvg-logo="https://picon-13398.kxcdn.com/tematv.jpg" group-title="Live: Albania",TemaTV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9367
-#EXTINF:-1 tvg-id="TipTv.al" tvg-name="Tip TV AL" tvg-logo="https://picon-13398.kxcdn.com/tiptv.jpg" group-title="Live: Albania",Tip TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/7063
-#EXTINF:-1 tvg-id="" tvg-name="TV Dielli AL" tvg-logo="https://picon-13398.kxcdn.com/tvdiellial.jpg" group-title="Live: Albania",TV Dielli AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/19542
-#EXTINF:-1 tvg-id="" tvg-name="TV Kopliku AL" tvg-logo="https://picon-13398.kxcdn.com/tvkoplikual.jpg" group-title="Live: Albania",TV Kopliku AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/20184
-#EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Albania",Euronews HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/34755
-#EXTINF:-1 tvg-id="" tvg-name="Supersonic TV AL" tvg-logo="https://picon-13398.kxcdn.com/supersonic.jpg" group-title="Live: Albania",Supersonic TV AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/3810
-#EXTINF:-1 tvg-id="" tvg-name="TDC AL" tvg-logo="https://picon-13398.kxcdn.com/tdcal.jpg" group-title="Live: Albania",TDC AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/38606
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 10 AL" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg" group-title="Live: Albania",Kanal 10 AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/53152
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="Live: Albania",Kanal D Drama FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/56168
-#EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/66309
-#EXTINF:-1 tvg-id="" tvg-name="A TV FHD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/73298
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino2al.jpg" group-title="Live: Albania",Art Kino 2 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28176
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 3 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28184
-#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV Kohavision FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/9456
-#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku2al.jpg" group-title="Live: Albania",Art Doku 2 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/28179
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 4 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/89864
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 5 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/89865
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 6 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/89866
-#EXTINF:-1 tvg-id="" tvg-name="E Humor AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",E Humor AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/12050
-#EXTINF:-1 tvg-id="" tvg-name="Film Gold FHD AL" tvg-logo="https://picon-13398.kxcdn.com/filmgoldal.jpg" group-title="Live: Albania",Film Gold FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/91872
-#EXTINF:-1 tvg-id="" tvg-name="Film Max FHD AL" tvg-logo="" group-title="Live: Albania",Film Max FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/91873
-#EXTINF:-1 tvg-id="" tvg-name="TV Llapi AL" tvg-logo="https://picon-13398.kxcdn.com/tvllapial.jpg" group-title="Live: Albania",TV Llapi AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/93094
-#EXTINF:-1 tvg-id="" tvg-name="Tring Novelas FHD AL" tvg-logo="https://picon-13398.kxcdn.com/novelasal.jpg" group-title="Live: Albania",Tring Novelas FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/93395
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport News HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport News HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/97790
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/97791
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 2 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/97792
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 3 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/97793
-#EXTINF:-1 tvg-id="" tvg-name="Over Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/oversportal.jpg" group-title="Live: Albania",Over Sport 4 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/97794
-#EXTINF:-1 tvg-id="" tvg-name="TeVe 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",TeVe 1 HD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/99872
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 7 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport7al.jpg" group-title="Live: Albania",SuperSport 7 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22813
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport6hd.jpg" group-title="Live: Albania",SuperSport 6 FHD AL
-http://smarters.link:80/RtMM2QrZq97/d2STOS55/22812
-http://tvshqiponja.com:8080/play/aRuTpd_TYoFrWFajpCIIpIt5ZqbIeBjFCNTy52dzBCeSbUDyZ_LhjRN4HUFA1KBv
-#EXTINF:-1 tvg-id="" tvg-name="AL: EB SHPK Nazi FHD" tvg-logo="" group-title="**** Albania Seriale ****",AL: EB SHPK Nazi FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/143111
-#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="AL: Jolly HD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/896
-#EXTINF:-1 tvg-id="" tvg-name="AL: Turkish Stories" tvg-logo="" group-title="**** Albania Seriale ****",AL: Turkish Stories
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49824
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama" tvg-logo="" group-title="**** Albania Seriale ****",AL: Kanal D Drama
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/49822
-#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus" tvg-logo="http://falcon.ac:5000/images/alb/tring3plus.png" group-title="**** Albania Seriale ****",AL: Tring 3 Plus
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/884
-#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale Turke FHD" tvg-logo="http://falcon.ac:5000/images/tdc.png" group-title="**** Albania Seriale ****",AL: TDC Seriale Turke FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/53846
-#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama FHD" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramafhd.png" group-title="**** Albania Seriale ****",AL: Kanal D Drama FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4624
-#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus HD" tvg-logo="http://falcon.ac:5000/images/alb/tring3plushd.png" group-title="**** Albania Seriale ****",AL: Tring 3 Plus HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/883
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Series HD" tvg-logo="http://tv.kabllor.net/logo/tring_jolly_hd.png" group-title="**** Albania Seriale ****",AL: Tring Series HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/161557
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRG COLLECTION HD" tvg-logo="" group-title="**** Albania Seriale ****",AL: TRG COLLECTION HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/163453
-#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama HD" tvg-logo="http://falcon.ac:5000/images/alb/Kanalddramahd.png" group-title="**** Albania Seriale ****",AL: Kanal D Drama HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/78700
-#EXTINF:-1 tvg-id="Novelas" tvg-name="AL: Tring Novelas FHD" tvg-logo="http://falcon.ac:5000/images/alb/TringNovelas.png" group-title="**** Albania Seriale ****",AL: Tring Novelas FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/146011
-#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Jolly FHD" tvg-logo="http://falcon.ac:5000/images/jolly.png" group-title="**** Albania Seriale ****",AL: Jolly FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/89687
-#EXTINF:-1 tvg-id="" tvg-name="AL: Art Prime FHD" tvg-logo="http://falcon.ac:5000/images/artprime.png" group-title="**** Albania Shqipëtare ****",AL: Art Prime FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/4627
-#EXTINF:-1 tvg-id="" tvg-name="AL: Episode HD" tvg-logo="http://falcon.ac:5000/images/alb/episodehd.png" group-title="**** Albania Seriale ****",AL: Episode HD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/38560
-#EXTINF:-1 tvg-id="" tvg-name="AL: Episode FHD" tvg-logo="http://falcon.ac:5000/images/alb/episodefhd.png" group-title="**** Albania Seriale ****",AL: Episode FHD
-http://eurobest.top:5000/Gloria_tv/dFyMMnKb/91079
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/873
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/870
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/871
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/872
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/874
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/875
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/876
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/877
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/878
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/879
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 3
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/880
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 4
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/881
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 1
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/882
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/883
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 1 HD
-http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
-http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
-#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Its My Home 3 FHD
-http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/63080.ts
-#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: First Channel TV HD" tvg-logo="http://hs-iptv.net:88/images/2252283dec66f089147867a0938aeb4d.png" group-title="**** Albania Shqipëtare ****",AL: First Channel TV HD
-http://premium-ks.vip:2082/live/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321/2573.ts
-#EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/16544
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/117772
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/117771
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 2 HD AL
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89641
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 1 HD AL
-http://45.12.1.14:80/Y3wATESVIO5292/PbUx6S3497/89640
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="*****SHQIP TV*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",*****SHQIP TV*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/988
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: Rtk 1 HD" tvg-logo="http://premium-ks.vip:2082/images/ff2530ab6871a188c45ddde0accb8e9c.png" group-title="Albania",AL: Rtk 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/3
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK SERIAL 1 HD" tvg-logo="" group-title="Albania",AL: RTK SERIAL 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69326
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 1 Sat HD" tvg-logo="" group-title="Albania",AL: Rtk 1 Sat HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57351
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="AL: Rtk1 HD" tvg-logo="http://hs-iptv.net:88/images/aa7e8e99e8c0131c090eb9ad20f8eaaf.png" group-title="Albania",AL: Rtk1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/32738
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 2 HD" tvg-logo="http://premium-ks.vip:2082/images/9897ee3bef77c07f7d70d2e62a973e9f.png" group-title="Albania",AL: Rtk 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/4
+#EXTINF:-1 tvg-id="RTK1" tvg-name="AL: Rtk 3 HD" tvg-logo="http://hs-iptv.net:88/images/0d8e52847fa48595666341860fd228ae.png" group-title="Albania",AL: Rtk 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/5
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtk 4 HD" tvg-logo="http://hs-iptv.net:88/images/13ac507d93e21615219c805f64676386.png" group-title="Albania",AL: Rtk 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/6
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Rtv 21 HD" tvg-logo="http://hs-iptv.net:88/images/8f4d701458374069ae2068d5cc199c56.png" group-title="Albania",AL: Rtv 21 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1632
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Rtv 21 HD TV" tvg-logo="http://hs-iptv.net:88/images/8f4d701458374069ae2068d5cc199c56.png" group-title="Albania",AL: Rtv 21 HD TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8398
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pro 1  ᴴᴰ" tvg-logo="" group-title="Albania",AL: Pro 1  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80234
+#EXTINF:-1 tvg-id="21 Popullore" tvg-name="AL: Rtv 21 Popullore HD " tvg-logo="http://hs-iptv.net:88/images/c02589c732d6bc28083bf6505c126fda.png" group-title="Albania",AL: Rtv 21 Popullore HD 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17110
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Rapsodi HD" tvg-logo="" group-title="Albania",AL: Rtv Rapsodi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61998
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Arti TV HD" tvg-logo="" group-title="Albania",AL: Rtv Arti TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33408
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Rtv 21 Plus HD" tvg-logo="http://hs-iptv.net:88/images/ed7e75fbe670c35bcdce8eda13363272.png" group-title="Albania",AL: Rtv 21 Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2577
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv 21 MIX HD" tvg-logo="http://hs-iptv.net:88/images/f7cd5af490b9da9ad1b2bee55b96fa72.png" group-title="Albania",AL: Rtv 21 MIX HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1629
+#EXTINF:-1 tvg-id="RTV 21 MK" tvg-name="AL: Rtv 21 Maqedonis HD" tvg-logo="http://hs-iptv.net:88/images/ebcc0a43d78319922e3b6c85a4dd8c6d.png" group-title="Albania",AL: Rtv 21 Maqedonis HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1633
+#EXTINF:-1 tvg-id="21 Junior" tvg-name="AL: Rtv 21 Junior HD" tvg-logo="http://hs-iptv.net:88/images/23fb920ea25048fe12d81b3ffb117f7d.png" group-title="Albania",AL: Rtv 21 Junior HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1630
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 1 ⁴ᴷ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80942
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: BB VIP ALBANIA 2 ⁴ᴷ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80943
+#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 1 FHD" tvg-logo="" group-title="Albania",AL : Tring Ferma VIP 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83177
+#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 2 FHD" tvg-logo="" group-title="Albania",AL : Tring Ferma VIP 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title="Albania",AL: Its My Home 3 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63080
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: First Channel TV HD" tvg-logo="http://hs-iptv.net:88/images/2252283dec66f089147867a0938aeb4d.png" group-title="Albania",AL: First Channel TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2573
+#EXTINF:-1 tvg-id="T HD" tvg-name="AL: Ktv TV FHD" tvg-logo="http://hs-iptv.net:88/images/d58c3c58d11b05fa34b549a7fdf12d5d.png" group-title="Albania",AL: Ktv TV FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1400
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Ktv TV HD" tvg-logo="http://hs-iptv.net:88/images/d58c3c58d11b05fa34b549a7fdf12d5d.png" group-title="Albania",AL: Ktv TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8399
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova HD" tvg-logo="" group-title="Albania",AL: Klan Kosova HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80868
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-name="AL: Klan Kosova SD" tvg-logo="http://albepg.com/tvlogi/Klan Kosova.png" group-title="Albania",AL: Klan Kosova SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2601
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Dukagjini TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi8pwAJMOD6ZpNTuTB9FUIZdDhiYmWRDwbguSHi6SLAmai3Z3Z" group-title="Albania",AL: Rtv Dukagjini TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2280
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Dukagjini TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi8pwAJMOD6ZpNTuTB9FUIZdDhiYmWRDwbguSHi6SLAmai3Z3Z" group-title="Albania",AL: Rtv Dukagjini TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17034
+#EXTINF:-1 tvg-id="" tvg-name="AL: DUKAGJINI TV HD" tvg-logo="" group-title="Albania",AL: DUKAGJINI TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42353
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV 7 HD" tvg-logo="http://hv-iptv.ddns.net:88/images/f44f8f3058a58f0b67af7248b72bb833.png" group-title="Albania",AL: TV 7 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17030
+#EXTINF:-1 tvg-id="T 7" tvg-name="AL: T 7 HD" tvg-logo="http://hv-iptv.ddns.net:88/images/f44f8f3058a58f0b67af7248b72bb833.png" group-title="Albania",AL: T 7 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1738
+#EXTINF:-1 tvg-id="Kamal 10" tvg-name="AL: Kanal 10 HD" tvg-logo="" group-title="Albania",AL: Kanal 10 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/29241
+#EXTINF:-1 tvg-id="" tvg-name="AL: Atv TV HD" tvg-logo="" group-title="Albania",AL: Atv TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34205
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat TV HD" tvg-logo="" group-title="Albania",AL: Alsat TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47191
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-name="AL: ALSAT M  HD" tvg-logo="" group-title="Albania",AL: ALSAT M  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33348
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat TV" tvg-logo="http://hs-iptv.net:88/images/9eeb86f3606513d04f43f283503c7036.png" group-title="Albania",AL: Alsat TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/9895
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat Macedonija HD" tvg-logo="http://hs-iptv.net:88/images/9eeb86f3606513d04f43f283503c7036.png" group-title="Albania",AL: Alsat Macedonija HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2595
+#EXTINF:-1 tvg-id="Alsat-M" tvg-name="AL: Alsat M HD" tvg-logo="http://hs-iptv.net:88/images/9eeb86f3606513d04f43f283503c7036.png" group-title="Albania",AL: Alsat M HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1423
+#EXTINF:-1 tvg-id="RTK1" tvg-name="AL: Rtv Fontana HD" tvg-logo="http://hs-iptv.net:88/images/ecf192980dd45919d3367eb40a2dc32b.png" group-title="Albania",AL: Rtv Fontana HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2427
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Festina HD" tvg-logo="" group-title="Albania",AL: RTV Festina HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55450
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV TEUTA ᴴᴰ" tvg-logo="" group-title="Albania",AL: TV TEUTA ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58850
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Tregim Popullor" tvg-logo="" group-title="Albania",AL: HS Tregim Popullor
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57348
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV HD" tvg-logo="http://hs-iptv.net:88/images/431f4ab95814f35ff6f9ac8af49af65f.png" group-title="Albania",AL: Dasma TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1438
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Tema Ferizaj HD" tvg-logo="" group-title="Albania",AL: TV Tema Ferizaj HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8299
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Alb’swiss TV" tvg-logo="" group-title="Albania",AL:  Alb’swiss TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43690
+#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra HD" tvg-logo="http://premium-kosova.hopto.me:88/images/171f2422b986392a54ba771a473d2c47.png" group-title="Albania",AL: Flutra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33406
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ulqin TV HD" tvg-logo="" group-title="Albania",AL: Ulqin TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33410
+#EXTINF:-1 tvg-id="" tvg-name="AL: Jehaniter Gold HD" tvg-logo="" group-title="Albania",AL: Jehaniter Gold HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43687
+#EXTINF:-1 tvg-id="STV Folk" tvg-name="AL: Stv Folk" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDwjcuJgHt5dgPxK5xLMp4zGxMitvXBXSSG6A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Albania",AL: Stv Folk
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2296
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë 1 HD" tvg-logo="" group-title="Albania",AL: Tëvë 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42672
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Novela ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Novela ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58178
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus HD" tvg-logo="http://hs-iptv.net:88/images/5e212302bd9a7041eacb33ff1c4cae77.png" group-title="Albania",AL: Tring 3 Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1403
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Stories Turkish ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Stories Turkish ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62045
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas HD" tvg-logo="" group-title="Albania",AL: Tring Novelas HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47192
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Series HD" tvg-logo="http://hs-iptv.net:88/images/c9fb6bac29b994d38420a561b8151602.png" group-title="Albania",AL: Series HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1393
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama" tvg-logo="http://hs-iptv.net:88/images/88934f8a3790ebd33e40384ef657588f.png" group-title="Albania",AL: Kanal D Drama
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/41739
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama HD" tvg-logo="http://hv-iptv.ddns.net:88/images/88934f8a3790ebd33e40384ef657588f.png" group-title="Albania",AL: Kanal D Drama HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17067
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drame HD" tvg-logo="" group-title="Albania",AL: Kanal D Drame HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/24986
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale turke SD/HD Shqip" tvg-logo="" group-title="Albania",AL: TDC Seriale turke SD/HD Shqip
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42674
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC HD" tvg-logo="http://hs-iptv.net:88/images/d41e5228bd77e376b15fada9be48455b.png" group-title="Albania",AL: TDC HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7780
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mrtv 2 HD TV" tvg-logo="" group-title="Albania",AL: Mrtv 2 HD TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47154
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mcn TV  HD" tvg-logo="" group-title="Albania",AL: Mcn TV  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/71307
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN 24 HD" tvg-logo="" group-title="Albania",AL: MCN 24 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79531
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus HD" tvg-logo="" group-title="Albania",AL: Vizion Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/22705
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus HD" tvg-logo="http://hs-iptv.net:88/images/2efd34e7cfd1b54ab2794c8ff9fdf765.png" group-title="Albania",AL: Vizion Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2281
+#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="AL: Klan HD" tvg-logo="http://hs-iptv.net:88/images/49d944102137ad98057cc8431548b43a.png" group-title="Albania",AL: Klan HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1396
+#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="AL: Klan TV FHD" tvg-logo="http://albepg.com/tvlogi/Klan TV HD.png" group-title="Albania",AL: Klan TV FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17046
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="AL: TV Klan Plus HD" tvg-logo="http://hs-iptv.net:88/images/3e90e3650cbf41d1740d99e24ecccb59.png" group-title="Albania",AL: TV Klan Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/12426
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Klan Plus HD" tvg-logo="http://hs-iptv.net:88/images/3e90e3650cbf41d1740d99e24ecccb59.png" group-title="Albania",AL: Klan Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1398
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-name="AL: Klan Macedonia HD" tvg-logo="http://hs-iptv.net:88/images/28701cdc2d30a6b0dbf27cd04aea3c17.png" group-title="Albania",AL: Klan Macedonia HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1399
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan TV Music" tvg-logo="" group-title="Albania",AL: Klan TV Music
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/10221
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://hs-iptv.net:88/images/ef36e05b9eefee782fff22376a2bebdf.png" group-title="Albania",AL: Top Channel HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1401
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="http://static.iptv-epg.com/al/TopChannel.al.png" group-title="Albania",AL: Top Channel HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Hell’s Kitchen Albania Sezoni 3 HD" tvg-logo="https://i.postimg.cc/3xpWBVZH/extrem.png" group-title="Albania",AL: Hell’s Kitchen Albania Sezoni 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69381
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Tallava TV HD" tvg-logo="" group-title="Albania",AL: HS Tallava TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7741
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Tallava Klasik TV HD" tvg-logo="" group-title="Albania",AL: HS Tallava Klasik TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51412
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Ashkali Tv ᴴᴰ" tvg-logo="http://hv-iptv.ddns.net:88/images/6a8851338d346d68542de99a8546b444.png" group-title="Albania",AL: HS Ashkali Tv ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7740
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Horë International ♫ █▬█ █ ▀█▀ ♫" tvg-logo="" group-title="Albania",AL: HS Horë International ♫ █▬█ █ ▀█▀ ♫
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62383
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Instrumentale INT FHD" tvg-logo="https://i.postimg.cc/3xpWBVZH/extrem.png" group-title="Albania",AL: Dark Instrumentale INT FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69378
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ballkanika TV" tvg-logo="" group-title="Albania",AL: Ballkanika TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80485
+#EXTINF:-1 tvg-id="" tvg-name="AL: Roma TV HD" tvg-logo="" group-title="Albania",AL: Roma TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62344
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Action HD" tvg-logo="" group-title="Albania",AL: Film Action HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62480
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Vushtria Muzik HD" tvg-logo="" group-title="Albania",AL: TV Vushtria Muzik HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62482
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Tallava FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/cadf4742dcc7d9a0d79c7c78ee7276c8.png" group-title="Albania",AL: Dark Tallava FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33331
+#EXTINF:-1 tvg-id="" tvg-name="AL: FX Media HD" tvg-logo="" group-title="Albania",AL: FX Media HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63077
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Prizreni HD" tvg-logo="" group-title="Albania",AL: TV Prizreni HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63078
+#EXTINF:-1 tvg-id="" tvg-name="AL: Televizioni TV R HD" tvg-logo="" group-title="Albania",AL: Televizioni TV R HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63079
+#EXTINF:-1 tvg-id="" tvg-name="AL: Hi TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Hi TV ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62032
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Ziko HD" tvg-logo="" group-title="Albania",AL: TV Ziko HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63201
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tropoja Tv HD" tvg-logo="http://darkiptv.ddns.net:8080/images/2fe798bcfcd30e04d0ad5e15c0662db4.png" group-title="Albania",AL: Tropoja Tv HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33349
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premiere 1 HD" tvg-logo="" group-title="Albania",AL: N Premiere 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80350
+#EXTINF:-1 tvg-id="" tvg-name="AL: AlbanianTV Chicago" tvg-logo="" group-title="Albania",AL: AlbanianTV Chicago
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80504
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Istogu HD" tvg-logo="" group-title="Albania",AL: TV Istogu HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63199
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel HD" tvg-logo="" group-title="Albania",AL: Istogu Channel HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1887
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Popullore HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkpopullore1.png" group-title="Albania",AL: Dark Popullore HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33327
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Hip-Hop HD" tvg-logo="http://darkiptv.ddns.net:8080/images/da7b3dc5475dbfc629fea4000b62b075.png" group-title="Albania",AL: Dark Hip-Hop HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33332
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Balade UHD" tvg-logo="http://ledi-iptv.ch/ico/1/DarkBalade.png" group-title="Albania",AL: Dark Balade UHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33334
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Popullore FHD ♫" tvg-logo="" group-title="Albania",AL: EB Popullore FHD ♫
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/38603
+#EXTINF:-1 tvg-id="" tvg-name="AL: Podujeva TV HD" tvg-logo="" group-title="Albania",AL: Podujeva TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59734
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 1 FHD" tvg-logo="http://ledi-iptv.ch/ico/1/darkpopullore1.png" group-title="Albania",AL: EB Festive 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33329
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 2 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/d00e0ae34fc41379af538df970308e58.png" group-title="Albania",AL: EB Festive 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33330
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 3 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/d00e0ae34fc41379af538df970308e58.png" group-title="Albania",AL: EB Festive 3 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33325
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 4 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/e685363c7d2b98f467f9536953695dd5.png" group-title="Albania",AL: EB Festive 4 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33326
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 5 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/d517cadf269599c3f7c2ed5761cbdb4f.png" group-title="Albania",AL: EB Festive 5 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33337
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 6 FHD" tvg-logo="http://ledi-iptv.ch/ico/1/darkcifteli1.png" group-title="Albania",AL: EB Festive 6 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33333
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 7 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: EB Festive 7 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34307
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Festive 8 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: EB Festive 8 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34306
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Rtv Arberia 1 HD" tvg-logo="http://ledi-iptv.ch/ico/1/DarkItaly.png" group-title="Albania",AL:  Rtv Arberia 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33366
+#EXTINF:-1 tvg-id="" tvg-name="AL: Llapi TV HD" tvg-logo="" group-title="Albania",AL: Llapi TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/32342
+#EXTINF:-1 tvg-id="Folk Plus" tvg-name="AL: Folk Plus HD" tvg-logo="" group-title="Albania",AL: Folk Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2592
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shota TV HD" tvg-logo="" group-title="Albania",AL: Shota TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2636
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri HD" tvg-logo="" group-title="Albania",AL: TV Sharri HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1612
+#EXTINF:-1 tvg-id="" tvg-name="AL: Opoja HD" tvg-logo="http://hs-iptv.net:88/images/25d06741ffb145cb979440ca1660d2a9.png" group-title="Albania",AL: Opoja HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1610
+#EXTINF:-1 tvg-id="" tvg-name="AL: Spin TV HD" tvg-logo="" group-title="Albania",AL: Spin TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33407
+#EXTINF:-1 tvg-id="" tvg-name="AL: Atd TV HD" tvg-logo="" group-title="Albania",AL: Atd TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33409
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: BBF HD" tvg-logo="" group-title="Albania",AL: BBF HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/24987
+#EXTINF:-1 tvg-id="" tvg-name="AL:Sky STAR HD" tvg-logo="" group-title="Albania",AL:Sky STAR HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/17130
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada HD" tvg-logo="http://hs-iptv.net:88/images/62d087f2ddbb68c92536175add7ee974.png" group-title="Albania",AL: Top Estrada HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1621
+#EXTINF:-1 tvg-id="" tvg-name="AL: Blue Sky TV HD" tvg-logo="" group-title="Albania",AL: Blue Sky TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2584
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK HD" tvg-logo="http://hs-iptv.net:88/images/34711cb87e333d0d4627c1fa96cd9950.png" group-title="Albania",AL: Alb UK HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1614
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Iliridadokumentar HD" tvg-logo="" group-title="Albania",AL: Rtv Iliridadokumentar HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55451
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Music HD." tvg-logo="" group-title="Albania",AL: WebStar Music HD.
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/23984
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY Star HD" tvg-logo="http://hs-iptv.net:88/images/bc20f95fff0a27abd9351e0abd26fff8.png" group-title="Albania",AL: SKY Star HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1622
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel HD" tvg-logo="http://premium-ks.ddns.net:88/images/9a96ee9895573035f8a08ea5c3abf8d3.jpg" group-title="Albania",AL: Turbo Channel HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/3303
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli HD" tvg-logo="http://hv-iptv.ddns.net:88/images/5fc24df8b078c2d248e46d71b723d3ce.png" group-title="Albania",AL: TV Dielli HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1617
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi TV HD" tvg-logo="" group-title="Albania",AL: Elrodi TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1618
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTVZiK HD" tvg-logo="RTVZiK	  RTVZiK  http://www.albepg.com/tvlogi/RTVZiK.png" group-title="Albania",AL: RTVZiK HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1619
+#EXTINF:-1 tvg-id="SyriTV.al" tvg-name="AL: Syri Vizion HD" tvg-logo="http://www.albepg.com/tvlogi/Syri Vision.png" group-title="Albania",AL: Syri Vizion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1890
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Blue HD" tvg-logo="http://hs-iptv.net:88/images/07b38cbdbce2a561005f3794ae4f7d65.png" group-title="Albania",AL: Syri Blue HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1888
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Hareja TV" tvg-logo="" group-title="Albania",AL:  Hareja TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61999
+#EXTINF:-1 tvg-id="" tvg-name="AL: Newst  MK ᴴᴰ" tvg-logo="" group-title="Albania",AL: Newst  MK ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62000
+#EXTINF:-1 tvg-id="RTK1" tvg-name="AL:TV Mitrovica HD" tvg-logo="" group-title="Albania",AL:TV Mitrovica HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2580
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit TV HD" tvg-logo="http://hv-iptv.ddns.net:88/images/fa6c187a6087f38f5518c9ba0405b0c8.png" group-title="Albania",AL: Folklorit TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2587
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mtv Kosova HD" tvg-logo="http://www.albepg.com/tvlogi/MTV Kosova.png" group-title="Albania",AL: Mtv Kosova HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2428
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music TV HD" tvg-logo="" group-title="Albania",AL: My Music TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2596
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="AL: Supersonic TV HD" tvg-logo="http://hs-iptv.net:88/images/d2f7010947bb6bfb3000770a794875e1.png" group-title="Albania",AL: Supersonic TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2590
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Melody TV HD" tvg-logo="" group-title="Albania",AL:  Melody TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34084
+#EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV HD" tvg-logo="http://hs-iptv.net:88/images/7f633767892446fd5631417b8d8460f3.png" group-title="Albania",AL: Amol TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/3589
+#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV HD" tvg-logo="http://hs-iptv.net:88/images/256b323f6f6d94d1e934305e877617ff.png" group-title="Albania",AL: Era TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2582
+#EXTINF:-1 tvg-id="Shenja TV" tvg-name="AL: Shenja  TV HD" tvg-logo="http://hs-iptv.net:88/images/c6df181821b1ddfcf3a617f548abc3a8.png" group-title="Albania",AL: Shenja  TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2581
+#EXTINF:-1 tvg-id="Koha TV" tvg-name="AL: Koha HD" tvg-logo="http://hs-iptv.net:88/images/92a614bc2693df6317fc13d8a5c1baa8.png" group-title="Albania",AL: Koha HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1609
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mfm TV HD" tvg-logo="" group-title="Albania",AL: Mfm TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62388
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Diasport TV HD" tvg-logo="" group-title="Albania",AL:  Diasport TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62389
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Jeta ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/lZNAhu_d7ccg96zV8IaqD6GtAhGoQEnC7gKScCnjacbuktwX1CFrD_WviP05mxg9f4Vh6LNJkDoCjgzWoqUsA3R4JNqOCeCaLrUGUxcMNno.png" group-title="Albania",AL: ShqipTV Jeta ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66432
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Folk ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT2EPJVXYjY1I-V9zWwO-5bg8udHrX0JADHNfdP_mQ0MaORNXtNkMLIk4bSYZiI7JStAwwl81k4FERk5b2KLrr0q0iwM1aEjkblb1RiSyGn77KaJ211dUKWq2AXbYNm3rLHWOcmG-Sg9rLIHnHhAUUCA.png" group-title="Albania",AL: ShqipTV Folk ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66444
+#EXTINF:-1 tvg-id="" tvg-name="*****HS SELECT SHQIP*****" tvg-logo="" group-title="Albania",*****HS SELECT SHQIP*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59348
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Select HD Shqip Info" tvg-logo="" group-title="Albania",AL: HS Select HD Shqip Info
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59337
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Select Shqip Black Panther: Wakanda Forever" tvg-logo="" group-title="Albania",AL: HS Select Shqip Black Panther: Wakanda Forever
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59344
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Select Shqip Violent Night" tvg-logo="" group-title="Albania",AL: HS Select Shqip Violent Night
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59345
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Select Strange World " tvg-logo="" group-title="Albania",AL: HS Select Strange World 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59346
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Select Shqip The King Woman" tvg-logo="" group-title="Albania",AL: HS Select Shqip The King Woman
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59347
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Nje HD" tvg-logo="" group-title="Albania",AL: Film Nje HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63092
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="" group-title="Albania",AL: Film Dy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63093
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Nje HD" tvg-logo="http://hs-iptv.net:88/images/f6f4843ac04a7c09b8a2f4e6f6c03c34.png" group-title="Albania",AL: Film Nje HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1424
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film DY HD" tvg-logo="http://hs-iptv.net:88/images/19a57ce161ccc90bc152ba9ac9fb5885.png" group-title="Albania",AL: Film DY HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1425
+#EXTINF:-1 tvg-id="Film Aksion" tvg-name="AL: Film Aksion HD" tvg-logo="http://hs-iptv.net:88/images/c897e55cba2cf3b7b06bd49985fe8807.png" group-title="Albania",AL: Film Aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1426
+#EXTINF:-1 tvg-id="Film Thriller" tvg-name="AL: Film Thriller HD" tvg-logo="http://hs-iptv.net:88/images/14ce9fa6bac559c274f9908bd7fe80c2.png" group-title="Albania",AL: Film Thriller HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1427
+#EXTINF:-1 tvg-id="Film Hits" tvg-name="AL: Film Hits HD" tvg-logo="http://hs-iptv.net:88/images/1f7038484155467e6b345e8e4b2e492e.png" group-title="Albania",AL: Film Hits HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1428
+#EXTINF:-1 tvg-id="RTSH 1" tvg-name="AL: Film Gold HD" tvg-logo="" group-title="Albania",AL: Film Gold HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43723
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Max HD" tvg-logo="" group-title="Albania",AL: Film Max HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43691
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dram HD" tvg-logo="" group-title="Albania",AL: Film Dram HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/9894
+#EXTINF:-1 tvg-id="Film Komedi" tvg-name="AL: Film Komedi HD" tvg-logo="http://hs-iptv.net:88/images/42f878f78609ca47a341253bd03a276a.png" group-title="Albania",AL: Film Komedi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1611
+#EXTINF:-1 tvg-id="Film Hits+1" tvg-name="AL: Film Autor HD" tvg-logo="http://hs-iptv.net:88/images/c897e55cba2cf3b7b06bd49985fe8807.png" group-title="Albania",AL: Film Autor HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1429
+#EXTINF:-1 tvg-id="Stinet" tvg-name="AL: Film Stinet HD" tvg-logo="http://hs-iptv.net:88/images/7312553a599c46dbec7c50c256e924b2.png" group-title="Albania",AL: Film Stinet HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1430
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film HD" tvg-logo="http://hs-iptv.net:88/images/e6ae5dae2339057be9de9305984d603a.png" group-title="Albania",AL: Euro Film HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1431
+#EXTINF:-1 tvg-id="Family HD" tvg-name="AL: Film Famyly HD" tvg-logo="http://hs-iptv.net:88/images/162f98dcd4cc416f366d62cfc2cf87ab.png" group-title="Albania",AL: Film Famyly HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1432
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Aksion HD" tvg-logo="http://hs-iptv.net:88/images/604e5119a43a80453cb34730a236e36f.png" group-title="Albania",AL: Tring Aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1404
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Collectio HD" tvg-logo="" group-title="Albania",AL: Tring Collectio HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47151
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://hs-iptv.net:88/images/06a3550f9dfc928cb028bab00adda77f.png" group-title="Albania",AL: Tring Fantasy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1405
+#EXTINF:-1 tvg-id="Tring Planet" tvg-name="AL: Tring Histori HD" tvg-logo="http://hs-iptv.net:88/images/aff8a44e61bc9fcfeb1f56b8a6176ab0.png" group-title="Albania",AL: Tring Histori HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1406
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy HD" tvg-logo="http://hs-iptv.net:88/images/d1a84d82a178bdaca168318795d979dd.png" group-title="Albania",AL: Tring Comedy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1408
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life HD" tvg-logo="http://hs-iptv.net:88/images/5cae74d43a7b353835514f0ae5280565.png" group-title="Albania",AL: Tring Life HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1409
+#EXTINF:-1 tvg-id="Tring International" tvg-name="AL: Tring Internacional HD" tvg-logo="" group-title="Albania",AL: Tring Internacional HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33278
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="AL: Tring Tip TV HD" tvg-logo="http://albepg.com/tvlogi/Tip TV.png" group-title="Albania",AL: Tring Tip TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/12395
+#EXTINF:-1 tvg-id="Tring Classic" tvg-name="AL: Tring Classic HD" tvg-logo="http://hs-iptv.net:88/images/42de96d64e3d071ccc1fccff79e925e9.png" group-title="Albania",AL: Tring Classic HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/32573
+#EXTINF:-1 tvg-id="Tring Planet" tvg-name="AL: Tring Planet HD" tvg-logo="http://hs-iptv.net:88/images/2081f3445e1d4643323d946b31dbb770.png" group-title="Albania",AL: Tring Planet HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1410
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip HD" tvg-logo="http://hs-iptv.net:88/images/b9d7bef32260d7fef03846813ba2b763.png" group-title="Albania",AL: Tring Shqip HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1411
+#EXTINF:-1 tvg-id="Smile" tvg-name="AL: Tring Smile HD" tvg-logo="http://hs-iptv.net:88/images/063f1ec95026139eea4b60fd59c6a7dd.png" group-title="Albania",AL: Tring Smile HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1412
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super HD" tvg-logo="http://hs-iptv.net:88/images/b0d1151f0909526cd0646196b82b5a0a.png" group-title="Albania",AL: Tring Super HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1416
+#EXTINF:-1 tvg-id="Tring Tring" tvg-name="AL: Tring Tring HD" tvg-logo="http://hs-iptv.net:88/images/989e1beb0130c89c1bdba77c137a4165.png" group-title="Albania",AL: Tring Tring HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1417
+#EXTINF:-1 tvg-id="Tring World" tvg-name="AL: Tring World HD" tvg-logo="http://hs-iptv.net:88/images/12d47ad261b73d7bf9392066b220e770.png" group-title="Albania",AL: Tring World HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1418
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Muse HD" tvg-logo="" group-title="Albania",AL: Tring Muse HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62385
+#EXTINF:-1 tvg-id="T HD" tvg-name="AL:T-HD" tvg-logo="http://hs-iptv.net:88/images/c0079e0d4e801bc94bce6fa2ed9e008c.png" group-title="Albania",AL:T-HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1433
+#EXTINF:-1 tvg-id="Junior" tvg-name="AL: Junior HD " tvg-logo="http://hs-iptv.net:88/images/4547f8865b529680d4a06e00c18eca00.png" group-title="Albania",AL: Junior HD 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1394
+#EXTINF:-1 tvg-id="EXPLORER Shkence" tvg-name="AL: Exp-Shkence HD" tvg-logo="http://hs-iptv.net:88/images/52410449119c32cc73f2a9d8794aeb7d.png" group-title="Albania",AL: Exp-Shkence HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1436
+#EXTINF:-1 tvg-id="EXPLORER Histori" tvg-name="AL: Explorer Histori TV HD" tvg-logo="http://hs-iptv.net:88/images/101b8951de88b6141336ae3f9206ab68.png" group-title="Albania",AL: Explorer Histori TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1437
+#EXTINF:-1 tvg-id="" tvg-name="AL: E Explorer HD" tvg-logo="" group-title="Albania",AL: E Explorer HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79707
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Natyra HD" tvg-logo="" group-title="Albania",AL: N Natyra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79708
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 aksion HD" tvg-logo="" group-title="Albania",AL: filma24 aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63229
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 horror HD" tvg-logo="" group-title="Albania",AL: filma24 horror HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63221
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 hits HD" tvg-logo="" group-title="Albania",AL: filma24 hits HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63223
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 fantazi HD" tvg-logo="" group-title="Albania",AL: filma24 fantazi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63226
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 thriller HD" tvg-logo="" group-title="Albania",AL: filma24 thriller HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63191
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 sci-fi HD" tvg-logo="" group-title="Albania",AL: filma24 sci-fi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63192
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 romance HD" tvg-logo="" group-title="Albania",AL: filma24 romance HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63193
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 premium + HD" tvg-logo="" group-title="Albania",AL: filma24 premium + HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63216
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 premier HD" tvg-logo="" group-title="Albania",AL: filma24 premier HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63217
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 mystery HD" tvg-logo="" group-title="Albania",AL: filma24 mystery HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63218
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 komedi HD" tvg-logo="" group-title="Albania",AL: filma24 komedi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63219
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 history HD" tvg-logo="" group-title="Albania",AL: filma24 history HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63224
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 adventure HD" tvg-logo="" group-title="Albania",AL: filma24 adventure HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63190
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 hindi HD" tvg-logo="" group-title="Albania",AL: filma24 hindi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63225
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 family HD" tvg-logo="" group-title="Albania",AL: filma24 family HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63227
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 biografi HD" tvg-logo="" group-title="Albania",AL: filma24 biografi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63228
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 drame ᴴᴰ" tvg-logo="" group-title="Albania",AL: filma24 drame ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58869
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Prime 1 HD" tvg-logo="" group-title="Albania",AL: T Prime 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63081
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Action HD" tvg-logo="" group-title="Albania",AL: T Action HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63083
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Thriller HD" tvg-logo="" group-title="Albania",AL: T Thriller HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63084
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Comedy HD" tvg-logo="" group-title="Albania",AL: T Comedy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63085
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Drama HD" tvg-logo="" group-title="Albania",AL: T Drama HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63086
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Serial HD" tvg-logo="" group-title="Albania",AL: T Serial HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63087
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Doc 2 HD" tvg-logo="" group-title="Albania",AL: T Doc 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63089
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode TV HD" tvg-logo="" group-title="Albania",AL: Episode TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63090
+#EXTINF:-1 tvg-id="" tvg-name="AL: Prime TV HD" tvg-logo="" group-title="Albania",AL: Prime TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63091
+#EXTINF:-1 tvg-id="" tvg-name="AL: Belsh TV HD" tvg-logo="http://darkiptv.ddns.net:8080/images/7811586419065138bba0be42b8879fcb.png" group-title="Albania",AL: Belsh TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33350
+#EXTINF:-1 tvg-id="" tvg-name="AL: Korca + HD" tvg-logo="" group-title="Albania",AL: Korca + HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58264
+#EXTINF:-1 tvg-id="" tvg-name="AL: AA NEWYORK TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: AA NEWYORK TV ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79598
+#EXTINF:-1 tvg-id="" tvg-name="AL: ACTV MICHIGAN ᴴᴰ" tvg-logo="" group-title="Albania",AL: ACTV MICHIGAN ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79599
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premier 1 ᴴᴰ" tvg-logo="" group-title="Albania",AL: N Premier 1 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79532
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Prime 1 HD" tvg-logo="" group-title="Albania",AL: OnePlay Prime 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63097
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Prime 2 HD" tvg-logo="" group-title="Albania",AL: OnePlay Prime 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63098
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Prime 3 HD" tvg-logo="" group-title="Albania",AL: OnePlay Prime 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63099
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Prime 4 HD" tvg-logo="" group-title="Albania",AL: OnePlay Prime 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63100
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Extra HD" tvg-logo="" group-title="Albania",AL: OnePlay Extra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63101
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Premium HD" tvg-logo="" group-title="Albania",AL: OnePlay Premium HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63102
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Netflix HD" tvg-logo="" group-title="Albania",AL: OnePlay Netflix HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63103
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Best Of HD" tvg-logo="" group-title="Albania",AL: OnePlay Best Of HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63104
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Collection HD" tvg-logo="" group-title="Albania",AL: OnePlay Collection HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63105
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Aksion HD" tvg-logo="" group-title="Albania",AL: OnePlay Aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63106
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Aksion +1 HD" tvg-logo="" group-title="Albania",AL: OnePlay Aksion +1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63107
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Komedi HD" tvg-logo="" group-title="Albania",AL: OnePlay Komedi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63108
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Classic HD" tvg-logo="" group-title="Albania",AL: OnePlay Classic HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63109
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Family HD" tvg-logo="" group-title="Albania",AL: OnePlay Family HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63110
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Horror HD" tvg-logo="" group-title="Albania",AL: OnePlay Horror HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63111
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Filma Shqip HD" tvg-logo="" group-title="Albania",AL: OnePlay Filma Shqip HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63112
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 1 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63139
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 2 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63140
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 3 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63141
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 4 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63142
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 5 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63143
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Premium 6 HD" tvg-logo="" group-title="Albania",AL: Falcon Premium 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63144
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Aktion FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Aktion FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43655
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Gold FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43646
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Gold 2 FHD" tvg-logo="https://i.postimg.cc/3xpWBVZH/extrem.png" group-title="Albania",AL: Falcon Cinema Gold 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/67225
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror HD" tvg-logo="" group-title="Albania",AL: Falcon Cinema Horror HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63146
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Horror FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43650
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Horror 24 FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Horror 24 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43651
+#EXTINF:-1 tvg-id="" tvg-name="AL Falcon Cinema Horror 24 HD" tvg-logo="" group-title="Albania",AL Falcon Cinema Horror 24 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63145
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Sci-Fi FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Sci-Fi FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43647
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Thriller FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Thriller FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43649
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Romance FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Romance FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43648
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Drama FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Drama FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43652
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Comedy FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Comedy FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43653
+#EXTINF:-1 tvg-id="" tvg-name="AL: Falcon Cinema Adventure FHD" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: Falcon Cinema Adventure FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43654
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 turk HD" tvg-logo="" group-title="Albania",AL: filma24 turk HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/71780
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 western HD" tvg-logo="" group-title="Albania",AL: filma24 western HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63117
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 lufte HD" tvg-logo="" group-title="Albania",AL: filma24 lufte HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63118
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 krim HD" tvg-logo="" group-title="Albania",AL: filma24 krim HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63119
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 dokumentar HD" tvg-logo="" group-title="Albania",AL: filma24 dokumentar HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63120
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 aziatik HD" tvg-logo="" group-title="Albania",AL: filma24 aziatik HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63121
+#EXTINF:-1 tvg-id="" tvg-name="AL: filma24 animation HD" tvg-logo="" group-title="Albania",AL: filma24 animation HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63122
+#EXTINF:-1 tvg-id="" tvg-name="AL: T Prime 2 HD" tvg-logo="" group-title="Albania",AL: T Prime 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63123
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Family HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Family HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46966
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Romance HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Romance HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46972
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Krim HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Krim HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46973
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Triller HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Triller HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46974
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Mister HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Mister HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46975
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 SCI-Fi  HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 SCI-Fi  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46977
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Western HD" tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Western HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46978
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Filma24 Biografi " tvg-logo="http://hs-iptv.net:88/images/7a2ca05bafd23dfd47b8a116606da0f5.png" group-title="Albania",AL: KS Filma24 Biografi 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46982
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILMA24.Aventure HD" tvg-logo="" group-title="Albania",AL: FILMA24.Aventure HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33397
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILMA24.Romance HD" tvg-logo="" group-title="Albania",AL: FILMA24.Romance HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33398
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILMA24.Mister HD" tvg-logo="" group-title="Albania",AL: FILMA24.Mister HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33401
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 1 HD" tvg-logo="http://hs-iptv.net:88/images/96ecd8a6db28544e638a51e0e10af89f.png" group-title="Albania",AL: Art Kino 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8227
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 2 HD" tvg-logo="http://hs-iptv.net:88/images/ac366e09c53e9633f39c5562b2125be5.png" group-title="Albania",AL: Art Kino 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8228
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 3 HD" tvg-logo="http://hs-iptv.net:88/images/c4cc66f56672c15e37c1d7bf5cc52937.png" group-title="Albania",AL: Art Kino 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8229
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1 HD" tvg-logo="http://hv-iptv.ddns.net:88/images/7ddd696116734b67d6f07acf77baea9c.png" group-title="Albania",AL: Art Doku 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8230
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2 HD" tvg-logo="http://hs-iptv.net:88/images/ce4a69a39b631fb6c616deef37ffb015.png" group-title="Albania",AL: Art Doku 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8231
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Aksion ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTtXj1xH0GPCBU3Wc7krUaus7Hnj9doqw4E9cp8oMyrUVRmwi8ll7PMD8iqGnWFoSGtKYSz5FILZ02BatkOBJQNoSkF02KrVUqMvF3VtyfC-17sMPfwPQJ7IHJNZzdvMIP2vn0tNxky9Lkps_HDlEAPA.png" group-title="Albania",AL: ShqipTV Aksion ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66433
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Fantasy ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT6FCTgK93WdcfPB7gh_SaiC7ucCeHeWpnzivCsrBuL8OXGjtX-FAoUMv0--J-48vVrlxc7g4Shkd4v0vu42TzmbsP-a8WxWaDD27zs58fFIj3LA0yrULyPBaQQjLSHQDtVr0R2gzFmgz2UuNWEAwGDQ.png" group-title="Albania",AL: ShqipTV Fantasy ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66434
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Komedi ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTyNqtvxqk_wCYCewWkTRMwZyKGf88bt4uK_nfR7Wvo4pe8nS5gySlkwKGURX-qJ1gP0K9ELiMYUtfRHm3RLthTKhNUccSbhlUakY0fbe7fiPvikk-NE6WHfDPlZ0y790757cpmnegvmi3p1x_eQ1Cxg.png" group-title="Albania",AL: ShqipTV Komedi ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66435
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Drama ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTDTRHShv0F0IO6aeo4TEVocHynkHPfCJlQyV_PbuVKqEhrv2VMp7hGN-CM0c_Li4AfJBxkZfipGodG2DGygE_N64PxiUbSvgWQeOvZKKj1P6729f-6mAUKB8F8t7bRYlXcFiQ58QhHoyhUocx6HNMIg.png" group-title="Albania",AL: ShqipTV Drama ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66436
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Romance ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT65Xz1cVtjipy7fU7csq7E7Xo_W9iZZEfTGCVS89DUbljJV3UxT1pG3jXshXliDLFg_cMu921vydhHPQJ68WtiXqOxHidu-HLxDdqR4N2LsFz3WglBN-nEeEmH7ILiC3N2jahrsjd01RrZl4cuy9obQ.png" group-title="Albania",AL: ShqipTV Romance ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66437
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Marvel ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTUiagbKeRQow1926hlYj_qfK08DvXx7I_QzmCqLVDQfh32JCNL_qdOUs7w1fC_jwWqLBUBXv_4hw6pX-DU_c6EIIDp3BCiblImnIhEAe3YyHFad4LUefgIYFK12Mf1r5O-RnCPgmVWBLj69eQG37TJw.png" group-title="Albania",AL: ShqipTV Marvel ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66438
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Aziatik ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT_BXquZALXE_AeYRGFeIrznwLrtE27S0RWEOkR3Y2_2mfWu-ELiWkYI8oXjAjNRRRop4XtjL_m6O_ZCyFrCcjDbWcoUKRUPHeqz1ilutgKL2L5gjmtzoNKshoDdZw_8eAlSbYINh4Hn7XQ8Ou24Vbow.png" group-title="Albania",AL: ShqipTV Aziatik ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69488
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Sinema ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTDTo-dx0VqZoookAV2DBxeHNnPUw_w7NERpvJ-gpgcZnpGB6BaMTOx5Q04t-tf03tzIz7IflcoVipquxIFg_TD_u7wUV479E3SPi7olaEFZoekllJBD_CYhLAgannGxmlbjlSe6pAQUjWUeZH6JuyoQ.png" group-title="Albania",AL: ShqipTV Sinema ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69489
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Family ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTFarDjk49wRIduODRvxw3mWlPYxigODoWGYaUFX2ChUBdj_8WNBQ_SEnuWs3Mupg_i6aWh2Lk2Augyd7cBoBcQgyAG46kqJbLlIkYO-4uX6aEU7CjX9cqdoYSvoFfuzE1cE3fijek1Q_z0ismATGB5w.png" group-title="Albania",AL: ShqipTV Family ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66439
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Thriller  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/c77381d0866584d685e4088fd6bfe9d6.png" group-title="Albania",AL: ShqipTV Thriller  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66440
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Hits ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTX5Kyrw4FwRstRZ3qir-dLhzj64rKJEat9Ckwm6on1R9m7-E-NqgYnGPhwDNpGH9uAP59cNhlk9fE8xzEEsS3GqWVLi-xWVmk1ENzGXOvuphMbJ5d_twVKJuYZgTmfxJ9_gQrLIHZbywT1cPZ0JIKiA.png" group-title="Albania",AL: ShqipTV Hits ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66441
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Cinema ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTacPr6_d6egjves2I_J_-Rr3thw9M0tj4altwftg7o3a3_dw6y6WTH2FcMS4z8MJmMZiHuoBG0N0_ie0VMLZRo8KiGh8ov13T48wjDNWdOV9nPWUs84dKoX5ojhWaQdTDAn6iKmtHrIrBrPFhSBIP1A.png" group-title="Albania",AL: ShqipTV Cinema ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66442
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Film ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT0Re1VlatRsCefKtpZpHCouebU8piCaN8vr0oE8M2RpKhIXVmRuB9XyGJk7X1qfxAdzbuC7KREgmLAHdZn3MediUu4i2NaqouHBkJsh0lgDTHwljnWqyRTcFtqhGSlOm7DfZOz9TDYjA3z01IifSDcA.png" group-title="Albania",AL: ShqipTV Film ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66443
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Hindi ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTklehFAgXuYRhaUGhv6K78R1pmwqkgfEgDiqBIElm6wlZGT693OvJSBVX-DzZOZwVLh_c0Wlf-EEJgBM5wYlHdUUYZdcREsHW8w5OxOowe5--gGqXJN9xjI5kz0cabP1oJCECMqCUk6H7Iqg5oOxR-A.png" group-title="Albania",AL: ShqipTV Hindi ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66445
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV MiMi ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTb6jZtJk6E-jVNIhgaFNT53Iv39kP2nH7YHkECGHvPPEcESGk1Th62MV1jcYdTM7E0rCWmJB1MIISXM68w4pprW_sLrI0YoDVPF0lPCOBO3YjQgujGwgFhp-0w4AFU5ZqN73HkLy7oFlV-a_q7EdO7w.png" group-title="Albania",AL: ShqipTV MiMi ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66448
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Tom & Jerry ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTpLLPNHlt8dv_RuBGWVdr1FioKj3yTXuppl06jESuZpHiOhUKf2g0vNcAjsucgWL52H3i80z6MUIZH16jPIEjf51TAIr87j553o0VtsGR9UBSwewbjHEAuVmDsvJEWBklU7Cx__ms9t-oOCM3gO8H8Q.png" group-title="Albania",AL: ShqipTV Tom & Jerry ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66449
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Western ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/28a48c18bbc53eba6017bd9a973d626e.png" group-title="Albania",AL: ShqipTV Western ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66450
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Serial ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtT0EEK_mUezyQfoIeL1FSCjqNZW4XbZttwFSmJS1l_8hxSjCPedG5XbIN2CQ5aKbU51gEVpTWfUnPt-TRFqM-AsMpqm8XL56NwDyE7nFySe9xBh596qDoGCGoC3Aapi_3Y1OLOoQgNF444RCsXayvHOw.png" group-title="Albania",AL: ShqipTV Serial ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66451
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film MIX 1 HD" tvg-logo="" group-title="Albania",AL: Film MIX 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63147
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Mix 2 HD" tvg-logo="" group-title="Albania",AL: Film Mix 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63148
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Romance HD" tvg-logo="" group-title="Albania",AL: Film Romance HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63149
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma Horror HD" tvg-logo="" group-title="Albania",AL: Filma Horror HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63150
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma Premier HD" tvg-logo="" group-title="Albania",AL: Filma Premier HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63151
+#EXTINF:-1 tvg-id="" tvg-name="AL: Karate HD" tvg-logo="" group-title="Albania",AL: Karate HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63152
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 1 HD" tvg-logo="" group-title="Albania",AL: StarFilm 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63153
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 2 HD" tvg-logo="" group-title="Albania",AL: StarFilm 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63154
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 3 HD" tvg-logo="" group-title="Albania",AL: StarFilm 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63155
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 4 HD" tvg-logo="" group-title="Albania",AL: StarFilm 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63156
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 5 HD" tvg-logo="" group-title="Albania",AL: StarFilm 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63157
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 6 HD" tvg-logo="" group-title="Albania",AL: StarFilm 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63158
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 7 HD" tvg-logo="" group-title="Albania",AL: StarFilm 7 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63159
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 8 HD" tvg-logo="" group-title="Albania",AL: StarFilm 8 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63160
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 9 HD" tvg-logo="" group-title="Albania",AL: StarFilm 9 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63161
+#EXTINF:-1 tvg-id="" tvg-name="AL: StarFilm 10 HD" tvg-logo="" group-title="Albania",AL: StarFilm 10 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63162
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gisp Hits HD" tvg-logo="" group-title="Albania",AL: Gisp Hits HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62026
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Aksion ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58910
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Fantasy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Fantasy ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58913
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Drame ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Drame ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58911
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Comedy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë  Comedy ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58912
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Shqip ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58914
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Duko 1 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Duko 1 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58915
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Duko 2 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Duko 2 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58916
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Thriller  ᴴᴰ" tvg-logo="https://i.imgur.com/4xCjH0d.png" group-title="Albania",AL: N Thriller  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61909
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premier 3 ᴴᴰ" tvg-logo="" group-title="Albania",AL: N Premier 3 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62485
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premier 2 ᴴᴰ" tvg-logo="" group-title="Albania",AL: N Premier 2 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79533
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premier 4 ᴴᴰ" tvg-logo="" group-title="Albania",AL: N Premier 4 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79534
+#EXTINF:-1 tvg-id="" tvg-name="AL: N Premier 5 ᴴᴰ" tvg-logo="" group-title="Albania",AL: N Premier 5 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/79535
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gisp Pikepyetje ᴴᴰ" tvg-logo="" group-title="Albania",AL: Gisp Pikepyetje ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62486
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gisp Mrekulli ᴴᴰ" tvg-logo="" group-title="Albania",AL: Gisp Mrekulli ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62477
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3f41b6dae1d1f6d01b8f7bd790b1fa48.jpg" group-title="Albania",AL: 8ova Thriller
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58025
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7afa123ef85c9e96bd335ae6b8b120f7.jpg" group-title="Albania",AL: 8ova Drame
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58021
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Gjurme Shqiptare TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/36269d8ebf49044925b5b85fa2337205.jpg" group-title="Albania",AL: 8ova Gjurme Shqiptare TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58022
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Humor" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c1b8184a561aaf9f7910d80ccb4f9553.jpg" group-title="Albania",AL: 8ova Humor
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58023
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfb62bd60457dde7930e0ee6c3bef2b9.jpg" group-title="Albania",AL: 8ova Komedi
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58024
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 1 HD" tvg-logo="" group-title="Albania",AL: Kino Premiere 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55452
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 2HD" tvg-logo="" group-title="Albania",AL: Kino Premiere 2HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55453
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 3 HD" tvg-logo="" group-title="Albania",AL: Kino Premiere 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55454
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 4 HD" tvg-logo="" group-title="Albania",AL: Kino Premiere 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/50961
+#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Extra  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/f643bebe740c7e604444f6b70e1bbc97.png" group-title="Albania",AL: FilmBox Extra  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61910
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Cine Star Premiere 1 HD" tvg-logo="" group-title="Albania",AL:  Cine Star Premiere 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55459
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cine Star Premiere 2 HD" tvg-logo="" group-title="Albania",AL: Cine Star Premiere 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55460
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cine Star Comedy HD" tvg-logo="" group-title="Albania",AL: Cine Star Comedy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59320
+#EXTINF:-1 tvg-id="" tvg-name="AL: Btv Bulevard HD" tvg-logo="" group-title="Albania",AL: Btv Bulevard HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62033
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Aksion ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/c6cf2fee76ed3005fbdda6074fd7cfca.png" group-title="Albania",AL: MetiTV Aksion ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57264
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Gold  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/b5e5c28a928505f30b4e26f1341dd59d.png" group-title="Albania",AL: MetiTV Gold  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57268
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Max  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/dbc99541459db7e48d42b448316f7430.png" group-title="Albania",AL: MetiTV Max  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57269
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Max ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/dbc99541459db7e48d42b448316f7430.png" group-title="Albania",AL: MetiTV Max ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62873
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV cinema ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/541d69fa20636384dbf2732134e3d331.png" group-title="Albania",AL: MetiTV cinema ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57266
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Horror ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/689eedb3df836a89e403be976121f2df.png" group-title="Albania",AL: MetiTV Horror ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57267
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Comedy ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/aeae270e3ae21844239156306564e554.png" group-title="Albania",AL: MetiTV Comedy ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57270
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Luftë ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/d1379bb20de8ab47fa98370c417caa06.png" group-title="Albania",AL: MetiTV Luftë ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62874
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Epic ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/1cba9b67d4ce5b383eefd1b7dcf6d057.png" group-title="Albania",AL: MetiTV Epic ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62875
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Music ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/e04dc22e763d5c339609b793b55f2a8f.png" group-title="Albania",AL: MetiTV Music ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57260
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Folk ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/4c3eb404325ab722be6a3def451c8c5c.png" group-title="Albania",AL: MetiTV Folk ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57261
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Çifteli  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/2e14a3928095c2601dcc4cd9906fbf5c.png" group-title="Albania",AL: MetiTV Çifteli  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57262
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Tallava  ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/5dd8e48b163e189257bdef81b75622c8.png" group-title="Albania",AL: MetiTV Tallava  ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57263
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Film ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/eb8a290d61e185f9d2e1b1c096ae0a97.png" group-title="Albania",AL: MetiTV Film ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57265
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Shqip ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/d616c000e6e720faf4cd5b9dde3721c3.png" group-title="Albania",AL: MetiTV Shqip ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57271
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Humor ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/64a678936b2206408e56d11fee135f8e.png" group-title="Albania",AL: MetiTV Humor ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57272
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV çka ka shpija 24/7 ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/64a678936b2206408e56d11fee135f8e.png" group-title="Albania",AL: MetiTV çka ka shpija 24/7 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57273
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV kids ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/4fa6ef96e81b63fdcf807b8cff2d15d7.png" group-title="Albania",AL: MetiTV kids ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57274
+#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Plus HD" tvg-logo="" group-title="Albania",AL: FilmBox Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43685
+#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Extra HD" tvg-logo="" group-title="Albania",AL: FilmBox Extra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43686
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Special FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Special FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34302
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Deluxe FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Deluxe FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34301
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 1 HD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Netflix 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34296
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 2 HD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Netflix 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34297
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 3 HD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Netflix 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34298
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Netflix 4 HD" tvg-logo="http://darkiptv.ddns.net:8080/images/818c31391df0e982a6d2281fbc9526c8.png" group-title="Albania",AL: Dark Netflix 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34299
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark PRIME 1 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/acc28f2ea305403d6487345af151c6a1.png" group-title="Albania",AL: Dark PRIME 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33338
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark PRIME 2 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/0b1662ec3d63b2e31638c205299fa2a4.png" group-title="Albania",AL: Dark PRIME 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33339
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark PRIME 3 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/8f251bb9766cee289f884fd886098eb7.png" group-title="Albania",AL: Dark PRIME 3 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33340
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark PRIME 4 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/b4b3e87579c5474a79faab1f7dffc152.png" group-title="Albania",AL: Dark PRIME 4 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33341
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 1 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/19d2485c29474194152066b9296cc7c4.png" group-title="Albania",AL: Dark GOLD 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33342
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Dark GOLD 2 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/9adfdfe919cad98277ff697bacfd954f.png" group-title="Albania",AL:  Dark GOLD 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 3 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/032517ad3346ac2b39c0b33683d7bc57.png" group-title="Albania",AL: Dark GOLD 3 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33344
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark GOLD 4 FHD" tvg-logo="http://darkiptv.ddns.net:8080/images/04387e42b3426448e451107c7818b824.png" group-title="Albania",AL: Dark GOLD 4 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33345
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold  HD" tvg-logo="http://premium-ks.vip:8080/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: Extrem Gold  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69355
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold 1 HD" tvg-logo="http://premium-ks.vip:8080/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: Extrem Gold 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69356
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold 2 HD" tvg-logo="https://i.postimg.cc/3xpWBVZH/extrem.png" group-title="Albania",AL: Extrem Gold 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69357
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold 3 HD" tvg-logo="http://premium-ks.vip:8080/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: Extrem Gold 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69358
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold 4 HD" tvg-logo="http://premium-ks.vip:8080/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: Extrem Gold 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69359
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filmbox Stars HD" tvg-logo="http://premium-ks.vip:2082/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: Filmbox Stars HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62334
+#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Premium HD" tvg-logo="http://premium-ks.vip:2082/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: FilmBox Premium HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62335
+#EXTINF:-1 tvg-id="" tvg-name="AL: FilmBox Arthouse HD" tvg-logo="http://premium-ks.vip:2082/images/72138cc596daff9edf7fdb8d9da16df3.png" group-title="Albania",AL: FilmBox Arthouse HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62336
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Humor HD" tvg-logo="https://i.postimg.cc/3xpWBVZH/extrem.png" group-title="Albania",AL: X Humor HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69380
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra HD" tvg-logo="EXPLORER NATYRA" group-title="Albania",AL: Explorer Natyra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/57637
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 1 HD" tvg-logo="https://ledi-iptv.ch/ico/1/DarkTeBaxha.png" group-title="Albania",AL: Cinema 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33304
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Shqip" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Shqip
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43610
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Aksion
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43611
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Max
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43612
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Classics
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43613
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Drame" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Drame
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43614
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Gold
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43615
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Family
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43616
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Duck" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Duck
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43617
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema 24
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43618
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Premier" tvg-logo="http://hs-iptv.net:88/images/e7ae6c5059a1175b932ace00e4b4e509.png" group-title="Albania",AL: Kinema Premier
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43619
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 1" tvg-logo="http://hs-iptv.net:88/images/e7ae6c5059a1175b932ace00e4b4e509.png" group-title="Albania",AL: Kinema Milenium 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43620
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 2" tvg-logo="http://hs-iptv.net:88/images/e7ae6c5059a1175b932ace00e4b4e509.png" group-title="Albania",AL: Kinema Milenium 2
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43621
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 3" tvg-logo="http://hs-iptv.net:88/images/e7ae6c5059a1175b932ace00e4b4e509.png" group-title="Albania",AL: Kinema Milenium 3
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43622
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Milenium 4" tvg-logo="http://hs-iptv.net:88/images/e7ae6c5059a1175b932ace00e4b4e509.png" group-title="Albania",AL: Kinema Milenium 4
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43623
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Republika" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Republika
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43624
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Partizani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Partizani
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43625
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 17 Nëntori" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema 17 Nëntori
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43626
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Agimi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Agimi
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43627
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Dajti" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuzN3yTM_9QiWsfaK_tc8CDWOHNqSIxwNpg&usqp=CAU" group-title="Albania",AL: Kinema Dajti
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43628
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Cine" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: StatiON Cine
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43641
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Prime" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: StatiON Prime
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43642
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Box" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: StatiON Box
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43643
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Top" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: StatiON Top
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43644
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="http://hs-iptv.net:88/images/8bd8f175d126f3fd860dfcb91ad6be2e.png" group-title="Albania",AL: StatiON Stars
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43645
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 1" tvg-logo="" group-title="Albania",AL: TELE one 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43656
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 2" tvg-logo="" group-title="Albania",AL: TELE one 2
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43657
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 3" tvg-logo="" group-title="Albania",AL: TELE one 3
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43658
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 4" tvg-logo="" group-title="Albania",AL: TELE one 4
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43659
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 5" tvg-logo="" group-title="Albania",AL: TELE one 5
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43660
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one 6" tvg-logo="" group-title="Albania",AL: TELE one 6
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43661
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aksion HD" tvg-logo="" group-title="Albania",AL: TELE one Aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43662
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Aventure" tvg-logo="" group-title="Albania",AL: TELE one Aventure
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43663
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Crime HD" tvg-logo="" group-title="Albania",AL: TELE one Crime HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43664
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Drama HD" tvg-logo="" group-title="Albania",AL: TELE one Drama HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43665
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Epik HD" tvg-logo="" group-title="Albania",AL: TELE one Epik HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43666
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one fantazi HD" tvg-logo="" group-title="Albania",AL: TELE one fantazi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43668
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one GOLD Collection HD" tvg-logo="" group-title="Albania",AL: TELE one GOLD Collection HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43669
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 1 HD" tvg-logo="" group-title="Albania",AL: WebStar Film 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43719
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 2 HD" tvg-logo="" group-title="Albania",AL: WebStar Film 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43720
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 3 HD" tvg-logo="" group-title="Albania",AL: WebStar Film 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43721
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Aksion HD" tvg-logo="" group-title="Albania",AL: WebStar Aksion HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43670
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Cinema HD" tvg-logo="" group-title="Albania",AL: WebStar Cinema HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43671
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Drame HD" tvg-logo="" group-title="Albania",AL: WebStar Drame HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43672
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Histori Shqip HD" tvg-logo="" group-title="Albania",AL: WebStar Histori Shqip HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43673
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Komedi HD" tvg-logo="" group-title="Albania",AL: WebStar Komedi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43674
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Thriller HD" tvg-logo="" group-title="Albania",AL: WebStar Thriller HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43675
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Cinema DE HD" tvg-logo="" group-title="Albania",AL: WebStar Cinema DE HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43676
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar ChuChu TV" tvg-logo="" group-title="Albania",AL: WebStar ChuChu TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43677
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Music CH HD" tvg-logo="" group-title="Albania",AL: WebStar Music CH HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43679
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Muzik HD" tvg-logo="" group-title="Albania",AL: WebStar Muzik HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43680
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Popullore HD" tvg-logo="" group-title="Albania",AL: WebStar Popullore HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43681
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Qifteli HD" tvg-logo="" group-title="Albania",AL: WebStar Qifteli HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43682
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinemax HD" tvg-logo="" group-title="Albania",AL: Cinemax HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42355
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Family HD" tvg-logo="http://hs-iptv.net:88/images/64eb18f6a8f793689ad1eb1136f43ccf.png" group-title="Albania",AL:  X Family HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42369
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Western HD" tvg-logo="http://hs-iptv.net:88/images/64eb18f6a8f793689ad1eb1136f43ccf.png" group-title="Albania",AL:  X Western HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42371
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Gold 1 HD" tvg-logo="http://hs-iptv.net:88/images/64eb18f6a8f793689ad1eb1136f43ccf.png" group-title="Albania",AL:  X Gold 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42372
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Gold 2 HD" tvg-logo="http://hs-iptv.net:88/images/64eb18f6a8f793689ad1eb1136f43ccf.png" group-title="Albania",AL:  X Gold 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42373
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Gold 3 HD" tvg-logo="http://hs-iptv.net:88/images/64eb18f6a8f793689ad1eb1136f43ccf.png" group-title="Albania",AL: X Gold 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42375
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Kryetari i mire me shok HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkistarserial1.png" group-title="Albania",AL: Dark Kryetari i mire me shok HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33316
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Box Action" tvg-logo="" group-title="Albania",AL: Film Box Action
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34292
+#EXTINF:-1 tvg-id="FOX" tvg-name="AL: Fox Albania HD" tvg-logo="http://hs-iptv.net:88/images/15275807a6cfa28373011473ff3745db.png" group-title="Albania",AL: Fox Albania HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2574
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime  Albania HD" tvg-logo="http://hs-iptv.net:88/images/cb6151230d155187c289a9948ada1a43.png" group-title="Albania",AL: Fox Crime  Albania HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2575
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="AL: Fox Life HD" tvg-logo="http://hs-iptv.net:88/images/49b1e6fdad679fdaf092769be85a91b3.png" group-title="Albania",AL: Fox Life HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2599
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky 7 HD" tvg-logo="" group-title="Albania",AL: Sky 7 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2617
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="" group-title="Albania",AL: Sky Aksion
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2618
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Comedy" tvg-logo="" group-title="Albania",AL: Sky Comedy
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2619
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Drama" tvg-logo="" group-title="Albania",AL: Sky Drama
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2620
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Planet" tvg-logo="" group-title="Albania",AL: Sky Planet
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2622
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Novela HD" tvg-logo="" group-title="Albania",AL: Sky Novela HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2623
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max HD" tvg-logo="" group-title="Albania",AL: Sky Max HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2627
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus HD" tvg-logo="http://hv-iptv.ddns.net:88/images/3472c20ed06c066e572f5c5524e9d659.png" group-title="Albania",AL: Star Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2578
+#EXTINF:-1 tvg-id="" tvg-name="AL: Plus TV HD" tvg-logo="http://darkiptv.ddns.net:8080/images/4af0fb447bf5c2e250947c33de425581.png" group-title="Albania",AL: Plus TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33359
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV2 Gostivar HD" tvg-logo="" group-title="Albania",AL: TV2 Gostivar HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55520
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Natyr 4k" tvg-logo="" group-title="Albania",AL: WebStar Natyr 4k
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/23986
+#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="AL: 24 Kitchen TV HD" tvg-logo="" group-title="Albania",AL: 24 Kitchen TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2591
+#EXTINF:-1 tvg-id="Living HD" tvg-name="AL: Living HD" tvg-logo="" group-title="Albania",AL: Living HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2600
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="AL: National Geographic HD" tvg-logo="" group-title="Albania",AL: National Geographic HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2597
+#EXTINF:-1 tvg-id="RTSH 1" tvg-name="AL: Rtsh 1 HD" tvg-logo="http://hs-iptv.net:88/images/67afefd554377652376df04dc781f4c6.png" group-title="Albania",AL: Rtsh 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1596
+#EXTINF:-1 tvg-id="RTSH 2" tvg-name="AL: Rtsh 2 HD" tvg-logo="http://hs-iptv.net:88/images/ea5845fddd62621df2e064e9af3dee58.png" group-title="Albania",AL: Rtsh 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1597
+#EXTINF:-1 tvg-id="RTSH 3" tvg-name="AL:Rtsh 3 HD" tvg-logo="http://hs-iptv.net:88/images/2aa7c514a3975692ab947d55da78978c.png" group-title="Albania",AL:Rtsh 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1598
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="AL: Rtsh Plus 24 HD" tvg-logo="http://hs-iptv.net:88/images/a8e4c9455fbe16b9491c4030b0d28233.png" group-title="Albania",AL: Rtsh Plus 24 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1599
+#EXTINF:-1 tvg-id="RTSH Shqip" tvg-name="AL: Rtsh Shqip HD" tvg-logo="http://hs-iptv.net:88/images/8493dfac78391a67c5edc18ce8738ceb.png" group-title="Albania",AL: Rtsh Shqip HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1600
+#EXTINF:-1 tvg-id="RTSH Muzike" tvg-name="AL: Rtsh Muzike HD" tvg-logo="http://hs-iptv.net:88/images/992ea16697b04aae2af9ce9f4caae0f1.png" group-title="Albania",AL: Rtsh Muzike HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1602
+#EXTINF:-1 tvg-id="RTSH Korca" tvg-name="AL: Rtsh Korca HD" tvg-logo="http://hs-iptv.net:88/images/dea8cb4688ebde96884210eb271802bc.png" group-title="Albania",AL: Rtsh Korca HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1603
+#EXTINF:-1 tvg-id="RTSH Film" tvg-name="AL: Rtsh Film HD" tvg-logo="http://hs-iptv.net:88/images/2c2038c78eb09b941f478ed9631b2fa4.png" group-title="Albania",AL: Rtsh Film HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1605
+#EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-name="AL: Rtsh Gjirokastra HD" tvg-logo="" group-title="Albania",AL: Rtsh Gjirokastra HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33273
+#EXTINF:-1 tvg-id="RTSH Kukesi" tvg-name="AL: Rtsh Kuksi HD" tvg-logo="" group-title="Albania",AL: Rtsh Kuksi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33274
+#EXTINF:-1 tvg-id="RTSH Shkolle" tvg-name="AL: Rtsh Shkolle HD" tvg-logo="" group-title="Albania",AL: Rtsh Shkolle HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33275
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-name="AL: Rtsh Plus HD" tvg-logo="" group-title="Albania",AL: Rtsh Plus HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33276
+#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV HD" tvg-logo="" group-title="Albania",AL: Drita TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2634
+#EXTINF:-1 tvg-id="" tvg-name="*****PËR FËMIJE*****" tvg-logo="http://2.ledi-iptv.ch:2235/images/1aade1513835792398aef4f8894abcd5.png" group-title="Albania",*****PËR FËMIJE*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55401
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay-Kids Rritu dhe Meso HD" tvg-logo="" group-title="Albania",AL: OnePlay-Kids Rritu dhe Meso HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63166
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay-Kids Shqip HD" tvg-logo="" group-title="Albania",AL: OnePlay-Kids Shqip HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63167
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay-Kids Dhelpera HD" tvg-logo="" group-title="Albania",AL: OnePlay-Kids Dhelpera HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63168
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Vlad&Niki HD" tvg-logo="" group-title="Albania",AL: OnePlay Vlad&Niki HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63169
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Diana Show HD" tvg-logo="" group-title="Albania",AL: OnePlay Diana Show HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63170
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Nastya HD" tvg-logo="" group-title="Albania",AL: OnePlay Nastya HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63171
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Paw Patrol HD" tvg-logo="" group-title="Albania",AL: OnePlay Paw Patrol HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63172
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Pj Masks HD" tvg-logo="" group-title="Albania",AL: OnePlay Pj Masks HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63173
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Masha&Bear HD" tvg-logo="" group-title="Albania",AL: OnePlay Masha&Bear HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63174
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Mickey Mouse HD" tvg-logo="" group-title="Albania",AL: OnePlay Mickey Mouse HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63175
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Peppa Pig HD" tvg-logo="" group-title="Albania",AL: OnePlay Peppa Pig HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63176
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Tom&Jerry HD" tvg-logo="" group-title="Albania",AL: OnePlay Tom&Jerry HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63177
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Bloopies HD" tvg-logo="" group-title="Albania",AL: OnePlay Bloopies HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63178
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay SpongeBob HD" tvg-logo="" group-title="Albania",AL: OnePlay SpongeBob HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63179
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Pets HD" tvg-logo="" group-title="Albania",AL: OnePlay Pets HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63180
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Spidey HD" tvg-logo="" group-title="Albania",AL: OnePlay Spidey HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63181
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Oddbods HD" tvg-logo="" group-title="Albania",AL: OnePlay Oddbods HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63182
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Larva HD" tvg-logo="" group-title="Albania",AL: OnePlay Larva HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63183
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Grizzy HD" tvg-logo="" group-title="Albania",AL: OnePlay Grizzy HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63184
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Bob The Builder HD" tvg-logo="" group-title="Albania",AL: OnePlay Bob The Builder HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63185
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay BabyShark HD" tvg-logo="" group-title="Albania",AL: OnePlay BabyShark HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63186
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay CloudBabies HD" tvg-logo="" group-title="Albania",AL: OnePlay CloudBabies HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63187
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Cocomelon HD" tvg-logo="" group-title="Albania",AL: OnePlay Cocomelon HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63188
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay BabyTV HD" tvg-logo="" group-title="Albania",AL: OnePlay BabyTV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63189
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Fëmije ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/ea5a0bcb47f2468dc9bdb95f751ba9d3.png" group-title="Albania",AL: MetiTV Fëmije ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62878
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bubble TV" tvg-logo="" group-title="Albania",AL: Bubble TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80308
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tao Tao" tvg-logo="" group-title="Albania",AL: Tao Tao
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80310
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Kids HD" tvg-logo="http://hs-iptv.net:88/images/a8642b60b09c99e7f6d3a1dfe142cad6.png" group-title="Albania",AL: Tring Kids HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1419
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang HD" tvg-logo="http://hs-iptv.net:88/images/5e2c55e024f55cd931bd04e54da4f79f.png" group-title="Albania",AL: Bang Bang HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1434
+#EXTINF:-1 tvg-id="" tvg-name="AL: Clover Kids ᴴᴰ" tvg-logo="" group-title="Albania",AL: Clover Kids ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62024
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Baby HD" tvg-logo="" group-title="Albania",AL: WebStar Baby HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/23987
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Masha Orso" tvg-logo="" group-title="Albania",AL: WebStar Masha Orso
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43678
+#EXTINF:-1 tvg-id="Cufo TV" tvg-name="AL: Cufo TV HD" tvg-logo="http://hs-iptv.net:88/images/2b84bc4384a330d0fbecea212ab4060c.png" group-title="Albania",AL: Cufo TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1435
+#EXTINF:-1 tvg-id="" tvg-name="AL: Baby TV HD" tvg-logo="" group-title="Albania",AL: Baby TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/29114
+#EXTINF:-1 tvg-id="" tvg-name="*****HUMOR SHQIP*****" tvg-logo="" group-title="Albania",*****HUMOR SHQIP*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34070
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Kurafte ti turbo" tvg-logo="" group-title="Albania",AL: HS Kurafte ti turbo
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/73524
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS Egjeli HD" tvg-logo="" group-title="Albania",AL: HS Egjeli HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/73522
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV  Mixha Bibe" tvg-logo="http://premium-ks.vip:2082/images/e419f5aa898a96ba4e92e64763633026.png" group-title="Albania",AL: MetiTV  Mixha Bibe
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62876
+#EXTINF:-1 tvg-id="" tvg-name="AL: MetiTV Portokalli 24/7 ᴴᴰ" tvg-logo="http://premium-ks.vip:2082/images/e419f5aa898a96ba4e92e64763633026.png" group-title="Albania",AL: MetiTV Portokalli 24/7 ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62877
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Dark Mixha BiB HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkichbinalbaner1.png" group-title="Albania",AL:  Dark Mixha BiB HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33318
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark UJQIT HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkhumor1.png" group-title="Albania",AL: Dark UJQIT HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33315
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Stupcat Egjeli HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkstupcat1.png" group-title="Albania",AL: Dark Stupcat Egjeli HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33305
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Stupcat Skeçe HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkstupcat1.png" group-title="Albania",AL: Dark Stupcat Skeçe HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33306
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Fara e Flliqt HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkhumor1.png" group-title="Albania",AL: Dark Fara e Flliqt HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33314
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Cka ka Shpia  HD" tvg-logo="http://hs-iptv.net:88/images/5b521c47cb85781530153f5fde6abcc4.png" group-title="Albania",AL: Dark Cka ka Shpia  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33310
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Kafeneja jone HD" tvg-logo="http://ledi-iptv.ch/ico/1/darkkafeneja1.png" group-title="Albania",AL: Dark Kafeneja jone HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33311
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Stupcat ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/lZNAhu_d7ccg96zV8IaqD6GtAhGoQEnC7gKScCnjacbuktwX1CFrD_WviP05mxg9f4Vh6LNJkDoCjgzWoqUsA3R4JNqOCeCaLrUGUxcMNno.png" group-title="Albania",AL: ShqipTV Stupcat ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69491
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Humor ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTO2RlSAizUlRELWVQN0vKTJJqokgrlFEu-C6WLW-NtTLrmLAbBsiuvb1mn7OjtAl0eCuSSR8C_9gZ-2qbv7nU19J4oczRNzgp6SbbWitQLXXeHuUjbM4jXFMCT0iw1tfcaUI2yObY6_989vXfgZuH5A.png" group-title="Albania",AL: ShqipTV Humor ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66446
+#EXTINF:-1 tvg-id="" tvg-name="*****LAJME TV*****" tvg-logo="" group-title="Albania",*****LAJME TV*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59349
+#EXTINF:-1 tvg-id="" tvg-name="AL: INFO 24 HD" tvg-logo="" group-title="Albania",AL: INFO 24 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55449
+#EXTINF:-1 tvg-id="Ora News" tvg-name="AL: Ora news HD" tvg-logo="http://hs-iptv.net:88/images/d9358182596d8eabf5d6a460d88d6b97.png" group-title="Albania",AL: Ora news HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1606
+#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CC TV HD" tvg-logo="http://hs-iptv.net:88/images/c1d8862b86385cb92f6e1c8fb95435f2.png" group-title="Albania",AL: A2 CC TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2583
+#EXTINF:-1 tvg-id="Top News" tvg-name="AL: Top News HD" tvg-logo="http://hs-iptv.net:88/images/d1d638453988ca2ab9ea60af86d6a68e.png" group-title="Albania",AL: Top News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1402
+#EXTINF:-1 tvg-id="News 24" tvg-name="AL:News 24 HD" tvg-logo="http://hs-iptv.net:88/images/0cd7eb04f5bc36380d8d9d62c981eb76.png" group-title="Albania",AL:News 24 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1607
+#EXTINF:-1 tvg-id="EuroNews Albania" tvg-name="AL: Euro News Albania" tvg-logo="http://hs-iptv.net:88/images/867c2ca93079778b862cc2a0d3c7a452.png" group-title="Albania",AL: Euro News Albania
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8307
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="AL: Euronews ( AL )" tvg-logo="" group-title="Albania",AL: Euronews ( AL )
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80870
+#EXTINF:-1 tvg-id="" tvg-name="AL: Al Jazeera Balkans HD" tvg-logo="" group-title="Albania",AL: Al Jazeera Balkans HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55491
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox News HD" tvg-logo="" group-title="Albania",AL: Fox News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62390
+#EXTINF:-1 tvg-id="" tvg-name="AL;ABC NEWS" tvg-logo="http://hs-iptv.net:88/images/5bda8922e086cf4437af373230b1a312.png" group-title="Albania",AL;ABC NEWS
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7907
+#EXTINF:-1 tvg-id="ABC News" tvg-name="AL: CLUB TV" tvg-logo="http://hs-iptv.net:88/images/5bda8922e086cf4437af373230b1a312.png" group-title="Albania",AL: CLUB TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2594
+#EXTINF:-1 tvg-id="Kanali 7" tvg-name="AL: Kanali 7-News HD" tvg-logo="http://hv-iptv.ddns.net:88/images/345937e09f603a6acc0ab876fc18b76d.png" group-title="Albania",AL: Kanali 7-News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1395
+#EXTINF:-1 tvg-id="Report TV" tvg-name="AL: Report TV HD" tvg-logo="http://hs-iptv.net:88/images/8157305810f8b173d6aa19cf23fdfbbe.png" group-title="Albania",AL: Report TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1608
+#EXTINF:-1 tvg-id="Arta HD" tvg-name="AL: Arta Lajme TV HD" tvg-logo="http://hs-iptv.net:88/images/d446ea49cbc8c2dce195d81e85facbc9.png" group-title="Albania",AL: Arta Lajme TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2149
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri News HD" tvg-logo="http://hs-iptv.net:88/images/c0051c8f4b0923c2c4bf7037441d0a61.png" group-title="Albania",AL: Syri News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8305
+#EXTINF:-1 tvg-id="Ora News" tvg-name="AL: Ora TV HD" tvg-logo="" group-title="Albania",AL: Ora TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2585
+#EXTINF:-1 tvg-id="" tvg-name="*****SHQIP SPORT*****" tvg-logo="http://hs-iptv.net:88/images/042dfec02b1ac6b78727cf0575975b88.png" group-title="Albania",*****SHQIP SPORT*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7085
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 1 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58864
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 2 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58865
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 3 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58866
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Albania",AL: Super Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 SD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Albania",AL: Super Sport 1 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47166
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://premium-ks.ddns.net:88/images/4c8303464b4e6ceb8abe904daf779a20.png" group-title="Albania",AL: Super Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47167
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 SD" tvg-logo="http://hs-iptv.net:88/images/82427f3784e2a15afa2f4cd3ed7d42e7.png" group-title="Albania",AL: Super Sport 2 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47168
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Albania",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47169
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 SD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Albania",AL: Super Sport 3 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47170
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Albania",AL: Super Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47171
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 SD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Albania",AL: Super Sport 4 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47172
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Albania",AL: Super Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47173
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 SD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Albania",AL: Super Sport 5 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47174
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Albania",AL: Super Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47175
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 SD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Albania",AL: Super Sport 6 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47176
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 HD" tvg-logo="" group-title="Albania",AL: Art Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80867
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2 HD" tvg-logo="http://hs-iptv.net:88/images/fbeaf51ddb935e4832fcafd38d1a60e8.png" group-title="Albania",AL: Art Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3 HD" tvg-logo="http://premium-ks.vip:2082/images/fd9089b01ea85b1810a4ae1defb53be7.png" group-title="Albania",AL: Art Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8234
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 HD" tvg-logo="" group-title="Albania",AL: Art Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51085
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 HD" tvg-logo="" group-title="Albania",AL: Art Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51084
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 HD" tvg-logo="" group-title="Albania",AL: Art Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51083
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="Albania",AL: Tring Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="" group-title="Albania",AL: Tring Sport 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47179
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="" group-title="Albania",AL: Tring Sport 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47180
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 FHD only match time" tvg-logo="" group-title="Albania",AL: Tring Sport 3 FHD only match time
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47181
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 FHD " tvg-logo="" group-title="Albania",AL: Tring Sport 4 FHD 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47182
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  1 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%201.png" group-title="Albania",AL: Kujtesa  1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33498
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  2 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%202.png" group-title="Albania",AL: Kujtesa  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33499
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  3 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%203.png" group-title="Albania",AL: Kujtesa  3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33500
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47183
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 2
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47184
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 3
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 4
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47186
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box HD" tvg-logo="" group-title="Albania",AL: Fight Box HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42357
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="AL: Rtsh Sport HD" tvg-logo="http://hs-iptv.net:88/images/754f800cfe219154963f4d3f7aaa56c2.png" group-title="Albania",AL: Rtsh Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1601
+#EXTINF:-1 tvg-id="" tvg-name="AL: News Over Sport HD" tvg-logo="" group-title="Albania",AL: News Over Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43667
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 1  HD" tvg-logo="" group-title="Albania",AL: Over Sport 1  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46984
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 2  FHD" tvg-logo="" group-title="Albania",AL: Over Sport 2  FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46985
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 3 HD" tvg-logo="" group-title="Albania",AL: Over Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46986
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 4 HD" tvg-logo="" group-title="Albania",AL: Over Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46987
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super  Sport 1 HD" tvg-logo="https://zana.tv/alb/SuperSport%201%20HD.png" group-title="Albania",AL: Super  Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33493
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport  2 HD" tvg-logo="https://zana.tv/alb/SuperSport%202%20HD.png" group-title="Albania",AL: Super Sport  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33494
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Super Sport 3 HD" tvg-logo="https://zana.tv/alb/SuperSport%203%20HD.png" group-title="Albania",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33495
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport  4 HD" tvg-logo="https://zana.tv/alb/SuperSport%204%20HD.png" group-title="Albania",AL: Super Sport  4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33496
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring  Sport News HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%20News%20HD.png" group-title="Albania",AL: Tring  Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33503
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%201%20HD.png" group-title="Albania",AL: Tring Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33504
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Sport 2 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%202%20HD.png" group-title="Albania",AL: Tring Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33505
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%203%20HD.png" group-title="Albania",AL: Tring Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33506
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%204%20HD.png" group-title="Albania",AL: Tring Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33507
+#EXTINF:-1 tvg-id="" tvg-name="*****ISLAM SHQIP*****" tvg-logo="" group-title="Albania",*****ISLAM SHQIP*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7086
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mekka LIVE TV HD" tvg-logo="" group-title="Albania",AL: Mekka LIVE TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2641
+#EXTINF:-1 tvg-id="" tvg-name="AL: Medina TV Islam HD" tvg-logo="" group-title="Albania",AL: Medina TV Islam HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2643
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS ISLAM 2023" tvg-logo="" group-title="Albania",AL: HS ISLAM 2023
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58012
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS ISLAM Ramadan 2024" tvg-logo="" group-title="Albania",AL: HS ISLAM Ramadan 2024
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69070
+#EXTINF:-1 tvg-id="" tvg-name="AL: XHAMIA IKRA KÖLN" tvg-logo="" group-title="Albania",AL: XHAMIA IKRA KÖLN
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69071
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË DR. SHEFQET KRASNIQI" tvg-logo="" group-title="Albania",AL: HS HOXHË DR. SHEFQET KRASNIQI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61465
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË DR. ZEKERIJA BAJRAMI" tvg-logo="" group-title="Albania",AL: HS HOXHË DR. ZEKERIJA BAJRAMI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61469
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË SADULLAH BAJRAMI" tvg-logo="" group-title="Albania",AL: HS HOXHË SADULLAH BAJRAMI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61527
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË ENIS RAMA" tvg-logo="" group-title="Albania",AL: HS HOXHË ENIS RAMA
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61529
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË MAZLLAM MAZLLAMI" tvg-logo="" group-title="Albania",AL: HS HOXHË MAZLLAM MAZLLAMI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61530
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË IRFAN SALIHU" tvg-logo="" group-title="Albania",AL: HS HOXHË IRFAN SALIHU
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61232
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË ELVIS NAÇI" tvg-logo="" group-title="Albania",AL: HS HOXHË ELVIS NAÇI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61470
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË FADIL MUSLIU" tvg-logo="" group-title="Albania",AL: HS HOXHË FADIL MUSLIU
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61526
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS HOXHË OMER BAJRAMI" tvg-logo="" group-title="Albania",AL: HS HOXHË OMER BAJRAMI
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/61528
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS ISLAM Fëmijët" tvg-logo="" group-title="Albania",AL: HS ISLAM Fëmijët
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58013
+#EXTINF:-1 tvg-id="" tvg-name="AL: HS ISLAM GERMANY" tvg-logo="" group-title="Albania",AL: HS ISLAM GERMANY
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59863
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark ILAHI FHD" tvg-logo="" group-title="Albania",AL: Dark ILAHI FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/82484
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Ilahi list FHD" tvg-logo="" group-title="Albania",AL: Dark Ilahi list FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/82485
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Ilahi Mix HD" tvg-logo="" group-title="Albania",AL: Dark Ilahi Mix HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/82486
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Dr.Shefqet Krasniqi Ligjerata HD" tvg-logo="" group-title="Albania",AL: OnePlay Dr.Shefqet Krasniqi Ligjerata HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63204
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Pyetje&Pergjigje Shefqet Krasniqi HD" tvg-logo="" group-title="Albania",AL: OnePlay Pyetje&Pergjigje Shefqet Krasniqi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63205
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Elvis Naci Ligjerata HD" tvg-logo="" group-title="Albania",AL: OnePlay Elvis Naci Ligjerata HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63206
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Rruga e Ndriçuar HD" tvg-logo="" group-title="Albania",AL: OnePlay Rruga e Ndriçuar HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63207
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Doku. Muhammedi A.S HD" tvg-logo="" group-title="Albania",AL: OnePlay Doku. Muhammedi A.S HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63208
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Histori Motivuese Islame 1 HD" tvg-logo="" group-title="Albania",AL: OnePlay Histori Motivuese Islame 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63209
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Histori Motivuese Islame 2 HD" tvg-logo="" group-title="Albania",AL: OnePlay Histori Motivuese Islame 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63210
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Hoxhe Enis Rama HD" tvg-logo="" group-title="Albania",AL: OnePlay Hoxhe Enis Rama HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63211
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Hoxhe Ahmed Kalaja HD" tvg-logo="" group-title="Albania",AL: OnePlay Hoxhe Ahmed Kalaja HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63212
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Hoxhe Fatmir Latifaj HD" tvg-logo="" group-title="Albania",AL: OnePlay Hoxhe Fatmir Latifaj HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63213
+#EXTINF:-1 tvg-id="" tvg-name="AL: OnePlay Ilahi HD" tvg-logo="" group-title="Albania",AL: OnePlay Ilahi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/63214
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Podrinje TV HD" tvg-logo="" group-title="Albania",AL:  Podrinje TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/62051
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rti Islam HD" tvg-logo="" group-title="Albania",AL: Rti Islam HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/55358
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Ahireti HD" tvg-logo="" group-title="Albania",AL: Rtv Ahireti HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/38600
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Elkalem Islam TV" tvg-logo="" group-title="Albania",AL: Rtv Elkalem Islam TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47152
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Pendimi HD" tvg-logo="" group-title="Albania",AL: Rtv Pendimi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/25662
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pendimi HD" tvg-logo="" group-title="Albania",AL: Pendimi HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1626
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Kuran ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTCW0d_uQLR5_m8zkXSL9GacTRgHP5tPiObHjUOWB_vLwR6Bkbejb0S3UfoT9lA0JpnCpRe5fEJ_3j20J-ms4JnzhbtQ7KTWGkAYS0G3tZGUZhela42c_hF7lvYgoU6Jw5UweFArENLWNcBPF2NlmfWw.png" group-title="Albania",AL: ShqipTV Kuran ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/69490
+#EXTINF:-1 tvg-id="" tvg-name="AL: ShqipTV Ilahi ᴴᴰ" tvg-logo="http://restream.uniteti.cc:80/images/p3x4VEU-Sa_5C6WlM8seePuY4aJjCu0BnriqNSPdt9GXZgAXKBJ08lCC9xXD6CtTx_EzirYBv4HHD1M_D5XHYgvI7P4WXgGnxScG70KgLfhEDrJKUPEUrVvMwTHPKhVPDQ1Q7_3DP1aCh75ih1oA_yOMlxk-mh3AdUHNZQuF_7mH2ajdOYpQxStlBrnnuYn3ou0QBuXLN5Mbr2LDAKJ8iA.png" group-title="Albania",AL: ShqipTV Ilahi ᴴᴰ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/66447
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dobra Islamska HD" tvg-logo="" group-title="Albania",AL: Dobra Islamska HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/59654
+#EXTINF:-1 tvg-id="" tvg-name="AL: Radio 1 Rtv Pendimi" tvg-logo="" group-title="Albania",AL: Radio 1 Rtv Pendimi
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47571
+#EXTINF:-1 tvg-id="" tvg-name="AL: Radio 2 Rtv Pendimi" tvg-logo="" group-title="Albania",AL: Radio 2 Rtv Pendimi
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47572
+#EXTINF:-1 tvg-id="" tvg-name="AL: Skampa TV HD" tvg-logo="" group-title="Albania",AL: Skampa TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/38594
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Islam HD" tvg-logo="" group-title="Albania",AL: WebStar Islam HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43683
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Islam 2 HD" tvg-logo="" group-title="Albania",AL: WebStar Islam 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43684
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace Tv HD" tvg-logo="" group-title="Albania",AL: Peace Tv HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1625
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Islam HD" tvg-logo="" group-title="Albania",AL:  Islam HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8119
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV HD" tvg-logo="" group-title="Albania",AL: Besa TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/18518
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Islam TV HD" tvg-logo="http://hs-iptv.net:88/images/fb7351d69578392d74c88c4b1a78e893.png" group-title="Albania",AL: Rtv Islam TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2635
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL anwar" tvg-logo="" group-title="Albania",AL: AL anwar
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/34083
+#EXTINF:-1 tvg-id="" tvg-name="AL: AL Zahra TV" tvg-logo="" group-title="Albania",AL: AL Zahra TV
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2632
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zahra 2 TV Islam HD" tvg-logo="http://darkiptv.ddns.net:8080/images/47ed56f28a0f5f1cf465c0e648e25d99.png" group-title="Albania",AL: Zahra 2 TV Islam HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33351
+#EXTINF:-1 tvg-id="" tvg-name="AL: Salaam TV HD" tvg-logo="" group-title="Albania",AL: Salaam TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33268
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ahlulbayt TV HD" tvg-logo="" group-title="Albania",AL: Ahlulbayt TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/9846
+#EXTINF:-1 tvg-id="" tvg-name="AL: Imam Hussein 1 TV HD" tvg-logo="" group-title="Albania",AL: Imam Hussein 1 TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2628
+#EXTINF:-1 tvg-id="" tvg-name="AL: Imam  Hussein 2 TV HD" tvg-logo="" group-title="Albania",AL: Imam  Hussein 2 TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2629
+#EXTINF:-1 tvg-id="" tvg-name="AL: Imam  Hussein 3 TV HD" tvg-logo="" group-title="Albania",AL: Imam  Hussein 3 TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2630
+#EXTINF:-1 tvg-id="" tvg-name="AL: Imam  Hussein 4 TV HD" tvg-logo="" group-title="Albania",AL: Imam  Hussein 4 TV HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/2631
+#EXTINF:-1 tvg-id="" tvg-name="AL: Karbala Live 1" tvg-logo="" group-title="Albania",AL: Karbala Live 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/32344
+#EXTINF:-1 tvg-id="" tvg-name="AL: Karbala Live 6" tvg-logo="" group-title="Albania",AL: Karbala Live 6
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/32349
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="TeleSport" tvg-name="RTK 1 FHD" tvg-logo="http://vodpictures.ddns.net/picons/logos/rtk1.png" group-title="KOMBETARE & LOKALE",RTK 1 FHD
@@ -864,54 +1682,106 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/10394.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8738.ts
 #EXTINF:-1 tvg-id="" tvg-name="SMILE HD" tvg-logo="" group-title="FILMA VIZATIMOR",SMILE HD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/35992.ts
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="Art Sport 1 FHD" tvg-logo="http://supertv.xyz:8080/images/b206eb9f520b6d90a2d500608bed25e1.png" group-title="SPORT SHQIP",Art Sport 1 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD" tvg-logo="http://supertv.xyz:8080/images/52faba42008833b1283bbfb0273ff6d3.png" group-title="SPORT SHQIP",Art Sport 2 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD" tvg-logo="http://supertv.xyz:8080/images/9334b7670a3e9fff50e733b08de028f8.png" group-title="SPORT SHQIP",Art Sport 3 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7849.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 4 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 5 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD" tvg-logo="" group-title="SPORT SHQIP",Art Sport 6 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75470.ts
-#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="Super Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 1 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7813.ts
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="Super Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 2 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7814.ts
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="Super Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 3 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7815.ts
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="Super Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 4 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7816.ts
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="Super Sport 5 HD" tvg-logo="http://supertv.xyz:8080/images/2b1e0614975ca5d993b218bfc8f778c7.png" group-title="SPORT SHQIP",Super Sport 5 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7817.ts
-#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="Tring Sport News" tvg-logo="http://supertv.xyz:8080/images/72d9e920e29783fef9f38b96e6a60a81.png" group-title="SPORT SHQIP",Tring Sport News
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7826.ts
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="Tring Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/51f1720f2ef5d47ea1175135de9f1ee7.png" group-title="SPORT SHQIP",Tring Sport 1 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7827.ts
-#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/534d26d0405186c838fa6db35f7db2a4.png" group-title="SPORT SHQIP",Tring Sport 2 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7828.ts
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="Tring Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/7cae9ed87e9b839eab765968dcb5fa91.png" group-title="SPORT SHQIP",Tring Sport 3 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7829.ts
-#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/043abbc570945fd5a7b5d0df636a38ac.png" group-title="SPORT SHQIP",Tring Sport 4 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7830.ts
-#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport FHD" tvg-logo="http://supertv.xyz:8080/images/5ef46b4036973b6928aa50d8de408ebb.png" group-title="SPORT SHQIP",RTSH Sport FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1 HD" tvg-logo="http://supertv.xyz:8080/images/3b679e3b60a1a68606480bafb47f53ea.png" group-title="SPORT SHQIP",Kujtesa Sport 1 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7842.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2 HD" tvg-logo="http://supertv.xyz:8080/images/19aa18f35e1be2dba70fe5b3cc3bc39d.png" group-title="SPORT SHQIP",Kujtesa Sport 2 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3 HD" tvg-logo="http://supertv.xyz:8080/images/6a7dedaea38ec30b475d72ac256afb12.png" group-title="SPORT SHQIP",Kujtesa Sport 3 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 4 HD" tvg-logo="http://supertv.xyz:8080/images/b388ab13c425e833c20c5a2d730074ca.png" group-title="SPORT SHQIP",Kujtesa Sport 4 HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
-#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 1 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 1 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75881.ts
-#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 2 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 2 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75882.ts
-#EXTINF:-1 tvg-id="" tvg-name="OVERSPORT 3 FHD" tvg-logo="" group-title="SPORT SHQIP",OVERSPORT 3 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75883.ts
+#EXTINF:-1 tvg-id="" tvg-name="*****SHQIP SPORT*****" tvg-logo="http://hs-iptv.net:88/images/042dfec02b1ac6b78727cf0575975b88.png" group-title="Albania",*****SHQIP SPORT*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7085
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 1 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58864
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 2 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58865
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 3 HD" tvg-logo="" group-title="Albania",AL: SS Kosova 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58866
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Albania",AL: Super Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 SD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Albania",AL: Super Sport 1 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47166
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://premium-ks.ddns.net:88/images/4c8303464b4e6ceb8abe904daf779a20.png" group-title="Albania",AL: Super Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47167
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 SD" tvg-logo="http://hs-iptv.net:88/images/82427f3784e2a15afa2f4cd3ed7d42e7.png" group-title="Albania",AL: Super Sport 2 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47168
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Albania",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47169
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 SD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Albania",AL: Super Sport 3 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47170
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Albania",AL: Super Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47171
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 SD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Albania",AL: Super Sport 4 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47172
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Albania",AL: Super Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47173
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 SD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Albania",AL: Super Sport 5 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47174
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Albania",AL: Super Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47175
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 SD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Albania",AL: Super Sport 6 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47176
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 HD" tvg-logo="" group-title="Albania",AL: Art Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80867
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2 HD" tvg-logo="http://hs-iptv.net:88/images/fbeaf51ddb935e4832fcafd38d1a60e8.png" group-title="Albania",AL: Art Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3 HD" tvg-logo="http://premium-ks.vip:2082/images/fd9089b01ea85b1810a4ae1defb53be7.png" group-title="Albania",AL: Art Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8234
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 HD" tvg-logo="" group-title="Albania",AL: Art Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51085
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 HD" tvg-logo="" group-title="Albania",AL: Art Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51084
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 HD" tvg-logo="" group-title="Albania",AL: Art Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51083
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="Albania",AL: Tring Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="" group-title="Albania",AL: Tring Sport 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47179
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="" group-title="Albania",AL: Tring Sport 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47180
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 FHD only match time" tvg-logo="" group-title="Albania",AL: Tring Sport 3 FHD only match time
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47181
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 FHD " tvg-logo="" group-title="Albania",AL: Tring Sport 4 FHD 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47182
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  1 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%201.png" group-title="Albania",AL: Kujtesa  1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33498
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  2 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%202.png" group-title="Albania",AL: Kujtesa  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33499
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  3 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%203.png" group-title="Albania",AL: Kujtesa  3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33500
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47183
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 2
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47184
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 3
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="" group-title="Albania",AL: Kujtesa Sport 4
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47186
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box HD" tvg-logo="" group-title="Albania",AL: Fight Box HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42357
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="AL: Rtsh Sport HD" tvg-logo="http://hs-iptv.net:88/images/754f800cfe219154963f4d3f7aaa56c2.png" group-title="Albania",AL: Rtsh Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1601
+#EXTINF:-1 tvg-id="" tvg-name="AL: News Over Sport HD" tvg-logo="" group-title="Albania",AL: News Over Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43667
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 1  HD" tvg-logo="" group-title="Albania",AL: Over Sport 1  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46984
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 2  FHD" tvg-logo="" group-title="Albania",AL: Over Sport 2  FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46985
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 3 HD" tvg-logo="" group-title="Albania",AL: Over Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46986
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 4 HD" tvg-logo="" group-title="Albania",AL: Over Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46987
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super  Sport 1 HD" tvg-logo="https://zana.tv/alb/SuperSport%201%20HD.png" group-title="Albania",AL: Super  Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33493
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport  2 HD" tvg-logo="https://zana.tv/alb/SuperSport%202%20HD.png" group-title="Albania",AL: Super Sport  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33494
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Super Sport 3 HD" tvg-logo="https://zana.tv/alb/SuperSport%203%20HD.png" group-title="Albania",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33495
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport  4 HD" tvg-logo="https://zana.tv/alb/SuperSport%204%20HD.png" group-title="Albania",AL: Super Sport  4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33496
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring  Sport News HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%20News%20HD.png" group-title="Albania",AL: Tring  Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33503
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%201%20HD.png" group-title="Albania",AL: Tring Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33504
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Sport 2 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%202%20HD.png" group-title="Albania",AL: Tring Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33505
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%203%20HD.png" group-title="Albania",AL: Tring Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33506
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%204%20HD.png" group-title="Albania",AL: Tring Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33507
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ FILM & SERIJE ✦●✦" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="" group-title="FILM & SERIJE" ,✦●✦ FILM & SERIJE ✦●✦
 http://client.nodomain.vip:80/live.ts?channelId=1117&uid=56661&deviceUser=27irenasimic&devicePass=FTvDYXPG38
 #EXTINF:-1 tvg-id="" tvg-name="ANDRIJA I ANDJELKA 24/7" tvg-link="" tvg-logo="" group-title="FILM & SERIJE" ,ANDRIJA I ANDJELKA 24/7
