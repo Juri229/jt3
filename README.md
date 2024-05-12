@@ -11,34 +11,12 @@ http://aziptv.net:8080/boosskypee/skypeboosexch/36877
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83177
 #EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL : Tring Ferma VIP 2 FHD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83178
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 1
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
-http://premium-ks.vip:2082/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321wscaqu625ldnbdhe/80942
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-titl"**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
-http://premium-ks.vip:2082/muminiptv/FRQT2rUpXv@96521ffghjkkloj9654786321wscaqu625ldnbdhe/80943
-#EXTINF:-1 tvg-id="" tvg-name="AL: Its My Home 3 FHD" tvg-logo="" group-title"**** Albania Shqipëtare ****",AL: Its My Home 3 FHD
-#EXTINF:-1 tvg-id="" tvg-name="BIGBROTHER VIP ALBANIA 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",BIGBROTHER VIP ALBANIA 2
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 1
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/703917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 2
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/703918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 1 FHD
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193753
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193752
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother AL VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother AL VIP 2 FHD
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/193754
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 1 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 1 HD
-http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696326
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER ALBANIA 2 HD" tvg-logo="https://i.imgur.com/kC8GCYB.png" group-title="**** Albania Shqipëtare ****",AL: BIG BROTHER ALBANIA 2 HD
-http://de.boxxian.xyz:8080/worldlive/2gPHmNjvNJTZ35RG/696327
-http://falcon.ac:5000/Gloria_tv/dFyMMnKb/32343
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 1 (VIP)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47747
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Big Brother 2 (VIP)
-http://localiptv.site:85/Mreurobest42/BfdawWQXsa65ZQvbhobV/47748
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80942
+#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80943
+#EXTINF:-1 tvg-id="" tvg-name="PT: Big Brother" tvg-logo="http://51.159.64.26:22333/logo_channels/the-boss-brothers-tv-uk.png" group-title="**** Albania Shqipëtare ****",PT: Big Brother
+http://homeuser22.hopto.me:22333/live?cId=5687&uid=1695&deviceUser=Premmiiuumm123&devicePass=Yvrql9DmeV4RAYzu
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="*****SHQIP TV*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",*****SHQIP TV*****
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/988
