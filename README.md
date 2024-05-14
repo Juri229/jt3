@@ -4114,3 +4114,131 @@ http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/266672
 http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/266673
 #EXTINF:-1 tvg-id="" tvg-name="|DE| MAGENTA SPORT 19" tvg-logo="http://tv.iptvboss.net/ch_logo/Magenta_Sport_Logo_2022.svg.png" group-title="|DE| SPORT",|DE| MAGENTA SPORT 19
 http://test.satlok.club:80/boranredbox/qsdqsdfgcvbcbcv/266674
+#EXTINF:-1 tvg-id="" tvg-name="*****SHQIP SPORT*****" tvg-logo="http://hs-iptv.net:88/images/042dfec02b1ac6b78727cf0575975b88.png" group-title="Sportenew",*****SHQIP SPORT*****
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/7085
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 1 HD" tvg-logo="" group-title="Sportenew",AL: SS Kosova 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58864
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 2 HD" tvg-logo="" group-title="Sportenew",AL: SS Kosova 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58865
+#EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 3 HD" tvg-logo="" group-title="Sportenew",AL: SS Kosova 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58866
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Sportenew",AL: Super Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 SD" tvg-logo="http://premium-ks.ddns.net:88/images/5be217c8ce786d645d0e57314e951ff8.png" group-title="Sportenew",AL: Super Sport 1 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47166
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://premium-ks.ddns.net:88/images/4c8303464b4e6ceb8abe904daf779a20.png" group-title="Sportenew",AL: Super Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47167
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 SD" tvg-logo="http://hs-iptv.net:88/images/82427f3784e2a15afa2f4cd3ed7d42e7.png" group-title="Sportenew",AL: Super Sport 2 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47168
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Sportenew",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47169
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 SD" tvg-logo="http://hs-iptv.net:88/images/b9803ac6799686694c606c9f12e58cd0.png" group-title="Sportenew",AL: Super Sport 3 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47170
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Sportenew",AL: Super Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47171
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 SD" tvg-logo="http://hs-iptv.net:88/images/fb8763401da2c7c6cdb9a4da95349942.png" group-title="Sportenew",AL: Super Sport 4 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47172
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Sportenew",AL: Super Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47173
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 SD" tvg-logo="http://hs-iptv.net:88/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Sportenew",AL: Super Sport 5 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47174
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Sportenew",AL: Super Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47175
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 SD" tvg-logo="http://hs-iptv.net:88/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Sportenew",AL: Super Sport 6 SD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47176
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1 HD" tvg-logo="" group-title="Sportenew",AL: Art Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80867
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2 HD" tvg-logo="http://hs-iptv.net:88/images/fbeaf51ddb935e4832fcafd38d1a60e8.png" group-title="Sportenew",AL: Art Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3 HD" tvg-logo="http://premium-ks.vip:2082/images/fd9089b01ea85b1810a4ae1defb53be7.png" group-title="Sportenew",AL: Art Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/8234
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4 HD" tvg-logo="" group-title="Sportenew",AL: Art Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51085
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5 HD" tvg-logo="" group-title="Sportenew",AL: Art Sport 5 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51084
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6 HD" tvg-logo="" group-title="Sportenew",AL: Art Sport 6 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/51083
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News HD" tvg-logo="" group-title="Sportenew",AL: Tring Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47178
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="" group-title="Sportenew",AL: Tring Sport 1 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47179
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="" group-title="Sportenew",AL: Tring Sport 2 FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47180
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 FHD only match time" tvg-logo="" group-title="Sportenew",AL: Tring Sport 3 FHD only match time
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47181
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 FHD " tvg-logo="" group-title="Sportenew",AL: Tring Sport 4 FHD 
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47182
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  1 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%201.png" group-title="Sportenew",AL: Kujtesa  1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33498
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  2 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%202.png" group-title="Sportenew",AL: Kujtesa  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33499
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa  3 HD" tvg-logo="https://zana.tv/alb/Kujtesa%20Sport%203.png" group-title="Sportenew",AL: Kujtesa  3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33500
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="" group-title="Sportenew",AL: Kujtesa Sport 1
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47183
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="" group-title="Sportenew",AL: Kujtesa Sport 2
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47184
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="" group-title="Sportenew",AL: Kujtesa Sport 3
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="" group-title="Sportenew",AL: Kujtesa Sport 4
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/47186
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fight Box HD" tvg-logo="" group-title="Sportenew",AL: Fight Box HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/42357
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="AL: Rtsh Sport HD" tvg-logo="http://hs-iptv.net:88/images/754f800cfe219154963f4d3f7aaa56c2.png" group-title="Sportenew",AL: Rtsh Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/1601
+#EXTINF:-1 tvg-id="" tvg-name="AL: News Over Sport HD" tvg-logo="" group-title="Sportenew",AL: News Over Sport HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/43667
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 1  HD" tvg-logo="" group-title="Sportenew",AL: Over Sport 1  HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46984
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 2  FHD" tvg-logo="" group-title="Sportenew",AL: Over Sport 2  FHD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46985
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 3 HD" tvg-logo="" group-title="Sportenew",AL: Over Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46986
+#EXTINF:-1 tvg-id="" tvg-name="AL: Over Sport 4 HD" tvg-logo="" group-title="Sportenew",AL: Over Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/46987
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: Super  Sport 1 HD" tvg-logo="https://zana.tv/alb/SuperSport%201%20HD.png" group-title="Sportenew",AL: Super  Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33493
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: Super Sport  2 HD" tvg-logo="https://zana.tv/alb/SuperSport%202%20HD.png" group-title="Sportenew",AL: Super Sport  2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33494
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Super Sport 3 HD" tvg-logo="https://zana.tv/alb/SuperSport%203%20HD.png" group-title="Sportenew",AL: Super Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33495
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport  4 HD" tvg-logo="https://zana.tv/alb/SuperSport%204%20HD.png" group-title="Sportenew",AL: Super Sport  4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33496
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring  Sport News HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%20News%20HD.png" group-title="Sportenew",AL: Tring  Sport News HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33503
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%201%20HD.png" group-title="Sportenew",AL: Tring Sport 1 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33504
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Sport 2 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%202%20HD.png" group-title="Sportenew",AL: Tring Sport 2 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33505
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%203%20HD.png" group-title="Sportenew",AL: Tring Sport 3 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33506
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%204%20HD.png" group-title="Sportenew",AL: Tring Sport 4 HD
+http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33507
+#EXTINF:-1 tvg-id="" tvg-name="KUJTESA SPORT 1 (AL)" tvg-logo="" group-title="Sportenew",KUJTESA SPORT 1 (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68602
+#EXTINF:-1 tvg-id="" tvg-name="KUJTESA SPORT 2 (AL)" tvg-logo="" group-title="Sportenew",KUJTESA SPORT 2 (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68603
+#EXTINF:-1 tvg-id="" tvg-name="KUJTESA SPORT 3 (AL)" tvg-logo="http://iptvunited.org:8080/images/66def5071387ea58c337e6b3962c0e3b.png" group-title="Sportenew",KUJTESA SPORT 3 (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68604
+#EXTINF:-1 tvg-id="" tvg-name="KUJTESA SPORT 4 (AL)" tvg-logo="" group-title="Sportenew",KUJTESA SPORT 4 (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68605
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SSKOSOVA1.png" group-title="Sportenew",SUPERSPORT 1 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68606
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS2.png" group-title="Sportenew",SUPERSPORT 2 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68607
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS3.png" group-title="Sportenew",SUPERSPORT 3 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68608
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4 HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SS4.png" group-title="Sportenew",SUPERSPORT 4 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68609
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5 HD (AL)" tvg-logo="http://iptvunited.org:8080/images/62514dc1b9e3e799ab0469ddf3d01cdb.png" group-title="Sportenew",SUPERSPORT 5 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68610
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 6 HD (AL)" tvg-logo="http://iptvunited.org:8080/images/1e241c9320dc26daa0a669a690d04f49.png" group-title="Sportenew",SUPER SPORT 6 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68611
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT NEWS HD (AL)" tvg-logo="https://mobile-api.tvim.tv/images/channels/120x60px/SSNEWS.png" group-title="Sportenew",SUPER SPORT NEWS HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68612
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 1 HD (AL)" tvg-logo="http://iptvunited.org:8080/images/93cb1343cc03a9469d5aecdcaa5d60e5.png" group-title="Sportenew",TRING SPORT 1 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68614
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 2 HD (AL)" tvg-logo="https://www.tring.al/manager/includes/picker/images/sport2-hd.png" group-title="Sportenew",TRING SPORT 2 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68615
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 4 HD (AL)" tvg-logo="https://www.tring.al/manager/includes/picker/images/sport4-hd.png" group-title="Sportenew",TRING SPORT 4 HD (AL)
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/68617
