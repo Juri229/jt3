@@ -15,8 +15,10 @@ http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83178
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80942
 #EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80943
-#EXTINF:-1 tvg-id="" tvg-name="PT: Big Brother" tvg-logo="http://51.159.64.26:22333/logo_channels/the-boss-brothers-tv-uk.png" group-title="**** Albania Shqipëtare ****",PT: Big Brother
-http://homeuser22.hopto.me:22333/live?cId=5687&uid=1695&deviceUser=Premmiiuumm123&devicePass=Yvrql9DmeV4RAYzu
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 1" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="**** Albania Shqipëtare ****",AL: Big Brother VIP Albania 1
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/53843
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 2" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="**** Albania Shqipëtare ****",AL: Big Brother VIP Albania 2
+http://habeto.xyz:8080/xxxrestream/fghiBrdf55/53844
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="*****SHQIP TV*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg" group-title="Albania",*****SHQIP TV*****
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/988
@@ -5131,6 +5133,7 @@ http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24521
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24527
 #EXTINF:-1 tvg-id="" tvg-name="IT: UNIRE SAT" tvg-logo="https://docdog.top/logo/countries/italy/unire-sat-it.png" group-title="IT | ITALY",IT: UNIRE SAT
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/24655
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 1 HD" tvg-logo="" group-title="Sporte new",AL: SS Kosova 1 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/58864
 #EXTINF:-1 tvg-id="" tvg-name="AL: SS Kosova 2 HD" tvg-logo="" group-title="Sporte new",AL: SS Kosova 2 HD
@@ -5219,13 +5222,13 @@ http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33494
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33495
 #EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: Super Sport  4 HD" tvg-logo="https://zana.tv/alb/SuperSport%204%20HD.png" group-title="Sporte new",AL: Super Sport  4 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33496
-#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring  Sport News HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%20News%20HD.png" group-title="Sporte new",AL: Tring  Sport News HD
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring  Sport News HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%20News%20HD.png"group-title="Sporte new",AL: Tring  Sport News HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33503
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%201%20HD.png" group-title="Sporte new",AL: Tring Sport 1 HD
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%201%20HD.png"group-title="Sporte new",AL: Tring Sport 1 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33504
 #EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Sport 2 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%202%20HD.png" group-title="Sporte new",AL: Tring Sport 2 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33505
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%203%20HD.png" group-title="Sporte new",AL: Tring Sport 3 HD
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%203%20HD.png"group-title="Sporte new",AL: Tring Sport 3 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33506
-#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%204%20HD.png" group-title="Sporte new",AL: Tring Sport 4 HD
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="https://zana.tv/alb/Tring%20Sport%204%20HD.png"group-title="Sporte new",AL: Tring Sport 4 HD
 http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/33507
