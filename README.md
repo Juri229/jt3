@@ -1,19 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="" group-title="Reality Show",AL: Big Brother 1
-http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/40613
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show",AL: Big Brother 1 (VIP)
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/47747
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show",AL: Big Brother 2 (VIP)
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/47748
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother1" tvg-logo="" group-title="Reality Show",AL: Big Brother1
-http://admin.vlagor-iptv.com:80/live.ts?channelId=1266&deviceUser=darijan&devicePass=UH87ZuXMmehEOB12X9xM&uid=2764
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 VIP" tvg-logo="" group-title="Reality Show",AL: Big Brother 2 VIP
-http://admin.vlagor-iptv.com:80/live.ts?channelId=807&deviceUser=darijan&devicePass=UH87ZuXMmehEOB12X9xM&uid=2764
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Reality Show",Big Brother VIP 2 HD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117772
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Reality Show",Big Brother VIP 1 HD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117771
-
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 1 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 1 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110555
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 2 HD
