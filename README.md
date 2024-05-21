@@ -1,24 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="**** Albania Shqipëtare ****",Big Brother VIP 2 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="" group-title="Reality Show",AL: Big Brother 1
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/40613
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1 (VIP)" tvg-logo="" group-title="Reality Show",AL: Big Brother 1 (VIP)
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/47747
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 (VIP)" tvg-logo="" group-title="Reality Show",AL: Big Brother 2 (VIP)
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/47748
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother1" tvg-logo="" group-title="Reality Show",AL: Big Brother1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1266&deviceUser=darijan&devicePass=UH87ZuXMmehEOB12X9xM&uid=2764
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2 VIP" tvg-logo="" group-title="Reality Show",AL: Big Brother 2 VIP
+http://admin.vlagor-iptv.com:80/live.ts?channelId=807&deviceUser=darijan&devicePass=UH87ZuXMmehEOB12X9xM&uid=2764
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Reality Show",Big Brother VIP 2 HD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117772
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="**** Albania Shqipëtare ****",Big Brother VIP 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Reality Show",Big Brother VIP 1 HD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117771
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 1" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 1
-http://aziptv.net:8080/boosskypee/skypeboosexch/36876
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ferma VIP 2" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: Ferma VIP 2
-http://aziptv.net:8080/boosskypee/skypeboosexch/36877
-#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 1 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL : Tring Ferma VIP 1 FHD
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83177
-#EXTINF:-1 tvg-id="" tvg-name="AL : Tring Ferma VIP 2 FHD" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL : Tring Ferma VIP 2 FHD
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/83178
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 1 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 1 ⁴ᴷ
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80942
-#EXTINF:-1 tvg-id="" tvg-name="AL: BB VIP ALBANIA 2 ⁴ᴷ" tvg-logo="" group-title="**** Albania Shqipëtare ****",AL: BB VIP ALBANIA 2 ⁴ᴷ
-http://premium-ks.vip:2082/@AlbaMaXIPTV@/@AlbaMaXExch@/80943
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 1" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="**** Albania Shqipëtare ****",AL: Big Brother VIP Albania 1
-http://habeto.xyz:8080/xxxrestream/fghiBrdf55/53843
-#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Albania 2" tvg-logo="https://docdog.top/logo/countries/albania/AlbaniaVIP1.png" group-title="**** Albania Shqipëtare ****",AL: Big Brother VIP Albania 2
-http://habeto.xyz:8080/xxxrestream/fghiBrdf55/53844
+
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 1 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 1 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110555
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 2 HD
@@ -138,7 +133,6 @@ http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104097
 #EXTINF:-1 tvg-id="" tvg-name="SS Kosova 1" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 1
 http://dujpral.ddns.me:82/Drugx/PhCyYHJN88aP/104098
 #EXTINF:-1 tvg-id="" tvg-name="SS Kosova 2" tvg-logo="" group-title="ALBANIA-KOSOVA",SS Kosova 2
-
 #EXTINF:-1 tvg-id="164" tvg-name="==== Sport ====" tvg-logo="http://185.180.221.139:82/logo_channels/sport_m.png" group-title="SPORT",==== Sport ==== - 
 http://176.9.1.143:8000/live?channelId=164&uid=9690&deviceMac=00:1A:79:42:CD:B8
 #EXTINF:-1 tvg-id="169" tvg-name="Arena Sport 1 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT",Arena Sport 1 HR - Arena Sport 1 HR
@@ -1202,14 +1196,6 @@ http://195.154.102.152:8000/live?channelId=1674&uid=9690&deviceMac=00:1A:79:42:C
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="? Albania [AL] ?" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",? Albania [AL] ?
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/16544
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 2 HD AL
-http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117772
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP 1 HD AL
-http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/117771
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 2 HD AL
-http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/89641
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother VIP Kos 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/bigbrothernl.jpg" group-title="Live: Albania",Big Brother VIP Kos 1 HD AL
-http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/89640
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 Sat AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 Sat AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/9458
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 FHD AL
@@ -1559,7 +1545,27 @@ http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/38606
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 10 AL" tvg-logo="https://picon-13398.kxcdn.com/kanal10alb.jpg" group-title="Live: Albania",Kanal 10 AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/53152
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="Live: Albania",Kanal D Drama FHD AL
+http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/56168
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="Live: Albania",Kanal D Drama FHD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/56168
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD" tvg-logo="http://live.phenixiptv.com:8080/images/dhjBnryYqXsrNtSebStx165sq1H4JguvwRh74-HHLhdi6depiGfFJ73r7w0ClwWl.png" group-title="Live: Albania",AL: Kanal D Drama FHD
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/82859
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Live: Albania",AL: Kanal D Drama
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/49822
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal D Drama Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kanal%20drama.png" group-title="Live: Albania",Kanal D Drama Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=25&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+#EXTINF:-1 tvg-id="" tvg-name="Turkish Stories" tvg-logo="" group-title="Live: Albania",AL: Turkish Stories
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/49824
+#EXTINF:-1 tvg-id="" tvg-name="TRING 3 Plus" tvg-logo="" group-title="Live: Albania",AL: TRING 3 Plus
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/287
+#EXTINF:-1 tvg-id="" tvg-name="[AL] TRING 3+ TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_3plus.png" group-title="Live: Albania",[AL] TRING 3+ TV
+http://3.z-ott.com:80/5WU6tnXlNP/ky21ju3OG8/1700
+#EXTINF:-1 tvg-id="3 Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring 3+" tvg-logo="http://5.189.151.71/tring_3plus.png" group-title="Live: Albania",Tring 3+
+http://admin.vlagor-iptv.com:80/live.ts?channelId=78&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="Live: Albania",Tring 3+ AL
+http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/4237
+#EXTINF:-1 tvg-id="" tvg-name="TRING TURKISH STORIES TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring-turkish-stories-al.png" group-title="Live: Albania",[AL] TRING TURKISH STORIES TV
+http://3.z-ott.com:80/5WU6tnXlNP/ky21ju3OG8/1547
 #EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova FHD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/66309
 #EXTINF:-1 tvg-id="" tvg-name="A TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV HD AL
@@ -1916,3 +1922,139 @@ http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/116133
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/116134
 #EXTINF:-1 tvg-id="beINSportsMax4En.qa" tvg-name="beIN SPORTS MAX 4 SD QA" tvg-logo="https://picon-13398.kxcdn.com/beinmax4.jpg" group-title="Live: beIN Media Group",beIN SPORTS MAX 4 SD QA
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/116135
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt1.jpg" group-title="★ Türkiye",TR: TRT 1
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/184
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Haber" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_haber.jpg" group-title="★ Türkiye",TR: TRT Haber
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/185
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Haber" tvg-logo="" group-title="★ Türkiye",TR: TGRT Haber
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/186
+#EXTINF:-1 tvg-id="" tvg-name="TR:  Kemal Sunal" tvg-logo="" group-title="★ Türkiye",TR:  Kemal Sunal
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/187
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cnn_turk.jpg" group-title="★ Türkiye",TR: CNN Turk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/188
+#EXTINF:-1 tvg-id="" tvg-name="TR: HaberTurk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/haber_turk.jpg" group-title="★ Türkiye",TR: HaberTurk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/189
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_tv_tr_hd.jpg" group-title="★ Türkiye",TR: STAR TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/190
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo-thumbnail.png" group-title="★ Türkiye",TR: Show TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/191
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show Max" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/show_max.jpg" group-title="★ Türkiye",TR: Show Max
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/192
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ Türkiye",TR: History Channel
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/193
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="★ Türkiye",TR: Kanal D
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/194
+#EXTINF:-1 tvg-id="" tvg-name="TR:  ATV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_turkiye.jpg" group-title="★ Türkiye",TR:  ATV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/195
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atv_avrupa.jpg" group-title="★ Türkiye",TR: ATV Avrupa
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/196
+#EXTINF:-1 tvg-id="" tvg-name="TR: EuroStar" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euro_star.jpg" group-title="★ Türkiye",TR: EuroStar
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/197
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV8" tvg-logo="" group-title="★ Türkiye",TR: TV8
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/198
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1" tvg-logo="" group-title="★ Türkiye",TR: NR1
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/199
+#EXTINF:-1 tvg-id="" tvg-name="TR: HULUSI KENTMEN" tvg-logo="" group-title="★ Türkiye",TR: HULUSI KENTMEN
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/200
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="★ Türkiye",TR: DMAX
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/201
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT Belgesel" tvg-logo="" group-title="★ Türkiye",TR: TGRT Belgesel
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/203
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral Pop" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kral_pop_tv.jpg" group-title="★ Türkiye",TR: Kral Pop
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/205
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kral_tv.jpg" group-title="★ Türkiye",TR: Kral TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/206
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Muzik" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_muzik.jpg" group-title="★ Türkiye",TR: Trt Muzik
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/207
+#EXTINF:-1 tvg-id="FOX FHD TR" tvg-name="TR: FOX TV" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="★ Türkiye",TR: FOX TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/208
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_de.png" group-title="★ Türkiye",TR: TLC
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/209
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_tr.jpg" group-title="★ Türkiye",TR: National Geographic
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/210
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="" group-title="★ Türkiye",TR: beIN Movies Premiere 2
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/212
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 1" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 1
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/213
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 2" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 2
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/214
+#EXTINF:-1 tvg-id="" tvg-name="TR: BeIN Box Office 3" tvg-logo="" group-title="★ Türkiye",TR: BeIN Box Office 3
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/215
+#EXTINF:-1 tvg-id="" tvg-name="TR: Game of Thrones 7/24" tvg-logo="" group-title="★ Türkiye",TR: Game of Thrones 7/24
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/39588
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aşkı Memnu 7/24" tvg-logo="" group-title="★ Türkiye",TR: Aşkı Memnu 7/24
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/39592
+#EXTINF:-1 tvg-id="" tvg-name="TR: Diriliş Ertuğrul 7/24" tvg-logo="" group-title="★ Türkiye",TR: Diriliş Ertuğrul 7/24
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/39593
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN Series Comedy" tvg-logo="" group-title="★ Türkiye",TR: BEiN Series Comedy
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/216
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ Türkiye",TR: Discovery Channel
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/217
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ Türkiye",TR: Nat Geo Wild
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/219
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ulusal Kanal" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ulusal_kanal.jpg" group-title="★ Türkiye",TR: Ulusal Kanal
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/220
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/d_tay_tv.jpg" group-title="★ Türkiye",TR: Discovery Science
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/221
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth" tvg-logo="" group-title="★ Türkiye",TR: BBC Earth
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/222
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN MOVIES ACTION
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/223
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART TURK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: MOVIE SMART TURK
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/224
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Classic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: MovieSmart Classic
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/225
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN Movies Family
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/226
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5" tvg-logo="" group-title="★ Türkiye",TR: TV 8.5
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/227
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein MovieSmart Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: Bein MovieSmart Turk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/228
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movie_smart.jpg" group-title="★ Türkiye",TR: beIN MOVIES ACTION 2 
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/230
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ Türkiye",TR: Cartoon Network
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/234
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 TV" tvg-logo="" group-title="★ Türkiye",TR: A2 TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/236
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Cocuk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_cocuk.jpg" group-title="★ Türkiye",TR: Trt Cocuk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/237
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beyaz TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/beyaz_tv.jpg" group-title="★ Türkiye",TR: Beyaz TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/239
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal7_tr.jpg" group-title="★ Türkiye",TR: Kanal 7
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/351
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiZi SMART MAX" tvg-logo="" group-title="★ Türkiye",TR: DiZi SMART MAX
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1631
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM" tvg-logo="" group-title="★ Türkiye",TR: DIZI SMART PREMIUM
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1632
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV YERLI" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sinema_tv2.jpg" group-title="★ Türkiye",TR: SINEMA TV YERLI
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1633
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere 1" tvg-logo="" group-title="★ Türkiye",TR: beIN Movies Premiere 1
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1634
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 Kitchen" tvg-logo="" group-title="★ Türkiye",TR: 24 Kitchen
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1636
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber" tvg-logo="" group-title="★ Türkiye",TR: A Haber
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1637
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Para" tvg-logo="" group-title="★ Türkiye",TR: A Para
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1638
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg HT" tvg-logo="" group-title="★ Türkiye",TR: Bloomberg HT
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1639
+#EXTINF:-1 tvg-id="" tvg-name="TR: EkoTurk" tvg-logo="" group-title="★ Türkiye",TR: EkoTurk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1640
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Kurdi" tvg-logo="" group-title="★ Türkiye",TR: TRT Kurdi
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1644
+#EXTINF:-1 tvg-id="" tvg-name="TR : TRT Avaz" tvg-logo="" group-title="★ Türkiye",TR : TRT Avaz
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1645
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Diyanet" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trt_diyanet_tr.jpg" group-title="★ Türkiye",TR: TRT Diyanet
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1646
+#EXTINF:-1 tvg-id="" tvg-name="TR: ER TV" tvg-logo="" group-title="★ Türkiye",TR: ER TV
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1647
+#EXTINF:-1 tvg-id="" tvg-name="TR: SERTAB ERENER MUZIKLERI" tvg-logo="" group-title="★ Türkiye",TR: SERTAB ERENER MUZIKLERI
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1648
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="" group-title="★ Türkiye",TR: TRT 2
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1649
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/power_turk_tv.jpg" group-title="★ Türkiye",TR: Power Turk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1653
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/number1_turk_tv.jpg" group-title="★ Türkiye",TR: NR 1 Turk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1654
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1655
