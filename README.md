@@ -1555,6 +1555,8 @@ http://admin.vlagor-iptv.com:80/live.ts?channelId=78&deviceUser=No02cUst034&devi
 http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/4237
 #EXTINF:-1 tvg-id="" tvg-name="TRING TURKISH STORIES TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring-turkish-stories-al.png" group-title="Live: Albania",[AL] TRING TURKISH STORIES TV
 http://3.z-ott.com:80/5WU6tnXlNP/ky21ju3OG8/1547
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING TURKISH FHD" tvg-logo="" group-title="Live: Albania",AL: TRING TURKISH FHD
+http://379329039926770175.ofds0401.xyz:80/play/vi1129662/9qWxxWxtTy/770175.ts
 #EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova FHD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/66309
 #EXTINF:-1 tvg-id="" tvg-name="A TV HD AL" tvg-logo="https://picon-13398.kxcdn.com/atval.jpg" group-title="Live: Albania",A TV HD AL
