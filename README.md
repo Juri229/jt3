@@ -2049,3 +2049,1742 @@ http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1653
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1654
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1655
+#EXTINF:-1 tvg-id="********** Italian *************" tvg-link="" tvg-name="********** Italian *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/ItaliaLogo.png" group-title="Italian",********** Italian *************
+http://admin.vlagor-iptv.com:80/live.ts?channelId=559&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai 1" tvg-link="" tvg-name="Rai 1" tvg-logo="http://5.189.151.71/tt/rai_1.png" group-title="Italian",Rai 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=237&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai 2" tvg-link="" tvg-name="Rai 2" tvg-logo="http://5.189.151.71/tt/rai_2.png" group-title="Italian",Rai 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=238&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai 3" tvg-link="" tvg-name="Rai 3" tvg-logo="" group-title="Italian",Rai 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=855&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai 4" tvg-link="" tvg-name="Rai 4" tvg-logo="" group-title="Italian",Rai 4
+http://admin.vlagor-iptv.com:80/live.ts?channelId=856&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai 5" tvg-link="" tvg-name="Rai 5" tvg-logo="" group-title="Italian",Rai 5
+http://admin.vlagor-iptv.com:80/live.ts?channelId=857&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai Movie" tvg-link="" tvg-name="Rai Movie" tvg-logo="" group-title="Italian",Rai Movie
+http://admin.vlagor-iptv.com:80/live.ts?channelId=859&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai News" tvg-link="" tvg-name="Rai News" tvg-logo="" group-title="Italian",Rai News
+http://admin.vlagor-iptv.com:80/live.ts?channelId=860&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rai Premium" tvg-link="" tvg-name="Rai Premium" tvg-logo="" group-title="Italian",Rai Premium
+http://admin.vlagor-iptv.com:80/live.ts?channelId=861&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Canale 5" tvg-link="" tvg-name="Canale 5" tvg-logo="http://5.189.151.71/tt/mediaset_canale5.png" group-title="Italian",Canale 5
+http://admin.vlagor-iptv.com:80/live.ts?channelId=244&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Italia 1" tvg-link="" tvg-name="Italia 1" tvg-logo="" group-title="Italian",Italia 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=895&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rete 4" tvg-link="" tvg-name="Rete 4" tvg-logo="" group-title="Italian",Rete 4
+http://admin.vlagor-iptv.com:80/live.ts?channelId=896&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Alice" tvg-link="" tvg-name="Alice" tvg-logo="" group-title="Italian",Alice
+http://admin.vlagor-iptv.com:80/live.ts?channelId=876&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Cinema 1" tvg-link="" tvg-name="Sky Cinema 1" tvg-logo="" group-title="Italian",Sky Cinema 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=866&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Cinema Family." tvg-link="" tvg-name="Sky Cinema Family." tvg-logo="" group-title="Italian",Sky Cinema Family.
+http://admin.vlagor-iptv.com:80/live.ts?channelId=870&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Cinema Hits" tvg-link="" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="Italian",Sky Cinema Hits
+http://admin.vlagor-iptv.com:80/live.ts?channelId=871&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-link="" tvg-name="Sky Cinema Action" tvg-logo="" group-title="Italian",Sky Cinema Action
+http://admin.vlagor-iptv.com:80/live.ts?channelId=873&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 " tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 1 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2355
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2356
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 3" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2357
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 4" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2358
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2359
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Movie" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Movie
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2360
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Premium
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2361
+#EXTINF:-1 tvg-id="" tvg-name="IT: Canale 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: Canale 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2365
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA7" tvg-logo="" group-title="★ ITALIAN Channels",IT: LA7
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2366
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete 4" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rete 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2367
+#EXTINF:-1 tvg-id="" tvg-name="IT: 20 Mediaset" tvg-logo="" group-title="★ ITALIAN Channels",IT: 20 Mediaset
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/21994
+#EXTINF:-1 tvg-id="" tvg-name="IT: Alice TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Alice TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/21996
+#EXTINF:-1 tvg-id="" tvg-name="IT: Antenna Sicilia" tvg-logo="" group-title="★ ITALIAN Channels",IT: Antenna Sicilia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22000
+#EXTINF:-1 tvg-id="" tvg-name="IT: Arte Network" tvg-logo="" group-title="★ ITALIAN Channels",IT: Arte Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22002
+#EXTINF:-1 tvg-id="" tvg-name="IT: Baby TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Baby TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22004
+#EXTINF:-1 tvg-id="" tvg-name="IT: BOiNG" tvg-logo="" group-title="★ ITALIAN Channels",IT: BOiNG
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22007
+#EXTINF:-1 tvg-id="" tvg-name="IT: CAFE 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: CAFE 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22011
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 7" tvg-logo="" group-title="★ ITALIAN Channels",IT: CANALE 7
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22016
+#EXTINF:-1 tvg-id="" tvg-name="IT: Carina TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Carina TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22020
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoonito" tvg-logo="" group-title="★ ITALIAN Channels",IT: Cartoonito
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22021
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cielo" tvg-logo="" group-title="★ ITALIAN Channels",IT: Cielo
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22022
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cine 34 Mediaset" tvg-logo="" group-title="★ ITALIAN Channels",IT: Cine 34 Mediaset
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22023
+#EXTINF:-1 tvg-id="" tvg-name="IT: COMEDY CENTRAL" tvg-logo="" group-title="★ ITALIAN Channels",IT: COMEDY CENTRAL
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22025
+#EXTINF:-1 tvg-id="" tvg-name="IT: DEA JUNIOR" tvg-logo="" group-title="★ ITALIAN Channels",IT: DEA JUNIOR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22029
+#EXTINF:-1 tvg-id="" tvg-name="IT: DEEJAY TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: DEEJAY TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22031
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/107/820/png-transparent-discovery-channel-logo-television-channel-film-mini-miscellaneous-television-text-thumbnail.png" group-title="★ ITALIAN Channels",IT: Discovery Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22032
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Drammatico" tvg-logo="" group-title="★ ITALIAN Channels",IT: Eagle Cinema Drammatico
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22047
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Horror" tvg-logo="" group-title="★ ITALIAN Channels",IT: Eagle Cinema Horror
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22051
+#EXTINF:-1 tvg-id="" tvg-name="IT: Eagle Cinema Passione" tvg-logo="" group-title="★ ITALIAN Channels",IT: Eagle Cinema Passione
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22053
+#EXTINF:-1 tvg-id="" tvg-name="IT: Esperia TV 18 Calabria" tvg-logo="" group-title="★ ITALIAN Channels",IT: Esperia TV 18 Calabria
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22072
+#EXTINF:-1 tvg-id="" tvg-name="IT: frisbee" tvg-logo="" group-title="★ ITALIAN Channels",IT: frisbee
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22076
+#EXTINF:-1 tvg-id="" tvg-name="IT: FM italia TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: FM italia TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22077
+#EXTINF:-1 tvg-id="" tvg-name="IT: Focus" tvg-logo="" group-title="★ ITALIAN Channels",IT: Focus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22079
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOX" tvg-logo="https://w7.pngwing.com/pngs/56/359/png-transparent-logo-of-nbc-television-channel-fox-fox-television-angle-animals-thumbnail.png" group-title="★ ITALIAN Channels",IT: FOX
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22083
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOX LIFE" tvg-logo="https://w7.pngwing.com/pngs/240/69/png-transparent-fox-life-india-fox-international-channels-television-channel-fox-news-logo-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: FOX LIFE
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22085
+#EXTINF:-1 tvg-id="" tvg-name="IT: Giallo" tvg-logo="" group-title="★ ITALIAN Channels",IT: Giallo
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22089
+#EXTINF:-1 tvg-id="" tvg-name="IT: GLOBUS TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: GLOBUS TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22090
+#EXTINF:-1 tvg-id="" tvg-name="IT: GOLD TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: GOLD TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22091
+#EXTINF:-1 tvg-id="" tvg-name="IT: History Channel" tvg-logo="https://w7.pngwing.com/pngs/537/284/png-transparent-history-television-channel-logo-h2-history-miscellaneous-television-angle-thumbnail.png" group-title="★ ITALIAN Channels",IT: History Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22093
+#EXTINF:-1 tvg-id="" tvg-name="IT: Home&Garden" tvg-logo="" group-title="★ ITALIAN Channels",IT: Home&Garden
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22094
+#EXTINF:-1 tvg-id="" tvg-name="IT: INTER TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: INTER TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22095
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX" tvg-logo="" group-title="★ ITALIAN Channels",IT: DMAX
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22098
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Extra" tvg-logo="" group-title="★ ITALIAN Channels",IT: Mediaset Extra
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2354
+#EXTINF:-1 tvg-id="" tvg-name="IT: Fishing Tv" tvg-logo="" group-title="★ ITALIAN Channels",IT: Fishing Tv
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22099
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITLIYA 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: ITLIYA 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22100
+#EXTINF:-1 tvg-id="" tvg-name="IT: K2" tvg-logo="" group-title="★ ITALIAN Channels",IT: K2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22103
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: La 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22104
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5 MEDIASET" tvg-logo="" group-title="★ ITALIAN Channels",IT: LA 5 MEDIASET
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22105
+#EXTINF:-1 tvg-id="" tvg-name="IT: La 7D" tvg-logo="" group-title="★ ITALIAN Channels",IT: La 7D
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22107
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Crime" tvg-logo="" group-title="★ ITALIAN Channels",IT: Top Crime
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22108
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Extra" tvg-logo="" group-title="★ ITALIAN Channels",IT: Mediaset Extra
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22117
+#EXTINF:-1 tvg-id="" tvg-name="IT:  IRIS" tvg-logo="" group-title="★ ITALIAN Channels",IT:  IRIS
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22122
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET ITALIA" tvg-logo="" group-title="★ ITALIAN Channels",IT: MEDIASET ITALIA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22123
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Mediaset Italia 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22126
+#EXTINF:-1 tvg-id="" tvg-name="IT: Milan Channel" tvg-logo="" group-title="★ ITALIAN Channels",IT: Milan Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22132
+#EXTINF:-1 tvg-id="" tvg-name="IT: MTV" tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: MTV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22136
+#EXTINF:-1 tvg-id="" tvg-name="IT: MTV Hits" tvg-logo="" group-title="★ ITALIAN Channels",IT: MTV Hits
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22137
+#EXTINF:-1 tvg-id="" tvg-name="IT: MTV Rocks" tvg-logo="" group-title="★ ITALIAN Channels",IT: MTV Rocks
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22138
+#EXTINF:-1 tvg-id="" tvg-name="IT: Napoli Icaro TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Napoli Icaro TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22139
+#EXTINF:-1 tvg-id="" tvg-name="IT: Nove" tvg-logo="" group-title="★ ITALIAN Channels",IT: Nove
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22140
+#EXTINF:-1 tvg-id="" tvg-name="IT: NAT GEO Wild" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others-thumbnail.png" group-title="★ ITALIAN Channels",IT: NAT GEO Wild
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22143
+#EXTINF:-1 tvg-id="" tvg-name="IT: NOVE HD" tvg-logo="" group-title="★ ITALIAN Channels",IT: NOVE HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22146
+#EXTINF:-1 tvg-id="" tvg-name="IT: One TV Emilia" tvg-logo="" group-title="★ ITALIAN Channels",IT: One TV Emilia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22151
+#EXTINF:-1 tvg-id="" tvg-name="IT: ORLER Channel" tvg-logo="" group-title="★ ITALIAN Channels",IT: ORLER Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22152
+#EXTINF:-1 tvg-id="" tvg-name="IT: Paramount Channel" tvg-logo="" group-title="★ ITALIAN Channels",IT: Paramount Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22153
+#EXTINF:-1 tvg-id="" tvg-name="IT: Paramount Network" tvg-logo="" group-title="★ ITALIAN Channels",IT: Paramount Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22154
+#EXTINF:-1 tvg-id="" tvg-name="IT: PESCA" tvg-logo="" group-title="★ ITALIAN Channels",IT: PESCA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22156
+#EXTINF:-1 tvg-id="" tvg-name="IT: Pesca e Caccia" tvg-logo="" group-title="★ ITALIAN Channels",IT: Pesca e Caccia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22158
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium ACTION +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium ACTION +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22159
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Action" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Action
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22160
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Calcio 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Calcio 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22161
+#EXTINF:-1 tvg-id="" tvg-name="IT: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: Cartoon Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22162
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Cinema +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22163
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Cinema 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22164
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema 2 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Cinema 2 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22165
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM CINEMA 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22166
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Cinema 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22167
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA Crime" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM CINEMA Crime
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22170
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA ENERGY" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM CINEMA ENERGY
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22172
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA STORIES" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM CINEMA STORIES
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22174
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Crime +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Crime +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22176
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM Crime" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM Crime
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22177
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Energy" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Energy
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22180
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM PARAMOUNT" tvg-logo="" group-title="★ ITALIAN Channels",IT: PREMIUM PARAMOUNT
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22181
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Stories 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Stories 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22182
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Stories" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Stories
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22183
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Studio Universal" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Studio Universal
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22184
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22185
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22186
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 3" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22187
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 4" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22188
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22189
+#EXTINF:-1 tvg-id="" tvg-name="IT: Primafila 10" tvg-logo="" group-title="★ ITALIAN Channels",IT: Primafila 10
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22194
+#EXTINF:-1 tvg-id="" tvg-name="IT: QVC" tvg-logo="" group-title="★ ITALIAN Channels",IT: QVC
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22202
+#EXTINF:-1 tvg-id="" tvg-name="IT: RADIO ITALIA TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: RADIO ITALIA TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22206
+#EXTINF:-1 tvg-id="" tvg-name="IT: RADIO M20 TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: RADIO M20 TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22207
+#EXTINF:-1 tvg-id="" tvg-name="IT: Radio Montecarlo TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Radio Montecarlo TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22208
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Gulp" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Gulp
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22216
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Italia" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Italia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22217
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Nettuno" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Nettuno
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22219
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai News 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai News 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22221
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Mediaset Italia 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22223
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Scuola" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Scuola
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22224
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22225
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport plus" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Sport plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22228
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Storia" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai Storia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22229
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai YoYo" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai YoYo
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22230
+#EXTINF:-1 tvg-id="" tvg-name="IT: RDS Social TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: RDS Social TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22231
+#EXTINF:-1 tvg-id="" tvg-name="IT: Real Time" tvg-logo="" group-title="★ ITALIAN Channels",IT: Real Time
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22233
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rete Biella TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rete Biella TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22236
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSA LA2" tvg-logo="" group-title="★ ITALIAN Channels",IT: RSA LA2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22239
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rsi La 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rsi La 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22240
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rsi La2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rsi La2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22241
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTC Calabria Channel" tvg-logo="" group-title="★ ITALIAN Channels",IT: RTC Calabria Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22242
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTL 1025" tvg-logo="" group-title="★ ITALIAN Channels",IT: RTL 1025
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22243
+#EXTINF:-1 tvg-id="" tvg-name="IT: RTV Reggio" tvg-logo="" group-title="★ ITALIAN Channels",IT: RTV Reggio
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22245
+#EXTINF:-1 tvg-id="" tvg-name="IT: Senato TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Senato TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22250
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Uno" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Uno
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22252
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Atlantic" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Atlantic
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22258
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22268
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1 +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1 +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22269
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22270
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22271
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 2 +24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 2 +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22272
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22273
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22274
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Cinema Collection" tvg-logo="https://w7.pngwing.com/pngs/463/46/png-transparent-sky-cinema-television-channel-film-sky-plc-cinema-logo-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: S Cinema Collection
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22277
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Due 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Due 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22281
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Duo" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Duo
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22283
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Max +1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Max +1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22285
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Passion" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Passion
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22286
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Cinema Romance" tvg-logo="https://w7.pngwing.com/pngs/463/46/png-transparent-sky-cinema-television-channel-film-sky-plc-cinema-logo-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: S Cinema Romance
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22288
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Suspense" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Suspense
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22290
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Cinema Uno +24" tvg-logo="https://w7.pngwing.com/pngs/463/46/png-transparent-sky-cinema-television-channel-film-sky-plc-cinema-logo-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: S Cinema Uno +24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22291
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA UNO 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: SKY CINEMA UNO 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22292
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Uno" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Cinema Uno
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22293
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMAMANCE" tvg-logo="" group-title="★ ITALIAN Channels",IT: SKY CINEMAMANCE
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22294
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Dazn Bar" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Dazn Bar
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22295
+#EXTINF:-1 tvg-id="" tvg-name="IT: Discovery Sci" tvg-logo="" group-title="★ ITALIAN Channels",IT: Discovery Sci
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22296
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Italia Sport 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Italia Sport 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22297
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky MotoGP" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky MotoGP
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22298
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Sky Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22322
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Sport NBA" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Sport NBA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22338
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Supercalcio Serie A" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Supercalcio Serie A
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22345
+#EXTINF:-1 tvg-id="" tvg-name="IT: S TG 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: S TG 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22346
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Uno" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Uno
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22349
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Atlantic" tvg-logo="" group-title="★ ITALIAN Channels",IT: S Atlantic
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22352
+#EXTINF:-1 tvg-id="" tvg-name="IT: Spike" tvg-logo="" group-title="★ ITALIAN Channels",IT: Spike
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22353
+#EXTINF:-1 tvg-id="" tvg-name="IT: Studio 100" tvg-logo="" group-title="★ ITALIAN Channels",IT: Studio 100
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22361
+#EXTINF:-1 tvg-id="" tvg-name="IT: Studio Universal" tvg-logo="" group-title="★ ITALIAN Channels",IT: Studio Universal
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22363
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super !" tvg-logo="" group-title="★ ITALIAN Channels",IT: Super !
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22364
+#EXTINF:-1 tvg-id="" tvg-name="IT: TELE 5" tvg-logo="" group-title="★ ITALIAN Channels",IT: TELE 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22367
+#EXTINF:-1 tvg-id="" tvg-name="IT: TELE ARENA" tvg-logo="" group-title="★ ITALIAN Channels",IT: TELE ARENA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22368
+#EXTINF:-1 tvg-id="" tvg-name="IT: TelePace Tv" tvg-logo="" group-title="★ ITALIAN Channels",IT: TelePace Tv
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22384
+#EXTINF:-1 tvg-id="" tvg-name="IT: TELESTAR" tvg-logo="" group-title="★ ITALIAN Channels",IT: TELESTAR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22387
+#EXTINF:-1 tvg-id="" tvg-name="IT: Telestar 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Telestar 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22388
+#EXTINF:-1 tvg-id="" tvg-name="IT: Teletricolore" tvg-logo="" group-title="★ ITALIAN Channels",IT: Teletricolore
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22389
+#EXTINF:-1 tvg-id="" tvg-name="IT: TeleVenezia" tvg-logo="" group-title="★ ITALIAN Channels",IT: TeleVenezia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22390
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG Com 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: TG Com 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22392
+#EXTINF:-1 tvg-id="" tvg-name="IT: TG Norba 24" tvg-logo="" group-title="★ ITALIAN Channels",IT: TG Norba 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22393
+#EXTINF:-1 tvg-id="" tvg-name="IT: TORINO Channel HD" tvg-logo="" group-title="★ ITALIAN Channels",IT: TORINO Channel HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22398
+#EXTINF:-1 tvg-id="" tvg-name="IT: Totò Channel" tvg-logo="" group-title="★ ITALIAN Channels",IT: Totò Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22399
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 7 DIGITAL" tvg-logo="" group-title="★ ITALIAN Channels",IT: TV 7 DIGITAL
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22404
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV8 " tvg-logo="" group-title="★ ITALIAN Channels",IT: TV8 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22405
+#EXTINF:-1 tvg-id="" tvg-name="IT: TV 2000 HD" tvg-logo="" group-title="★ ITALIAN Channels",IT: TV 2000 HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22406
+#EXTINF:-1 tvg-id="" tvg-name="IT: Unire Sat HD" tvg-logo="" group-title="★ ITALIAN Channels",IT: Unire Sat HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22414
+#EXTINF:-1 tvg-id="" tvg-name="IT: Vetrina Extra Dazn" tvg-logo="" group-title="★ ITALIAN Channels",IT: Vetrina Extra Dazn
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22416
+#EXTINF:-1 tvg-id="" tvg-name="IT: Vetrina Primafila" tvg-logo="" group-title="★ ITALIAN Channels",IT: Vetrina Primafila
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22417
+#EXTINF:-1 tvg-id="" tvg-name="IT: VH1" tvg-logo="" group-title="★ ITALIAN Channels",IT: VH1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22419
+#EXTINF:-1 tvg-id="" tvg-name="IT: VIDEO BRESCIA" tvg-logo="" group-title="★ ITALIAN Channels",IT: VIDEO BRESCIA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22420
+#EXTINF:-1 tvg-id="" tvg-name="IT: Video Star TV" tvg-logo="" group-title="★ ITALIAN Channels",IT: Video Star TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22422
+#EXTINF:-1 tvg-id="" tvg-name="IT: Videostar TV Lombardia" tvg-logo="" group-title="★ ITALIAN Channels",IT: Videostar TV Lombardia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/22424
+#EXTINF:-1 tvg-id="" tvg-name="IT: National Geographic" tvg-logo="" group-title="★ ITALIAN Channels",IT: National Geographic
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2350
+#EXTINF:-1 tvg-id="" tvg-name="IT: Italia 1" tvg-logo="" group-title="★ ITALIAN Channels",IT: Italia 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2352
+#EXTINF:-1 tvg-id="" tvg-name="IT: Food Network" tvg-logo="" group-title="★ ITALIAN Channels",IT: Food Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2349
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Energy" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Energy
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2347
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema" tvg-logo="" group-title="★ ITALIAN Channels",IT: Premium Cinema
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2344
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 1 (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40635
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 1 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 1 (SD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/46623
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 2 (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40636
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 2 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 2 (SD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/46624
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: ARENA PREMIUM 3 (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40637
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Arena Premium 3 (SD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Arena Premium 3 (SD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/46625
+#EXTINF:-1 tvg-id="Arenasport 1.hr" tvg-name="SPORT: ArenaSport 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/699
+#EXTINF:-1 tvg-id="Arenasport 1 HD.hr" tvg-name="SPORT: ArenaSport 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29070
+#EXTINF:-1 tvg-id="Arenasport 2.hr" tvg-name="SPORT: ArenaSport 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/700
+#EXTINF:-1 tvg-id="Arenasport 2 HD.hr" tvg-name="SPORT: ArenaSport 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29071
+#EXTINF:-1 tvg-id="Arenasport 3.hr" tvg-name="SPORT: ArenaSport 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/701
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29072
+#EXTINF:-1 tvg-id="Arenasport 4.hr" tvg-name="SPORT: ArenaSport 4 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/702
+#EXTINF:-1 tvg-id="Arenasport 3 HD.hr" tvg-name="SPORT: ArenaSport 4 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29073
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/703
+#EXTINF:-1 tvg-id="Arenasport 5 HD.hr" tvg-name="SPORT: ArenaSport 5 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29074
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ArenaSport BH" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport BH
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/704
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/705
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-name="SPORT: ArenaSport 1 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 1 SR (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29066
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/706
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-name="SPORT: ArenaSport 2 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 2 SR (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29067
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/707
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-name="SPORT: ArenaSport 3 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 3 SR (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29068
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/708
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="SPORT: ArenaSport 4 SR (HD)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 4 SR (HD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29069
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-name="SPORT: ArenaSport 5 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 5 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/709
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-name="SPORT: ArenaSport 6 SR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-6-rs.png" group-title="★ SPORTS (All World Sports)",SPORT: ArenaSport 6 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/710
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: ARENA FIGHT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-fight-rs.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: ARENA FIGHT
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39561
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT: Sport Klub 1 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 1 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/711
+#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="Ex-Yu: Sport Klub 1 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 SR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36527
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/712
+#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="Ex-Yu: Sport Klub 2 SR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 SR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36528
+#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="SPORT: Sport Klub 3 SR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/713
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="SPORT: Sport Klub 4 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 4 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/714
+#EXTINF:-1 tvg-id="sportklub5.rs" tvg-name="SPORT: Sport Klub 5 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 5 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/715
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-name="SPORT: Sport Klub 6 SR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 6 SR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/716
+#EXTINF:-1 tvg-id="sportgolf.rs" tvg-name="SPORT: Sport Klub Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_golf.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub Golf 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/717
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 1 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 1 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/718
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 1 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_1.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 1 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36530
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 2 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 2 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/719
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 2 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_2.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 2 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36531
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Sport Klub 3 HR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",SPORT: Sport Klub 3 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/720
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Sport Klub 3 HR HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_klub_rs_3.png" group-title="★ SPORTS (All World Sports)",Ex-Yu: Sport Klub 3 HR HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36532
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 4 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 4 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/721
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  Sport Klub 5 HR" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT:  Sport Klub 5 HR
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/722
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/723
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/724
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Nova Sport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Nova Sport  
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36529
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-1-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/41332
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/41333
+#EXTINF:-1 tvg-id="" tvg-name="Ex-yu: Discovery DTX" tvg-logo="" group-title="★ DOKUMENTARNI KANALI",Ex-yu: Discovery DTX
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39139
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sportska TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sportska TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/884
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sport Klub Fight" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sport Klub Fight
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/848
+#EXTINF:-1 tvg-id="" tvg-name="Ex-Yu: Zvezda TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Ex-Yu: Zvezda TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36284
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/725
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/726
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Eurosport 2 Xtra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Eurosport 2 Xtra
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/727
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-1-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/728
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: DAZN BAR 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-2-uk.svg" group-title="★ SPORTS (All World Sports)",SPORT: DE: DAZN BAR 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/729
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport News" tvg-logo="https://w7.pngwing.com/pngs/514/778/png-transparent-logo-sky-news-live-television-brand-television-channel-design-television-text-rectangle-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/730
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S Bundesliga 1 (FHD)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 1 (FHD)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/731
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 FHD (Nur bei Live Spiele)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/732
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD.de" tvg-name="SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 3 (Nur bei Live Spiele)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/733
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD.de" tvg-name="SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 4  (Nur bei Live Spiele)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/734
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 HD.de" tvg-name="SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 5  (Nur bei Live Spiele)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/735
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD.de" tvg-name="SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga  6  (Nur bei Live Spiele)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/736
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD+" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD+
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/737
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/738
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 3 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport3.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 3 (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/739
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 4 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_04.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 4 (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/740
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 5  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_05.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 5  (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/741
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 6  (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_06.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 6  (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/742
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 7 (Live Event)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_07.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 7 (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/743
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD.de" tvg-name="SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S-ky Sport Bundesliga 1 (matchdays only)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/745
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD.de" tvg-name="SPORT: DE: S Bundesliga 2 HD (Live Event)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-bundesliga-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Bundesliga 2 HD (Live Event)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/744
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport1_de_plus.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 1 HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/747
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sport 2 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sport 2 FHD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/746
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_de_plus.jpg" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/748
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Auto Motor Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: Auto Motor Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/749
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: FC Bayern TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: DE: FC Bayern TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/750
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: S Sports Austria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: S Sports Austria
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/751
+#EXTINF:-1 tvg-id="" tvg-name="AT: S Sport Austria 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-austria-1-de-at.png" group-title="★ SPORTS (All World Sports)",AT: S Sport Austria 1 HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29047
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: DE: Sport Digital" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportdigital-fussball-de.png" group-title="★ SPORTS (All World Sports)",SPORT: DE: Sport Digital
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/924
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AT: ORF Sport+" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AT: ORF Sport+
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/752
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 1 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 1 HD [Match Time]
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29032
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 2 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 2 HD [Match Time] 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29033
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 3 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 3 HD [Match Time]
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29034
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 4 HD [Match Time]" tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 4 HD [Match Time]
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29035
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom Fußball 5 HD [Match Time] " tvg-logo="" group-title="★ SPORTS (All World Sports)",DE: Telekom Fußball 5 HD [Match Time] 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/29036
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS Premium 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN SPORTS Premium 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47452
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47454
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports Max 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AR: beIN sports Max 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47455
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: Bein Sports News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: Bein Sports News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/789
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/776
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/777
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/778
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/779
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/780
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 6
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/781
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 7
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/782
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 9
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/784
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: BEIN Sports 10
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/785
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40609
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue SPORT 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40610
+#EXTINF:-1 tvg-id="" tvg-name="SW: Blue ZOOM D" tvg-logo="" group-title="★ SPORTS (All World Sports)",SW: Blue ZOOM D
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/40611
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Premier League
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6278
+#EXTINF:-1 tvg-id="" tvg-name=" ZA: SuperSport Action" tvg-logo="" group-title="★ SPORTS (All World Sports)", ZA: SuperSport Action
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6275
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Cricket 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6269
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Grandstand
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6272
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Maximo 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6274
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport MotorSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport MotorSport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6276
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36176
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36177
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Variety 4 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36178
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="" group-title="★ SPORTS (All World Sports)",ZA: SuperSport Blitz
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36179
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 1 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6701
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 2 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 2 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6702
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 3 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 3 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6703
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 4 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 4 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6704
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6705
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 6 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 6 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6706
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 7 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 7 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6707
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports 8 " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 8 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6708
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: MySports " tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: MySports 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6709
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1 FHD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6710
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6711
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2 FHD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2 FHD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6712
+#EXTINF:-1 tvg-id="" tvg-name="Swiss: TC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Swiss: TC Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/6713
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 1 " tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 1 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/20989
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",CH: Teleclub Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/20990
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/768
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/769
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Premier Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Premier Sports
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/772
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Liverpool  TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Liverpool  TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/774
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: FC Manchester United (MUTV)" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: FC Manchester United (MUTV)
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/775
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Kombat Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Kombat Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/788
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/790
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/791
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: BEIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: BEIN Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/792
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Canal+  Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Canal+  Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/793
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/794
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/795
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: GOLF" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: GOLF
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/796
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: InfoSport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: InfoSport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/797
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/798
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/799
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/800
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/801
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FR: RMC Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FR: RMC Sport News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/802
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Uno" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Uno
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1486
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT 2 " tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_it_sport2.jpg" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT 2 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1487
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Rai Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Rai Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1484
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",IT: RAI SPORT 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1485
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport 24" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1475
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT F1 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT F1 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1477
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: PREMIUM SPORT HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: PREMIUM SPORT HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1480
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S SPORT Collection" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S SPORT Collection
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1481
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1478
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: EUROSPORT 2 HD" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: EUROSPORT 2 HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1479
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Super Tennis" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Super Tennis
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1474
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Sport Italia" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Sport Italia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1473
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: S Sport Moto GP" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: S Sport Moto GP
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1483
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  AUTO MOTO TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  AUTO MOTO TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1489
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT: Juventus Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT: Juventus Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1491
+#EXTINF:-1 tvg-id="" tvg-name="Sport: IT:  LAZIO CHANNEL" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: IT:  LAZIO CHANNEL
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1492
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/803
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/804
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/805
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/806
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Bein Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Bein Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/807
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: S-Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: S-Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/810
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Tivibuspor 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: Tivibuspor 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/811
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/812
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TivibuSpor 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TivibuSpor 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/813
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR:  A Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR:  A Spor
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/815
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: TRT Spor" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: TR: TRT Spor
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/816
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Smart Spor" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/smart_spor.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Smart Spor
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/809
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: TR: Fb Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fbtv_fenerbahce.jpg" group-title="★ SPORTS (All World Sports)",SPORT: TR: Fb Tv
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/817
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: BEIN Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: BEIN Sports
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/818
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: AFN Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: AFN Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/819
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/820
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Sport 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/821
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Fox Soccer Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Fox Soccer Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/822
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",US: NHL Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/21002
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/823
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/824
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/826
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/827
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL NOW" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL NOW
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/828
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/829
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NFL Red Zone" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NFL Red Zone
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/830
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: CBS Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: CBS Sports
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/831
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/832
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/833
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/834
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/835
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TSN 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TSN 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/836
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Washington" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Washington
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/837
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Bay Area" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Bay Area
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/838
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Los Angeles" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Los Angeles
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/839
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: PAC-12 Arizona" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: PAC-12 Arizona
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/841
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Golf
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/842
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MLB Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MLB Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/847
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet One" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet One
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/849
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sportsnet 360" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sportsnet 360
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/850
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Willow Cricket" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Willow Cricket
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/851
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: TyC Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: TyC Sports
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/852
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Tennis Channel" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Tennis Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/853
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: WWE Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: WWE Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/854
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: FightBox" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: FightBox
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/856
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Chicago" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Chicago
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/888
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: MSNBC" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: MSNBC
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/889
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet World
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/891
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: SportsNet Ontario" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: SportsNet Ontario
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/892
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/894
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Ten Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Ten Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/895
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: Sony Six " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: Sony Six 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/898
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: BoxNation" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: BoxNation
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/855
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Fight Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/859
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: De: Motorvision" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: De: Motorvision
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/857
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Channel World" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Channel World
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/858
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fight Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fight Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/860
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport tv NBA" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport tv NBA
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/861
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK:  At The Races" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/at_the_races_ie.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK:  At The Races
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/862
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Racing
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/863
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/864
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Dubai Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Dubai Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/865
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Racing UK" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Racing UK
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/866
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: NBC Sports Network" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: NBC Sports Network
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/867
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: MotorSport TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: MotorSport TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/868
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/13226
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/13227
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",AU: beIN Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/13228
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport News" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/873
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/870
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/871
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Tring Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Tring Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/872
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/874
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/875
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/876
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: Super Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: Super Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/877
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/878
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/879
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/880
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: K Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: K Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/881
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/882
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AL: SS Kosova 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AL: SS Kosova 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/883
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 1" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/900
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/901
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 3" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/902
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 4" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/903
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Fox Sports 5" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: NL: Fox Sports 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/904
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Eurosport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/911
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport 1 Voetbal" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport 1 Voetbal
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/905
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Select" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Select
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/906
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport  Racing" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport  Racing
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/907
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport  Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport  Golf
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/908
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL:  Ziggo Sport Extra 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL:  Ziggo Sport Extra 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/909
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NL: Ziggo Sport Extra 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: NL: Ziggo Sport Extra 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/910
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39149
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39150
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39151
+#EXTINF:-1 tvg-id="" tvg-name="Sprt: NL: ESPN Nederland 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sprt: NL: ESPN Nederland 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39152
+#EXTINF:-1 tvg-id="" tvg-name="Sport: NL: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",Sport: NL: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39155
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/912
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/913
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/914
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: OSN Ad Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: AR: OSN Ad Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/915
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sporting TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sporting TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/916
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/917
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/918
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/919
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/920
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PT: Sport TV 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PT: Sport TV 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/921
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1468
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1469
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1470
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1471
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN Sports 5" tvg-logo="" group-title="★ SPORTS (All World Sports)",PT: ELEVEN Sports 5
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1472
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: RO: EuroSport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/922
+#EXTINF:-1 tvg-id="" tvg-name="US: Cozi TV" tvg-logo="" group-title="★ USA Channels",US: Cozi TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1660
+#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: London Live
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/429
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: UFC Fight PASS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: UFC Fight PASS
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/923
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Polsat Sport Extra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Polsat Sport Extra
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/926
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/927
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Canal Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Canal Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/928
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/929
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Fight Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: Fight Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/931
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: TVP Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: TVP Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/932
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: FightClub" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: FightClub
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/933
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/934
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Eurosport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Eurosport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/935
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/936
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Diema Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Diema Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/937
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Nova Sport" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Nova Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/938
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Ring TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Ring TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/940
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BG: Sport Plus" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: BG: Sport Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/941
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/21530
+#EXTINF:-1 tvg-id="" tvg-name="BG: Max Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",BG: Max Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/21531
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: EuroSport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: EuroSport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/942
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Barca TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Barca TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/943
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Real Madrid TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Real Madrid TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/944
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Movistar LaLiga" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Movistar LaLiga
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/945
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: beINSport  " tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: beINSport  
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/946
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: M Golf" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: M Golf
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/949
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Fox Sports News" tvg-logo="https://w7.pngwing.com/pngs/30/870/png-transparent-fox-sports-networks-television-channel-fox-broadcasting-company-sports-logos-television-blue-text-thumbnail.png" group-title="★ SPORTS (All World Sports)",SPORT: UK: Fox Sports News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/950
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: MovieStar Futbol" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: MovieStar Futbol
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/951
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: Gol TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: Gol TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/952
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: Motor Trend" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: UK: Motor Trend
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/953
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: ES: La  Liga Bar" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: ES: La  Liga Bar
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/954
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1733
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1734
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1735
+#EXTINF:-1 tvg-id="" tvg-name="RO: TELEKOM SPORT 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",RO: TELEKOM SPORT 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1736
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/955
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 2" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/956
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 3" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/957
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: Digi Sport 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: RO: Digi Sport 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/958
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: OWN" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: OWN
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/959
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN U" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN U
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/961
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: US: ESPN 1" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: US: ESPN 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/960
+#EXTINF:-1 tvg-id="********** Sport *************" tvg-link="" tvg-name="********** Sport *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/sport.png" group-title="Sport",********** Sport *************
+http://admin.vlagor-iptv.com:80/live.ts?channelId=555&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Super Sport 1 ALB" tvg-logo="http://5.189.151.71/digit_alb_supersport1.png" group-title="Sport",Super Sport 1 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=225&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Super Sport 2 ALB" tvg-logo="http://5.189.151.71/digit_alb_supersport2.png" group-title="Sport",Super Sport 2 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=226&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Super Sport 3 ALB" tvg-logo="http://5.189.151.71/digit_alb_supersport3.png" group-title="Sport",Super Sport 3 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=227&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Super Sport 4 ALB" tvg-logo="http://5.189.151.71/digit_alb_supersport4.png" group-title="Sport",Super Sport 4 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=228&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Sport News ALB" tvg-logo="http://5.189.151.71/tt/tring_al_sport_news.png" group-title="Sport",Tring Sport News ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=220&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Sport 1 ALB" tvg-logo="http://5.189.151.71/tring_al_sport_1.png" group-title="Sport",Tring Sport 1 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=221&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Sport 2 ALB" tvg-logo="http://5.189.151.71/tring_al_sport_2.png" group-title="Sport",Tring Sport 2 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=222&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Sport 3 ALB" tvg-logo="http://5.189.151.71/tring_sport_al.png" group-title="Sport",Tring Sport 3 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=223&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Sport 4 ALB" tvg-logo="http://5.189.151.71/tring_sport_al.png" group-title="Sport",Tring Sport 4 ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=224&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH Sport ALB" tvg-link="" tvg-name="RTSH Sport ALB" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%20sport.png" group-title="Sport",RTSH Sport ALB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=617&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="K Sport 1 KS" tvg-link="" tvg-name="K Sport 1 KS" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/k%20sport%201.png" group-title="Sport",K Sport 1 KS
+http://admin.vlagor-iptv.com:80/live.ts?channelId=489&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="K Sport 2 KS" tvg-link="" tvg-name="K Sport 2 KS" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/k%20sport%202.png" group-title="Sport",K Sport 2 KS
+http://admin.vlagor-iptv.com:80/live.ts?channelId=490&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="K Sport 3 KS" tvg-link="" tvg-name="K Sport 3 KS" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/k%20sport%203.png" group-title="Sport",K Sport 3 KS
+http://admin.vlagor-iptv.com:80/live.ts?channelId=491&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="K Sport 4 KS" tvg-link="" tvg-name="K Sport 4 KS" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/k%20sport%204.png" group-title="Sport",K Sport 4 KS
+http://admin.vlagor-iptv.com:80/live.ts?channelId=492&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01d" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sport Klub 1 HR" tvg-logo="http://5.189.151.71/sport_klub_hr_1.png" group-title="Sport",Sport Klub 1 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=193&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01e" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sport Klub 2 HR" tvg-logo="http://5.189.151.71/sport_klub_rs_2.png" group-title="Sport",Sport Klub 2 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=194&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01f" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sport Klub 3 HR" tvg-logo="http://5.189.151.71/sport_klub_rs_3.png" group-title="Sport",Sport Klub 3 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=195&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 1 HD" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 1 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%201.png" group-title="Sport",Sport Klub 1 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=196&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 2 SRB" tvg-link="" tvg-name="Sport Klub 2 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%202.png" group-title="Sport",Sport Klub 2 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=197&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 3 HD" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sport Klub 3 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%203.png" group-title="Sport",Sport Klub 3 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=198&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 4 SRB" tvg-link="" tvg-name="Sport Klub 4 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%204.png" group-title="Sport",Sport Klub 4 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1027&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 5 SRB" tvg-link="" tvg-name="Sport Klub 5 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%205.png" group-title="Sport",Sport Klub 5 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1025&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sport Klub 6 SRB" tvg-link="" tvg-name="Sport Klub 6 SRB" tvg-logo="http://5.189.151.71/SPORT%20KLUB%206.png" group-title="Sport",Sport Klub 6 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1026&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01g" tvg-link="http://141.136.9.114:9095/epg.xml" tvg-name="Sport Klub HD" tvg-logo="" group-title="Sport",Sport Klub HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=952&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-link="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-name="Arena Sport 1 HR" tvg-logo="http://5.189.151.71/Arena%20Sport%20HD%201.png" group-title="Sport",Arena Sport 1 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=200&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 2-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="Arena Sport 2 HR" tvg-logo="http://5.189.151.71/Arena%20Sport%20HD%202.png" group-title="Sport",Arena Sport 2 HR - Arena Sport 2 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=201&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 3-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="Arena Sport 3 HR" tvg-logo="http://5.189.151.71/Arena%20Sport%20HD%203.png" group-title="Sport",Arena Sport 3 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=202&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 4-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="Arena Sport 4 HR" tvg-logo="http://5.189.151.71/Arena%20Sport%20HD%204.png" group-title="Sport",Arena Sport 4 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=203&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 5-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="Arena Sport 5 HR" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/areba5.jpg" group-title="Sport",Arena Sport 5 HR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=204&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-link="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-name="Arena Sport 1 SRB" tvg-logo="http://5.189.151.71/Arena_Sport%201.png" group-title="Sport",Arena Sport 1 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=205&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-link="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-name="Arena Sport 2 SRB" tvg-logo="http://5.189.151.71/ArenaSport%202.png" group-title="Sport",Arena Sport 2 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=206&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-link="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-name="Arena Sport 3 SRB" tvg-logo="http://5.189.151.71/ArenaSport%203.png" group-title="Sport",Arena Sport 3 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=207&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 4" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Arena Sport 4 SRB" tvg-logo="http://5.189.151.71/ArenaSport%204.png" group-title="Sport",Arena Sport 4 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=208&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena Sport 5" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Arena Sport 5 SRB" tvg-logo="http://5.189.151.71/Arena%2055.png" group-title="Sport",Arena Sport 5 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=209&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena 1 Premium" tvg-link="" tvg-name="Arena 1 Premium" tvg-logo="" group-title="Sport",Arena 1 Premium
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1246&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena 2 Premium" tvg-link="" tvg-name="Arena 2 Premium" tvg-logo="" group-title="Sport",Arena 2 Premium
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1247&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arena 3 Premium" tvg-link="" tvg-name="Arena 3 Premium" tvg-logo="" group-title="Sport",Arena 3 Premium
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1248&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="MNE Sport 1" tvg-link="" tvg-name="MNE Sport 1" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2022/03/31/13/21/50/l_light_480x270.png" group-title="Sport",MNE Sport 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=500&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="MNE Sport 2" tvg-link="" tvg-name="MNE Sport 2" tvg-logo="" group-title="Sport",MNE Sport 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=574&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Max Sport 1" tvg-link="" tvg-name="Max Sport 1" tvg-logo="" group-title="Sport",Max Sport 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=408&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Max Sport 2" tvg-link="" tvg-name="Max Sport 2" tvg-logo="" group-title="Sport",Max Sport 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1262&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SPTV" tvg-link="" tvg-name="SPTV" tvg-logo="" group-title="Sport",SPTV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=441&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="SOS" tvg-link="" tvg-name="SOS" tvg-logo="" group-title="Sport",SOS
+http://admin.vlagor-iptv.com:80/live.ts?channelId=890&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Nova Sport" tvg-link="" tvg-name="Nova Sport" tvg-logo="" group-title="Sport",Nova Sport
+http://admin.vlagor-iptv.com:80/live.ts?channelId=931&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Zvezda TV" tvg-link="" tvg-name="Zvezda TV" tvg-logo="" group-title="Sport",Zvezda TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1319&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="eurosport.sport" tvg-link="http://tvprofil.net/xmltv/data/eurosport.sport/weekly_eurosport.sport_tvprofil.net.xml" tvg-name="Eurosport SRB" tvg-logo="#http://5.189.151.71/Eurosport%20HD.png" group-title="Sport",Eurosport SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=191&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Eurosport 2 SRB" tvg-link="" tvg-name="Eurosport 2 SRB" tvg-logo="http://5.189.151.71/Eurosport%202.png" group-title="Sport",Eurosport 2 SRB
+http://admin.vlagor-iptv.com:80/live.ts?channelId=192&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Eurosport 4K (20mb)" tvg-link="" tvg-name="Eurosport 4K (20mb)" tvg-logo="" group-title="Sport",Eurosport 4K (20mb)
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1285&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a018" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="SK Fight" tvg-logo="http://5.189.151.71/Fight_net.png" group-title="Sport",SK Fight
+http://admin.vlagor-iptv.com:80/live.ts?channelId=360&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a018" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Arena Fight" tvg-logo="" group-title="Sport",Arena Fight
+http://admin.vlagor-iptv.com:80/live.ts?channelId=746&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Fight Network" tvg-link="" tvg-name="Fight Network" tvg-logo="" group-title="Sport",Fight Network
+http://admin.vlagor-iptv.com:80/live.ts?channelId=772&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a05l" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sky Sport HD 1" tvg-logo="http://5.189.151.71/sky_de_sport.png" group-title="Sport",Sky Sport HD 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=210&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00g" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sky Sport HD 2" tvg-logo="http://5.189.151.71/sky-sports-2-live-mykora.png" group-title="Sport",Sky Sport HD 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=211&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-link="" tvg-name="Sky Sport Premier League" tvg-logo="" group-title="Sport",Sky Sport Premier League
+http://admin.vlagor-iptv.com:80/live.ts?channelId=891&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-link="" tvg-name="Sky Sport Tennis" tvg-logo="" group-title="Sport",Sky Sport Tennis
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1186&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a06s" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Sky Bundesliga 1" tvg-logo="http://5.189.151.71/sky_de_bundesliga_hd.png" group-title="Sport",Sky Bundesliga 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=212&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" tvg-link="" tvg-name="Sky Bundesliga 2" tvg-logo="http://5.189.151.71/sky_de_bundesliga_hd.png" group-title="Sport",Sky Bundesliga 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=485&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Bundesliga 3" tvg-link="" tvg-name="Sky Bundesliga 3" tvg-logo="" group-title="Sport",Sky Bundesliga 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=504&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-link="" tvg-name="Sky Bundesliga 4" tvg-logo="" group-title="Sport",Sky Bundesliga 4
+http://admin.vlagor-iptv.com:80/live.ts?channelId=505&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Bundesliga 5" tvg-link="" tvg-name="Sky Bundesliga 5" tvg-logo="" group-title="Sport",Sky Bundesliga 5
+http://admin.vlagor-iptv.com:80/live.ts?channelId=506&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Bundesliga 6" tvg-link="" tvg-name="Sky Bundesliga 6" tvg-logo="" group-title="Sport",Sky Bundesliga 6
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1346&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00x" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="DAZN 1" tvg-logo="" group-title="Sport",DAZN 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=446&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a096" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="DAZN 2" tvg-logo="" group-title="Sport",DAZN 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=502&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ORF Sport +" tvg-link="" tvg-name="ORF Sport +" tvg-logo="" group-title="Sport",ORF Sport +
+http://admin.vlagor-iptv.com:80/live.ts?channelId=875&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a05t" tvg-link="http://141.136.9.114:9095/epg.xml" tvg-name="Sport 1 HD" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/sport1.jpg" group-title="Sport",Sport 1 HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=443&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00c" tvg-link="http://141.136.9.114:9095/epg.xml" tvg-name="Sky Sport Austria" tvg-logo="http://5.189.151.71/sky_de_sport_austria.png" group-title="Sport",Sky Sport Austria
+http://admin.vlagor-iptv.com:80/live.ts?channelId=213&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Sky Sport News" tvg-logo="http://5.189.151.71/sky_de_sport_news_hd.png" group-title="Sport",Sky Sport News
+http://admin.vlagor-iptv.com:80/live.ts?channelId=292&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-link="" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="Sport",Sky Sport F1 HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=531&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Eurosport 1 HD DE" tvg-link="" tvg-name="Eurosport 1 HD DE" tvg-logo="" group-title="Sport",Eurosport 1 HD DE
+http://admin.vlagor-iptv.com:80/live.ts?channelId=776&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Blue Sport 1" tvg-link="" tvg-name="Blue Sport 1" tvg-logo="" group-title="Sport",Blue Sport 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1121&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Blue Sport 2" tvg-link="" tvg-name="Blue Sport 2" tvg-logo="" group-title="Sport",Blue Sport 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1122&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Viasat Sport Premium" tvg-link="" tvg-name="Viasat Sport Premium" tvg-logo="" group-title="Sport",Viasat Sport Premium
+http://admin.vlagor-iptv.com:80/live.ts?channelId=540&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Viasat Motors" tvg-link="" tvg-name="Viasat Motors" tvg-logo="" group-title="Sport",Viasat Motors
+http://admin.vlagor-iptv.com:80/live.ts?channelId=669&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Viasat Sport Footbal" tvg-link="" tvg-name="Viasat Sport Footbal" tvg-logo="" group-title="Sport",Viasat Sport Footbal
+http://admin.vlagor-iptv.com:80/live.ts?channelId=907&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="NBA" tvg-link="" tvg-name="NBA" tvg-logo="" group-title="Sport",NBA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=692&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ESPN USA" tvg-link="" tvg-name="ESPN USA" tvg-logo="" group-title="Sport",ESPN USA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=944&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sky Sport F1 UK" tvg-link="" tvg-name="Sky Sport F1 UK" tvg-logo="" group-title="Sport",Sky Sport F1 UK
+http://admin.vlagor-iptv.com:80/live.ts?channelId=275&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-link="" tvg-name="RMC Sport 1 FR" tvg-logo="" group-title="Sport",RMC Sport 1 FR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=607&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-link="" tvg-name="RMC Sport 2 FR" tvg-logo="" group-title="Sport",RMC Sport 2 FR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=608&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-link="" tvg-name="RMC Sport 3 FR" tvg-logo="" group-title="Sport",RMC Sport 3 FR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=609&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="beIN Sport 1 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="BeIN Sports 1 HD FR" tvg-logo="http://5.189.151.71/be_in_mena_sports_max_01_hd.png" group-title="Sport",BeIN Sports 1 HD FR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=245&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="beIN Sport 2 (Fr)" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="BeIN Sports 2 HD FR" tvg-logo="http://5.189.151.71/be_in_mena_sports_max_02_hd.png" group-title="Sport",BeIN Sports 2 HD FR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=246&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="BeIN Sports 1 TR" tvg-link="" tvg-name="BeIN Sports 1 TR" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/bein%20turk.jpg" group-title="Sport",BeIN Sports 1 TR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=179&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="BeIN Sports 2 TR" tvg-link="" tvg-name="BeIN Sports 2 TR" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/bein%20turk.jpg" group-title="Sport",BeIN Sports 2 TR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=496&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="BeiN Sports 3 TR" tvg-link="" tvg-name="BeiN Sports 3 TR" tvg-logo="" group-title="Sport",BeiN Sports 3 TR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=586&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tivibu Spor 1 TR" tvg-link="" tvg-name="Tivibu Spor 1 TR" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/tivibu1.jpg" group-title="Sport",Tivibu Spor 1 TR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=409&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tivibu Spor 2 TR" tvg-link="" tvg-name="Tivibu Spor 2 TR" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/tivibu.jpg" group-title="Sport",Tivibu Spor 2 TR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=422&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="S-Sport 1" tvg-link="" tvg-name="S-Sport 1" tvg-logo="" group-title="Sport",S-Sport 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=610&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="S-Sport 2" tvg-link="" tvg-name="S-Sport 2" tvg-logo="" group-title="Sport",S-Sport 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=544&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="A Spor" tvg-link="" tvg-name="A Spor" tvg-logo="" group-title="Sport",A Spor
+http://admin.vlagor-iptv.com:80/live.ts?channelId=328&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TRT Spor" tvg-link="" tvg-name="TRT Spor" tvg-logo="" group-title="Sport",TRT Spor
+http://admin.vlagor-iptv.com:80/live.ts?channelId=327&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TRT 3 Spor" tvg-link="" tvg-name="TRT 3 Spor" tvg-logo="http://5.189.151.71/trt_spor_tr.png" group-title="Sport",TRT 3 Spor
+http://admin.vlagor-iptv.com:80/live.ts?channelId=329&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD1" tvg-link="" tvg-name="Bein Sport HD1" tvg-logo="" group-title="Sport",Bein Sport HD1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=565&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD2" tvg-link="" tvg-name="Bein Sport HD2" tvg-logo="" group-title="Sport",Bein Sport HD2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=566&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD3" tvg-link="" tvg-name="Bein Sport HD3" tvg-logo="" group-title="Sport",Bein Sport HD3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=567&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD4" tvg-link="" tvg-name="Bein Sport HD4" tvg-logo="" group-title="Sport",Bein Sport HD4
+http://admin.vlagor-iptv.com:80/live.ts?channelId=568&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD5" tvg-link="" tvg-name="Bein Sport HD5" tvg-logo="" group-title="Sport",Bein Sport HD5
+http://admin.vlagor-iptv.com:80/live.ts?channelId=569&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD6" tvg-link="" tvg-name="Bein Sport HD6" tvg-logo="" group-title="Sport",Bein Sport HD6
+http://admin.vlagor-iptv.com:80/live.ts?channelId=570&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD7" tvg-link="" tvg-name="Bein Sport HD7" tvg-logo="" group-title="Sport",Bein Sport HD7
+http://admin.vlagor-iptv.com:80/live.ts?channelId=571&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD8" tvg-link="" tvg-name="Bein Sport HD8" tvg-logo="" group-title="Sport",Bein Sport HD8
+http://admin.vlagor-iptv.com:80/live.ts?channelId=572&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bein Sport HD9" tvg-link="" tvg-name="Bein Sport HD9" tvg-logo="" group-title="Sport",Bein Sport HD9
+http://admin.vlagor-iptv.com:80/live.ts?channelId=573&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ziggo Sport Tennis NED" tvg-link="" tvg-name="Ziggo Sport Tennis NED" tvg-logo="" group-title="Sport",Ziggo Sport Tennis NED
+http://admin.vlagor-iptv.com:80/live.ts?channelId=854&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ziggo Sport Golf NED" tvg-link="" tvg-name="Ziggo Sport Golf NED" tvg-logo="" group-title="Sport",Ziggo Sport Golf NED
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1323&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ziggo Sport Racing NED" tvg-link="" tvg-name="Ziggo Sport Racing NED" tvg-logo="" group-title="Sport",Ziggo Sport Racing NED
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1324&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ziggo Sport Select NED" tvg-link="" tvg-name="Ziggo Sport Select NED" tvg-logo="" group-title="Sport",Ziggo Sport Select NED
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1325&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ziggo Sport Voetbal NED" tvg-link="" tvg-name="Ziggo Sport Voetbal NED" tvg-logo="" group-title="Sport",Ziggo Sport Voetbal NED
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1326&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-link="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sport",Real Madrid TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=773&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Barca TV" tvg-link="" tvg-name="Barca TV" tvg-logo="" group-title="Sport",Barca TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=577&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Benfica TV" tvg-link="" tvg-name="Benfica TV" tvg-logo="" group-title="Sport",Benfica TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=916&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Digi Sport 1 RO" tvg-link="" tvg-name="Digi Sport 1 RO" tvg-logo="" group-title="Sport",Digi Sport 1 RO
+http://admin.vlagor-iptv.com:80/live.ts?channelId=643&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Digi Sport 2 RO" tvg-link="" tvg-name="Digi Sport 2 RO" tvg-logo="" group-title="Sport",Digi Sport 2 RO
+http://admin.vlagor-iptv.com:80/live.ts?channelId=644&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Digi Sport 3 RO" tvg-link="" tvg-name="Digi Sport 3 RO" tvg-logo="" group-title="Sport",Digi Sport 3 RO
+http://admin.vlagor-iptv.com:80/live.ts?channelId=645&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-link="" tvg-name="Polsat Sport" tvg-logo="" group-title="Sport",Polsat Sport
+http://admin.vlagor-iptv.com:80/live.ts?channelId=774&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-link="" tvg-name="Polsat Sport Extra" tvg-logo="" group-title="Sport",Polsat Sport Extra
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1315&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-link="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=627&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-link="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=628&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-link="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=629&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TV 1 Sport POR" tvg-link="" tvg-name="TV 1 Sport POR" tvg-logo="" group-title="Sport",TV 1 Sport POR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1291&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TV 2 Sport POR" tvg-link="" tvg-name="TV 2 Sport POR" tvg-logo="" group-title="Sport",TV 2 Sport POR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1292&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TV 3 Sport POR" tvg-link="" tvg-name="TV 3 Sport POR" tvg-logo="" group-title="Sport",TV 3 Sport POR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=719&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TV 4 Sport POR" tvg-link="" tvg-name="TV 4 Sport POR" tvg-logo="" group-title="Sport",TV 4 Sport POR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1337&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-link="" tvg-name="DAZN 1 ES" tvg-logo="" group-title="Sport",DAZN 1 ES
+http://admin.vlagor-iptv.com:80/live.ts?channelId=914&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-link="" tvg-name="DAZN 2 ES" tvg-logo="" group-title="Sport",DAZN 2 ES
+http://admin.vlagor-iptv.com:80/live.ts?channelId=587&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="DAZN 3 ES" tvg-link="" tvg-name="DAZN 3 ES" tvg-logo="" group-title="Sport",DAZN 3 ES
+http://admin.vlagor-iptv.com:80/live.ts?channelId=677&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="DAZN 4 ES" tvg-link="" tvg-name="DAZN 4 ES" tvg-logo="" group-title="Sport",DAZN 4 ES
+http://admin.vlagor-iptv.com:80/live.ts?channelId=394&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="DAZN F1 ES" tvg-link="" tvg-name="DAZN F1 ES" tvg-logo="" group-title="Sport",DAZN F1 ES
+http://admin.vlagor-iptv.com:80/live.ts?channelId=588&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CANAL+ SPORT 1 FRA" tvg-link="" tvg-name="CANAL+ SPORT 1 FRA" tvg-logo="" group-title="Sport",CANAL+ SPORT 1 FRA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1308&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CANAL+ SPORT 2 FRA" tvg-link="" tvg-name="CANAL+ SPORT 2 FRA" tvg-logo="" group-title="Sport",CANAL+ SPORT 2 FRA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1309&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CANAL+ SPORT 3 FRA" tvg-link="" tvg-name="CANAL+ SPORT 3 FRA" tvg-logo="" group-title="Sport",CANAL+ SPORT 3 FRA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1310&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CANAL+ SPORT 4 FRA" tvg-link="" tvg-name="CANAL+ SPORT 4 FRA" tvg-logo="" group-title="Sport",CANAL+ SPORT 4 FRA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1311&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CANAL+ SPORT 5 FRA" tvg-link="" tvg-name="CANAL+ SPORT 5 FRA" tvg-logo="" group-title="Sport",CANAL+ SPORT 5 FRA
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1312&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ote Sport 1 GR" tvg-link="" tvg-name="Ote Sport 1 GR" tvg-logo="" group-title="Sport",Ote Sport 1 GR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1342&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ote Sport 2 GR" tvg-link="" tvg-name="Ote Sport 2 GR" tvg-logo="" group-title="Sport",Ote Sport 2 GR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1343&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ote Sport 3 GR" tvg-link="" tvg-name="Ote Sport 3 GR" tvg-logo="" group-title="Sport",Ote Sport 3 GR
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1344&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="********** Albanian *************" tvg-link="" tvg-name="********** Albanian *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/2000px-Flag_of_Albania.svg.png" group-title="Albanian",********** Albanian *************
+http://admin.vlagor-iptv.com:80/live.ts?channelId=547&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02r" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Alsat M ( T )" tvg-logo="http://5.189.151.71/Alsat_M.svg.png" group-title="Albanian",Alsat M ( T )
+http://admin.vlagor-iptv.com:80/live.ts?channelId=12&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Alsat M ( sat )" tvg-link="" tvg-name="Alsat M ( sat )" tvg-logo="http://5.189.151.71/Alsat_M.svg.png" group-title="Albanian",Alsat M ( sat )
+http://admin.vlagor-iptv.com:80/live.ts?channelId=18&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02r" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Alsat M ( HD )" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/alsat%20hd.jpg" group-title="Albanian",Alsat M ( HD )
+http://admin.vlagor-iptv.com:80/live.ts?channelId=461&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="mrt2.mk" tvg-link="http://mojtv.hr/xmltv/service.ashx?kanal_id=526&date=9.11.2020." tvg-name="Mrt 2" tvg-logo="http://5.189.151.71/mrt_mk_tv_2_sat.png" group-title="Albanian",Mrt 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=2&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02t" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Era TV Shkup" tvg-logo="http://5.189.151.71/hana.png" group-title="Albanian",Era TV Shkup
+http://admin.vlagor-iptv.com:80/live.ts?channelId=17&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00r" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Shenja Shkup" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/shenja.jpg" group-title="Albanian",Shenja Shkup
+http://admin.vlagor-iptv.com:80/live.ts?channelId=16&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV 21" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21" tvg-logo="http://5.189.151.71/rtv21.png" group-title="Albanian",RTV 21
+http://admin.vlagor-iptv.com:80/live.ts?channelId=19&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TV 21 HD" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="RTV 21 Macedonia HD" tvg-logo="http://5.189.151.71/rtv_21_mk.png" group-title="Albanian",RTV 21 Macedonia HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=305&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a017" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Klan Macedonia" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/klan%20mk.png" group-title="Albanian",Klan Macedonia
+http://admin.vlagor-iptv.com:80/live.ts?channelId=250&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Klan Kosova" tvg-logo="http://5.189.151.71/klan_kosova.png" group-title="Albanian",Klan Kosova
+http://admin.vlagor-iptv.com:80/live.ts?channelId=26&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00z" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="KTV Koha Vision" tvg-logo="http://5.189.151.71/koha_vision.png" group-title="Albanian",KTV Koha Vision
+http://admin.vlagor-iptv.com:80/live.ts?channelId=28&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="T7" tvg-link="" tvg-name="T7" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/t7.png" group-title="Albanian",T7
+http://admin.vlagor-iptv.com:80/live.ts?channelId=730&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV Dukagjini" tvg-link="" tvg-name="RTV Dukagjini" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/dukagjini%20tv.png" group-title="Albanian",RTV Dukagjini
+http://admin.vlagor-iptv.com:80/live.ts?channelId=349&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="A TV Prishtinë" tvg-link="" tvg-name="A TV Prishtinë" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/atv.png" group-title="Albanian",A TV Prishtinë
+http://admin.vlagor-iptv.com:80/live.ts?channelId=979&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Rrokum TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal 10" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kanal%2010.png" group-title="Albanian",Kanal 10
+http://admin.vlagor-iptv.com:80/live.ts?channelId=86&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Syri AL" tvg-link="" tvg-name="Syri AL" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/siri%20alb.png" group-title="Albanian",Syri AL
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1191&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Top Channel" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Top Channel HD" tvg-logo="http://5.189.151.71/top_channel.png" group-title="Albanian",Top Channel HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=31&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Klan TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Klan HD" tvg-logo="http://5.189.151.71/klan_al_tv_hd.png" group-title="Albanian",Klan HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=29&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Vizion plus" tvg-logo="http://5.189.151.71/vizion_plus.png" group-title="Albanian",Vizion plus
+http://admin.vlagor-iptv.com:80/live.ts?channelId=57&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTK 1 HD" tvg-link="" tvg-name="RTK 1 HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtk%201.png" group-title="Albanian",RTK 1 HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=954&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTK 1 Sat" tvg-link="" tvg-name="RTK 1 Sat" tvg-logo="http://5.189.151.71/dtv-channel-rtk1.png" group-title="Albanian",RTK 1 Sat
+http://admin.vlagor-iptv.com:80/live.ts?channelId=27&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTK 2" tvg-link="" tvg-name="RTK 2" tvg-logo="http://5.189.151.71/dtv-channel-rtk2.png" group-title="Albanian",RTK 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=322&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTK 3" tvg-link="" tvg-name="RTK 3" tvg-logo="http://5.189.151.71/dtv-channel-rtk3.png" group-title="Albanian",RTK 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=353&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTK 4" tvg-link="" tvg-name="RTK 4" tvg-logo="http://5.189.151.71/dtv-channel-rtk4.png" group-title="Albanian",RTK 4
+http://admin.vlagor-iptv.com:80/live.ts?channelId=354&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01v" tvg-link="http://141.136.9.114:9095/epg.xml" tvg-name="RTSH 1" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%201.png" group-title="Albanian",RTSH 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=24&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH 2" tvg-link="" tvg-name="RTSH 2" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%202.png" group-title="Albanian",RTSH 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=521&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH 3" tvg-link="" tvg-name="RTSH 3" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%203.png" group-title="Albanian",RTSH 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=522&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH Shqip" tvg-link="" tvg-name="RTSH Shqip" tvg-logo="" group-title="Albanian",RTSH Shqip
+http://admin.vlagor-iptv.com:80/live.ts?channelId=405&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-link="" tvg-name="RTSH Plus" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%20plus.png" group-title="Albanian",RTSH Plus
+http://admin.vlagor-iptv.com:80/live.ts?channelId=720&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="first CHANNEL" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="First Channel" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/first.png" group-title="Albanian",First Channel
+http://admin.vlagor-iptv.com:80/live.ts?channelId=58&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Premium Channel" tvg-link="" tvg-name="Premium Channel" tvg-logo="" group-title="Albanian",Premium Channel
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1284&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ntv Nesër tv" tvg-link="" tvg-name="ntv Nesër tv" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/ntv.png" group-title="Albanian",ntv Nesër tv
+http://admin.vlagor-iptv.com:80/live.ts?channelId=563&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="1021-24 Kitchen" tvg-link="http://91.102.228.206/epg/epg2.xml" tvg-name="24 Kitchen Alb" tvg-logo="http://5.189.151.71/24_kitchen.png" group-title="Albanian",24 Kitchen Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=335&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="club tv" tvg-link="" tvg-name="club tv" tvg-logo="http://5.189.151.71/club_tv_al.png" group-title="Albanian",club tv
+http://admin.vlagor-iptv.com:80/live.ts?channelId=331&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Muse" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Muse" tvg-logo="http://5.189.151.71/muse_al.png" group-title="Albanian",Muse
+http://admin.vlagor-iptv.com:80/live.ts?channelId=82&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV 21 Plus" tvg-link="" tvg-name="RTV 21 Plus" tvg-logo="http://5.189.151.71/21%20plus.png" group-title="Albanian",RTV 21 Plus
+http://admin.vlagor-iptv.com:80/live.ts?channelId=20&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV 21 Mix" tvg-link="" tvg-name="RTV 21 Mix" tvg-logo="http://5.189.151.71/mix.png" group-title="Albanian",RTV 21 Mix
+http://admin.vlagor-iptv.com:80/live.ts?channelId=317&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="21 Popullore" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21 Popullore" tvg-logo="http://5.189.151.71/rtv_21_rs_popullore.png" group-title="Albanian",RTV 21 Popullore
+http://admin.vlagor-iptv.com:80/live.ts?channelId=21&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Folk Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Folk Plus" tvg-logo="http://5.189.151.71/folk_plus.png" group-title="Albanian",Folk Plus
+http://admin.vlagor-iptv.com:80/live.ts?channelId=67&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="BBF" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="BBF Music" tvg-logo="http://5.189.151.71/tring_bbf_music_tv.png" group-title="Albanian",BBF Music
+http://admin.vlagor-iptv.com:80/live.ts?channelId=61&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02u" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="My Music" tvg-logo="http://5.189.151.71/digit_alb_my_music.png" group-title="Albanian",My Music
+http://admin.vlagor-iptv.com:80/live.ts?channelId=62&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00t" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="IN TV" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/in%20tv.png" group-title="Albanian",IN TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1162&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="CliCk music" tvg-link="" tvg-name="CliCk music" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/clivk.png" group-title="Albanian",CliCk music
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1237&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TELE one Muzik" tvg-link="" tvg-name="TELE one Muzik" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/tele%20music.png" group-title="Albanian",TELE one Muzik
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1241&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Klan News" tvg-link="" tvg-name="Klan News" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/klan%20news.png" group-title="Albanian",Klan News
+http://admin.vlagor-iptv.com:80/live.ts?channelId=977&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Arta News" tvg-link="" tvg-name="Arta News" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/arta.png" group-title="Albanian",Arta News
+http://admin.vlagor-iptv.com:80/live.ts?channelId=833&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="A2 CNN alb" tvg-link="" tvg-name="A2 CNN alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/a2%20cnn.png" group-title="Albanian",A2 CNN alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1083&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Euro News alb" tvg-link="" tvg-name="Euro News alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/euro%20news.png" group-title="Albanian",Euro News alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1165&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Fax News" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Fox News Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/fox%20news.png" group-title="Albanian",Fox News Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=484&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Panorama TV" tvg-link="" tvg-name="Panorama TV" tvg-logo="" group-title="Albanian",Panorama TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1283&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Ora News" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Ora news" tvg-logo="http://5.189.151.71/ora_news_al.png" group-title="Albanian",Ora news
+http://admin.vlagor-iptv.com:80/live.ts?channelId=51&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="News 24" tvg-link="" tvg-name="News 24" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/news%2024%20(3).png" group-title="Albanian",News 24
+http://admin.vlagor-iptv.com:80/live.ts?channelId=52&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ABC News" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Abc news" tvg-logo="http://5.189.151.71/abc_news_al.png" group-title="Albanian",Abc news
+http://admin.vlagor-iptv.com:80/live.ts?channelId=53&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00o" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Report TV" tvg-logo="http://5.189.151.71/a1_report_al.png" group-title="Albanian",Report TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=54&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01y" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="TOP News" tvg-logo="http://5.189.151.71/top_news.png" group-title="Albanian",TOP News
+http://admin.vlagor-iptv.com:80/live.ts?channelId=56&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTSH 24" tvg-link="" tvg-name="RTSH 24" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/rtsh%2024.png" group-title="Albanian",RTSH 24
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1185&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="999-Kanali 7" tvg-link="http://91.102.228.206/epg/epg6.xml" tvg-name="Kanali 7" tvg-logo="http://5.189.151.71/kanali7.png" group-title="Albanian",Kanali 7
+http://admin.vlagor-iptv.com:80/live.ts?channelId=85&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02x" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Gold HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/gold%20hd.png" group-title="Albanian",Gold HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=32&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02y" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Max HD" tvg-logo="http://5.189.151.71/digit_alb_film_dy_hd.png" group-title="Albanian",Max HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=389&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00w" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Eurofilm" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/eurofilm.png" group-title="Albanian",Eurofilm
+http://admin.vlagor-iptv.com:80/live.ts?channelId=34&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a024" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Komedi" tvg-logo="http://5.189.151.71/digit_alb_film_komedi.png" group-title="Albanian",Film Komedi
+http://admin.vlagor-iptv.com:80/live.ts?channelId=35&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01x" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Aksion" tvg-logo="http://5.189.151.71/digit_alb_film_aksion.png" group-title="Albanian",Film Aksion
+http://admin.vlagor-iptv.com:80/live.ts?channelId=36&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a022" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Drame" tvg-logo="http://5.189.151.71/digit_alb_film_drame.png" group-title="Albanian",Film Drame
+http://admin.vlagor-iptv.com:80/live.ts?channelId=37&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Film Hits" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Film Hits" tvg-logo="http://5.189.151.71/digit_alb_film_hits.png" group-title="Albanian",Film Hits
+http://admin.vlagor-iptv.com:80/live.ts?channelId=38&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a025" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Thriller" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/thriler.png" group-title="Albanian",Film Thriller
+http://admin.vlagor-iptv.com:80/live.ts?channelId=40&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00p" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Autor" tvg-logo="http://5.189.151.71/digit_alb_film_autor.png" group-title="Albanian",Film Autor
+http://admin.vlagor-iptv.com:80/live.ts?channelId=41&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02s" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Film Stinët" tvg-logo="http://5.189.151.71/digit_alb_serial_stinet.png" group-title="Albanian",Film Stinët
+http://admin.vlagor-iptv.com:80/live.ts?channelId=42&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TDC dizi Alb" tvg-link="" tvg-name="TDC dizi Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/dizi.png" group-title="Albanian",TDC dizi Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1062&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal D Drama Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kanal%20drama.png" group-title="Albanian",Kanal D Drama Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=25&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Turkish Stories" tvg-link="" tvg-name="Turkish Stories" tvg-logo="" group-title="Albanian",Turkish Stories
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1207&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Klan Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Klan Plus" tvg-logo="http://5.189.151.71/tt/+2/klan_al_tv_plus.png" group-title="Albanian",Klan Plus
+http://admin.vlagor-iptv.com:80/live.ts?channelId=30&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="T HD" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="T HD" tvg-logo="http://5.189.151.71/digit_alb_t_hd.png" group-title="Albanian",T HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=43&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Shqip" tvg-logo="http://5.189.151.71/tring_shqip.png" group-title="Albanian",Tring Shqip
+http://admin.vlagor-iptv.com:80/live.ts?channelId=77&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Life" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Life" tvg-logo="http://5.189.151.71/tring_life.png" group-title="Albanian",Tring Life
+http://admin.vlagor-iptv.com:80/live.ts?channelId=68&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a02e" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Tring Original" tvg-logo="" group-title="Albanian",Tring Original
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1147&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Studio B-EXYU" tvg-link="http://epg.enjoy-iptv.com/epg/guide-exyu.xml" tvg-name="Tring Series HD" tvg-logo="" group-title="Albanian",Tring Series HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=302&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Novelas HD" tvg-link="" tvg-name="Tring Novelas HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/novelas.png" group-title="Albanian",Tring Novelas HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1243&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Classic HD" tvg-link="" tvg-name="Tring Classic HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/classic.png" group-title="Albanian",Tring Classic HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=585&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Collection HD" tvg-link="" tvg-name="Tring Collection HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/colection.png" group-title="Albanian",Tring Collection HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=867&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Family HD" tvg-link="" tvg-name="Tring Family HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/famili.png" group-title="Albanian",Tring Family HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1229&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Action" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Action HD" tvg-logo="http://5.189.151.71/tring_max.png" group-title="Albanian",Tring Action HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=71&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Super" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Super HD" tvg-logo="http://5.189.151.71/tring_super.png" group-title="Albanian",Tring Super HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=72&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Comedy" tvg-logo="http://5.189.151.71/tring_comedy.png" group-title="Albanian",Tring Comedy
+http://admin.vlagor-iptv.com:80/live.ts?channelId=73&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Fantasy" tvg-logo="http://5.189.151.71/tring_fantasy.png" group-title="Albanian",Tring Fantasy
+http://admin.vlagor-iptv.com:80/live.ts?channelId=74&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="3 Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring 3+" tvg-logo="http://5.189.151.71/tring_3plus.png" group-title="Albanian",Tring 3+
+http://admin.vlagor-iptv.com:80/live.ts?channelId=78&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Episode" tvg-link="" tvg-name="Episode" tvg-logo="" group-title="Albanian",Episode
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1332&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Smile" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Smile" tvg-logo="http://5.189.151.71/tring_smile.png" group-title="Albanian",Smile
+http://admin.vlagor-iptv.com:80/live.ts?channelId=79&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="STAR Alb" tvg-link="" tvg-name="STAR Alb" tvg-logo="http://5.189.151.71/tt/fox_global.png" group-title="Albanian",STAR Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=316&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="STAR Life Alb" tvg-link="" tvg-name="STAR Life Alb" tvg-logo="http://5.189.151.71/Fox_life_it.png" group-title="Albanian",STAR Life Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=318&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="STAR Crime Alb" tvg-link="" tvg-name="STAR Crime Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/fox%20crime.png" group-title="Albanian",STAR Crime Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1073&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ART Kino 1" tvg-link="" tvg-name="ART Kino 1" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/art%20kino%201.png" group-title="Albanian",ART Kino 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1015&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ART Kino 2" tvg-link="" tvg-name="ART Kino 2" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/art%20kino%202.png" group-title="Albanian",ART Kino 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1016&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ART Kino 3" tvg-link="" tvg-name="ART Kino 3" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kino%203.png" group-title="Albanian",ART Kino 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1017&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Extrem Premiere 1" tvg-link="" tvg-name="Extrem Premiere 1" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/premiere%201.png" group-title="Albanian",Extrem Premiere 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1153&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Extrem Premiere 2" tvg-link="" tvg-name="Extrem Premiere 2" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/premiere%202.png" group-title="Albanian",Extrem Premiere 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1154&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Extrem Premiere 3" tvg-link="" tvg-name="Extrem Premiere 3" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/premiere%203.png" group-title="Albanian",Extrem Premiere 3
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1155&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TELE one Aksion" tvg-link="" tvg-name="TELE one Aksion" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/tele%20one.png" group-title="Albanian",TELE one Aksion
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1239&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="TELE one Gold" tvg-link="" tvg-name="TELE one Gold" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/tele%20one%20(2).png" group-title="Albanian",TELE one Gold
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1240&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a00x" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Explorer Shkencë" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/skence.png" group-title="Albanian",Explorer Shkencë
+http://admin.vlagor-iptv.com:80/live.ts?channelId=45&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="2130-EXP natyra" tvg-link="http://91.102.228.206/epg/epg3.xml" tvg-name="Exporer Natyra" tvg-logo="http://5.189.151.71/digit_alb_explorer_natyra.png" group-title="Albanian",Exporer Natyra
+http://admin.vlagor-iptv.com:80/live.ts?channelId=46&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a021" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Explorer Histori" tvg-logo="http://5.189.151.71/digit_alb_explorer_histori.png" group-title="Albanian",Explorer Histori
+http://admin.vlagor-iptv.com:80/live.ts?channelId=47&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Planet" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Planet" tvg-logo="http://5.189.151.71/tring_planet.png" group-title="Albanian",Tring Planet
+http://admin.vlagor-iptv.com:80/live.ts?channelId=70&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring History" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring History" tvg-logo="http://5.189.151.71/tring_history.png" group-title="Albanian",Tring History
+http://admin.vlagor-iptv.com:80/live.ts?channelId=75&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring World" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring World" tvg-logo="http://5.189.151.71/tring_world.png" group-title="Albanian",Tring World
+http://admin.vlagor-iptv.com:80/live.ts?channelId=76&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Family HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Family HD" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/family%20hd.png" group-title="Albanian",Family HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=44&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ART Docu 1" tvg-link="" tvg-name="ART Docu 1" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/doku%201.png" group-title="Albanian",ART Docu 1
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1018&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="ART Docu 2" tvg-link="" tvg-name="ART Docu 2" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/art%20doku%202.png" group-title="Albanian",ART Docu 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1019&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Living HD" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Living HD" tvg-logo="http://5.189.151.71/tring_living.png" group-title="Albanian",Living HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=81&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="1002-Discovery HD" tvg-link="http://91.102.228.206/epg/epg2.xml" tvg-name="Discovery alb" tvg-logo="http://5.189.151.71/Discovery.png" group-title="Albanian",Discovery alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=319&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Nat Geo Wild Alb" tvg-link="" tvg-name="Nat Geo Wild Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/nat%20geo.png" group-title="Albanian",Nat Geo Wild Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1071&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Travel channel alb" tvg-link="" tvg-name="Travel channel alb" tvg-logo="http://5.189.151.71/tt/+2/travel_channel_europe.png" group-title="Albanian",Travel channel alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=342&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tëvë Kids 2" tvg-link="" tvg-name="Tëvë Kids 2" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kids2.png" group-title="Albanian",Tëvë Kids 2
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1252&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Baby TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Baby tv Alb" tvg-logo="http://5.189.151.71/tt/+2/baby_tv_eu.png" group-title="Albanian",Baby tv Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=65&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bang Bang" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Bang Bang" tvg-logo="http://5.189.151.71/bang_bang.png" group-title="Albanian",Bang Bang
+http://admin.vlagor-iptv.com:80/live.ts?channelId=50&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a026" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Çufo" tvg-logo="http://5.189.151.71/cufo_tv.png" group-title="Albanian",Çufo
+http://admin.vlagor-iptv.com:80/live.ts?channelId=49&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Tring" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Tring" tvg-logo="http://5.189.151.71/tring_tring.png" group-title="Albanian",Tring Tring
+http://admin.vlagor-iptv.com:80/live.ts?channelId=69&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Bubble" tvg-link="" tvg-name="Bubble" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/buble.png" group-title="Albanian",Bubble
+http://admin.vlagor-iptv.com:80/live.ts?channelId=679&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring Kids" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring kids Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kids.png" group-title="Albanian",Tring kids Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=83&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Sofia HD Alb" tvg-link="" tvg-name="Sofia HD Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/sofia.png" group-title="Albanian",Sofia HD Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=1164&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="21 Junior" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21 Junior" tvg-logo="http://5.189.151.71/tt/+2/rtv_21_rs_junior.png" group-title="Albanian",RTV 21 Junior
+http://admin.vlagor-iptv.com:80/live.ts?channelId=301&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Click TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tip TV" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/tip%20tv.png" group-title="Albanian",Tip TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=84&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="a01w" tvg-link="http://185.244.240.8:9095/epg.xml" tvg-name="Junior TV" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/junior.png" group-title="Albanian",Junior TV
+http://admin.vlagor-iptv.com:80/live.ts?channelId=48&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Tring International" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tao Tao" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/tring%20int.jpg" group-title="Albanian",Tao Tao
+http://admin.vlagor-iptv.com:80/live.ts?channelId=384&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Mecca TV  Live" tvg-link="" tvg-name="Mecca TV  Live" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/mecca.jpg" group-title="Albanian",Mecca TV  Live
+http://admin.vlagor-iptv.com:80/live.ts?channelId=283&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Medina TV  Live" tvg-link="" tvg-name="Medina TV  Live" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/medina.jpg" group-title="Albanian",Medina TV  Live
+http://admin.vlagor-iptv.com:80/live.ts?channelId=282&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV Islam HD" tvg-link="" tvg-name="RTV Islam HD" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/islam.jpg" group-title="Albanian",RTV Islam HD
+http://admin.vlagor-iptv.com:80/live.ts?channelId=87&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="RTV Pendimi" tvg-link="" tvg-name="RTV Pendimi" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/pendimi.png" group-title="Albanian",RTV Pendimi
+http://admin.vlagor-iptv.com:80/live.ts?channelId=731&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Opoja TV channel" tvg-link="" tvg-name="Opoja TV channel" tvg-logo="http://5.189.151.71/tt/+2/tv_opoja_mk.png" group-title="Albanian",Opoja TV channel
+http://admin.vlagor-iptv.com:80/live.ts?channelId=326&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="Dobra TV Islamska" tvg-link="" tvg-name="Dobra TV Islamska" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/dobra%20tv.png" group-title="Albanian",Dobra TV Islamska
+http://admin.vlagor-iptv.com:80/live.ts?channelId=918&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="MTV Igman Bosnia" tvg-link="" tvg-name="MTV Igman Bosnia" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/mtv%20igman.png" group-title="Albanian",MTV Igman Bosnia
+http://admin.vlagor-iptv.com:80/live.ts?channelId=904&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/251
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/252
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/253
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 4
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/254
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/240
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Top News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/241
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat M" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsat-m-al-mk.png" group-title="★ ALBANIA-SHQIP",AL: Alsat M
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/242
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ABC News
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/243
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Opoja
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/244
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/245
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_popullore.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Popullore
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/249
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtv21_plus.jpg" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/248
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv 21 Mix" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Rtv 21 Mix
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/247
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Maqedoni" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV 21 Maqedoni
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/246
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/250
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Kosova
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/255
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/256
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/257
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Vizion Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/258
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: KTV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/259
+#EXTINF:-1 tvg-id="" tvg-name="AL: NEWS 24" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: NEWS 24
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/261
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ALB UK
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1535
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Sport
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/262
+#EXTINF:-1 tvg-id="" tvg-name="AL: Living HD" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Living HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/312
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Romance" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Romance
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/310
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Sci-Fi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Sci-Fi
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/313
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Natyra" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Natyra
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/305
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Music Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Music Hits
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/304
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Humor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Humor
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/303
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Histori
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/302
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Family
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/301
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Drama
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/300
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Cifteli " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Cifteli 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/308
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: X Action
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/306
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Femije
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/342
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Zjarr" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Zjarr
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/340
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Music" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb Music
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/322
+#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Koha TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/338
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring World
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/299
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Super
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/298
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Shqip
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/297
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Planet
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/296
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Life
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/294
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Kids
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/293
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Jolly
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/292
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring History
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/291
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Fantasy
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/290
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Comedy
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/289
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Tring Action
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/288
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3 Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TRING 3 Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/287
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Euro Film
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/334
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Kuvend" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH Kuvend
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/265
+#EXTINF:-1 tvg-id="" tvg-name="AL: Digi Gold 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Digi Gold 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/330
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Hits
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/282
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Dy
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/281
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Drame" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Drame
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/280
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Autor
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/278
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Aksion
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/329
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Thriller
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/271
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIGBROTHER 2 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: BIGBROTHER 2 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/331
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Shkence
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/347
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 3
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/260
+#EXTINF:-1 tvg-id="" tvg-name="AL: MRT 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_2_sat.jpg" group-title="★ ALBANIA-SHQIP",AL: MRT 2
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/264
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dielli
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/328
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: T HD
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/337
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb UK
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/327
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 " tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 24 
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/325
+#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: ERA TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/323
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Dasma TV
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/320
+#EXTINF:-1 tvg-id="RTSH Shqip.al" tvg-name="AL: RTSH 1" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSH 1
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/326
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb WesterN" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Alb WesterN
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/272
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL:  Stinet
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/279
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Dukagjini
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/295
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: FOLK Plus
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/324
+#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: National Geographic
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Histori
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/344
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSHFilm" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTSHFilm
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/345
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyre" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Explorer Natyre
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/346
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Komedi
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47732
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Stinet
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47733
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Family" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Film Family
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47734
+#EXTINF:-1 tvg-id="" tvg-name="AL: Topestrada" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Topestrada
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47735
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTV Fontana
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47736
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Elrodi
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47738
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Scan
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47739
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TV Mitrovica
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47740
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Macedonia" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Klan Macedonia
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47741
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: First Channel
+http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47742
