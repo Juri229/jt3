@@ -2849,7 +2849,7 @@ http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/126259
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/126260
 #EXTINF:-1 tvg-id="" tvg-name="Nicktoons AL" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Albania",Nicktoons AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/126261
-#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="beIN SPORTS 4K TR" tvg-logo="" group-title="Live: Turkey",beIN SPORTS 4K TR
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="beIN SPORTS 4K TR" tvg-logo="" group-title="Live: beIN Media Group",beIN SPORTS 4K TR
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/93392
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS AFC HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsports.jpg" group-title="Live: beIN Media Group",beIN SPORTS AFC HD QA
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/102668
@@ -3253,39 +3253,39 @@ http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1653
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1654
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/1655
-#EXTINF:-1 tvg-id="********** Italian *************" tvg-link="" tvg-name="********** Italian *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/ItaliaLogo.png" group-title="Italian",********** Italian *************
+#EXTINF:-1 tvg-id="********** Italy *************" tvg-link="" tvg-name="********** Italy *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/ItaliaLogo.png" group-title="Italy",********** Italy *************
 http://admin.vlagor-iptv.com:80/live.ts?channelId=559&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai 1" tvg-link="" tvg-name="Rai 1" tvg-logo="http://5.189.151.71/tt/rai_1.png" group-title="Italian",Rai 1
+#EXTINF:-1 tvg-id="Rai 1" tvg-link="" tvg-name="Rai 1" tvg-logo="http://5.189.151.71/tt/rai_1.png" group-title="Italy",Rai 1
 http://admin.vlagor-iptv.com:80/live.ts?channelId=237&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai 2" tvg-link="" tvg-name="Rai 2" tvg-logo="http://5.189.151.71/tt/rai_2.png" group-title="Italian",Rai 2
+#EXTINF:-1 tvg-id="Rai 2" tvg-link="" tvg-name="Rai 2" tvg-logo="http://5.189.151.71/tt/rai_2.png" group-title="Italy",Rai 2
 http://admin.vlagor-iptv.com:80/live.ts?channelId=238&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai 3" tvg-link="" tvg-name="Rai 3" tvg-logo="" group-title="Italian",Rai 3
+#EXTINF:-1 tvg-id="Rai 3" tvg-link="" tvg-name="Rai 3" tvg-logo="" group-title="Italy",Rai 3
 http://admin.vlagor-iptv.com:80/live.ts?channelId=855&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai 4" tvg-link="" tvg-name="Rai 4" tvg-logo="" group-title="Italian",Rai 4
+#EXTINF:-1 tvg-id="Rai 4" tvg-link="" tvg-name="Rai 4" tvg-logo="" group-title="Italy",Rai 4
 http://admin.vlagor-iptv.com:80/live.ts?channelId=856&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai 5" tvg-link="" tvg-name="Rai 5" tvg-logo="" group-title="Italian",Rai 5
+#EXTINF:-1 tvg-id="Rai 5" tvg-link="" tvg-name="Rai 5" tvg-logo="" group-title="Italy",Rai 5
 http://admin.vlagor-iptv.com:80/live.ts?channelId=857&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai Movie" tvg-link="" tvg-name="Rai Movie" tvg-logo="" group-title="Italian",Rai Movie
+#EXTINF:-1 tvg-id="Rai Movie" tvg-link="" tvg-name="Rai Movie" tvg-logo="" group-title="Italy",Rai Movie
 http://admin.vlagor-iptv.com:80/live.ts?channelId=859&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai News" tvg-link="" tvg-name="Rai News" tvg-logo="" group-title="Italian",Rai News
+#EXTINF:-1 tvg-id="Rai News" tvg-link="" tvg-name="Rai News" tvg-logo="" group-title="Italy",Rai News
 http://admin.vlagor-iptv.com:80/live.ts?channelId=860&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rai Premium" tvg-link="" tvg-name="Rai Premium" tvg-logo="" group-title="Italian",Rai Premium
+#EXTINF:-1 tvg-id="Rai Premium" tvg-link="" tvg-name="Rai Premium" tvg-logo="" group-title="Italy",Rai Premium
 http://admin.vlagor-iptv.com:80/live.ts?channelId=861&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Canale 5" tvg-link="" tvg-name="Canale 5" tvg-logo="http://5.189.151.71/tt/mediaset_canale5.png" group-title="Italian",Canale 5
+#EXTINF:-1 tvg-id="Canale 5" tvg-link="" tvg-name="Canale 5" tvg-logo="http://5.189.151.71/tt/mediaset_canale5.png" group-title="Italy",Canale 5
 http://admin.vlagor-iptv.com:80/live.ts?channelId=244&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1 tvg-id="Italia 1" tvg-link="" tvg-name="Italia 1" tvg-logo="" group-title="Italian",Italia 1
 http://admin.vlagor-iptv.com:80/live.ts?channelId=895&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Rete 4" tvg-link="" tvg-name="Rete 4" tvg-logo="" group-title="Italian",Rete 4
+#EXTINF:-1 tvg-id="Rete 4" tvg-link="" tvg-name="Rete 4" tvg-logo="" group-title="Italy",Rete 4
 http://admin.vlagor-iptv.com:80/live.ts?channelId=896&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Alice" tvg-link="" tvg-name="Alice" tvg-logo="" group-title="Italian",Alice
+#EXTINF:-1 tvg-id="Alice" tvg-link="" tvg-name="Alice" tvg-logo="" group-title="Italy",Alice
 http://admin.vlagor-iptv.com:80/live.ts?channelId=876&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Sky Cinema 1" tvg-link="" tvg-name="Sky Cinema 1" tvg-logo="" group-title="Italian",Sky Cinema 1
+#EXTINF:-1 tvg-id="Sky Cinema 1" tvg-link="" tvg-name="Sky Cinema 1" tvg-logo="" group-title="Italy",Sky Cinema 1
 http://admin.vlagor-iptv.com:80/live.ts?channelId=866&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Sky Cinema Family." tvg-link="" tvg-name="Sky Cinema Family." tvg-logo="" group-title="Italian",Sky Cinema Family.
+#EXTINF:-1 tvg-id="Sky Cinema Family." tvg-link="" tvg-name="Sky Cinema Family." tvg-logo="" group-title="Italy",Sky Cinema Family.
 http://admin.vlagor-iptv.com:80/live.ts?channelId=870&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Sky Cinema Hits" tvg-link="" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="Italian",Sky Cinema Hits
+#EXTINF:-1 tvg-id="Sky Cinema Hits" tvg-link="" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="Italy",Sky Cinema Hits
 http://admin.vlagor-iptv.com:80/live.ts?channelId=871&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-link="" tvg-name="Sky Cinema Action" tvg-logo="" group-title="Italian",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Cinema Action" tvg-link="" tvg-name="Sky Cinema Action" tvg-logo="" group-title="Italy",Sky Cinema Action
 http://admin.vlagor-iptv.com:80/live.ts?channelId=873&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 " tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 1 
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/2355
@@ -3742,8 +3742,6 @@ http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/36529
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/41332
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: MAX SPORT 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-hr.png" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: MAX SPORT 2
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/41333
-#EXTINF:-1 tvg-id="" tvg-name="Ex-yu: Discovery DTX" tvg-logo="" group-title="★ DOKUMENTARNI KANALI",Ex-yu: Discovery DTX
-http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/39139
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sportska TV" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sportska TV
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/884
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: Ex-Yu: Sport Klub Fight" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: Ex-Yu: Sport Klub Fight
@@ -4202,10 +4200,6 @@ http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1471
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1472
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: RO: EuroSport 1
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/922
-#EXTINF:-1 tvg-id="" tvg-name="US: Cozi TV" tvg-logo="" group-title="★ USA Channels",US: Cozi TV
-http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/1660
-#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: London Live
-http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/429
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: UK: UFC Fight PASS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fight_channel.jpg" group-title="★ SPORTS (All World Sports)",SPORT: UK: UFC Fight PASS
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/923
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Polsat Sport Extra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Polsat Sport Extra
