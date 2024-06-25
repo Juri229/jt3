@@ -1221,20 +1221,6 @@ http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3604
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3614
 #EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport 2" tvg-logo="" group-title="SPORT",IT: Rai Sport 2
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/331
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 1 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 1 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11945
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 2 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 2 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11946
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 3 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 3 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11947
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 4 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 4 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11948
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 5 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 5 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11949
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 6 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 6 HD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11950
-#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 7 FHD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 7 FHD
-http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11951
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport1.png" group-title="sportshqip",AL: EUROSPORT 1 FHD
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51442
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport2.png" group-title="sportshqip",AL: EUROSPORT 2 FHD
