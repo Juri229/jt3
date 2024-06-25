@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Albania",----------- KOSOVA @ ALBANIA -----------
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11
 #EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK ᴴᴰ.
@@ -3273,8 +3272,6 @@ http://admin.vlagor-iptv.com:80/live.ts?channelId=860&deviceUser=kironemacka&dev
 http://admin.vlagor-iptv.com:80/live.ts?channelId=861&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1 tvg-id="Canale 5" tvg-link="" tvg-name="Canale 5" tvg-logo="http://5.189.151.71/tt/mediaset_canale5.png" group-title="Italy",Canale 5
 http://admin.vlagor-iptv.com:80/live.ts?channelId=244&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
-#EXTINF:-1 tvg-id="Italia 1" tvg-link="" tvg-name="Italia 1" tvg-logo="" group-title="Italian",Italia 1
-http://admin.vlagor-iptv.com:80/live.ts?channelId=895&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1 tvg-id="Rete 4" tvg-link="" tvg-name="Rete 4" tvg-logo="" group-title="Italy",Rete 4
 http://admin.vlagor-iptv.com:80/live.ts?channelId=896&deviceUser=kironemacka&devicePass=oF1RJsCpWQoVs4KIYa3u&uid=4164
 #EXTINF:-1 tvg-id="Alice" tvg-link="" tvg-name="Alice" tvg-logo="" group-title="Italy",Alice
