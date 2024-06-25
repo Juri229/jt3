@@ -1,8 +1,902 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FERMA VIP 1 FHD" tvg-logo="" group-title="Reality Show",AL: TRING FERMA VIP 1 FHD
-http://379329039926806988.ofds0401.xyz:80/play/vi1129662/9qWxxWxtTy/806988.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FERMA VIP 2 FHD" tvg-logo="" group-title="Reality Show",AL: TRING FERMA VIP 2 FHD
-http://379329039926806989.ofds0401.xyz:80/play/vi1129662/9qWxxWxtTy/806989.ts
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Albania",----------- KOSOVA @ ALBANIA -----------
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2331
+#EXTINF:-1 tvg-id="RTK1.xk" tvg-name="AL: RTK Toksor ᴴᴰ" tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK Toksor ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK 1 ⁴ᴷ" tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13
+#EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="AL: RTK 3 ⁴ᴷ" tvg-logo="" group-title="Albania",AL: RTK 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/397
+#EXTINF:-1 tvg-id="" tvg-name="AL: Podujeva TV ⁴ᴷ" tvg-logo="" group-title="Albania",AL: Podujeva TV ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/10962
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtv Fontana ᴴᴰ" tvg-logo="" group-title="Albania",AL: Rtv Fontana ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1159
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vushtrria TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Vushtrria TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7428
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mitrovica TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Mitrovica TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/443
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV ᴴᴰ" tvg-logo="data:image/png;base64,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" group-title="Albania",AL: Besa TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/583
+#EXTINF:-1 tvg-id="" tvg-name="AL: Liria TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Liria TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/591
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Syri TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12171
+#EXTINF:-1 tvg-id="" tvg-name="AL: First TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: First TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/20
+#EXTINF:-1 tvg-id="" tvg-name="AL: Llapi TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Llapi TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11164
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pro 1  ᴴᴰ" tvg-logo="" group-title="Albania",AL: Pro 1  ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15943
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Chanel TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Istogu Chanel TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/666
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Dasma TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12140
+#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Era TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2348
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zeri TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Zeri TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15945
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teuta TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Teuta TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12139
+#EXTINF:-1 tvg-id="" tvg-name="AL: Albdreams TV ᴴᴰ" tvg-logo="https://zeri.info/public/zeri/repository/logo.png?v=1.1" group-title="Albania",AL: Albdreams TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1122
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Humor 1 ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Humor 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Humor 2 ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Humor 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7186
+#EXTINF:-1 tvg-id="" tvg-name="AL: Wetter TV " tvg-logo="" group-title="Albania",AL: Wetter TV 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16242
+#EXTINF:-1 tvg-id="" tvg-name="-----------DIGITALB-TRING -----------" tvg-logo="" group-title="Albania",-----------DIGITALB-TRING -----------
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/40
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="AL: Top Channel ⁴ᴷ" tvg-logo="https://top-channel.tv/wp-content/themes/topchannel/assets/images/topchannel.jpg" group-title="Albania",AL: Top Channel ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/586
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="AL: Top Channel ᴴᴰ" tvg-logo="https://top-channel.tv/wp-content/themes/topchannel/assets/images/topchannel.jpg" group-title="Albania",AL: Top Channel ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/42
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channe ᴴᴰ." tvg-logo="" group-title="Albania",AL: Top Channe ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12306
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan ᴴᴰ" tvg-logo="" group-title="Albania",AL: Klan ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/41
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="AL: Klan TV ⁴ᴷ" tvg-logo="" group-title="Albania",AL: Klan TV ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/585
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Klan Plus TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/587
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus ⁴ᴷ" tvg-logo="" group-title="Albania",AL: Vizion Plus ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/84
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus ᴴᴰ" tvg-logo="" group-title="Albania",AL: Vizion Plus ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14596
+#EXTINF:-1 tvg-id="" tvg-name="AL: T ᴴᴰ" tvg-logo="" group-title="Albania",AL: T ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/47
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Shqip ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Shqip ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/89
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Shqip ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Shqip ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15154
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Dram  ᴴᴰ." tvg-logo="" group-title="Albania",AL: Kanal D Dram  ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15685
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Dram  ᴴᴰ" tvg-logo="" group-title="Albania",AL: Kanal D Dram  ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7417
+#EXTINF:-1 tvg-id="TV3 Puls DK" tvg-name="AL: Tring 3 Plus ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring 3 Plus ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14550
+#EXTINF:-1 tvg-id="" tvg-name="AL: 3 Plus ᴴᴰ" tvg-logo="" group-title="Albania",AL: 3 Plus ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/87
+#EXTINF:-1 tvg-id="" tvg-name="AL: TDC Seriale ᴴᴰ" tvg-logo="" group-title="Albania",AL: TDC Seriale ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7160
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Novelas ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Novelas ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12380
+#EXTINF:-1 tvg-id="" tvg-name="AL: Episode ᴴᴰ" tvg-logo="" group-title="Albania",AL: Episode ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12204
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Seriale ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Seriale ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/90
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Seriale ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Seriale ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7258
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Novela ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Novela ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15149
+#EXTINF:-1 tvg-id="" tvg-name="AL: MCN TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: MCN TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2617
+#EXTINF:-1 tvg-id="" tvg-name="AL: Smile ᴴᴰ" tvg-logo="" group-title="Albania",AL: Smile ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/86
+#EXTINF:-1 tvg-id="" tvg-name="AL: Living ᴴᴰ" tvg-logo="" group-title="Albania",AL: Living ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/82
+#EXTINF:-1 tvg-id="" tvg-name="AL: Premium Channel ᴴᴰ" tvg-logo="" group-title="Albania",AL: Premium Channel ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Apollo TV  ᴴᴰ" tvg-logo="" group-title="Albania",AL: Apollo TV  ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2339
+#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Drita TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12307
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus Shkodra ᴴᴰ" tvg-logo="" group-title="Albania",AL: Star Plus Shkodra ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13927
+#EXTINF:-1 tvg-id="" tvg-name="AL: CH-1 SHKODRA ᴴᴰ" tvg-logo="" group-title="Albania",AL: CH-1 SHKODRA ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9340
+#EXTINF:-1 tvg-id="" tvg-name="AL: Boin TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Boin TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7384
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kopliku TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Kopliku TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9184
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa TV" tvg-logo="" group-title="Albania",AL: Rozafa TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13928
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB UK + ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: ALB UK + ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/605
+#EXTINF:-1 tvg-id="" tvg-name="AL: 7 TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: 7 TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/462
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2644
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2 ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2643
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH 24 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2641
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3 ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2642
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Femije ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH Femije ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2637
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH Film ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2636
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Muzike ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH Muzike ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2640
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Shqip ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH Shqip ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2638
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FILM ᴴᴰ" tvg-logo="" group-title="Albania",AL: RTSH FILM ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/604
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film ᴴᴰ" tvg-logo="" group-title="Albania",AL: Euro Film ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2145
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro Film ᴴᴰ." tvg-logo="" group-title="Albania",AL: Euro Film ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/48
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Gold ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2150
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Max ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Max ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2151
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold ᴴᴰ." tvg-logo="" group-title="Albania",AL: Film Gold ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/49
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Max ᴴᴰ." tvg-logo="" group-title="Albania",AL: Film Max ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/50
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="AL: Film Aksion ⁴ᴷ" tvg-logo="" group-title="Albania",AL: Film Aksion ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2756
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="AL: Film Aksion ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Aksion ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/51
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Hits ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/53
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Komedi ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Komedi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/52
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Thriller ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/54
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dram ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Dram ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/56
+#EXTINF:-1 tvg-id="" tvg-name="AL: Family ᴴᴰ" tvg-logo="" group-title="Albania",AL: Family ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1102
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Autor ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/57
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stine ᴴᴰ" tvg-logo="" group-title="Albania",AL: Film Stine ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/55
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Super ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/91
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Action ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/92
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Comedy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Comedy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/95
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Life ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/93
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Fantasy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/94
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Family ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Family ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11981
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Collection ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Collection ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12381
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring International ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring International ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12382
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Aksion ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Aksion ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15150
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Fantasy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Fantasy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15151
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Drame ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Drame ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15152
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë  Comedy ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë  Comedy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15153
+#EXTINF:-1 tvg-id="" tvg-name="-------------WebStar Chanel ---------" tvg-logo="" group-title="Albania",-------------WebStar Chanel ---------
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7744
+#EXTINF:-1 tvg-id="" tvg-name="AL: Radio WebStar" tvg-logo="http://filmhd.ddns.me/WebStar%20radio%202.png" group-title="Albania",AL: Radio WebStar
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11167
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Aksion ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Aksion ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7422
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Komedi ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Komedi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7742
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Cinema ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Cinema ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7424
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Thriller ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Thriller ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7430
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Drame ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Drame ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7441
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 1 ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9127
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 2 ᴴᴰ (La CASA de Papel)" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film 2 ᴴᴰ (La CASA de Papel)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9605
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film 3 ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11695
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Film Cinema DE ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Film Cinema DE ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7426
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Humor ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Humor ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15926
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Muzik ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Muzik ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7439
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Music ᴴᴰ." tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Music ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11065
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Music CH ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Music CH ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7445
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Popullore ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Popullore ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7432
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Qifteli ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Qifteli ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7443
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Histori Shqip ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Histori Shqip ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11070
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Natyr  ⁴ᴷ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Natyr  ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9094
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Relax   ⁴ᴷ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Relax   ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8912
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Chanel 8K" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Chanel 8K
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7434
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Auto  ⁴ᴷ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Auto  ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9011
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Islam ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Islam ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7447
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Islam 2 ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Islam 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8895
+#EXTINF:-1 tvg-id="" tvg-name="AL: DIASPORA TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: DIASPORA TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12463
+#EXTINF:-1 tvg-id="" tvg-name="AL: Music Box ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Music Box ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12059
+#EXTINF:-1 tvg-id="" tvg-name="AL: V & Libonia ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: V & Libonia ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12065
+#EXTINF:-1 tvg-id="" tvg-name="AL: B11 Music ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: B11 Music ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12105
+#EXTINF:-1 tvg-id="" tvg-name="AL: Camel TV ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Camel TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12110
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Action ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Action ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/457
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb MIX ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb MIX ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11874
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Thriller ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Thriller ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11875
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Comedy ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Comedy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11876
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Horror ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Horror ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11877
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Western ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Western ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12095
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Animal ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Alb Animal ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12098
+#EXTINF:-1 tvg-id="" tvg-name="AL:  LIGJERATA ( Elvis Naci )" tvg-logo="" group-title="Albania",AL:  LIGJERATA ( Elvis Naci )
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8896
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRAVEL TV" tvg-logo="" group-title="Albania",AL: TRAVEL TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7284
+#EXTINF:-1 tvg-id="" tvg-name="----------- KINO FILMA -------------------" tvg-logo="" group-title="Albania",----------- KINO FILMA -------------------
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1110
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Filmi Zgjoi FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXzeoyAA9kGpYtmyPCP05lEBjvpw9r0Iv7z4ujkGxNIG3NuOs" group-title="Albania",AL:  Filmi Zgjoi FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15423
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix 2 HD" tvg-logo="" group-title="Albania",AL: Netflix 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12333
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Filma Shqip FHD" tvg-logo="" group-title="Albania",AL | Dark Filma Shqip FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12383
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one  Aksion HD" tvg-logo="" group-title="Albania",AL: TELE one  Aksion HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2613
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one fantazi HD" tvg-logo="" group-title="Albania",AL: TELE one fantazi HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2615
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Collection HD" tvg-logo="" group-title="Albania",AL: TELE one Collection HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2614
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Thriller HD" tvg-logo="" group-title="Albania",AL: TELE one Thriller HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2616
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one  Epik HD" tvg-logo="" group-title="Albania",AL: TELE one  Epik HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/664
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Gags" tvg-logo="" group-title="Albania",AL: TELE one Gags
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7279
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Drama HD" tvg-logo="" group-title="Albania",AL: TELE one Drama HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7280
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE one Crime HD" tvg-logo="" group-title="Albania",AL: TELE one Crime HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7281
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1082
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 2 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1083
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1084
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 4 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1085
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 5 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/606
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 6 HD" tvg-logo="" group-title="Albania",AL: TELE ONE 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/579
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Kino 1 HD" tvg-logo="" group-title="Albania",AL: Ar Kino 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2910
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Kino 2 HD" tvg-logo="" group-title="Albania",AL: Ar Kino 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2911
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Kino 3 HD" tvg-logo="" group-title="Albania",AL: Ar Kino 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2912
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kino 4 FHD" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: Art Kino 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12129
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gold Action 1 HD" tvg-logo="" group-title="Albania",AL: Gold Action 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7188
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gold Family 4 HD" tvg-logo="" group-title="Albania",AL: Gold Family 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7191
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Action HD" tvg-logo="" group-title="Albania",AL: X Action HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2795
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Comedy HD" tvg-logo="" group-title="Albania",AL: X Comedy HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2794
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Romance HD" tvg-logo="" group-title="Albania",AL: X Romance HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2784
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Natyra HD" tvg-logo="" group-title="Albania",AL: X Natyra HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14566
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Kids" tvg-logo="" group-title="Albania",AL:  X Kids
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14567
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Qifteli HD" tvg-logo="" group-title="Albania",AL:  X Qifteli HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14568
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Dark HD" tvg-logo="" group-title="Albania",AL:  X Dark HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14569
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Drama HD" tvg-logo="" group-title="Albania",AL:  X Drama HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14570
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Family HD" tvg-logo="" group-title="Albania",AL:  X Family HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14571
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Histori HD" tvg-logo="" group-title="Albania",AL:  X Histori HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14572
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Humor HD" tvg-logo="" group-title="Albania",AL:  X Humor HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14573
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Music Hits HD" tvg-logo="" group-title="Albania",AL:  X Music Hits HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14574
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Popullore HD" tvg-logo="" group-title="Albania",AL:  X Popullore HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14575
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Sci-Fi HD" tvg-logo="" group-title="Albania",AL:  X Sci-Fi HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14576
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Shkenca HD" tvg-logo="" group-title="Albania",AL:  X Shkenca HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14577
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Thriller HD" tvg-logo="" group-title="Albania",AL:  X Thriller HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14578
+#EXTINF:-1 tvg-id="" tvg-name="AL:  X Western HD" tvg-logo="" group-title="Albania",AL:  X Western HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14579
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 1 HD" tvg-logo="" group-title="Albania",AL: X Premium 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2788
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 2 HD" tvg-logo="" group-title="Albania",AL: X Premium 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2787
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 3 HD" tvg-logo="" group-title="Albania",AL: X Premium 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2786
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Premium 4 HD" tvg-logo="" group-title="Albania",AL: X Premium 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2785
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 1 HD" tvg-logo="" group-title="Albania",AL: Film Gold 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5979
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 2 HD" tvg-logo="" group-title="Albania",AL: Film Gold 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5978
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 3 HD" tvg-logo="" group-title="Albania",AL: Film Gold 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5977
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 4 HD" tvg-logo="" group-title="Albania",AL: Film Gold 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5976
+#EXTINF:-1 tvg-id="" tvg-name="AL: KINO SUPER " tvg-logo="" group-title="Albania",AL: KINO SUPER 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2146
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion" tvg-logo="" group-title="Albania",AL: Kinema Aksion
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/463
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Aksion MAX" tvg-logo="" group-title="Albania",AL: Kinema Aksion MAX
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/454
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Comedy" tvg-logo="" group-title="Albania",AL: Kinema Comedy
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7193
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Family" tvg-logo="" group-title="Albania",AL: Kinema Family
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7194
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Fantasy" tvg-logo="" group-title="Albania",AL: Kinema Fantasy
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7195
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Classics" tvg-logo="" group-title="Albania",AL: Kinema Classics
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7196
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Hits" tvg-logo="" group-title="Albania",AL: Kinema Hits
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7197
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Gold" tvg-logo="" group-title="Albania",AL: Kinema Gold
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7198
+#EXTINF:-1 tvg-id="" tvg-name="AL: KINO PREMIER 1 HD" tvg-logo="" group-title="Albania",AL: KINO PREMIER 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/432
+#EXTINF:-1 tvg-id="" tvg-name="AL: KINO PREMIER 2 HD" tvg-logo="" group-title="Albania",AL: KINO PREMIER 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/433
+#EXTINF:-1 tvg-id="" tvg-name="AL: KINO PREMIER 3 HD" tvg-logo="" group-title="Albania",AL: KINO PREMIER 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/456
+#EXTINF:-1 tvg-id="" tvg-name="AL: KINO PREMIER 4 HD" tvg-logo="" group-title="Albania",AL: KINO PREMIER 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/455
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY MAX" tvg-logo="" group-title="Albania",AL: SKY MAX
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/466
+#EXTINF:-1 tvg-id="" tvg-name="AL: Premium Channel" tvg-logo="" group-title="Albania",AL: Premium Channel
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7312
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Box Plus" tvg-logo="" group-title="Albania",AL: Film Box Plus
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7166
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Box Extra" tvg-logo="" group-title="Albania",AL: Film Box Extra
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Box Premium" tvg-logo="" group-title="Albania",AL: Film Box Premium
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7164
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Crime" tvg-logo="" group-title="Albania",AL: Fox Crime
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7163
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox Life" tvg-logo="" group-title="Albania",AL: Fox Life
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7162
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fox" tvg-logo="" group-title="Albania",AL: Fox
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7161
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Action HD" tvg-logo="" group-title="Albania",AL: 8ova Action HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11035
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Thriller HD" tvg-logo="" group-title="Albania",AL: 8ova Thriller HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11036
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Drame HD" tvg-logo="" group-title="Albania",AL: 8ova Drame HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11037
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Komedi HD" tvg-logo="" group-title="Albania",AL: 8ova Komedi HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11038
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Kinema Republika" tvg-logo="" group-title="Albania",AL:  Kinema Republika
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5975
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Kinema Partizani" tvg-logo="" group-title="Albania",AL:  Kinema Partizani
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5974
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema Dajti" tvg-logo="" group-title="Albania",AL: Kinema Dajti
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5972
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kinema 17 Nëntori" tvg-logo="" group-title="Albania",AL: Kinema 17 Nëntori
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5973
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Cine" tvg-logo="" group-title="Albania",AL: StatiON Cine
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9576
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Prime" tvg-logo="" group-title="Albania",AL: StatiON Prime
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9577
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Box" tvg-logo="" group-title="Albania",AL: StatiON Box
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9578
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Top" tvg-logo="" group-title="Albania",AL: StatiON Top
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9579
+#EXTINF:-1 tvg-id="" tvg-name="AL: StatiON Stars" tvg-logo="" group-title="Albania",AL: StatiON Stars
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9580
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 aksion 1" tvg-logo="" group-title="Albania",AL: FILM24 aksion 1
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9595
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 aksion 2" tvg-logo="" group-title="Albania",AL: FILM24 aksion 2
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9596
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 aksion 3" tvg-logo="" group-title="Albania",AL: FILM24 aksion 3
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9597
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 aventure" tvg-logo="" group-title="Albania",AL: FILM24 aventure
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9598
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 aziatik" tvg-logo="" group-title="Albania",AL: FILM24 aziatik
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9599
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 drame" tvg-logo="" group-title="Albania",AL: FILM24 drame
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9600
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM24 fantashkence" tvg-logo="" group-title="Albania",AL: FILM24 fantashkence
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9601
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark PRIME 1 FHD" tvg-logo="" group-title="Albania",AL |  Dark PRIME 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12384
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark PRIME 2 FHD" tvg-logo="" group-title="Albania",AL | Dark PRIME 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12385
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark PRIME 3 FHD" tvg-logo="" group-title="Albania",AL | Dark PRIME 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12386
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark PRIME 4 FHD" tvg-logo="" group-title="Albania",AL | Dark PRIME 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12387
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 1 FHD" tvg-logo="" group-title="Albania",AL |  Dark GOLD 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12388
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 2 FHD" tvg-logo="" group-title="Albania",AL |  Dark GOLD 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12389
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark GOLD 3 FHD" tvg-logo="" group-title="Albania",AL | Dark GOLD 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12390
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark GOLD 4 FHD" tvg-logo="" group-title="Albania",AL |  Dark GOLD 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12391
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Netflix 1 FHD" tvg-logo="" group-title="Albania",AL |  Dark Netflix 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12392
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Netflix 2 FHD" tvg-logo="" group-title="Albania",AL |  Dark Netflix 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12393
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Netflix 3 FHD" tvg-logo="" group-title="Albania",AL |  Dark Netflix 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12394
+#EXTINF:-1 tvg-id="" tvg-name="AL |  Dark Netflix 4 FHD" tvg-logo="" group-title="Albania",AL |  Dark Netflix 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12395
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Aksion FHD" tvg-logo="" group-title="Albania",AL | Dark Aksion FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12396
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Deluxe FHD" tvg-logo="" group-title="Albania",AL | Dark Deluxe FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12397
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Special FHD" tvg-logo="" group-title="Albania",AL | Dark Special FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12398
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Komedi FHD" tvg-logo="" group-title="Albania",AL | Dark Komedi FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12399
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Horror FHD" tvg-logo="" group-title="Albania",AL | Dark Horror FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12400
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Thriller FHD" tvg-logo="" group-title="Albania",AL | Dark Thriller FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12401
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Western FHD" tvg-logo="" group-title="Albania",AL | Dark Western FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12402
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Classic FHD" tvg-logo="" group-title="Albania",AL | Dark Classic FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12403
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Family FHD" tvg-logo="" group-title="Albania",AL | Dark Family FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12404
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Fantazi FHD" tvg-logo="" group-title="Albania",AL | Dark Fantazi FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12405
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Romance FHD" tvg-logo="" group-title="Albania",AL | Dark Romance FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12406
+#EXTINF:-1 tvg-id="" tvg-name="AL | Dark Hindi FHD" tvg-logo="" group-title="Albania",AL | Dark Hindi FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12407
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aksion AL" tvg-logo="" group-title="Albania",AL: Netflix Aksion AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12428
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Fantazi AL" tvg-logo="" group-title="Albania",AL: Netflix Fantazi AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12429
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Komedi AL" tvg-logo="" group-title="Albania",AL: Netflix Komedi AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12430
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Horror AL" tvg-logo="" group-title="Albania",AL: Netflix Horror AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12431
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Aventure AL" tvg-logo="" group-title="Albania",AL: Netflix Aventure AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12432
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Romance AL" tvg-logo="" group-title="Albania",AL: Netflix Romance AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12433
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Femije AL" tvg-logo="" group-title="Albania",AL: Netflix Femije AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12434
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Epik AL" tvg-logo="" group-title="Albania",AL: Netflix Epik AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12435
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Relaks FHD AL" tvg-logo="" group-title="Albania",AL: Netflix Relaks FHD AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12436
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Spider-Man AL" tvg-logo="" group-title="Albania",AL: Netflix Spider-Man AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12437
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Jackie Chan AL" tvg-logo="" group-title="Albania",AL: Netflix Jackie Chan AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12438
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Van Damme AL" tvg-logo="" group-title="Albania",AL: Netflix Van Damme AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12439
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Dwayne Johnson AL" tvg-logo="" group-title="Albania",AL: Netflix Dwayne Johnson AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12440
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Arnold Schwarzenegger AL" tvg-logo="" group-title="Albania",AL: Netflix Arnold Schwarzenegger AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12441
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Sylvester Stallone AL" tvg-logo="" group-title="Albania",AL: Netflix Sylvester Stallone AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12442
+#EXTINF:-1 tvg-id="" tvg-name="AL: Netflix Bud Spencer & Terence Hill AL" tvg-logo="" group-title="Albania",AL: Netflix Bud Spencer & Terence Hill AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12443
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Aksion ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Aksion ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15377
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Fantasy ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Fantasy ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15378
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Komedi ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Komedi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15379
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Drama ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Drama ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15380
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Romance ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Romance ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15381
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Marvel ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Marvel ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15382
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Family ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Family ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15383
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Thriller  ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Thriller  ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15384
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Hits ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Hits ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15385
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Cinema ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Cinema ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15386
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Film ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Film ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15387
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Hindi ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Hindi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15389
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Ilahi ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Ilahi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15391
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV MiMi ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV MiMi ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15392
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Western ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Western ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15394
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Serial ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Serial ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15395
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15446
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 2 FHD" tvg-logo="http://falcon.ac:5000/images/created123/ebpremiere.png" group-title="Albania",AL: EB Premiere Select 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15447
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15448
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15449
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 5 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 5 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15450
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="AL: EB Premiere Select 6 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 6 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15451
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 7 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 7 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15452
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 8 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 8 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15453
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 9 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 9 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15454
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 10 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 10 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15455
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 11 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 11 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15456
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 12 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 12 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15457
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 13 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 13 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15458
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 14 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 14 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15459
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 15 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 15 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15460
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 16 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 16 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15461
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 17 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 17 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15462
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere Select 18 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere Select 18 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15463
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 1 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15464
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15465
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15466
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Premiere 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Premiere.png" group-title="Albania",AL: EB Premiere 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15467
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix CInema FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Netflix.png" group-title="Albania",AL: EB Netflix CInema FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15468
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix CInema 2 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Netflix.png" group-title="Albania",AL: EB Netflix CInema 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15469
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix CInema 3 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Netflix.png" group-title="Albania",AL: EB Netflix CInema 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15470
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Netflix CInema 4 FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_Netflix.png" group-title="Albania",AL: EB Netflix CInema 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15471
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB La casa de papel FHD" tvg-logo="http://falcon.ac:5000/images/created123/lacasa.png" group-title="Albania",AL: EB La casa de papel FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15472
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB  Prison Break Season FHD" tvg-logo="http://falcon.ac:5000/images/created123/prisonbreak.png" group-title="Albania",AL: EB  Prison Break Season FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15473
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Breaking Bad FHD" tvg-logo="http://falcon.ac:5000/images/created123/breakingbad.png" group-title="Albania",AL: EB Breaking Bad FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15474
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Narcos FHD" tvg-logo="http://falcon.ac:5000/images/created123/narcos.png" group-title="Albania",AL: EB Narcos FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15475
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Collection Rocky FHD" tvg-logo="http://falcon.ac:5000/images/de/rockyhd.png" group-title="Albania",AL: EB Collection Rocky FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15476
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Collection Rambo FHD" tvg-logo="http://falcon.ac:5000/images/created123/rambo.png" group-title="Albania",AL: EB Collection Rambo FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15477
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> LAJME NEWS <<<<<<<" tvg-logo="" group-title="Albania",>>>>>>> LAJME NEWS <<<<<<<
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro News Albania ᴴᴰ." tvg-logo="" group-title="Albania",AL: Euro News Albania ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7321
+#EXTINF:-1 tvg-id="" tvg-name="AL: Neser TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Neser TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12479
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Kanali 7 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/107
+#EXTINF:-1 tvg-id="" tvg-name="AL: A1 Report ᴴᴰ" tvg-logo="" group-title="Albania",AL: A1 Report ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/78
+#EXTINF:-1 tvg-id="" tvg-name="AL: News 24 ᴴᴰ" tvg-logo="" group-title="Albania",AL: News 24 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2149
+#EXTINF:-1 tvg-id="" tvg-name="AL: ABC News ᴴᴰ" tvg-logo="" group-title="Albania",AL: ABC News ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/290
+#EXTINF:-1 tvg-id="" tvg-name="AL: ORA News ᴴᴰ" tvg-logo="" group-title="Albania",AL: ORA News ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2324
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP News ᴴᴰ" tvg-logo="" group-title="Albania",AL: TOP News ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/77
+#EXTINF:-1 tvg-id="" tvg-name="AL: A2 CNN ᴴᴰ" tvg-logo="" group-title="Albania",AL: A2 CNN ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7313
+#EXTINF:-1 tvg-id="" tvg-name="AL: FAX News ᴴᴰ" tvg-logo="" group-title="Albania",AL: FAX News ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7314
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euro News Albania ᴴᴰ" tvg-logo="" group-title="Albania",AL: Euro News Albania ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7322
+#EXTINF:-1 tvg-id="" tvg-name="AL: VOA ᴴᴰ (18:00)" tvg-logo="" group-title="Albania",AL: VOA ᴴᴰ (18:00)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9187
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> SHKENC-DOKUMETAR <<<<<<<" tvg-logo="" group-title="Albania",>>>>>>> SHKENC-DOKUMETAR <<<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/486
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku ᴴᴰ" tvg-logo="" group-title="Albania",AL: Art Doku ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7385
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Art Doku 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11073
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Duko 1 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Duko 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15155
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë Duko 2 ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tëvë Duko 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15156
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXP Shkenc ᴴᴰ" tvg-logo="" group-title="Albania",AL: EXP Shkenc ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/71
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXP Natyr ᴴᴰ" tvg-logo="" group-title="Albania",AL: EXP Natyr ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/72
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXP Histori ᴴᴰ" tvg-logo="" group-title="Albania",AL: EXP Histori ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/73
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Planet ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/102
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring World ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/103
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Histori ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Histori ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2148
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Muse ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Muse ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2336
+#EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen ᴴᴰ" tvg-logo="" group-title="Albania",AL: 24 Kitchen ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2338
+#EXTINF:-1 tvg-id="" tvg-name="AL: Travle Chanle ᴴᴰ" tvg-logo="" group-title="Albania",AL: Travle Chanle ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2333
+#EXTINF:-1 tvg-id="" tvg-name="AL: Travel Channel ᴴᴰ." tvg-logo="" group-title="Albania",AL: Travel Channel ᴴᴰ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15194
+#EXTINF:-1 tvg-id="" tvg-name="AL: Nat Geo Wild ᴴᴰ" tvg-logo="" group-title="Albania",AL: Nat Geo Wild ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2334
+#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic ᴴᴰ" tvg-logo="" group-title="Albania",AL: National Geographic ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/88
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery ᴴᴰ" tvg-logo="" group-title="Albania",AL: Discovery ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2335
+#EXTINF:-1 tvg-id="" tvg-name="AL: TLC  ᴴᴰ" tvg-logo="" group-title="Albania",AL: TLC  ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15193
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Gjurme Shqiptare HD" tvg-logo="" group-title="Albania",AL: 8ova Gjurme Shqiptare HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11040
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> PER FEMIJ <<<<<<" tvg-logo="" group-title="Albania",>>>>>>> PER FEMIJ <<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/79
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cufo TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Cufo TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/74
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang ᴴᴰ" tvg-logo="" group-title="Albania",AL: Bang Bang ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/75
+#EXTINF:-1 tvg-id="" tvg-name="AL: Junior TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Junior TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/76
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tip TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tip TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/108
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Sofia TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/109
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Tring ᴴᴰ" tvg-logo="" group-title="Albania",AL: Tring Tring ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/110
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Nick Jr ᴴᴰ" tvg-logo="" group-title="Albania",AL:  Nick Jr ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Baby TV ᴴᴰ" tvg-logo="" group-title="Albania",AL: Baby TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3330
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar ChuChu TV ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar ChuChu TV ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7459
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Masha Orso ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Masha Orso ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7461
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Baby ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Baby ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12138
+#EXTINF:-1 tvg-id="" tvg-name="AL: Masha dhe Ariu" tvg-logo="" group-title="Albania",AL: Masha dhe Ariu
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9183
+#EXTINF:-1 tvg-id="" tvg-name="AL: WebStar Diana Beby ᴴᴰ" tvg-logo="http://filmhd.ddns.me/icon.png" group-title="Albania",AL: WebStar Diana Beby ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14563
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova ChuChuTv HD" tvg-logo="" group-title="Albania",AL: 8ova ChuChuTv HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11047
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Masha Bear HD" tvg-logo="" group-title="Albania",AL: 8ova Masha Bear HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11048
+#EXTINF:-1 tvg-id="" tvg-name="AL: Masha e Orso DE" tvg-logo="" group-title="Albania",AL: Masha e Orso DE
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7290
+#EXTINF:-1 tvg-id="" tvg-name="AL: Prince Kids HD" tvg-logo="" group-title="Albania",AL: Prince Kids HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12477
+#EXTINF:-1 tvg-id="" tvg-name="AL: Prince Kids FHD" tvg-logo="" group-title="Albania",AL: Prince Kids FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12478
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tom & Jerry" tvg-logo="" group-title="Albania",AL: Tom & Jerry
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kolopucat epe epe" tvg-logo="" group-title="Albania",AL: Kolopucat epe epe
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2344
+#EXTINF:-1 tvg-id="" tvg-name="AL:GJOLLI FËMIJËT HD" tvg-logo="" group-title="Albania",AL:GJOLLI FËMIJËT HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8972
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Kin.Kids Mr Bean HD" tvg-logo="" group-title="Albania",AL:  Kin.Kids Mr Bean HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11879
+#EXTINF:-1 tvg-id="" tvg-name="AL: Booba Cartoon HD" tvg-logo="" group-title="Albania",AL: Booba Cartoon HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11881
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Serial IStar FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Serial IStar FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15424
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB O Sa Mire Kids FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB O Sa Mire Kids FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15425
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB PËRALLA HD" tvg-logo="http://falcon.ac:5000/images/created123/ebkids.png" group-title="Albania",AL: EB PËRALLA HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15426
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 1 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Animuar 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15427
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 2 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Animuar 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15428
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 3 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Animuar 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15429
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Animuar 4 HD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Animuar 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15430
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Dave and Ava FHD" tvg-logo="" group-title="Albania",AL: EB Kids Dave and Ava FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15431
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Vlada&Niki FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Vlada&Niki FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15432
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Super Simple Songs FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Super Simple Songs FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15433
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Masha and the Bear FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Masha and the Bear FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15434
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Diana Show FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Diana Show FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15435
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Baby Bus FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Baby Bus FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15436
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Cocomelon FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Cocomelon FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15437
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Pink Fong FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Pink Fong FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15438
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Kids Odd Bods FHD" tvg-logo="http://falcon.ac:5000/images/alb/EB_KIDS.png" group-title="Albania",AL: EB Kids Odd Bods FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15439
+#EXTINF:-1 tvg-id="" tvg-name="AL: EB Tom and Jerry HD" tvg-logo="http://falcon.ac:5000/images/tomandjerry.png" group-title="Albania",AL: EB Tom and Jerry HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15440
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tao Tao" tvg-logo="" group-title="Albania",AL: Tao Tao
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15441
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="AL: Boomerang" tvg-logo="http://falcon.ac:5000/images/boomerang.png" group-title="Albania",AL: Boomerang
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15442
+#EXTINF:-1 tvg-id="" tvg-name="AL: Prince Kids" tvg-logo="" group-title="Albania",AL: Prince Kids
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15443
+#EXTINF:-1 tvg-id="" tvg-name="AL: Masha dhe Ariu HD" tvg-logo="" group-title="Albania",AL: Masha dhe Ariu HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15444
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> MUZIKA <<<<<<<" tvg-logo="" group-title="Albania",>>>>>>> MUZIKA <<<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1111
+#EXTINF:-1 tvg-id="" tvg-name="AL: BLUE SKY TV" tvg-logo="" group-title="Albania",AL: BLUE SKY TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13929
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Blue " tvg-logo="" group-title="Albania",AL: Syri Blue 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7399
+#EXTINF:-1 tvg-id="" tvg-name="AL: BBF MUSICH" tvg-logo="" group-title="Albania",AL: BBF MUSICH
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/100
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV SHARRI HD" tvg-logo="" group-title="Albania",AL: RTV SHARRI HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/21
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Jeta ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Jeta ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15376
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Folk ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Folk ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15388
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folklorit TV HD" tvg-logo="" group-title="Albania",AL: Folklorit TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11197
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV OPINION" tvg-logo="" group-title="Albania",AL: TV OPINION
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1103
+#EXTINF:-1 tvg-id="" tvg-name="AL: DASMA TV" tvg-logo="" group-title="Albania",AL: DASMA TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/449
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV KOSOVA" tvg-logo="" group-title="Albania",AL: MTV KOSOVA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/444
+#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="" group-title="Albania",AL: AMOL TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/420
+#EXTINF:-1 tvg-id="" tvg-name="AL: TURBO CHANNEL" tvg-logo="" group-title="Albania",AL: TURBO CHANNEL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/83
+#EXTINF:-1 tvg-id="" tvg-name="AL: MY MUSIC" tvg-logo="" group-title="Albania",AL: MY MUSIC
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/685
+#EXTINF:-1 tvg-id="" tvg-name="AL: PLAY TV" tvg-logo="" group-title="Albania",AL: PLAY TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2322
+#EXTINF:-1 tvg-id="" tvg-name="AL: ZICO TV FHD" tvg-logo="" group-title="Albania",AL: ZICO TV FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2323
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHOTA MUSIC" tvg-logo="" group-title="Albania",AL: SHOTA MUSIC
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2325
+#EXTINF:-1 tvg-id="" tvg-name="AL: LOIB TV" tvg-logo="" group-title="Albania",AL: LOIB TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2332
+#EXTINF:-1 tvg-id="" tvg-name="AL: CLICK MUSIC" tvg-logo="" group-title="Albania",AL: CLICK MUSIC
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2350
+#EXTINF:-1 tvg-id="" tvg-name="AL: STV ONLIN" tvg-logo="" group-title="Albania",AL: STV ONLIN
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/70
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALBUK MUSIC" tvg-logo="" group-title="Albania",AL: ALBUK MUSIC
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/119
+#EXTINF:-1 tvg-id="" tvg-name="AL: TIRANA TV" tvg-logo="" group-title="Albania",AL: TIRANA TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/661
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova BBF HD" tvg-logo="" group-title="Albania",AL: 8ova BBF HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11043
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Muzik HD" tvg-logo="" group-title="Albania",AL: 8ova Muzik HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11044
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Popullore HD" tvg-logo="" group-title="Albania",AL: 8ova Popullore HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11045
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Cifteli HD" tvg-logo="" group-title="Albania",AL: 8ova Cifteli HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11046
+#EXTINF:-1 tvg-id="" tvg-name="AL: 4Music FHD" tvg-logo="" group-title="Albania",AL: 4Music FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2702
+#EXTINF:-1 tvg-id="" tvg-name="AL: FRAME TV HD" tvg-logo="" group-title="Albania",AL: FRAME TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/607
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Ilirida Music HD" tvg-logo="" group-title="Albania",AL: RTV Ilirida Music HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/32
+#EXTINF:-1 tvg-id="" tvg-name="AL:  TV SYRI AL" tvg-logo="" group-title="Albania",AL:  TV SYRI AL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1100
+#EXTINF:-1 tvg-id="" tvg-name="AL: shota tv" tvg-logo="" group-title="Albania",AL: shota tv
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1108
+#EXTINF:-1 tvg-id="" tvg-name="AL: ELRODI MUZIK" tvg-logo="" group-title="Albania",AL: ELRODI MUZIK
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/994
+#EXTINF:-1 tvg-id="" tvg-name="AL: START MUSIC TV" tvg-logo="" group-title="Albania",AL: START MUSIC TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/588
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOLK" tvg-logo="" group-title="Albania",AL: FOLK
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/631
+#EXTINF:-1 tvg-id="" tvg-name="AL: ON TV HD" tvg-logo="" group-title="Albania",AL: ON TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2701
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music HD" tvg-logo="" group-title="Albania",AL: Klan Music HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9339
+#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra HD" tvg-logo="" group-title="Albania",AL: Flutra HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13940
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> MAKEDONIA <<<<<<<" tvg-logo="" group-title="Albania",>>>>>>> MAKEDONIA <<<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/267
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV SHENJA" tvg-logo="" group-title="Albania",MK: TV SHENJA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/436
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV DILLI" tvg-logo="" group-title="Albania",MK: TV DILLI
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/578
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV2 SHQIP" tvg-logo="" group-title="Albania",MK: TV2 SHQIP
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/635
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV KOHA" tvg-logo="" group-title="Albania",MK: TV KOHA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/22
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV ERA" tvg-logo="" group-title="Albania",AL: TV ERA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/44
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV BUJANOFCI" tvg-logo="" group-title="Albania",AL: RTV BUJANOFCI
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2347
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV PRESHEVA" tvg-logo="" group-title="Albania",AL: RTV PRESHEVA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2346
+#EXTINF:-1 tvg-id="" tvg-name="AL: Balkanika" tvg-logo="" group-title="Albania",AL: Balkanika
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3326
+#EXTINF:-1 tvg-id="" tvg-name="ShqipTV Humor ᴴᴰ" tvg-logo="" group-title="Albania",ShqipTV Humor ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15390
+#EXTINF:-1 tvg-id="" tvg-name="AL: 8ova Humor HD" tvg-logo="" group-title="Albania",AL: 8ova Humor HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11039
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>>> KANALE KS TEST <<<<<<<" tvg-logo="" group-title="Albania",>>>>>>> KANALE KS TEST <<<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7406
+#EXTINF:-1 tvg-id="" tvg-name="AL: GEO TV HD" tvg-logo="" group-title="Albania",AL: GEO TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7389
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Tema Ferizaj HD" tvg-logo="" group-title="Albania",AL: TV Tema Ferizaj HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7390
+#EXTINF:-1 tvg-id="" tvg-name="AL: ARI TV " tvg-logo="" group-title="Albania",AL: ARI TV 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7400
+#EXTINF:-1 tvg-id="" tvg-name="AL: LIRIA TV" tvg-logo="" group-title="Albania",AL: LIRIA TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7403
+#EXTINF:-1 tvg-id="" tvg-name="FASHIN TV" tvg-logo="" group-title="Albania",FASHIN TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16349
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Arberia 1 HD" tvg-logo="" group-title="Albania",AL: RTV Arberia 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/7404
+#EXTINF:-1 tvg-id="" tvg-name="AL: Spin TV HD" tvg-logo="" group-title="Albania",AL: Spin TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9189
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ulqini TV HD" tvg-logo="" group-title="Albania",AL: Ulqini TV HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9180
+#EXTINF:-1 tvg-id="" tvg-name="AL:  Alb’swiss TV" tvg-logo="" group-title="Albania",AL:  Alb’swiss TV
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9190
+#EXTINF:-1 tvg-id="" tvg-name="AL: Jehaniter Gold HD" tvg-logo="" group-title="Albania",AL: Jehaniter Gold HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9181
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Hits  HD" tvg-logo="" group-title="Albania",AL: Top Hits  HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9188
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 1 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 1 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110555
 #EXTINF:-1 tvg-id="" tvg-name="ALB: EUROSPORT 2 HD" tvg-logo="" group-title="sportshqip",ALB: EUROSPORT 2 HD
@@ -17,6 +911,330 @@ http://medotv.nl:8000/totocorono/fG2bBmbzRO/110559
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110561
 #EXTINF:-1 tvg-id="" tvg-name="ALB: SUPER SPORT 6 HD" tvg-logo="" group-title="sportshqip",ALB: SUPER SPORT 6 HD
 http://medotv.nl:8000/totocorono/fG2bBmbzRO/110562
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>SPORT<<<<<" tvg-logo="" group-title="SPORT",>>>>>SPORT<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/195
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: Klan Sport 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",EURO 2024: Klan Sport 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16230
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: Klan Sport 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",EURO 2024: Klan Sport 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16231
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: Klan Kosova" tvg-logo="" group-title="SPORT",EURO 2024: Klan Kosova
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16222
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024:  Ar spo 1 HD" tvg-logo="" group-title="SPORT",EURO 2024:  Ar spo 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16223
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024:  Ar spo 2 HD" tvg-logo="" group-title="SPORT",EURO 2024:  Ar spo 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16224
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: Over Sport 1" tvg-logo="" group-title="SPORT",EURO 2024: Over Sport 1
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16234
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024:  ZDF" tvg-logo="" group-title="SPORT",EURO 2024:  ZDF
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16225
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024:  RAI 1 HD" tvg-logo="" group-title="SPORT",EURO 2024:  RAI 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16226
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: RSI La1 HD" tvg-logo="" group-title="SPORT",EURO 2024: RSI La1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16227
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: TRT 1 FHD" tvg-logo="" group-title="SPORT",EURO 2024: TRT 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16228
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: TF1 HD" tvg-logo="" group-title="SPORT",EURO 2024: TF1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16229
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 1  ⁴ᴷ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 1  ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16236
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 1 ᴴᴰ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16235
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16238
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 2 ᴴᴰ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16237
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16239
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: FussBall TV 3 ᴴᴰ" tvg-logo="" group-title="SPORT",EURO 2024: FussBall TV 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16240
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: Sport TV 1 Portugall" tvg-logo="" group-title="SPORT",EURO 2024: Sport TV 1 Portugall
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16232
+#EXTINF:-1 tvg-id="" tvg-name="EURO 2024: BEINSPORT 1 HD" tvg-logo="" group-title="SPORT",EURO 2024: BEINSPORT 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16233
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH-SportÂ ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: RTSH-SportÂ ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/411
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SuperSport 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/58
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1  ᴴᴰ L " tvg-logo="" group-title="SPORT",AL: Super Sport 1  ᴴᴰ L 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1015
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SuperSport 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/59
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 ᴴᴰ L" tvg-logo="" group-title="SPORT",AL: Super Sport 2 ᴴᴰ L
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1016
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SuperSport 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/60
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 ᴴᴰ L" tvg-logo="" group-title="SPORT",AL: Super Sport 3 ᴴᴰ L
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1017
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SuperSport 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport 4 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/61
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport  5 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport  5 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1008
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport  6 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport  6 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1009
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Tring Sport News ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/112
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Tring Sport 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/113
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 ⁴ᴷ." tvg-logo="" group-title="SPORT",AL: Tring Sport 1 ⁴ᴷ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12143
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Tring Sport 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/114
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 ⁴ᴷ." tvg-logo="" group-title="SPORT",AL: Tring Sport 2 ⁴ᴷ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12144
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Tring Sport 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/115
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3  ⁴ᴷ." tvg-logo="" group-title="SPORT",AL: Tring Sport 3  ⁴ᴷ.
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12145
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Tring Sport 4 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/116
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/468
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2732
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/469
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2731
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1175
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2730
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 4 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1176
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Kujtesa Sport 4 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2729
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2777
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2778
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 2 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Ar Sport 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9607
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2779
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 4 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15398
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 5 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 5 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15397
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ar Sport 6 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: Ar Sport 6 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15396
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 1  ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: OverSport 1  ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13923
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 2  ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: OverSport 2  ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13924
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 3 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: OverSport 3 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13925
+#EXTINF:-1 tvg-id="" tvg-name="AL: OverSport 4 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: OverSport 4 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/13926
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport  Kosova 1 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport  Kosova 1 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8934
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport  Kosova 2 ⁴ᴷ" tvg-logo="" group-title="SPORT",AL: SuperSport  Kosova 2 ⁴ᴷ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8935
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Super Sport 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/62
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Super Sport 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/63
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Super Sport 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/64
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Super Sport 4 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/65
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Tring Sport 1 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1138
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Tring Sport 2 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1139
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Tring Sport 3 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1140
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 ᴴᴰ" tvg-logo="" group-title="SPORT",AL: Tring Sport 4 ᴴᴰ
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1177
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar FHD local" tvg-logo="" group-title="SPORT",DE: DAZN 1 Bar FHD local
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2699
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar FHD local" tvg-logo="" group-title="SPORT",DE: DAZN 2 Bar FHD local
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2700
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZ BAR 1 HD" tvg-logo="" group-title="SPORT",DE: DAZ BAR 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15922
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZ BAR 2 HD  " tvg-logo="" group-title="SPORT",DE: DAZ BAR 2 HD  
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15923
+#EXTINF:-1 tvg-id="" tvg-name="DE: EuroSport 1 HD" tvg-logo="" group-title="SPORT",DE: EuroSport 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8931
+#EXTINF:-1 tvg-id="" tvg-name="DE: EuroSport 2 HD" tvg-logo="" group-title="SPORT",DE: EuroSport 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3324
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT F1 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT F1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12136
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SportsNE HD" tvg-logo="" group-title="SPORT",DE-SK SportsNE HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/843
+#EXTINF:-1 tvg-id="" tvg-name="DE: SK Sport NW FHD" tvg-logo="" group-title="SPORT",DE: SK Sport NW FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15953
+#EXTINF:-1 tvg-id="" tvg-name="DE-Bayern TV Full H" tvg-logo="" group-title="SPORT",DE-Bayern TV Full H
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11163
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPO 1 FHD" tvg-logo="" group-title="SPORT",DE-SK SPO 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/128
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 2 FHD" tvg-logo="" group-title="SPORT",DE-SK SPORT 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/129
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 1 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/882
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 2 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/883
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 3 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/884
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 4 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/660
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 5 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/713
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK SPORT 6 HD" tvg-logo="" group-title="SPORT",DE-SK SPORT 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/712
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK  Bun 1 FHD" tvg-logo="" group-title="SPORT",DE-SK  Bun 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2142
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 1 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/130
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 2 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/869
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 3 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/870
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 4 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/871
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 5 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/873
+#EXTINF:-1 tvg-id="" tvg-name="DE-SK BUN 6 HD" tvg-logo="" group-title="SPORT",DE-SK BUN 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/872
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="" group-title="SPORT",DE: Magenta Sport 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16217
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="" group-title="SPORT",DE: Magenta Sport 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16218
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="" group-title="SPORT",DE: Magenta Sport 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16219
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="" group-title="SPORT",DE: Magenta Sport 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16220
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="" group-title="SPORT",DE: Magenta Sport 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/16221
+#EXTINF:-1 tvg-id="" tvg-name="DE-Sk Austria 1 HD" tvg-logo="" group-title="SPORT",DE-Sk Austria 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12146
+#EXTINF:-1 tvg-id="" tvg-name="DE-Sk Austria 2 HD" tvg-logo="" group-title="SPORT",DE-Sk Austria 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12147
+#EXTINF:-1 tvg-id="" tvg-name="DE-Sk Austria 3 HD" tvg-logo="" group-title="SPORT",DE-Sk Austria 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12148
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 1 HD" tvg-logo="" group-title="SPORT",SR: Arena Sport 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12160
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 2 HD" tvg-logo="" group-title="SPORT",SR: Arena Sport 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12159
+#EXTINF:-1 tvg-id="" tvg-name="SR; Arena Sport 3 HD" tvg-logo="" group-title="SPORT",SR; Arena Sport 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12161
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 4 HD" tvg-logo="" group-title="SPORT",SR: Arena Sport 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12162
+#EXTINF:-1 tvg-id="" tvg-name="SR: Arena Sport 5 HD" tvg-logo="" group-title="SPORT",SR: Arena Sport 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12163
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/220.sr.png" group-title="SPORT",SPORT KLUB HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14551
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/215.sr.png" group-title="SPORT",SPORT KLUB 1 HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14552
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/216.sr.png" group-title="SPORT",SPORT KLUB 2 HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14553
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/217.sr.png" group-title="SPORT",SPORT KLUB 3 HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14554
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/218.sr.png" group-title="SPORT",SPORT KLUB 4 HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14555
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 5 HD (SR)" tvg-logo="http://logo.smart-iptvpro.info/219.sr.png" group-title="SPORT",SPORT KLUB 5 HD (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14556
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 6 (SR)" tvg-logo="" group-title="SPORT",SPORT KLUB 6 (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14557
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 7 (SR)" tvg-logo="" group-title="SPORT",SPORT KLUB 7 (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14558
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 8 (SR)" tvg-logo="" group-title="SPORT",SPORT KLUB 8 (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14559
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 9 (SR)" tvg-logo="" group-title="SPORT",SPORT KLUB 9 (SR)
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/14560
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 1 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/197
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 2 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/198
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 3 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/199
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 4 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/200
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 5 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 5 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/201
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 6 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 6 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12185
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 7 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 7 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12186
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 8 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 8 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12187
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 9 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 9 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12188
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena sport 10 FHD" tvg-logo="" group-title="SPORT",HR: Arena sport 10 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12189
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 1 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/202
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 2 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/203
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 3 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/204
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 4 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1025
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 5 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1026
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6 HD" tvg-logo="" group-title="SPORT",HR: SPORT KLUB 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1027
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="SPORT",PT: Eleven Sport 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/874
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="SPORT",PT: Eleven Sport 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/875
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="SPORT",PT: Eleven Sport 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/876
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 4 HD" tvg-logo="" group-title="SPORT",PT: Eleven Sport 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/877
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 5 HD" tvg-logo="" group-title="SPORT",PT: Eleven Sport 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/878
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1" tvg-logo="" group-title="SPORT",RO: DIGI Sport 1
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1397
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 2" tvg-logo="" group-title="SPORT",RO: Digi Sport 2
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1396
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 3" tvg-logo="" group-title="SPORT",RO: Digi Sport 3
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1395
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="" group-title="SPORT",RO: Digi Sport 4
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1394
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 1 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 1 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3598
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 1 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3605
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 2 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 2 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3599
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 2 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3609
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 3 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 3 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3600
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 3 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3610
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 4 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 4 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3601
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 4 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3611
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 5 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 5 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3602
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 5 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3612
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 6 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 6 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3603
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 6 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3613
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 7 FHD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 7 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3604
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR - beIN Sports 7 HD" tvg-logo="" group-title="SPORT",SPORT: AR - beIN Sports 7 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/3614
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport 2" tvg-logo="" group-title="SPORT",IT: Rai Sport 2
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/331
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 1 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11945
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 2 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11946
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 3 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11947
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 4 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11948
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 5 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11949
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 6 HD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11950
+#EXTINF:-1 tvg-id="" tvg-name="ARB: Bein Sport 7 FHD" tvg-logo="" group-title="MIX CHANEL",ARB: Bein Sport 7 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11951
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 1 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport1.png" group-title="sportshqip",AL: EUROSPORT 1 FHD
 http://habeto.xyz:8080/xxxrestream/fghiBrdf55/51442
 #EXTINF:-1 tvg-id="" tvg-name="AL: EUROSPORT 2 FHD" tvg-logo="https://docdog.top/logo/countries/albania/eurosport2.png" group-title="sportshqip",AL: EUROSPORT 2 FHD
@@ -3788,3 +5006,137 @@ http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47740
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47741
 #EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: First Channel
 http://localiptv.site:85/FastIPtv/WjsZnsQ38SmoengRw/47742
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>ITALI<<<<<" tvg-logo="" group-title="Italy",>>>>>ITALI<<<<<
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/175
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1 HD" tvg-logo="" group-title="Italy",IT: RAI 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/176
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD" tvg-logo="" group-title="Italy",IT: RAI 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/177
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD" tvg-logo="" group-title="Italy",IT: RAI 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/178
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4 HD" tvg-logo="" group-title="Italy",IT: RAI 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/804
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai 5 HD" tvg-logo="" group-title="Italy",IT: Rai 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/805
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1 HD" tvg-logo="" group-title="Italy",IT: ITALIA 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/180
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE  5 HD" tvg-logo="" group-title="Italy",IT: CANALE  5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/181
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Italia 2" tvg-logo="" group-title="Italy",IT: Mediaset Italia 2
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/830
+#EXTINF:-1 tvg-id="" tvg-name="IT: Mediaset Extra" tvg-logo="" group-title="Italy",IT: Mediaset Extra
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/829
+#EXTINF:-1 tvg-id="" tvg-name="IT: Tv Riviera 24 FHD" tvg-logo="" group-title="Italy",IT: Tv Riviera 24 FHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/15480
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La1 HD" tvg-logo="" group-title="Italy",IT: RSI La1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/809
+#EXTINF:-1 tvg-id="" tvg-name="IT: RSI La2 HD" tvg-logo="" group-title="Italy",IT: RSI La2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/810
+#EXTINF:-1 tvg-id="" tvg-name="IT:  RSI LA 1 HD" tvg-logo="" group-title="Italy",IT:  RSI LA 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2908
+#EXTINF:-1 tvg-id="" tvg-name="IT:  RSI LA 2 HD" tvg-logo="" group-title="Italy",IT:  RSI LA 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2907
+#EXTINF:-1 tvg-id="" tvg-name="IT: TELE TICINO" tvg-logo="" group-title="Italy",IT: TELE TICINO
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/5829
+#EXTINF:-1 tvg-id="" tvg-name="IT: CIELO HD" tvg-logo="" group-title="Italy",IT: CIELO HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/814
+#EXTINF:-1 tvg-id="" tvg-name="IT: FOXX HD" tvg-logo="" group-title="Italy",IT: FOXX HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/832
+#EXTINF:-1 tvg-id="" tvg-name="IT: DMAX HD" tvg-logo="" group-title="Italy",IT: DMAX HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/322
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA UHD 1" tvg-logo="" group-title="Italy",IT: CINEMA UHD 1
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8883
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA UHD 2" tvg-logo="" group-title="Italy",IT: CINEMA UHD 2
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8884
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA UHD 3" tvg-logo="" group-title="Italy",IT: CINEMA UHD 3
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8885
+#EXTINF:-1 tvg-id="" tvg-name="IT: AVVENTURA E FANTASIA" tvg-logo="" group-title="Italy",IT: AVVENTURA E FANTASIA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8886
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA ANIMAZIONE HD" tvg-logo="" group-title="Italy",IT: CINEMA ANIMAZIONE HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8887
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA AVVENTURA HD" tvg-logo="" group-title="Italy",IT: CINEMA AVVENTURA HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8888
+#EXTINF:-1 tvg-id="" tvg-name="IT: CINEMA AZIONE HD" tvg-logo="" group-title="Italy",IT: CINEMA AZIONE HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/8889
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Atlan HD" tvg-logo="" group-title="Italy",IT: S Atlan HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/826
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cine Un" tvg-logo="" group-title="Italy",IT: Sk Cine Un
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/184
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk CultHD" tvg-logo="" group-title="Italy",IT: Sk CultHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/185
+#EXTINF:-1 tvg-id="" tvg-name="IT: SkcnemaDue" tvg-logo="" group-title="Italy",IT: SkcnemaDue
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/187
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cine Come" tvg-logo="" group-title="Italy",IT: Sk Cine Come
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/188
+#EXTINF:-1 tvg-id="" tvg-name="IT: S Cinemacassic" tvg-logo="" group-title="Italy",IT: S Cinemacassic
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/189
+#EXTINF:-1 tvg-id="" tvg-name="IT: SkCinema24 " tvg-logo="" group-title="Italy",IT: SkCinema24 
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/190
+#EXTINF:-1 tvg-id="" tvg-name="IT: FILMSH" tvg-logo="" group-title="Italy",IT: FILMSH
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/186
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Atlantic UHD" tvg-logo="https://media-upload.net/file/4sNt6CG0b3zV" group-title="Italy",VIP IT: Sky Atlantic UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12310
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Uno UHD" tvg-logo="https://media-upload.net/uploads/WL0RokYhdZi5.png" group-title="Italy",VIP IT: Sky Cinema Uno UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12311
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Due UHD" tvg-logo="https://media-upload.net/uploads/scVBHKJhol6v.png" group-title="Italy",VIP IT: Sky Cinema Due UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12312
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Action UHD" tvg-logo="https://media-upload.net/uploads/05dQXjTWSHtA.png" group-title="Italy",VIP IT: Sky Cinema Action UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12313
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Collection UHD" tvg-logo="https://media-upload.net/uploads/GjhLHKutI81N.png" group-title="Italy",VIP IT: Sky Cinema Collection UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12314
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Comedy UHD" tvg-logo="https://media-upload.net/uploads/ZFkGcDgfnuS6.png" group-title="Italy",VIP IT: Sky Cinema Comedy UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12315
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Romance UHD" tvg-logo="https://media-upload.net/uploads/GtciO4kmE6DJ.png" group-title="Italy",VIP IT: Sky Cinema Romance UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12317
+#EXTINF:-1 tvg-id="" tvg-name="VIP IT: Sky Cinema Drama UHD" tvg-logo="https://media-upload.net/uploads/ZC0BUhY7W84V.png" group-title="Italy",VIP IT: Sky Cinema Drama UHD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12318
+#EXTINF:-1 tvg-id="" tvg-name="*IT: ===== EAGLE CINEMA FULL HD =====" tvg-logo="" group-title="Italy",*IT: ===== EAGLE CINEMA FULL HD =====
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9612
+#EXTINF:-1 tvg-id="" tvg-name="*IT: Disney Plus Film 2 HD" tvg-logo="" group-title="Italy",*IT: Disney Plus Film 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9639
+#EXTINF:-1 tvg-id="" tvg-name="*IT: Disney Plus Nature HD" tvg-logo="" group-title="Italy",*IT: Disney Plus Nature HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/9640
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM EMOTION" tvg-logo="" group-title="Italy",IT: PREMIUM EMOTION
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/318
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Cinema   24" tvg-logo="" group-title="Italy",IT: Premium Cinema   24
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/313
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA" tvg-logo="" group-title="Italy",IT: PREMIUM CINEMA
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/320
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Joy HD" tvg-logo="" group-title="Italy",IT: Premium Joy HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/316
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Energy" tvg-logo="" group-title="Italy",IT: Premium Energy
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/317
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 1 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 1 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/291
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 2 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 2 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/292
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 3 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 3 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/293
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 4 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 4 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1164
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 5 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 5 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1163
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 6 HD" tvg-logo="" group-title="Italy",IT: PRIMAFILA 6 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/1162
+#EXTINF:-1 tvg-id="" tvg-name="IT: GIALLO HD" tvg-logo="" group-title="Italy",IT: GIALLO HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/835
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai yoyo" tvg-logo="" group-title="Italy",IT: Rai yoyo
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/808
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium" tvg-logo="" group-title="Italy",IT: Rai Premium
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/806
+#EXTINF:-1 tvg-id="" tvg-name="IT: INTER CHANEL" tvg-logo="" group-title="Italy",IT: INTER CHANEL
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/807
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cinema 1" tvg-logo="" group-title="Italy",IT: Sk Cinema 1
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2077
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cinema 1  24 HD" tvg-logo="" group-title="Italy",IT: Sk Cinema 1  24 HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2076
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cinema Classic HD" tvg-logo="" group-title="Italy",IT: Sk Cinema Classic HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2071
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cin Fami HD" tvg-logo="" group-title="Italy",IT: Sk Cin Fami HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2074
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cinema Hits HD" tvg-logo="" group-title="Italy",IT: Sk Cinema Hits HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2075
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sk Cinema Crime HD" tvg-logo="" group-title="Italy",IT: Sk Cinema Crime HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2072
+#EXTINF:-1 tvg-id="" tvg-name="IT: SK HISTORY HD" tvg-logo="" group-title="Italy",IT: SK HISTORY HD
+http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/846
