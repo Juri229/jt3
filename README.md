@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA VIP 1 FHD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA VIP 1 FHD
-http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121435.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA VIP 2 FHD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA VIP 2 FHD
-http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121436.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother Kosova 1 FHD" tvg-logo="https://i.imgur.com/LDErRgr.jpg" group-title="big brother 2025",AL: Big Brother Kosova 1 FHD
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/35296
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother Kosova 2 FHD" tvg-logo="https://i.imgur.com/LDErRgr.jpg" group-title="big brother 2025",AL: Big Brother Kosova 2 FHD
