@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1,AL: Big Brother VIP Kosova 1
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2674
-#EXTINF:-1,AL: Big Brother VIP Kosova 2
-http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/2675
-#EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Big Brother 2024-25",----------- KOSOVA @ ALBANIA -----------
+#EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Albania",----------- KOSOVA @ ALBANIA -----------
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11
-#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Big Brother 2024-25",AL: RTK ᴴᴰ.
+#EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK ᴴᴰ.
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/2331
 #EXTINF:-1 tvg-id="RTK1.xk" tvg-name="AL: RTK Toksor ᴴᴰ" tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK Toksor ᴴᴰ
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/12
