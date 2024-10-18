@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA VIP 1 FHD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA VIP 1 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121435.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA VIP 2 FHD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA VIP 2 FHD
+http://luctv.net:8080/live/miki3/tLwQNgwERq7FUADRD7PMlKeq5AfGMo/121436.ts
 #EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Albania",----------- KOSOVA @ ALBANIA -----------
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11
 #EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK ᴴᴰ.
