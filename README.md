@@ -6254,3 +6254,2687 @@ http://toll.oxoplus1.com:8080/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/1
 http://toll.oxoplus1.com:8080/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11913074
 #EXTINF:-1,TR: SENER SEN ??
 http://toll.oxoplus1.com:8080/r5rhrghbws4htrng@/@q@24wrfgetr5rfibui7i7bii7@!q@/11913076
+#EXTM3U
+#EXTINF:-1,24/7 054:SUPER WINGS
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60888
+#EXTINF:-1,24/7 112:SUPERHERO MOVIES
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60257
+#EXTINF:-1,FR:Batman V Superman Dawn Of Justice Extended
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/38941.mkv
+#EXTINF:-1,ES:Super.Chat
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/61725.mp4
+#EXTINF:-1,ES:Super.Mortal
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/61726.mp4
+#EXTINF:-1,Superman: Hijo Rojo - 2009
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/61875.mp4
+#EXTINF:-1,PT:Superbad - And Today
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/41399.mp4
+#EXTINF:-1,PT:Supernova
+http://abcnew.site:8880/movie/Julio-iptv/juliodivisaiptv/41400.mp4
+#EXTINF:-1,AF134:SUPERSPORT BLITZ
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60791
+#EXTINF:-1,AF135:SUPERSPORT CRICKET
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60792
+#EXTINF:-1,AF137:SUPERSPORT FOOTBALL
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60794
+#EXTINF:-1,AF138:SUPERSPORT GOLF
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60795
+#EXTINF:-1,AF139:SUPERSPORT GRANDSTAND
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60796
+#EXTINF:-1,AF140:SUPERSPORT LALIGA
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60797
+#EXTINF:-1,AF141:SUPERSPORT MAXIMO 1
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60798
+#EXTINF:-1,AF142:SUPERSPORT PREMIER LEAGUE
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60799
+#EXTINF:-1,AF143:SUPERSPORT PSL
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60800
+#EXTINF:-1,AF144:SUPERSPORT RUGBY
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60801
+#EXTINF:-1,AF145:SUPERSPORT TENNIS
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60802
+#EXTINF:-1,AF146:SUPERSPORT VARIETY 1
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60743
+#EXTINF:-1,AF147:SUPERSPORT VARIETY 2
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60744
+#EXTINF:-1,AF148:SUPERSPORT VARIETY 3
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60745
+#EXTINF:-1,AF149:SUPERSPORT VARIETY 4
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60746
+#EXTINF:-1,ZA065:SuperSport Tennis
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60572
+#EXTINF:-1,ZA066:SuperSport LaLiga
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60573
+#EXTINF:-1,ZA067:SuperSport PSL
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60574
+#EXTINF:-1,ZA068:SuperSport Premier League
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60575
+#EXTINF:-1,ZA069:SuperSport Grandstand
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60576
+#EXTINF:-1,ZA070:SuperSport Variety 1
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60577
+#EXTINF:-1,ZA071:SuperSport Variety 2
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60578
+#EXTINF:-1,ZA072:SuperSport Variety 3
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60579
+#EXTINF:-1,ZA073:SuperSport Variety 4
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60580
+#EXTINF:-1,ZA074:SuperSport Action
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60581
+#EXTINF:-1,ZA075:SuperSport Football
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60582
+#EXTINF:-1,ZA076:SuperSport Rugby
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60583
+#EXTINF:-1,ZA077:Supersport Blitz
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60584
+#EXTINF:-1,ZA078:SuperSport MáXimo
+http://abcnew.site:8880/Julio-iptv/juliodivisaiptv/60585
+
+#EXTM3U
+#EXTINF:-1,|FR| DAZN 1 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/303273.ts
+#EXTINF:-1,|FR| DAZN 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/277603.ts
+#EXTINF:-1,|FR| DAZN PPV FULL HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/277604.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 1 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108558.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108559.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108560.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 2 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124486.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124485.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124484.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 3 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124489.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124488.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124487.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 4 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124492.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124491.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124490.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 5 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124495.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124494.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124493.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 6 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124520.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124523.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124524.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 7 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124521.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124525.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124526.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 8 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124522.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124527.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124559.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LIVE 9 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124560.ts
+#EXTINF:-1,|FR| DAZN LIGUE 1 LiVE 9 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124561.ts
+#EXTINF:-1,|FR| DAZN 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317349.ts
+#EXTINF:-1,|FR| DAZN 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317350.ts
+#EXTINF:-1,|FR| DAZN 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317351.ts
+#EXTINF:-1,|FR| DAZN 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317352.ts
+#EXTINF:-1,|FR| DAZN 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317353.ts
+#EXTINF:-1,|FR| DAZN 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317354.ts
+#EXTINF:-1,|FR| DAZN 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317355.ts
+#EXTINF:-1,|FR| DAZN 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317356.ts
+#EXTINF:-1,|FR| DAZN 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317357.ts
+#EXTINF:-1,|FR| DAZN 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/317358.ts
+#EXTINF:-1,|FR| DAZN PPV HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/303274.ts
+#EXTINF:-1,|US| DAZN PPV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/312340.ts
+#EXTINF:-1,|.ES.D.| DAZN 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66046.ts
+#EXTINF:-1,|.ES.D.| DAZN 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66053.ts
+#EXTINF:-1,|.ES.D.| DAZN 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66047.ts
+#EXTINF:-1,|.ES.D.| DAZN 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66054.ts
+#EXTINF:-1,|.ES.D.| DAZN 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66048.ts
+#EXTINF:-1,|.ES.D.| DAZN 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66049.ts
+#EXTINF:-1,|SP-M+| DAZN LALIGA HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139267.ts
+#EXTINF:-1,|SP-M+| DAZN LALIGA 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139268.ts
+#EXTINF:-1,|SP-M+| DAZN LALIGA 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139269.ts
+#EXTINF:-1,|SP-M+| DAZN F1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139270.ts
+#EXTINF:-1,|SP-M+| DAZN F1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139271.ts
+#EXTINF:-1,|SP-M+| DAZN 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139272.ts
+#EXTINF:-1,|SP-M+| DAZN 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139273.ts
+#EXTINF:-1,|SP-M+| DAZN 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139274.ts
+#EXTINF:-1,|SP-M+| DAZN 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139275.ts
+#EXTINF:-1,|SP-M+| DAZN 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139276.ts
+#EXTINF:-1,|SP-M+| DAZN 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139277.ts
+#EXTINF:-1,|SP-M+| DAZN 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139278.ts
+#EXTINF:-1,|SP-M+| DAZN 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139279.ts
+#EXTINF:-1,|.DE.| DAZN BAR 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70478.ts
+#EXTINF:-1,|.DE.| DAZN BAR 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70477.ts
+
+#EXTM3U
+#EXTINF:-1,|FR| CANAL+ SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/39203.ts
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15191.ts
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/51166.ts
+#EXTINF:-1,|FR| CANAL+ SPORT 360
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136372.ts
+#EXTINF:-1,|FR.RP| CANAL+ SPORT 360 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136371.ts
+#EXTINF:-1,|FR| CANAL+ SPORT 360 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136370.ts
+#EXTINF:-1,|FR| BEIN SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15204.ts
+#EXTINF:-1,|FR.RP| BEIN SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9340.ts
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/51102.ts
+#EXTINF:-1,|FR| BEIN SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15203.ts
+#EXTINF:-1,|FR.RP| BEIN SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9339.ts
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9588.ts
+#EXTINF:-1,|FR| BEIN SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15202.ts
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9341.ts
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9587.ts
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/51100.ts
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40481.ts
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15127.ts
+#EXTINF:-1,|FR.RP| RMC SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9218.ts
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9502.ts
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15126.ts
+#EXTINF:-1,|FR.RP| RMC SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9217.ts
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9501.ts
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/50978.ts
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/50979.ts
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/50980.ts
+#EXTINF:-1,|FR| RMC SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15124.ts
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9215.ts
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9499.ts
+#EXTINF:-1,|FR| MULTISPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108540.ts
+#EXTINF:-1,|FR| MULTISPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108541.ts
+#EXTINF:-1,|FR| MULTISPORTS 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108542.ts
+#EXTINF:-1,|FR| MULTISPORTS 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108543.ts
+#EXTINF:-1,|FR| MULTISPORTS 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108545.ts
+#EXTINF:-1,|FR| MULTISPORTS 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108544.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15210.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15209.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15208.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15207.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15206.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15205.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 hd
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15211.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40480.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40479.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40478.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40477.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40476.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40475.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40474.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40473.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40472.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40471.ts
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40470.ts
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40484.ts
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/40483.ts
+#EXTINF:-1,|FR| EUROSPORT 360 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108539.ts
+#EXTINF:-1,|FR| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15172.ts
+#EXTINF:-1,|FR.RP| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9281.ts
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9549.ts
+#EXTINF:-1,|FR| EUROSPORT 1 FHD BKP
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/51105.ts
+#EXTINF:-1,|FR| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9279.ts
+#EXTINF:-1,|FR.RP| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9280.ts
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9548.ts
+#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/51106.ts
+#EXTINF:-1,|FR| EUROSPORT 360 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139080.ts
+#EXTINF:-1,|FR| EUROSPORT 360 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139081.ts
+#EXTINF:-1,|FR| EUROSPORT 360 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139082.ts
+#EXTINF:-1,|FR| EUROSPORT 360 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139083.ts
+#EXTINF:-1,|FR| EUROSPORT 360 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139084.ts
+#EXTINF:-1,|FR| EUROSPORT 360 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139085.ts
+#EXTINF:-1,|FR| EUROSPORT 360 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139086.ts
+#EXTINF:-1,|FR| EUROSPORT 360 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139087.ts
+#EXTINF:-1,|FR| EUROSPORT 360 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139088.ts
+#EXTINF:-1,|FR| EUROSPORT 360 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139089.ts
+#EXTINF:-1,|FR| EUROSPORT 360 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139090.ts
+#EXTINF:-1,|FR| EUROSPORT 360 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139091.ts
+#EXTINF:-1,|FR| EUROSPORT 360 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139092.ts
+#EXTINF:-1,|FR| EUROSPORT 360 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139093.ts
+#EXTINF:-1,|FR| EUROSPORT 360 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139094.ts
+#EXTINF:-1,|FR| EUROSPORT 360 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139095.ts
+#EXTINF:-1,|FR| EUROSPORT 360 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139096.ts
+#EXTINF:-1,|FR| EUROSPORT 360 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139097.ts
+#EXTINF:-1,|FR| EUROSPORT 360 7
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139098.ts
+#EXTINF:-1,|FR| EUROSPORT 360 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139099.ts
+#EXTINF:-1,|FR| EUROSPORT 360 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139100.ts
+#EXTINF:-1,|FR| EUROSPORT 360 8
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139101.ts
+#EXTINF:-1,|FR| EUROSPORT 360 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139102.ts
+#EXTINF:-1,|FR| EUROSPORT 360 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139103.ts
+#EXTINF:-1,|FR| INFOSPORT+
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9265.ts
+#EXTINF:-1,|FR| INFOSPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15156.ts
+#EXTINF:-1,|FR| INFOSPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9534.ts
+#EXTINF:-1,|FR.RP| CANAL+ SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9326.ts
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15227.ts
+#EXTINF:-1,|FR| MOTORSPORT TV FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9526.ts
+#EXTINF:-1,|FR| EXTREME SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62916.ts
+#EXTINF:-1,|FR.H265| INFOSPORT+
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83120.ts
+#EXTINF:-1,|FR.H265| CANAL+ SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60727.ts
+#EXTINF:-1,|FR.H265| RMC SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60720.ts
+#EXTINF:-1,|FR.H265| RMC SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60721.ts
+#EXTINF:-1,|FR.H265| RMC SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60722.ts
+#EXTINF:-1,|FR.H265| RMC SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60723.ts
+#EXTINF:-1,|FR.H265| EUROSPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60766.ts
+#EXTINF:-1,|FR.H265| EUROSPORT2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60767.ts
+#EXTINF:-1,|FR.H265| MOTORSPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83119.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83082.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83081.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83080.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83079.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83077.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83076.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 7
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83075.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 8
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83078.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 9
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83074.ts
+#EXTINF:-1,|FR.H265| BEIN SPORT MAX 10
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83073.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83091.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83092.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83093.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83094.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83095.ts
+#EXTINF:-1,|FR.H265| MULTISPORTS 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83096.ts
+#EXTINF:-1,|FR.H265| RMC SPORTS ACCESS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83084.ts
+#EXTINF:-1,|FR.H265| RMC SPORTS ACCESS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/83083.ts
+#EXTINF:-1,|FR.H265| INFOSPORT+
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271092.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271097.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271098.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271099.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 7
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271100.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 8
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271101.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 9
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271102.ts
+#EXTINF:-1,|FR.H265| beIN SPORT MAX 10
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271103.ts
+#EXTINF:-1,|FR.H265| MOTORSPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/271124.ts
+#EXTINF:-1,---??| BEIN SPORT |??---
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/22460.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS NEWS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9152.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS NEWS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92512.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9156.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30750.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS GLOBAL FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92511.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32008.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9146.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9147.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/39224.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30756.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS  2 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32007.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32014.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9148.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9135.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30751.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS  2 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30757.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/39225.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32006.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9136.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9151.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30758.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/28267.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32012.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9138.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103764.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30755.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/28268.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 5 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32011.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9140.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9141.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 5 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30754.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 5 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/28269.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 6 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124095.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9142.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9143.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 6 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30759.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 6 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/28270.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 7 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/32009.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9144.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9145.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 7 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30760.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 7 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/28271.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 8 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/279954.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/279955.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/279956.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 8 FHD 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/279961.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 8 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/279962.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9153.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9154.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/9155.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS XTRA 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/119957.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS XTRA 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/119958.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124099.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124097.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS FRENCH 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124098.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124070.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124071.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124072.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124073.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 1 MAX 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124074.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124075.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124076.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124077.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124078.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 2 MAX 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124079.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 MAX SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124080.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 MAX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124081.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 MAX FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124082.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 MAX FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124083.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 3 MAX 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124084.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 MAX SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124085.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 MAX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124086.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 MAX FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124087.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 MAX FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124088.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS 4 MAX 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124089.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 1 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124090.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124096.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310038.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310039.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 3 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310040.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 3 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310041.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 3 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310037.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 2 SD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/310036.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 2 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248955.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 2 FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248954.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/152293.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124091.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124092.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA 1 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124094.ts
+#EXTINF:-1,|.AR.| BEIN SPORTS COPA AMERICA FHD HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124093.ts
+#EXTINF:-1,|AR| |STARZ| FIGHT SPORTS Full HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/138965.ts
+#EXTINF:-1,|.AR.| NILE SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15861.ts
+#EXTINF:-1,|.AR.| ON SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16097.ts
+#EXTINF:-1,|.AR.| DMC SPORTS HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92480.ts
+#EXTINF:-1,|.AR.| ON TIME SPORTS HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92486.ts
+#EXTINF:-1,|.AR.| ON TIME SPORTS 2 HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92487.ts
+#EXTINF:-1,|.AR.| DMC SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15928.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/138962.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139007.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139008.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/138963.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139009.ts
+#EXTINF:-1,|AR| AD SPORTS PREMIUM 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139010.ts
+#EXTINF:-1,|AR| AD SPORT ASIA 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139017.ts
+#EXTINF:-1,|AR| AD SPORT ASIA 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139019.ts
+#EXTINF:-1,|AR| AD SPORT ASIA 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139018.ts
+#EXTINF:-1,|AR| AD SPORT ASIA 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139020.ts
+#EXTINF:-1,|AR| SHARJAH SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139001.ts
+#EXTINF:-1,|AR| KSA SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16096.ts
+#EXTINF:-1,|AR| KSA SPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63158.ts
+#EXTINF:-1,|AR| KSA SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63159.ts
+#EXTINF:-1,|AR| KSA SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139055.ts
+#EXTINF:-1,|AR| FIGHT SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139046.ts
+#EXTINF:-1,|AR| DUBAI SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/144158.ts
+#EXTINF:-1,|AR| DUBAI SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/144159.ts
+#EXTINF:-1,|AR| DUBAI SPORTS 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/144161.ts
+#EXTINF:-1,|AR| On Time Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151302.ts
+#EXTINF:-1,|AR| On Time Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151303.ts
+#EXTINF:-1,|AR| On Time Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151304.ts
+#EXTINF:-1,|AR| Saudi 24 Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151305.ts
+#EXTINF:-1,|AR| Bahrain Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151306.ts
+#EXTINF:-1,|AR| Bahrain Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151307.ts
+#EXTINF:-1,|AR| Oman Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151308.ts
+#EXTINF:-1,Sports | Ar: Al Rabiaa Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151309.ts
+#EXTINF:-1,|AR| Iraqia Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151310.ts
+#EXTINF:-1,|AR| Shabab Iraq Sport 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151311.ts
+#EXTINF:-1,|AR| Zamalek Sports
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151312.ts
+#EXTINF:-1,|AR| Nile Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151313.ts
+#EXTINF:-1,|AR| Libya Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151317.ts
+#EXTINF:-1,|AR| Libya Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151318.ts
+#EXTINF:-1,|AR| Jordan Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151319.ts
+#EXTINF:-1,|AR| Kuwait Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151320.ts
+#EXTINF:-1,|AR| Palestine Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151321.ts
+#EXTINF:-1,|AR| Sharjah Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151322.ts
+#EXTINF:-1,|AR| Kuwait Sport Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151324.ts
+#EXTINF:-1,|AR| Yas Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151325.ts
+#EXTINF:-1,Sa| Saudi 24 Sport ?
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151510.ts
+#EXTINF:-1,|.AR.| Iraqia Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151363.ts
+#EXTINF:-1,|.AR.| Shabab Iraq Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151364.ts
+#EXTINF:-1,|.AR.| SHARJAH SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15805.ts
+#EXTINF:-1,|.AR.| AD SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/15840.ts
+#EXTINF:-1,|.AR.| AD SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16289.ts
+#EXTINF:-1,|.AR.| AD SPORTS 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16288.ts
+#EXTINF:-1,|.AR.| AD SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92470.ts
+#EXTINF:-1,|.AR.| YAS SPORT HEVC
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/92474.ts
+#EXTINF:-1,|.AR.| KTV SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/94394.ts
+#EXTINF:-1,|.AR.| KTV SPORT PLUS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/94395.ts
+#EXTINF:-1,|.AR.| KUWAIT SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16186.ts
+#EXTINF:-1,|.AR.| SUDAN SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/16157.ts
+#EXTINF:-1,|.AR.| Bahrain Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151566.ts
+#EXTINF:-1,|.AR.| Bahrain Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151568.ts
+#EXTINF:-1,|.AR.| Jordan Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151575.ts
+#EXTINF:-1,|.AR.| Oman TV Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151586.ts
+#EXTINF:-1,|.AR.| Neelain Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/151613.ts
+#EXTINF:-1,|.SW.| MY SPORTS 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/140025.ts
+#EXTINF:-1,|.SW.| MY SPORTS 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/140026.ts
+#EXTINF:-1,|.SW.| MY SPORTS 9 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/140027.ts
+#EXTINF:-1,|.SW.| MY SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/140028.ts
+#EXTINF:-1,|.SW.| MYSPORTS 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/140033.ts
+#EXTINF:-1,|.SW.| UPC MY SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/20586.ts
+#EXTINF:-1,|.SW.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81017.ts
+#EXTINF:-1,|.SW.| MYSPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81024.ts
+#EXTINF:-1,|.SW.| MYSPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81025.ts
+#EXTINF:-1,|.SW.| MYSPORTS 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81026.ts
+#EXTINF:-1,|.SW.| MYSPORTS 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81027.ts
+#EXTINF:-1,|.SW.| MYSPORTS 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81028.ts
+#EXTINF:-1,|.SW.| MYSPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81029.ts
+#EXTINF:-1,|.SW.| SPORT KANALEN HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81053.ts
+#EXTINF:-1,|.SW.| TELECLUB SKY SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81077.ts
+#EXTINF:-1,|.SW.| TELECLUB SKY SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81078.ts
+#EXTINF:-1,|.SW.| SWISS SPORT TV HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/81059.ts
+#EXTINF:-1,|.SW.| BLUE SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/313543.ts
+#EXTINF:-1,|.SW.| BLUE SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/313544.ts
+#EXTINF:-1,|.BE.| ELEVEN SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70230.ts
+#EXTINF:-1,|.BE.| ELEVEN SPORTS 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70231.ts
+#EXTINF:-1,|.BE.| VOO SPORT WORLD 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/48138.ts
+#EXTINF:-1,|.BE.| ELEVEN SPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/143413.ts
+#EXTINF:-1,|.BE.| VOO SPORT WORLD 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70227.ts
+#EXTINF:-1,|.AF.| GISPORTS TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62366.ts
+#EXTINF:-1,|.ZA.| GINX ESPORTS TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102676.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102709.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102710.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102711.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102712.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102713.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102714.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102715.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102716.ts
+#EXTINF:-1,|.ZA.| SUPER SPORT 9 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/102717.ts
+#EXTINF:-1,|.AF.| GTV SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62667.ts
+#EXTINF:-1,|.C+.AF.| CANAL+ SPORT 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/126534.ts
+#EXTINF:-1,|.C+.AF.| CANAL+ SPORT 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/126535.ts
+#EXTINF:-1,|.C+.AF.| CANAL+ SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/126536.ts
+#EXTINF:-1,|.C+.AF.| CANAL+ SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/126537.ts
+#EXTINF:-1,|.C+.AF.| CANAL+ SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/126538.ts
+#EXTINF:-1,(C+ CAR) - CANAL+ SPORT WEEKEND HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/143863.ts
+#EXTINF:-1,??? Af | DSTV: Sports ???
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149803.ts
+#EXTINF:-1,Af | DSTV: Ginx eSports TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149804.ts
+#EXTINF:-1,Af | DSTV: SuperSport Blitz
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149805.ts
+#EXTINF:-1,Af | DSTV: SuperSport GrandStand
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149809.ts
+#EXTINF:-1,Af | DSTV: SuperSport PSL
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149813.ts
+#EXTINF:-1,Af | DSTV: SuperSport Premier League
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149817.ts
+#EXTINF:-1,Af | DSTV: SuperSport LaLiga
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149820.ts
+#EXTINF:-1,Af | DSTV: SuperSport Football
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149824.ts
+#EXTINF:-1,Af | DSTV: SuperSport Variety 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149829.ts
+#EXTINF:-1,Af | DSTV: SuperSport Variety 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149833.ts
+#EXTINF:-1,Af | DSTV: SuperSport Variety 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149837.ts
+#EXTINF:-1,Af | DSTV: SuperSport Variety 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149841.ts
+#EXTINF:-1,Af | DSTV: SuperSport Action
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149844.ts
+#EXTINF:-1,Af | DSTV: SuperSport Rugby
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149848.ts
+#EXTINF:-1,Af | DSTV: SuperSport Cricket
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149852.ts
+#EXTINF:-1,Af | DSTV: SuperSport Golf
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149856.ts
+#EXTINF:-1,Af | DSTV: SuperSport Tennis
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149858.ts
+#EXTINF:-1,Af | DSTV: SuperSport MotorSport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149861.ts
+#EXTINF:-1,Af | DSTV: SuperSport Maximo 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149868.ts
+#EXTINF:-1,Af | DSTV: Super Sport Play
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149871.ts
+#EXTINF:-1,|.UK.| SKY SPORT ARENA FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30863.ts
+#EXTINF:-1,|.UK.| SKY SPORT F1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30967.ts
+#EXTINF:-1,|.UK.| SKY SPORTS FOOTBALL HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30997.ts
+#EXTINF:-1,|.UK.| SKY SPORT FOOTBALL FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30862.ts
+#EXTINF:-1,|.UK.| SKY SPORTS ACTION HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31086.ts
+#EXTINF:-1,|.UK.| SKY SPORTS ACTION FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30941.ts
+#EXTINF:-1,|.UK.| SKY SPORTS CRICKET FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31085.ts
+#EXTINF:-1,|.UK.| SKY SPORTS CRICKET HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30940.ts
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31087.ts
+#EXTINF:-1,|.UK.| SKY SPORTS GOLF
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30942.ts
+#EXTINF:-1,|.UK.| SKY SPORTS (MAIN EVENT) FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31084.ts
+#EXTINF:-1,|.UK.| SKY SPORTS MAIN EVENT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30945.ts
+#EXTINF:-1,|.UK.| SKY SPORTS MIX FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31025.ts
+#EXTINF:-1,|.UK.| SKY SPORTS MIX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30994.ts
+#EXTINF:-1,|.UK.| SKY SPORTS PREMIER LEAGUE FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31088.ts
+#EXTINF:-1,|.UK.| SKY SPORTS PREMIER LEAGUE HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30943.ts
+#EXTINF:-1,|.UK.| SKY SPORTS NEWS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30858.ts
+#EXTINF:-1,|.UK.| SKY SPORTS NEWS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31033.ts
+#EXTINF:-1,|.UK.| BT SPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30904.ts
+#EXTINF:-1,|.UK.| BT SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30989.ts
+#EXTINF:-1,|.UK.| BT SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30905.ts
+#EXTINF:-1,|.UK.| BT SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31044.ts
+#EXTINF:-1,|.UK.| BT SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31027.ts
+#EXTINF:-1,|.UK.| BT SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31000.ts
+#EXTINF:-1,|.UK.| BT SPORT ESPN HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30906.ts
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31037.ts
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31038.ts
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31039.ts
+#EXTINF:-1,|.UK.| BT SPORT EXTRA 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31040.ts
+#EXTINF:-1,|.UK.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31057.ts
+#EXTINF:-1,|.UK.| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30890.ts
+#EXTINF:-1,|.UK.| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31058.ts
+#EXTINF:-1,|.UK.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30891.ts
+#EXTINF:-1,|.UK.| SKY SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30998.ts
+#EXTINF:-1,|.UK.| MOTORSPORT TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/30960.ts
+#EXTINF:-1,|.UK.| SKY SPORTS F1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/131004.ts
+#EXTINF:-1,|.UK.| BT SPORTS ESPN FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/131012.ts
+#EXTINF:-1,|US| US SPORT Tennis Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141563.ts
+#EXTINF:-1,|US| Sportsman Channel
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141598.ts
+#EXTINF:-1,|US| Flo Sports 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141658.ts
+#EXTINF:-1,|US| AT&T SportsNet
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141694.ts
+#EXTINF:-1,|US| BEIN SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141695.ts
+#EXTINF:-1,|US| beIN Sports 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141696.ts
+#EXTINF:-1,|US| beIN Sports 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141697.ts
+#EXTINF:-1,|US| BEIN SPORTS 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141698.ts
+#EXTINF:-1,|US| BEIN SPORTS 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141699.ts
+#EXTINF:-1,|US| Bein Sports 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141700.ts
+#EXTINF:-1,|US| Bein Sports 7
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141701.ts
+#EXTINF:-1,|US| Bein Sports 8
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141702.ts
+#EXTINF:-1,|US| ELEVEN SPORTS NETWORK
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141706.ts
+#EXTINF:-1,|US| Bally Sports Detroit
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141791.ts
+#EXTINF:-1,|US| Bally Sports Florida
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141792.ts
+#EXTINF:-1,|US| Bally Sports Great Lakes
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141794.ts
+#EXTINF:-1,|US| Bally Sports Indiana
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141795.ts
+#EXTINF:-1,|US| Bally Sports Kansas City
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141796.ts
+#EXTINF:-1,|US| Bally Sports Midwest
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141797.ts
+#EXTINF:-1,|US| Bally Sports New Orleans
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141798.ts
+#EXTINF:-1,|US| Bally Sports North
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141799.ts
+#EXTINF:-1,|US| Bally Sports Ohio
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141801.ts
+#EXTINF:-1,|US| Bally Sports Ohio Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141802.ts
+#EXTINF:-1,|US| Bally Sports Oklahoma
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141803.ts
+#EXTINF:-1,|US| Bally Sports San Diego
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141804.ts
+#EXTINF:-1,|US| Bally Sports SoCal
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141805.ts
+#EXTINF:-1,|US| Bally Sports South
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141806.ts
+#EXTINF:-1,|US| Bally Sports Southeast
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141807.ts
+#EXTINF:-1,|US| Bally Sports Southwest Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141808.ts
+#EXTINF:-1,|US| Bally Sports Sun
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141809.ts
+#EXTINF:-1,|US| Bally Sports West
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141810.ts
+#EXTINF:-1,|US| Bally Sports Wisconsin
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141811.ts
+#EXTINF:-1,|US| FTF Sports
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141982.ts
+#EXTINF:-1,|US| Fubo Sports Network
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141984.ts
+#EXTINF:-1,|US| Marquee Sports
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/142013.ts
+#EXTINF:-1,|US| Spectrum SportsNet
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/142224.ts
+#EXTINF:-1,|US| SportsGrid
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/142225.ts
+#EXTINF:-1,|US| CBS Sports Network
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141437.ts
+#EXTINF:-1,|US| CBS Sports Network
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141705.ts
+#EXTINF:-1,|US| NBC Sports Bay Area
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141586.ts
+#EXTINF:-1,|US| NBC Sports Boston
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141587.ts
+#EXTINF:-1,|US| NBC Sports California
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141588.ts
+#EXTINF:-1,|US| NBC Sports Philly
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141590.ts
+#EXTINF:-1,|US| NBC Sports Washington Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141591.ts
+#EXTINF:-1,|US| NBC Sports Chicago
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141592.ts
+#EXTINF:-1,|US| NBC Sports Northwest
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141593.ts
+#EXTINF:-1,|US| NBC Sports Philadelphia
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141594.ts
+#EXTINF:-1,|US| NBC Sports Washington
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141595.ts
+#EXTINF:-1,|US| NBC Sports Washington
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/142170.ts
+#EXTINF:-1,|US| Fox College Sports Atlantic
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141883.ts
+#EXTINF:-1,|US| Fox College Sports Pacific
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141884.ts
+#EXTINF:-1,|US| FOX SPORTS 506
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141961.ts
+#EXTINF:-1,|US| FOX SPORTS Racing
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141962.ts
+#EXTINF:-1,|US| My Williamsport Pennsylvania WQMY TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/142066.ts
+#EXTINF:-1,|CA| beIN Sports
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141120.ts
+#EXTINF:-1,|CA| SportsNet 360
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141225.ts
+#EXTINF:-1,|CA| SportsNet East
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141226.ts
+#EXTINF:-1,|CA| SportsNet New York
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141227.ts
+#EXTINF:-1,|CA| SportsNet One
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141228.ts
+#EXTINF:-1,|CA| SportsNet Ontario
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141229.ts
+#EXTINF:-1,|CA.O| SportsNet Pacific
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141230.ts
+#EXTINF:-1,|CA| SportsNet Spectrum
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141231.ts
+#EXTINF:-1,|CA.O| SportsNet West
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141232.ts
+#EXTINF:-1,|CA| SportsNet World
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141233.ts
+#EXTINF:-1,|CA| SPORTSMAN CHANNEL
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141278.ts
+#EXTINF:-1,|CA| GINX ESPORTS TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141303.ts
+#EXTINF:-1,|CA.O| TVA Sports
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141256.ts
+#EXTINF:-1,|CA.O| TVA Sports 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/141257.ts
+#EXTINF:-1,|.ES.D.| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59807.ts
+#EXTINF:-1,|.ES.| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59808.ts
+#EXTINF:-1,|.ES.D.| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59809.ts
+#EXTINF:-1,|.ES.D.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59810.ts
+#EXTINF:-1,|SP-M+| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139301.ts
+#EXTINF:-1,|SP-M+| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139302.ts
+#EXTINF:-1,|SP-M+| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139303.ts
+#EXTINF:-1,|SP-M+| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/139304.ts
+#EXTINF:-1,|.ES.| ESPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/65819.ts
+#EXTINF:-1,|.ES.| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/143130.ts
+#EXTINF:-1,|.ES.| EUROSPORT 1  HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/143131.ts
+#EXTINF:-1,|.LATIN.| ADRENALINA SPORTS NETWORK
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78336.ts
+#EXTINF:-1,|.LATIN.| AYM SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78344.ts
+#EXTINF:-1,|.LATIN.| FOX SPORT2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78449.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78450.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78451.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78452.ts
+#EXTINF:-1,|.LATIN.|D LATIN AMERICAN SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78482.ts
+#EXTINF:-1,|.LATIN.| TIGO SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78579.ts
+#EXTINF:-1,|.LATIN.| TIGO SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78580.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78605.ts
+#EXTINF:-1,|.LATIN.|D DIRECTV SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78608.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78629.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78630.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78631.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78691.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78794.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78795.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78801.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS +
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78802.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78803.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78804.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78805.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78806.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78807.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS PLUS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78808.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78819.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1 (COLOMBIA)
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78820.ts
+#EXTINF:-1,|.LATIN.|WINSPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78854.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/99023.ts
+#EXTINF:-1,|.LATINO.| AYM SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67315.ts
+#EXTINF:-1,|.LATINO.| BEIN SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67322.ts
+#EXTINF:-1,|.LATINO.| BEIN SPORTS  LA LIGA
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67323.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67371.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67372.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67373.ts
+#EXTINF:-1,|.LATINO.| TYC SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67430.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67485.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67487.ts
+#EXTINF:-1,|.LATINO.|D FOX SPORTS PREMIUM HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67500.ts
+#EXTINF:-1,|.LATINO.|D BEIN SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/67515.ts
+#EXTINF:-1,|.LA.DO.|D CDN SPORTSMAX HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/114910.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/78610.ts
+#EXTINF:-1,|.BR.| ALL SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103512.ts
+#EXTINF:-1,|.BR.| BAND SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103522.ts
+#EXTINF:-1,|.BR.| DIEMA SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103543.ts
+#EXTINF:-1,|.BR.| DIEMA SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103544.ts
+#EXTINF:-1,|.BR.| ELEVEN SPORTS 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103559.ts
+#EXTINF:-1,|.BR.| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103565.ts
+#EXTINF:-1,|.BR.| FOX SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103579.ts
+#EXTINF:-1,|.BR.| FOX SPORTS 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103580.ts
+#EXTINF:-1,|.BR.| FOX SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103581.ts
+#EXTINF:-1,|.BR.| FOX SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103582.ts
+#EXTINF:-1,|.BR.| FOX SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103583.ts
+#EXTINF:-1,|.BR.| MAX SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103645.ts
+#EXTINF:-1,|.BR.| MAX SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103646.ts
+#EXTINF:-1,|.BR.| MAX SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103647.ts
+#EXTINF:-1,|.BR.| MAX SPORT 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103648.ts
+#EXTINF:-1,|.BR.| NOVA SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103659.ts
+#EXTINF:-1,|.BR.| SPORT PLUS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103694.ts
+#EXTINF:-1,|.BR.| SPORTV 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103695.ts
+#EXTINF:-1,|.BR.| SPORTV 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103696.ts
+#EXTINF:-1,|.BR.| SPORTV 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103697.ts
+#EXTINF:-1,|.BR.| SPORTV FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/103698.ts
+#EXTINF:-1,|.BRE.| BAND SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66928.ts
+#EXTINF:-1,|.BRE.| ESPN BRASIL SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66951.ts
+#EXTINF:-1,|.BRE.| FOX SPORTS 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66957.ts
+#EXTINF:-1,|.BRE.| FOX SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66958.ts
+#EXTINF:-1,|.BRE.| SPORTV 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66994.ts
+#EXTINF:-1,|.BRE.| SPORTV 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66995.ts
+#EXTINF:-1,|.BRE.| SPORTV FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/66996.ts
+#EXTINF:-1,---??| SPORTS |??---
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58866.ts
+#EXTINF:-1,|.PT.S.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58871.ts
+#EXTINF:-1,|.PT.S.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58872.ts
+#EXTINF:-1,|.PT.S.| SPORTING TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58875.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV+
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58878.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58879.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/31368.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58881.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58880.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58883.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58882.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58885.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58884.ts
+#EXTINF:-1,|.PT.S.O| SPORT TV 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58887.ts
+#EXTINF:-1,|.PT.S.| SPORT TV 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58886.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58888.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58889.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58890.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58891.ts
+#EXTINF:-1,|.PT.S.O| ELEVEN SPORTS 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58892.ts
+#EXTINF:-1,|.PT.S.| ELEVEN SPORTS 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58893.ts
+#EXTINF:-1,|.PT.| EUROSPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/58870.ts
+#EXTINF:-1,|.DE.| SKY SPORT NEWS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59998.ts
+#EXTINF:-1,|.DE.| SKY SPORT NEWS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70482.ts
+#EXTINF:-1,|.DE.| SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59995.ts
+#EXTINF:-1,|.DE.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59996.ts
+#EXTINF:-1,|.DE.| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70479.ts
+#EXTINF:-1,|.DE.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59997.ts
+#EXTINF:-1,|.DE.| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70480.ts
+#EXTINF:-1,|.DE.| SKY SPORT AUSTRIA
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59999.ts
+#EXTINF:-1,|.DE.| SPORT DIGITAL FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70520.ts
+#EXTINF:-1,|.DE.| SKY SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60000.ts
+#EXTINF:-1,|.DE.| SKY SPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70484.ts
+#EXTINF:-1,|.DE.| SKY SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70486.ts
+#EXTINF:-1,|.DE.| SKY SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60002.ts
+#EXTINF:-1,|.DE.| SKY SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70487.ts
+#EXTINF:-1,|.DE.| SKY SPORT 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60003.ts
+#EXTINF:-1,|.DE.| SKY SPORT 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70488.ts
+#EXTINF:-1,|.DE.| SKY SPORT 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60004.ts
+#EXTINF:-1,|.DE.| SKY SPORT 5 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70489.ts
+#EXTINF:-1,|.DE.| SKY SPORT 6 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70490.ts
+#EXTINF:-1,|.DE.| SKY SPORT 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60006.ts
+#EXTINF:-1,|.DE.| SKY SPORT 7 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70491.ts
+#EXTINF:-1,|.DE.| SKY SPORT 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60007.ts
+#EXTINF:-1,|.DE.| SKY SPORT 8 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70492.ts
+#EXTINF:-1,|.DE.| SKY SPORT 10 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60009.ts
+#EXTINF:-1,|.DE.| SKY SPORT 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60005.ts
+#EXTINF:-1,|.DE.| SKY SPORT 9 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/60008.ts
+#EXTINF:-1,---??| SPORTS |??---
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62969.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT GOLF HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62970.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT EXTRA 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62971.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62972.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT RACING HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62973.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT SELECT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62974.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT VOETBAL HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62975.ts
+#EXTINF:-1,|.NL.S.| FOX SPORTS 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62977.ts
+#EXTINF:-1,|.NL.S.| FOX SPORTS 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62978.ts
+#EXTINF:-1,|.NL.S.| FOX SPORTS 4  HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62979.ts
+#EXTINF:-1,|.NL.S.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62982.ts
+#EXTINF:-1,|.NL.S.| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62983.ts
+#EXTINF:-1,|.NL.S.| EXTREME SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62984.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63940.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63941.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63942.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63943.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63944.ts
+#EXTINF:-1,|.NL.S.| FOX SPORT 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63945.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT EXTRA 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63946.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT EXTRA 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63947.ts
+#EXTINF:-1,|.NL.S.| EXTREME SPORTS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63948.ts
+#EXTINF:-1,|.NL.S.| ZIGGO SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63949.ts
+#EXTINF:-1,|.NL.S.| EURO SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63952.ts
+#EXTINF:-1,|.NL.S.| EURO SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/63953.ts
+#EXTINF:-1,|TR| BeIN Sports 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149526.ts
+#EXTINF:-1,|TR| BeIN Sports 1 HD Backup
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149527.ts
+#EXTINF:-1,|TR| BeIN Sports 1 4K
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149528.ts
+#EXTINF:-1,|TR| BeIN Sports 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149529.ts
+#EXTINF:-1,|TR| BeIN Sports 2 HD Backup
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149530.ts
+#EXTINF:-1,|TR| BeIN Sports 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149531.ts
+#EXTINF:-1,|TR| BeIN Sports 3 HD Backup
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149532.ts
+#EXTINF:-1,|TR| BeIN Sports 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149533.ts
+#EXTINF:-1,|TR| BeIN Sports 4 HD Backup
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149534.ts
+#EXTINF:-1,|TR| BeIN Sports Max 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149535.ts
+#EXTINF:-1,|TR| BeIN Sports Max 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149536.ts
+#EXTINF:-1,|TR| BeIN Sports Haber HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149537.ts
+#EXTINF:-1,|TR| TiviBu Sport 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149539.ts
+#EXTINF:-1,|TR| TiviBu Sport 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149540.ts
+#EXTINF:-1,|TR| Sport Smart 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149543.ts
+#EXTINF:-1,|TR| EuroSport 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149550.ts
+#EXTINF:-1,|TR| EuroSport 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149551.ts
+#EXTINF:-1,|TR| Sports TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149554.ts
+#EXTINF:-1,|TR| EXXEN SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149555.ts
+#EXTINF:-1,|TR| EXXEN SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149556.ts
+#EXTINF:-1,|TR| EXXEN SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149557.ts
+#EXTINF:-1,|TR| S Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149783.ts
+#EXTINF:-1,|TR| S Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/149784.ts
+#EXTINF:-1,|.AL.| RTSH Sport HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/168824.ts
+#EXTINF:-1,|.AL.| Eurosport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169041.ts
+#EXTINF:-1,|.AL.| Eurosport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169042.ts
+#EXTINF:-1,|.AL.| Super Sport 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169043.ts
+#EXTINF:-1,|.AL.| Super Sport Kosova 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169044.ts
+#EXTINF:-1,|.AL.| Super Sport Kosova 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169045.ts
+#EXTINF:-1,|.AL.| Tring Sport News
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169046.ts
+#EXTINF:-1,|.AL.| Tring Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169047.ts
+#EXTINF:-1,|.AL.| Tring Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169048.ts
+#EXTINF:-1,|.AL.| Tring Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169049.ts
+#EXTINF:-1,|.AL.| Tring Sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169050.ts
+#EXTINF:-1,|.AL.| Kujtesa Sport 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169051.ts
+#EXTINF:-1,|.AL.| Kujtesa Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169052.ts
+#EXTINF:-1,|.AL.| Kujtesa Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169053.ts
+#EXTINF:-1,|.AL.| Kujtesa Sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169054.ts
+#EXTINF:-1,|.AL.| Art Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169055.ts
+#EXTINF:-1,|.AL.| Art Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169056.ts
+#EXTINF:-1,|.AL.| Art Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169057.ts
+#EXTINF:-1,|.AL.| Art Sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169058.ts
+#EXTINF:-1,|.AL.| Art Sport 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169059.ts
+#EXTINF:-1,|.AL.| Art Sport 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/169060.ts
+#EXTINF:-1,|.AT.| ORF SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89880.ts
+#EXTINF:-1,|.AT.| ORF SPORT+ HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89881.ts
+#EXTINF:-1,|.AT.| SKY SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89891.ts
+#EXTINF:-1,|.AT.| SKY SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89892.ts
+#EXTINF:-1,|.AT.| SKY SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89893.ts
+#EXTINF:-1,|.AT.| SKY SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89894.ts
+#EXTINF:-1,|.AT.| SKY SPORT AUSTRIA
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89895.ts
+#EXTINF:-1,|.AT.| SKY SPORT AUSTRIA 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89896.ts
+#EXTINF:-1,|.AT.| SKY SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/89897.ts
+#EXTINF:-1,|.BG.| AUTO MOTOR SPORT CHANNEL HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109752.ts
+#EXTINF:-1,|.BG.| B1B SPORT TV HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109757.ts
+#EXTINF:-1,|.BG.| DIEMA SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109799.ts
+#EXTINF:-1,|.BG.| DIEMA SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109800.ts
+#EXTINF:-1,|.BG.| ELEVEN SPORTS 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109815.ts
+#EXTINF:-1,|.BG.| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109820.ts
+#EXTINF:-1,|.BG.| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109822.ts
+#EXTINF:-1,|.BG.| MAX SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109864.ts
+#EXTINF:-1,|.BG.| MAX SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109865.ts
+#EXTINF:-1,|.BG.| MTEL SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109868.ts
+#EXTINF:-1,|.BG.| MTEL SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109869.ts
+#EXTINF:-1,|.BG.| MTEL SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109870.ts
+#EXTINF:-1,|.BG.| NOVA SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109901.ts
+#EXTINF:-1,|.BG.| SPORT+ FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109916.ts
+#EXTINF:-1,|.BG.| TRACE SPORT STARS
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109928.ts
+#EXTINF:-1,|.BG.| SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248953.ts
+#EXTINF:-1,RU: Astrakhan Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/273945.ts
+#EXTINF:-1,RU: EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/273977.ts
+#EXTINF:-1,RU: EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/273978.ts
+#EXTINF:-1,RU: Viju+ Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/274126.ts
+#EXTINF:-1,|.DK.| TV3 SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108369.ts
+#EXTINF:-1,|.DK.| TV2 SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/68594.ts
+#EXTINF:-1,|.DK.| TV3 SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/68607.ts
+#EXTINF:-1,|.DK.| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/68558.ts
+#EXTINF:-1,|.DK.| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/68559.ts
+#EXTINF:-1,|.DK.| VIASAT SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/68622.ts
+#EXTINF:-1,|.DK.| VIASAT SPORT PREMIUM HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/108386.ts
+#EXTINF:-1,|.EX-YU.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124715.ts
+#EXTINF:-1,|.EX-YU.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124716.ts
+#EXTINF:-1,|.EX-YU.| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/124718.ts
+#EXTINF:-1,|.EX-YU.| Arena Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136373.ts
+#EXTINF:-1,|.EX-YU.| Arena Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136374.ts
+#EXTINF:-1,|.EX-YU.| Arena Sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136375.ts
+#EXTINF:-1,|.EX-YU.| Arena Sport 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/136376.ts
+#EXTINF:-1,|.CZ.| SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62115.ts
+#EXTINF:-1,|.CZ.| SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62116.ts
+#EXTINF:-1,|.CZ.| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62131.ts
+#EXTINF:-1,|.CZ.| EUROSPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62132.ts
+#EXTINF:-1,|.CZ.| NOVA SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62149.ts
+#EXTINF:-1,|.CZ.| NOVA SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/62150.ts
+#EXTINF:-1,|.GR.| EPT SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70010.ts
+#EXTINF:-1,|.GR.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70016.ts
+#EXTINF:-1,|.GR.| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70017.ts
+#EXTINF:-1,|.GR.| NOVA SPORTS 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70087.ts
+#EXTINF:-1,|.GR.| NOVA SPORTS SUPERLEAGUE HIGHLIGHT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70088.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70102.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70103.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70104.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 4 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70105.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 5 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70106.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 6 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70107.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 7 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70108.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT 8 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70109.ts
+#EXTINF:-1,|.GR.| COSMOTE SPORT HIGHTLIGHT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/70110.ts
+#EXTINF:-1,|.HU.| DIGI SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109577.ts
+#EXTINF:-1,HU DIGI SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109578.ts
+#EXTINF:-1,|.HU.| DIGI SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109579.ts
+#EXTINF:-1,HU DIGI SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109580.ts
+#EXTINF:-1,|.HU.| DIGI SPORT 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109581.ts
+#EXTINF:-1,|.HU.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109601.ts
+#EXTINF:-1,HU EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109602.ts
+#EXTINF:-1,|.HU.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109603.ts
+#EXTINF:-1,HU EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109604.ts
+#EXTINF:-1,|.HU.| M4 SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109661.ts
+#EXTINF:-1,|.HU.| NOVA SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109688.ts
+#EXTINF:-1,HU NOVA SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109689.ts
+#EXTINF:-1,|.HU.| SPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109715.ts
+#EXTINF:-1,|.HU.| SPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/109716.ts
+#EXTINF:-1,|.PL.A| CANAL+ 2 SPORT HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106257.ts
+#EXTINF:-1,|.PL.A| CANAL+ SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106267.ts
+#EXTINF:-1,|.PL.A| CANAL+ SPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106270.ts
+#EXTINF:-1,|.PL.A| CANAL+ SPORT 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106271.ts
+#EXTINF:-1,|.PL.A| CANAL+ SPORT 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106272.ts
+#EXTINF:-1,|.PL.A| CANAL+ SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106273.ts
+#EXTINF:-1,|.PL.A| ELEVEN SPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106307.ts
+#EXTINF:-1,|.PL.A| ELEVEN SPORTS 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106308.ts
+#EXTINF:-1,|.PL.A| ELEVEN SPORTS 3 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106309.ts
+#EXTINF:-1,|.PL.A| ELEVEN SPORTS 4 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106310.ts
+#EXTINF:-1,|.PL.A|D ELEVEN SPORTS HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106311.ts
+#EXTINF:-1,|.PL.A| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106318.ts
+#EXTINF:-1,|.PL.A| EUROSPORT 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106319.ts
+#EXTINF:-1,|.PL.A| EXTREME SPORTS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106321.ts
+#EXTINF:-1,|.PL.A|D NSPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106380.ts
+#EXTINF:-1,|.PL.A| NSPORT+ FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106381.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT EXTRA FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106403.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106404.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT  FIGHT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106405.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT NEWS FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106406.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT PREMIUM 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106407.ts
+#EXTINF:-1,|.PL.A| POLSAT SPORT PREMIUM 2 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106408.ts
+#EXTINF:-1,|.PL.A| SPORT KLUB FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106422.ts
+#EXTINF:-1,|.PL.A| TVP SPORT FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106490.ts
+#EXTINF:-1,|.PL.| SPORT KLUB HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/69910.ts
+#EXTINF:-1,|.RO.| Digi Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248840.ts
+#EXTINF:-1,|.RO.| Digi Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248841.ts
+#EXTINF:-1,|.RO.| Digi Sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248842.ts
+#EXTINF:-1,|.RO.| Digi Sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248843.ts
+#EXTINF:-1,|.RO.| Telekom sport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248844.ts
+#EXTINF:-1,|.RO.| Telekom sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248845.ts
+#EXTINF:-1,|.RO.| Telekom sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248847.ts
+#EXTINF:-1,|.RO.| Telekom sport 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248848.ts
+#EXTINF:-1,|.RO.| Eurosport 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248849.ts
+#EXTINF:-1,|.RO.| Eurosport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248850.ts
+#EXTINF:-1,|.RO.| Look Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248852.ts
+#EXTINF:-1,|.RO.| Look Sport Plus
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248853.ts
+#EXTINF:-1,|.RO.| Look Sport 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248854.ts
+#EXTINF:-1,|.RO.| Look Sport 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248855.ts
+#EXTINF:-1,|.RO.| Auto Motor Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248901.ts
+#EXTINF:-1,|.RO.| Extreme Sport
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/248907.ts
+#EXTINF:-1,|.SE.| EUROSPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106143.ts
+#EXTINF:-1,|.SE.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106144.ts
+#EXTINF:-1,|.SE.| SPORT KANALEN HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106181.ts
+#EXTINF:-1,|.SE.| VIASAT SPORT PREMIUM HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/61048.ts
+#EXTINF:-1,|.SE.| VIASAT SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/61046.ts
+#EXTINF:-1,|.SLO.| SPORT TV 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59135.ts
+#EXTINF:-1,|.SLO.| SPORT TV 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59136.ts
+#EXTINF:-1,|.SLO.| SPORT TV 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59137.ts
+#EXTINF:-1,|.SLO.| SPORTKLUB 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59138.ts
+#EXTINF:-1,|.SLO.| SPORTKLUB 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59139.ts
+#EXTINF:-1,|.SLO.| SPORTKLUB 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59140.ts
+#EXTINF:-1,|.SLO.| SPORTKLUB 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/59141.ts
+#EXTINF:-1,|.NO.| EUROSPORT 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106527.ts
+#EXTINF:-1,|.NO.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106528.ts
+#EXTINF:-1,|.NO.| EUROSPORT NORGE HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106529.ts
+#EXTINF:-1,|.NO.| TV2 SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/106578.ts
+#EXTINF:-1,|.NO.| TV2 SPORTKANALEN
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/61351.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116626.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 3
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116627.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116628.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116631.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116636.ts
+#EXTINF:-1,|.RS.| ARENA SPORT 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116637.ts
+#EXTINF:-1,|.RS.| EUROSPORT 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116669.ts
+#EXTINF:-1,|.RS.| EUROSPORT 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116671.ts
+#EXTINF:-1,|.RS.| NOVA SPORT
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116726.ts
+#EXTINF:-1,|.RS.| PLANET SPORT 1
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116798.ts
+#EXTINF:-1,|.RS.| PLANET SPORT 2
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116799.ts
+#EXTINF:-1,|.RS.| PLANET SPORT 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116800.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 1 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116841.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 2 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116842.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 3 HD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116845.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 4
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116846.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 5
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116847.ts
+#EXTINF:-1,|.RS.| SPORT KLUB 6
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116848.ts
+#EXTINF:-1,|.RS.| SPORT KLUB GOLF
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116849.ts
+#EXTINF:-1,|.RS.| SPORTSKA TV
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/116852.ts
+#EXTINF:-1,|.UKR.| SETANTA SPORTS 1 FHD
+http://tvpro.vprotv.com:25443/live/V7fTELgcK3LM/sVDAC8ocdM/117976.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="FRANCE SPORT",DAZN 3 HD
+http://ktm42.xyz:2052/houari123/123456789/48083
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="FRANCE SPORT",DAZN 2 HD
+http://ktm42.xyz:2052/houari123/123456789/48082
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="FRANCE SPORT",DAZN 1 HD
+http://ktm42.xyz:2052/houari123/123456789/48081
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 1 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT 1 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7023
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 2 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7024
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 3 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7025
+#EXTINF:-1 tvg-id="" tvg-name="L'Equipe" tvg-logo="" group-title="FRANCE SPORT",L'Equipe
+http://ktm42.xyz:2052/houari123/123456789/25267
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="FRANCE SPORT",BEIN SPORT 1
+http://ktm42.xyz:2052/houari123/123456789/7040
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="FRANCE SPORT",BEIN SPORT 2
+http://ktm42.xyz:2052/houari123/123456789/7041
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="FRANCE SPORT",BEIN SPORT 3
+http://ktm42.xyz:2052/houari123/123456789/7042
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| INFOSPORT [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7017
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ SPORT [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7018
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FOOT [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ FOOT [HD]
+http://ktm42.xyz:2052/houari123/123456789/7019
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT 360 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7020
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| RMC SPORT 2 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7021
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| RMC SPORT 1 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7022
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN  SPORTS 1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR| BEIN  SPORTS 1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40144
+#EXTINF:-1 tvg-id="" tvg-name="FR la  chaine LÉquipe (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR la  chaine LÉquipe (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40097
+#EXTINF:-1 tvg-id="" tvg-name="FR la  chaine LÉquipe en direct (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR la  chaine LÉquipe en direct (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40098
+#EXTINF:-1 tvg-id="" tvg-name="FR  LÉquipe live 1 (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR  LÉquipe live 1 (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40099
+#EXTINF:-1 tvg-id="" tvg-name="FR  LÉquipe live 2 (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR  LÉquipe live 2 (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40100
+#EXTINF:-1 tvg-id="" tvg-name="FR|  INFOSPORT+ FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  INFOSPORT+ FHD
+http://ktm42.xyz:2052/houari123/123456789/40101
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ FOOT FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ FOOT FHD
+http://ktm42.xyz:2052/houari123/123456789/40102
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ 360 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ 360 FHD
+http://ktm42.xyz:2052/houari123/123456789/40103
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ SPORT FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ SPORT FHD
+http://ktm42.xyz:2052/houari123/123456789/40104
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS 2 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/40105
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS 3 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS 3 FHD
+http://ktm42.xyz:2052/houari123/123456789/40106
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT 1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT 1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40107
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT 2 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/40108
+#EXTINF:-1 tvg-id="" tvg-name="FR|  FOOT+ FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  FOOT+ FHD
+http://ktm42.xyz:2052/houari123/123456789/40109
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  DAZN_1 [FHD]" tvg-logo="" group-title="FRANCE SPORT",|FR|  DAZN_1 [FHD]
+http://ktm42.xyz:2052/houari123/123456789/40110
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  CANAL+ MOTOGP [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR|  CANAL+ MOTOGP [HD]
+http://ktm42.xyz:2052/houari123/123456789/40111
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ TOP14 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ TOP14 FHD
+http://ktm42.xyz:2052/houari123/123456789/40112
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ PREMIER LEAGUE FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ PREMIER LEAGUE FHD
+http://ktm42.xyz:2052/houari123/123456789/40113
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ LIGUE1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ LIGUE1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40114
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ LIGUE1 FHD (BK)" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ LIGUE1 FHD (BK)
+http://ktm42.xyz:2052/houari123/123456789/40115
+#EXTINF:-1 tvg-id="" tvg-name="FR|  CANAL+ FORMULA1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  CANAL+ FORMULA1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40116
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT LIVE 5 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT LIVE 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/40117
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT LIVE 6 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT LIVE 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/40118
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT LIVE 7 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT LIVE 7 FHD
+http://ktm42.xyz:2052/houari123/123456789/40119
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT LIVE 8 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT LIVE 8 FHD
+http://ktm42.xyz:2052/houari123/123456789/40120
+#EXTINF:-1 tvg-id="" tvg-name="FR|  RMC SPORT LIVE 9 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  RMC SPORT LIVE 9 FHD
+http://ktm42.xyz:2052/houari123/123456789/40121
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 4 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 4 FHD
+http://ktm42.xyz:2052/houari123/123456789/40122
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 5 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/40123
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 6 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/40124
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 7 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 7 FHD
+http://ktm42.xyz:2052/houari123/123456789/40125
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 8 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 8 FHD
+http://ktm42.xyz:2052/houari123/123456789/40126
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 9 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 9 FHD
+http://ktm42.xyz:2052/houari123/123456789/40127
+#EXTINF:-1 tvg-id="" tvg-name="FR|  BEIN SPORTS MAX 10 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  BEIN SPORTS MAX 10 FHD
+http://ktm42.xyz:2052/houari123/123456789/40128
+#EXTINF:-1 tvg-id="" tvg-name="FR|  EUROSPORT 1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  EUROSPORT 1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40129
+#EXTINF:-1 tvg-id="" tvg-name="FR|  EUROSPORT 2 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  EUROSPORT 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/40130
+#EXTINF:-1 tvg-id="" tvg-name="FR|  MULTISPORTS 2 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  MULTISPORTS 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/40131
+#EXTINF:-1 tvg-id="" tvg-name="FR|  MULTISPORTS 3 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  MULTISPORTS 3 FHD
+http://ktm42.xyz:2052/houari123/123456789/40132
+#EXTINF:-1 tvg-id="" tvg-name="FR|  MULTISPORTS 4 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  MULTISPORTS 4 FHD
+http://ktm42.xyz:2052/houari123/123456789/40133
+#EXTINF:-1 tvg-id="" tvg-name="FR|  MULTISPORTS 5 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  MULTISPORTS 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/40134
+#EXTINF:-1 tvg-id="" tvg-name="FR|  MULTISPORTS 6 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  MULTISPORTS 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/40135
+#EXTINF:-1 tvg-id="" tvg-name="FR|  EQUIDIA FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  EQUIDIA FHD
+http://ktm42.xyz:2052/houari123/123456789/40136
+#EXTINF:-1 tvg-id="" tvg-name="FR| S PORT EN FRANCE FHD" tvg-logo="" group-title="FRANCE SPORT",FR| S PORT EN FRANCE FHD
+http://ktm42.xyz:2052/houari123/123456789/40137
+#EXTINF:-1 tvg-id="" tvg-name="FR|  AUTOMOTO LA CHAINE FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  AUTOMOTO LA CHAINE FHD
+http://ktm42.xyz:2052/houari123/123456789/40138
+#EXTINF:-1 tvg-id="" tvg-name="FR|  GOLF+ FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  GOLF+ FHD
+http://ktm42.xyz:2052/houari123/123456789/40139
+#EXTINF:-1 tvg-id="" tvg-name="FR|  GOLF CHANNEL FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  GOLF CHANNEL FHD
+http://ktm42.xyz:2052/houari123/123456789/40140
+#EXTINF:-1 tvg-id="" tvg-name="FR|  ES1 FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  ES1 FHD
+http://ktm42.xyz:2052/houari123/123456789/40141
+#EXTINF:-1 tvg-id="" tvg-name="FR|  TRACE SPORT STARS FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  TRACE SPORT STARS FHD
+http://ktm42.xyz:2052/houari123/123456789/40142
+#EXTINF:-1 tvg-id="" tvg-name="FR|  NFL GAME PASS FHD" tvg-logo="" group-title="FRANCE SPORT",FR|  NFL GAME PASS FHD
+http://ktm42.xyz:2052/houari123/123456789/40143
+#EXTINF:-1 tvg-id="" tvg-name="FR la chaine LÉquipe en direct (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR la chaine LÉquipe en direct (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40094
+#EXTINF:-1 tvg-id="" tvg-name="FR LÉquipe live 1 (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR LÉquipe live 1 (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40095
+#EXTINF:-1 tvg-id="" tvg-name="FR LÉquipe live 2 (FHD)" tvg-logo="" group-title="FRANCE SPORT",FR LÉquipe live 2 (FHD)
+http://ktm42.xyz:2052/houari123/123456789/40096
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 4 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 4 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7026
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 5 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 5 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7027
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 6 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 6 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7028
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 7 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 7 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7029
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 8 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 8 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7030
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 9 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 9 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7031
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 10 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 10 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7032
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 3 LEAGUE DES CHAMPIONS [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 LEAGUE DES CHAMPIONS [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7033
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT 2 LEAGUE DES CHAMPIONS [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 LEAGUE DES CHAMPIONS [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7034
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 1 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7035
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 2 [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7036
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF CHANNEL [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| GOLF CHANNEL [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7037
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA LIVE [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7038
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF + [HD-FR]" tvg-logo="" group-title="FRANCE SPORT",|FR| GOLF + [HD-FR]
+http://ktm42.xyz:2052/houari123/123456789/7039
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 1 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 1 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45598
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 2 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 2 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45599
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 3 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 3 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45600
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIVE 4 [HD]" tvg-logo="" group-title="FRANCE SPORT",FR| CANAL+ LIVE 4 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45601
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 5 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 5 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45602
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 6 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 6 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45603
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 7 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 7 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45604
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 8 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 8 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45605
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 9 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 9 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45606
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 10 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 10 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45607
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 11 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 11 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45608
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 12 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 12 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45609
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 13 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 13 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45610
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 14 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 14 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45611
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 15 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 15 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45612
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 16 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 16 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45613
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 17 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 17 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45614
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 18 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 18 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45615
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIVE 19 [HD]" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+ LIVE 19 [HD]
+http://ktm42.xyz:2052/houari123/123456789/45616
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN  1 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN  1 HD
+http://ktm42.xyz:2052/houari123/123456789/40405
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 2 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 2 HD
+http://ktm42.xyz:2052/houari123/123456789/40404
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 3 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 3 HD
+http://ktm42.xyz:2052/houari123/123456789/40403
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 4 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 4 HD
+http://ktm42.xyz:2052/houari123/123456789/40402
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 5 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 5 HD
+http://ktm42.xyz:2052/houari123/123456789/40401
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 6 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 6 HD
+http://ktm42.xyz:2052/houari123/123456789/40400
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 7 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 7 HD
+http://ktm42.xyz:2052/houari123/123456789/40399
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN 8 HD" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN 8 HD
+http://ktm42.xyz:2052/houari123/123456789/40398
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FR" tvg-logo="" group-title="FRANCE SPORT",DAZN 4 FR
+http://ktm42.xyz:2052/houari123/123456789/40406
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 8 HD ( Dimanche 3ème MATCH )" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 8 HD ( Dimanche 3ème MATCH )
+http://ktm42.xyz:2052/houari123/123456789/40197
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 7 HD ( Dimanche 2ème Match )" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 7 HD ( Dimanche 2ème Match )
+http://ktm42.xyz:2052/houari123/123456789/40198
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 6 HD ( Dimanche 1ér Match )" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 6 HD ( Dimanche 1ér Match )
+http://ktm42.xyz:2052/houari123/123456789/40199
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 5 HD (Samedi Match 3)" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 5 HD (Samedi Match 3)
+http://ktm42.xyz:2052/houari123/123456789/40200
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 4 HD (Canal Multiplex LIVE ONLY )" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 4 HD (Canal Multiplex LIVE ONLY )
+http://ktm42.xyz:2052/houari123/123456789/40201
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 3 HD ( Samedi Match 2)" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 3 HD ( Samedi Match 2)
+http://ktm42.xyz:2052/houari123/123456789/40202
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 2 HD ( Samedi Match 1)" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 2 HD ( Samedi Match 1)
+http://ktm42.xyz:2052/houari123/123456789/40203
+#EXTINF:-1 tvg-id="" tvg-name="(FR) - (1280) DAZN LEAGUE 1 - 1 HD ( Vendredi Match )" tvg-logo="" group-title="FRANCE SPORT",(FR) - (1280) DAZN LEAGUE 1 - 1 HD ( Vendredi Match )
+http://ktm42.xyz:2052/houari123/123456789/40204
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Moto GP HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Moto GP HD
+http://ktm42.xyz:2052/houari123/123456789/8065
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport 24 HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Sport 24 HD
+http://ktm42.xyz:2052/houari123/123456789/8066
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Arena HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Sport Arena HD
+http://ktm42.xyz:2052/houari123/123456789/8067
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Sport F1 HD
+http://ktm42.xyz:2052/houari123/123456789/8068
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Football HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Sport Football HD
+http://ktm42.xyz:2052/houari123/123456789/8069
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY Sport Seria A HD" tvg-logo="" group-title="ITALY VIP",IT: SKY Sport Seria A HD
+http://ktm42.xyz:2052/houari123/123456789/8070
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Uno HD" tvg-logo="" group-title="ITALY VIP",IT: Sky Sport Uno HD
+http://ktm42.xyz:2052/houari123/123456789/8071
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Tg24" tvg-logo="" group-title="ITALY VIP",IT: Sky Tg24
+http://ktm42.xyz:2052/houari123/123456789/8072
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky UNO HD" tvg-logo="" group-title="ITALY VIP",IT: Sky UNO HD
+http://ktm42.xyz:2052/houari123/123456789/8073
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sport Italia" tvg-logo="" group-title="ITALY VIP",IT: Sport Italia
+http://ktm42.xyz:2052/houari123/123456789/8074
+#EXTINF:-1 tvg-id="" tvg-name="IT: Top Calcio 24" tvg-logo="" group-title="ITALY VIP",IT: Top Calcio 24
+http://ktm42.xyz:2052/houari123/123456789/8075
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport News HD" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport News HD
+http://ktm42.xyz:2052/houari123/123456789/42
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD1" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD1
+http://ktm42.xyz:2052/houari123/123456789/24920
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD2" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD2
+http://ktm42.xyz:2052/houari123/123456789/24921
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD3" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD3
+http://ktm42.xyz:2052/houari123/123456789/24922
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD4" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD4
+http://ktm42.xyz:2052/houari123/123456789/24923
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD5" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD5
+http://ktm42.xyz:2052/houari123/123456789/24924
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD6" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD6
+http://ktm42.xyz:2052/houari123/123456789/24925
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD7" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD7
+http://ktm42.xyz:2052/houari123/123456789/24926
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD8" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD8
+http://ktm42.xyz:2052/houari123/123456789/24927
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD9" tvg-logo="" group-title="BEIN SPORT SD",Bein Sport SD9
+http://ktm42.xyz:2052/houari123/123456789/24928
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: DAZN 1 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22894
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: DAZN 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22895
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: DAZN 2 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22896
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: DAZN 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22897
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport News ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport News ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22898
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport F1 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22899
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport F1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22900
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Premier League ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22901
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Top Event ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22902
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Mix ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22903
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Tennis ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22904
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Golf ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22905
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22906
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 1 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22907
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22908
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 2 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22909
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 3 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22910
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 3 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22911
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 4 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22912
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 4 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22913
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 5 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22914
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 5 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22915
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 6 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22916
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 ᶠᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Bundesliga 6 ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22917
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22918
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 3 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22919
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 4 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22920
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 5 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22921
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 6 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22922
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 7 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22923
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport 8 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22924
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Austria ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22925
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria 1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sky Sport Austria 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22926
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sport 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22927
+#EXTINF:-1 tvg-id="" tvg-name="DE: eSports 1 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: eSports 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22928
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sportdigital ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Sportdigital ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22929
+#EXTINF:-1 tvg-id="" tvg-name="DE: Auto Motor ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Auto Motor ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22930
+#EXTINF:-1 tvg-id="" tvg-name="DE: FC Bayern ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: FC Bayern ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22931
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Eurosport ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22932
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Eurosport 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22933
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 Xtra ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Eurosport 2 Xtra ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 1 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 1 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22935
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 2 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 2 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22936
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 3 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 3 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22937
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 4 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 4 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22938
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 5 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 5 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22939
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 6 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 6 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22940
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 7 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 7 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22941
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 8 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 8 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22942
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 9 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 9 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22943
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 10 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 10 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22944
+#EXTINF:-1 tvg-id="" tvg-name="DE: Magenta Sport 11 [Match Time] ᴴᴰ" tvg-logo="" group-title="GERMANY VIP",DE: Magenta Sport 11 [Match Time] ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22945
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="TURKY",TR: Bein Sport 1 HD
+http://ktm42.xyz:2052/houari123/123456789/23128
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Backup" tvg-logo="" group-title="TURKY",TR: Bein Sport 1 Backup
+http://ktm42.xyz:2052/houari123/123456789/23129
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 hd" tvg-logo="" group-title="TURKY",TR: Bein Sport 2 hd
+http://ktm42.xyz:2052/houari123/123456789/23130
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 Backup" tvg-logo="" group-title="TURKY",TR: Bein Sport 2 Backup
+http://ktm42.xyz:2052/houari123/123456789/23131
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD" tvg-logo="" group-title="TURKY",TR: Bein Sport 3 HD
+http://ktm42.xyz:2052/houari123/123456789/23132
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 Backup" tvg-logo="" group-title="TURKY",TR: Bein Sport 3 Backup
+http://ktm42.xyz:2052/houari123/123456789/23133
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 4 HD" tvg-logo="" group-title="TURKY",TR: Bein Sport 4 HD
+http://ktm42.xyz:2052/houari123/123456789/23134
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Haber HD" tvg-logo="" group-title="TURKY",TR: Bein Sport Haber HD
+http://ktm42.xyz:2052/houari123/123456789/23135
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 1 HD" tvg-logo="" group-title="TURKY",TR: Bein Sport Max 1 HD
+http://ktm42.xyz:2052/houari123/123456789/23136
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 2 HD" tvg-logo="" group-title="TURKY",TR: Bein Sport Max 2 HD
+http://ktm42.xyz:2052/houari123/123456789/23137
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu sport HD" tvg-logo="" group-title="TURKY",TR: tivibu sport HD
+http://ktm42.xyz:2052/houari123/123456789/23138
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu sport 2 HD" tvg-logo="" group-title="TURKY",TR: tivibu sport 2 HD
+http://ktm42.xyz:2052/houari123/123456789/23139
+#EXTINF:-1 tvg-id="" tvg-name="TR: tivibu sport 3 HD" tvg-logo="" group-title="TURKY",TR: tivibu sport 3 HD
+http://ktm42.xyz:2052/houari123/123456789/23140
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="" group-title="TURKY",TR: TRT SPOR HD
+http://ktm42.xyz:2052/houari123/123456789/23141
+#EXTINF:-1 tvg-id="" tvg-name="TR: Smart Sport HD" tvg-logo="" group-title="TURKY",TR: Smart Sport HD
+http://ktm42.xyz:2052/houari123/123456789/23142
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPORT HD" tvg-logo="" group-title="TURKY",TR: A SPORT HD
+http://ktm42.xyz:2052/houari123/123456789/23143
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT HD" tvg-logo="" group-title="TURKY",TR: S-SPORT HD
+http://ktm42.xyz:2052/houari123/123456789/23144
+#EXTINF:-1 tvg-id="" tvg-name="TR: S-SPORT 2" tvg-logo="" group-title="TURKY",TR: S-SPORT 2
+http://ktm42.xyz:2052/houari123/123456789/23145
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Main Event ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22661
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event ᶠᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Main Event ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22662
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Premier League ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22663
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League ᶠᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Premier League ᶠᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22664
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports F1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22665
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Mix ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22666
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sports Racing ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22667
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 1
+http://ktm42.xyz:2052/houari123/123456789/22668
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 2
+http://ktm42.xyz:2052/houari123/123456789/22669
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 3
+http://ktm42.xyz:2052/houari123/123456789/22670
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4 HD" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 4 HD
+http://ktm42.xyz:2052/houari123/123456789/22671
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sport 1 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sport 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22672
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22673
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 3 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22674
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: TNT Sports 4 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22675
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR Sports 1 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: EIR Sports 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22676
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Eurosport 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22677
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 ᴴᴰ" tvg-logo="" group-title="UNITED KINGDOOM",UK: Eurosport 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/22678
+#EXTINF:-1 tvg-id="" tvg-name="UK: FreeSports HD" tvg-logo="" group-title="UNITED KINGDOOM",UK: FreeSports HD
+http://ktm42.xyz:2052/houari123/123456789/22679
+#EXTINF:-1 tvg-id="" tvg-name="UK: premiere sports 1" tvg-logo="" group-title="UNITED KINGDOOM",UK: premiere sports 1
+http://ktm42.xyz:2052/houari123/123456789/22680
+#EXTINF:-1 tvg-id="" tvg-name="UK: premiere sports 2" tvg-logo="" group-title="UNITED KINGDOOM",UK: premiere sports 2
+http://ktm42.xyz:2052/houari123/123456789/22681
+#EXTINF:-1 tvg-id="" tvg-name="UK: LiverpooL FC HD" tvg-logo="" group-title="UNITED KINGDOOM",UK: LiverpooL FC HD
+http://ktm42.xyz:2052/houari123/123456789/22682
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="" group-title="UNITED KINGDOOM",UK: MUTV
+http://ktm42.xyz:2052/houari123/123456789/22683
+#EXTINF:-1 tvg-id="" tvg-name="UK: Box Nation UK" tvg-logo="" group-title="UNITED KINGDOOM",UK: Box Nation UK
+http://ktm42.xyz:2052/houari123/123456789/22684
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport Box Office" tvg-logo="" group-title="UNITED KINGDOOM",UK: Sky Sport Box Office
+http://ktm42.xyz:2052/houari123/123456789/22685
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Action" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Action
+http://ktm42.xyz:2052/houari123/123456789/22686
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT BLITZ" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT BLITZ
+http://ktm42.xyz:2052/houari123/123456789/22687
+#EXTINF:-1 tvg-id="" tvg-name="UKL: Viaplay 1" tvg-logo="" group-title="UNITED KINGDOOM",UKL: Viaplay 1
+http://ktm42.xyz:2052/houari123/123456789/22688
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Football" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Football
+http://ktm42.xyz:2052/houari123/123456789/22689
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Golf" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Golf
+http://ktm42.xyz:2052/houari123/123456789/22690
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Grandstand" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Grandstand
+http://ktm42.xyz:2052/houari123/123456789/22691
+#EXTINF:-1 tvg-id="" tvg-name="3PM: Supersport Premier League" tvg-logo="" group-title="UNITED KINGDOOM",3PM: Supersport Premier League
+http://ktm42.xyz:2052/houari123/123456789/22692
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT MAXIMO 1" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT MAXIMO 1
+http://ktm42.xyz:2052/houari123/123456789/22693
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Motorsport" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Motorsport
+http://ktm42.xyz:2052/houari123/123456789/22694
+#EXTINF:-1 tvg-id="" tvg-name="3PM:  Supersport LA Liga" tvg-logo="" group-title="UNITED KINGDOOM",3PM:  Supersport LA Liga
+http://ktm42.xyz:2052/houari123/123456789/22695
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport PSL" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport PSL
+http://ktm42.xyz:2052/houari123/123456789/22696
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport Rugby" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport Rugby
+http://ktm42.xyz:2052/houari123/123456789/22697
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SuperSport TENIS" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SuperSport TENIS
+http://ktm42.xyz:2052/houari123/123456789/22698
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT VARIETY 1" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT VARIETY 1
+http://ktm42.xyz:2052/houari123/123456789/22699
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT VARIETY 2" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT VARIETY 2
+http://ktm42.xyz:2052/houari123/123456789/22700
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT VARIETY 3" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT VARIETY 3
+http://ktm42.xyz:2052/houari123/123456789/22701
+#EXTINF:-1 tvg-id="" tvg-name="3PM: SUPERSPORT VARIETY 4" tvg-logo="" group-title="UNITED KINGDOOM",3PM: SUPERSPORT VARIETY 4
+http://ktm42.xyz:2052/houari123/123456789/22702
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO CRICKET" tvg-logo="" group-title="UNITED KINGDOOM",UK: ASTRO CRICKET
+http://ktm42.xyz:2052/houari123/123456789/22703
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS 1" tvg-logo="" group-title="UNITED KINGDOOM",UK: ASTRO SPORTS 1
+http://ktm42.xyz:2052/houari123/123456789/22704
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS 2" tvg-logo="" group-title="UNITED KINGDOOM",UK: ASTRO SPORTS 2
+http://ktm42.xyz:2052/houari123/123456789/22705
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS 3" tvg-logo="" group-title="UNITED KINGDOOM",UK: ASTRO SPORTS 3
+http://ktm42.xyz:2052/houari123/123456789/22706
+#EXTINF:-1 tvg-id="" tvg-name="UK: ASTRO SPORTS 4" tvg-logo="" group-title="UNITED KINGDOOM",UK: ASTRO SPORTS 4
+http://ktm42.xyz:2052/houari123/123456789/22707
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="UNITED KINGDOOM",True Premiere Football 1 HD TH
+http://ktm42.xyz:2052/houari123/123456789/22708
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 HD TH" tvg-logo="" group-title="UNITED KINGDOOM",True Premiere Football 2 HD TH
+http://ktm42.xyz:2052/houari123/123456789/22709
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="UNITED KINGDOOM",True Premiere Football 3 HD TH
+http://ktm42.xyz:2052/houari123/123456789/22710
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Rangers (Matchtime Only)" tvg-logo="" group-title="UNITED KINGDOOM",SPL: Rangers (Matchtime Only)
+http://ktm42.xyz:2052/houari123/123456789/22711
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Celtic (Matchtime Only)" tvg-logo="" group-title="UNITED KINGDOOM",SPL: Celtic (Matchtime Only)
+http://ktm42.xyz:2052/houari123/123456789/22712
+#EXTINF:-1 tvg-id="" tvg-name="SPL: Aberdeen (Matchtime Only)" tvg-logo="" group-title="UNITED KINGDOOM",SPL: Aberdeen (Matchtime Only)
+http://ktm42.xyz:2052/houari123/123456789/22713
+#EXTINF:-1 tvg-id="" tvg-name="SPL: St Mirren (Matchtime Only)" tvg-logo="" group-title="UNITED KINGDOOM",SPL: St Mirren (Matchtime Only)
+http://ktm42.xyz:2052/houari123/123456789/22714
+#EXTINF:-1 tvg-id="" tvg-name="FR| INFOSPORT+  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| INFOSPORT+  FHD
+http://ktm42.xyz:2052/houari123/123456789/26783
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FOOT  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ FOOT  FHD
+http://ktm42.xyz:2052/houari123/123456789/26784
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ 360  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ 360  FHD
+http://ktm42.xyz:2052/houari123/123456789/26785
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ SPORT  FHD
+http://ktm42.xyz:2052/houari123/123456789/26786
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS 1  FHD
+http://ktm42.xyz:2052/houari123/123456789/26787
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS 2  FHD
+http://ktm42.xyz:2052/houari123/123456789/26788
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS 3  FHD
+http://ktm42.xyz:2052/houari123/123456789/26789
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT 1  FHD
+http://ktm42.xyz:2052/houari123/123456789/26790
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT 2  FHD
+http://ktm42.xyz:2052/houari123/123456789/26791
+#EXTINF:-1 tvg-id="" tvg-name="FR| FOOT+  FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| FOOT+  FHD
+http://ktm42.xyz:2052/houari123/123456789/26792
+#EXTINF:-1 tvg-id="" tvg-name="FR| LEQUIPE FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| LEQUIPE FHD
+http://ktm42.xyz:2052/houari123/123456789/26748
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DAZN_1 [FHD]" tvg-logo="" group-title="FRANCE FHD HEVC",|FR| DAZN_1 [FHD]
+http://ktm42.xyz:2052/houari123/123456789/26749
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ MOTOGP [HD]" tvg-logo="" group-title="FRANCE FHD HEVC",|FR| CANAL+ MOTOGP [HD]
+http://ktm42.xyz:2052/houari123/123456789/26750
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ TOP14 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ TOP14 FHD
+http://ktm42.xyz:2052/houari123/123456789/26751
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ PREMIER LEAGUE FHD
+http://ktm42.xyz:2052/houari123/123456789/26752
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ LIGUE1 FHD
+http://ktm42.xyz:2052/houari123/123456789/26753
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 FHD (BK)" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ LIGUE1 FHD (BK)
+http://ktm42.xyz:2052/houari123/123456789/26754
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FORMULA1 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| CANAL+ FORMULA1 FHD
+http://ktm42.xyz:2052/houari123/123456789/26755
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 5 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT LIVE 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/26756
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 6 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT LIVE 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/26757
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 7 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT LIVE 7 FHD
+http://ktm42.xyz:2052/houari123/123456789/26758
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 8 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT LIVE 8 FHD
+http://ktm42.xyz:2052/houari123/123456789/26759
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 9 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| RMC SPORT LIVE 9 FHD
+http://ktm42.xyz:2052/houari123/123456789/26760
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 4 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 4 FHD
+http://ktm42.xyz:2052/houari123/123456789/26761
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 5 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/26762
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 6 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/26763
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 7 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 7 FHD
+http://ktm42.xyz:2052/houari123/123456789/26764
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 8 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 8 FHD
+http://ktm42.xyz:2052/houari123/123456789/26765
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 9 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 9 FHD
+http://ktm42.xyz:2052/houari123/123456789/26766
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 10 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| BEIN SPORTS MAX 10 FHD
+http://ktm42.xyz:2052/houari123/123456789/26767
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| EUROSPORT 1 FHD
+http://ktm42.xyz:2052/houari123/123456789/26768
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| EUROSPORT 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/26769
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 2 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| MULTISPORTS 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/26770
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 3 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| MULTISPORTS 3 FHD
+http://ktm42.xyz:2052/houari123/123456789/26771
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 4 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| MULTISPORTS 4 FHD
+http://ktm42.xyz:2052/houari123/123456789/26772
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 5 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| MULTISPORTS 5 FHD
+http://ktm42.xyz:2052/houari123/123456789/26773
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 6 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| MULTISPORTS 6 FHD
+http://ktm42.xyz:2052/houari123/123456789/26774
+#EXTINF:-1 tvg-id="" tvg-name="FR| EQUIDIA FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| EQUIDIA FHD
+http://ktm42.xyz:2052/houari123/123456789/26775
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| SPORT EN FRANCE FHD
+http://ktm42.xyz:2052/houari123/123456789/26776
+#EXTINF:-1 tvg-id="" tvg-name="FR| AUTOMOTO LA CHAINE FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| AUTOMOTO LA CHAINE FHD
+http://ktm42.xyz:2052/houari123/123456789/26777
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF+ FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| GOLF+ FHD
+http://ktm42.xyz:2052/houari123/123456789/26778
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| GOLF CHANNEL FHD
+http://ktm42.xyz:2052/houari123/123456789/26779
+#EXTINF:-1 tvg-id="" tvg-name="FR| ES1 FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| ES1 FHD
+http://ktm42.xyz:2052/houari123/123456789/26780
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE SPORT STARS FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| TRACE SPORT STARS FHD
+http://ktm42.xyz:2052/houari123/123456789/26781
+#EXTINF:-1 tvg-id="" tvg-name="FR| NFL GAME PASS FHD" tvg-logo="" group-title="FRANCE FHD HEVC",FR| NFL GAME PASS FHD
+http://ktm42.xyz:2052/houari123/123456789/26782
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ Sport 1 FHD FR" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ Sport 1 FHD FR
+http://ktm42.xyz:2052/houari123/123456789/26510
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ Sport 2 FHD FR" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ Sport 2 FHD FR
+http://ktm42.xyz:2052/houari123/123456789/26511
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ Sport 3 FHD FR" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ Sport 3 FHD FR
+http://ktm42.xyz:2052/houari123/123456789/26512
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ Sport 4 FHD FR" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ Sport 4 FHD FR
+http://ktm42.xyz:2052/houari123/123456789/26513
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ Sport 5 FHD FR" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ Sport 5 FHD FR
+http://ktm42.xyz:2052/houari123/123456789/26514
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ KIDS HD (C+AF)" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ KIDS HD (C+AF)
+http://ktm42.xyz:2052/houari123/123456789/26515
+#EXTINF:-1 tvg-id="" tvg-name="AF: Canal+ MOTO GP FHD (C+AF)" tvg-logo="" group-title="CANAL+  AFRIQUE",AF: Canal+ MOTO GP FHD (C+AF)
+http://ktm42.xyz:2052/houari123/123456789/26516
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Abu Dhabi Sports 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24884
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Abu Dhabi Sports 2 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Abu Dhabi Sports 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24885
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: KSA Sport 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24886
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 2 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: KSA Sport 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24887
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: KSA Sport 3 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: KSA Sport 3 HD
+http://ktm42.xyz:2052/houari123/123456789/24888
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Sport 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24889
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 2 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Sport 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24890
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Sport 3 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Sport 3 HD
+http://ktm42.xyz:2052/houari123/123456789/24891
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 1" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: On Time Sport HD 1
+http://ktm42.xyz:2052/houari123/123456789/24892
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport HD 2" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: On Time Sport HD 2
+http://ktm42.xyz:2052/houari123/123456789/24893
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Racing 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24894
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 2 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Racing 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24895
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Dubai Racing 3 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Dubai Racing 3 HD
+http://ktm42.xyz:2052/houari123/123456789/24896
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 HD" tvg-logo="" group-title="ARABE SPORTS",BeIN Alkass 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24897
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 HD" tvg-logo="" group-title="ARABE SPORTS",BeIN Alkass 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24898
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="" group-title="ARABE SPORTS",BeIN Alkass 3 HD
+http://ktm42.xyz:2052/houari123/123456789/24899
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="" group-title="ARABE SPORTS",BeIN Alkass 4 HD
+http://ktm42.xyz:2052/houari123/123456789/24900
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Saudi 24 Sport" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Saudi 24 Sport
+http://ktm42.xyz:2052/houari123/123456789/24901
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Bahrain Sport 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24902
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Bahrain Sport 2 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Bahrain Sport 2 HD
+http://ktm42.xyz:2052/houari123/123456789/24903
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Oman Sport HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Oman Sport HD
+http://ktm42.xyz:2052/houari123/123456789/24904
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Iraqia Sport HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Iraqia Sport HD
+http://ktm42.xyz:2052/houari123/123456789/24905
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Shabab Iraq Sport 1 HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Shabab Iraq Sport 1 HD
+http://ktm42.xyz:2052/houari123/123456789/24906
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Zamalek Sports" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Zamalek Sports
+http://ktm42.xyz:2052/houari123/123456789/24907
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Nile Sport" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Nile Sport
+http://ktm42.xyz:2052/houari123/123456789/24908
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Ahly TV" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Al Ahly TV
+http://ktm42.xyz:2052/houari123/123456789/24909
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Al Heddaf TV" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Al Heddaf TV
+http://ktm42.xyz:2052/houari123/123456789/24910
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 1" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Libya Sport 1
+http://ktm42.xyz:2052/houari123/123456789/24911
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Libya Sport 2" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Libya Sport 2
+http://ktm42.xyz:2052/houari123/123456789/24912
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Jordan Sport HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Jordan Sport HD
+http://ktm42.xyz:2052/houari123/123456789/24913
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Kuwait Sport HD
+http://ktm42.xyz:2052/houari123/123456789/24914
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Palestine Sport" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Palestine Sport
+http://ktm42.xyz:2052/houari123/123456789/24915
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Sharjah Sport HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Sharjah Sport HD
+http://ktm42.xyz:2052/houari123/123456789/24916
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Arryadia HD" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Arryadia HD
+http://ktm42.xyz:2052/houari123/123456789/24917
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Kuwait Sport Plus" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Kuwait Sport Plus
+http://ktm42.xyz:2052/houari123/123456789/24918
+#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: Yas Sport" tvg-logo="" group-title="ARABE SPORTS",Sport | Ar: Yas Sport
+http://ktm42.xyz:2052/houari123/123456789/24919
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_HD
+http://ktm42.xyz:2052/houari123/123456789/35272
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_FHD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_FHD
+http://ktm42.xyz:2052/houari123/123456789/35273
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_1_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_1_HD
+http://ktm42.xyz:2052/houari123/123456789/35274
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_1_FHD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_1_FHD
+http://ktm42.xyz:2052/houari123/123456789/35275
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_2_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_2_HD
+http://ktm42.xyz:2052/houari123/123456789/35276
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_2_FHD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_LALIGA_2_FHD
+http://ktm42.xyz:2052/houari123/123456789/35277
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_1_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_1_HD
+http://ktm42.xyz:2052/houari123/123456789/35278
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_1_FHD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_1_FHD
+http://ktm42.xyz:2052/houari123/123456789/35279
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_2_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_2_HD
+http://ktm42.xyz:2052/houari123/123456789/35280
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_2_FHD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_2_FHD
+http://ktm42.xyz:2052/houari123/123456789/35281
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN EVENT 3 FHD (LIVE EVENT ONLY)" tvg-logo="" group-title="ESPANA ",|ES| DAZN EVENT 3 FHD (LIVE EVENT ONLY)
+http://ktm42.xyz:2052/houari123/123456789/35282
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN EVENT 4 FHD (LIVE EVENT ONLY)" tvg-logo="" group-title="ESPANA ",|ES| DAZN EVENT 4 FHD (LIVE EVENT ONLY)
+http://ktm42.xyz:2052/houari123/123456789/35283
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN EVENT 5 FHD (LIVE EVENT ONLY)" tvg-logo="" group-title="ESPANA ",|ES| DAZN EVENT 5 FHD (LIVE EVENT ONLY)
+http://ktm42.xyz:2052/houari123/123456789/35284
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DAZN EVENT 6 FHD (LIVE EVENT ONLY)" tvg-logo="" group-title="ESPANA ",|ES| DAZN EVENT 6 FHD (LIVE EVENT ONLY)
+http://ktm42.xyz:2052/houari123/123456789/35285
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_F1_HD" tvg-logo="" group-title="ESPANA ",|ES|DAZN_F1_HD
+http://ktm42.xyz:2052/houari123/123456789/35286
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 1 HD" tvg-logo="" group-title="ESPANA ",|ES| EUROSPORT 1 HD
+http://ktm42.xyz:2052/houari123/123456789/35287
+#EXTINF:-1 tvg-id="" tvg-name="|ES| EUROSPORT 2 HD" tvg-logo="" group-title="ESPANA ",|ES| EUROSPORT 2 HD
+http://ktm42.xyz:2052/houari123/123456789/35288
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 2 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 2 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35304
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 3 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 3 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35305
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 4 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 4 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35306
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 5 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 5 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35307
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 6 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 6 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35308
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 7 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 7 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35309
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 8 FHD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 8 FHD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35310
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 9 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 9 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35311
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 10 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 10 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35312
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 11 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 11 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35313
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 12 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 12 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35314
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LIGA DE CAMPEONES 13 SD (Solo partidos)" tvg-logo="" group-title="ESPANA ",|ES| LIGA DE CAMPEONES 13 SD (Solo partidos)
+http://ktm42.xyz:2052/houari123/123456789/35315
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR ELLAS V FHD" tvg-logo="" group-title="ESPANA ",|ES| MOVISTAR ELLAS V FHD
+http://ktm42.xyz:2052/houari123/123456789/35316
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION HD" tvg-logo="" group-title="ESPANA ",|ES| LALIGA TV HYPERMOTION HD
+http://ktm42.xyz:2052/houari123/123456789/35317
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION FHD" tvg-logo="" group-title="ESPANA ",|ES| LALIGA TV HYPERMOTION FHD
+http://ktm42.xyz:2052/houari123/123456789/35318
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION 2 FHD" tvg-logo="" group-title="ESPANA ",|ES| LALIGA TV HYPERMOTION 2 FHD
+http://ktm42.xyz:2052/houari123/123456789/35319
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA TV HYPERMOTION 3 FHD" tvg-logo="" group-title="ESPANA ",|ES| LALIGA TV HYPERMOTION 3 FHD
+http://ktm42.xyz:2052/houari123/123456789/35320
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="" group-title="SSC SPORTS",SSC 1 SD
+http://ktm42.xyz:2052/houari123/123456789/6815
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1" tvg-logo="" group-title="SSC SPORTS",SSC SPORTS 1
+http://ktm42.xyz:2052/houari123/123456789/6816
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS NEWS ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS NEWS ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6817
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS 1 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS 1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6818
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS 2 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6819
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS 3 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS 3 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6820
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS 4 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS 4 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6821
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC SPORTS 5 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC SPORTS 5 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6822
+#EXTINF:-1 tvg-id="" tvg-name="KSA: EXTRA 1 HD Backup" tvg-logo="" group-title="SSC SPORTS",KSA: EXTRA 1 HD Backup
+http://ktm42.xyz:2052/houari123/123456789/6823
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC EXTRA 2 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC EXTRA 2 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6824
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC EXTRA 3 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC EXTRA 3 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6825
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SSC EXTRA1 ᴴᴰ" tvg-logo="" group-title="SSC SPORTS",KSA: SSC EXTRA1 ᴴᴰ
+http://ktm42.xyz:2052/houari123/123456789/6826
+#EXTINF:-1 tvg-id="" tvg-name="AD Premium 1 SD" tvg-logo="" group-title="STARZ PLAY",AD Premium 1 SD
+http://ktm42.xyz:2052/houari123/123456789/46330
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS 1 HD" tvg-logo="" group-title="STARZ PLAY",AD SPORTS 1 HD
+http://ktm42.xyz:2052/houari123/123456789/6829
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS 2 HD" tvg-logo="" group-title="STARZ PLAY",AD SPORTS 2 HD
+http://ktm42.xyz:2052/houari123/123456789/6830
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: FLOW SPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: RTA Sports
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1039.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY 5 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY ESPN HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/155.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY Ten 2 HD.
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: SONY TEN 4 (FHD)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: Sports 18 Khel
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: STARSPORTS 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",CRICKET: T SPORTS.
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",CRICKET: THE PAPARE
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269552.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS FOOTBALL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS PREMIERLEAGUE HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV : SUPERSPORTS PSL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4K5b4Y/Share-Ext-Supersport.jpg",DSTV: SUPERSPORTS LALIGA HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",INDIE: Sports18_HD1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269596.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png",MY: ASTRO SUPERSPORTS 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png",MY: ASTRO SUPERSPORTS 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png",MY: ASTRO SUPERSPORTS 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/z7Qjj4R/ASTROTV-shareext-Group.png",MY: ASTRO SUPERSPORTS 4 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: EUROSPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/216.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: EUROSPORTS 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: LIVERPOOL FC HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",UK: PremierSports 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg",UK: PremierSports 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5030.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: SKYSPORTS FOOTBALL
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/19.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: SkySports PremierLeague HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/286.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT Sport 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/n1GRXhD/Skysport-shareext.png",UK: TNT SPORT 4 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/255259.ts
