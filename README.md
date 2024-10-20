@@ -3,6 +3,14 @@
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/35296
 #EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother Kosova 2 FHD" tvg-logo="https://i.imgur.com/LDErRgr.jpg" group-title="big brother 2025",AL: Big Brother Kosova 2 FHD
 http://stream.ks88.eu:8080/diniser792/bGLAg2JnJwMV/35297
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Kosova 1" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="big brother 2025",AL: Big Brother VIP Kosova 1
+http://molla.top:8080/481676762317312069/4151676762317312/50341
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother VIP Kosova 2" tvg-logo="https://docdog.top/logo/countries/albania/Big_Brother_VIP_Kosova_1.png" group-title="big brother 2025",AL: Big Brother VIP Kosova 2
+http://molla.top:8080/481676762317312069/4151676762317312/50342
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA 2 HD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA 2 HD
+http://610947114193769738.ofd0208.xyz:80/play/David1008B/662382505M121/769738.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: BIG BROTHER KOSOVA HD" tvg-logo="" group-title="big brother 2025",AL: BIG BROTHER KOSOVA HD
+http://610947114193769739.ofd0208.xyz:80/play/David1008B/662382505M121/769739.ts
 #EXTINF:-1 tvg-id="" tvg-name="----------- KOSOVA @ ALBANIA -----------" tvg-logo="" group-title="Albania",----------- KOSOVA @ ALBANIA -----------
 http://webstar-ks.ch:8080/8ova.skupi/VMck3FLDpk/11
 #EXTINF:-1 tvg-id="RTK AL" tvg-name="AL: RTK ᴴᴰ." tvg-logo="http://ovh5.veqkqyre.info/LOGO/RTK.png" group-title="Albania",AL: RTK ᴴᴰ.
