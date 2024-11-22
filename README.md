@@ -709,8 +709,7 @@ http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/1471
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/1472
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: RO: EuroSport 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport.jpg" group-title="★ SPORTS (All World Sports)",SPORT: RO: EuroSport 1
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/922
-#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: London Live
-http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/429
+#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="" group-title="★ 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Polsat Sport Extra" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Polsat Sport Extra
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/926
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: PL: Eleven Sports 4" tvg-logo="" group-title="★ SPORTS (All World Sports)",SPORT: PL: Eleven Sports 4
