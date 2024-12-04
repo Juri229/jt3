@@ -7,6 +7,32 @@ http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/40613
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/251
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 2
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/252
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
+http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/4237
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
+http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/56168
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
+http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/56168
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD" tvg-logo="http://live.phenixiptv.com:8080/images/dhjBnryYqXsrNtSebStx165sq1H4JguvwRh74-HHLhdi6depiGfFJ73r7w0ClwWl.png" group-title="★ ALBANIA-SHQIP",AL: Kanal D Drama FHD
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/82859
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Live: Albania",AL: Kanal D Drama
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/49822
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal D Drama Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kanal%20drama.png" group-title="★ ALBANIA-SHQIP",Kanal D Drama Alb
+http://admin.vlagor-iptv.com:80/live.ts?channelId=25&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+#EXTINF:-1 tvg-id="" tvg-name="Turkish Stories" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Turkish Stories
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/49824
+#EXTINF:-1 tvg-id="" tvg-name="TRING 3 Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TRING 3 Plus
+http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/287
+#EXTINF:-1 tvg-id="" tvg-name="[AL] TRING 3+ TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_3plus.png" group-title="★ ALBANIA-SHQIP",[AL] TRING 3+ TV
+http://3.z-ott.com:80/5WU6tnXlNP/ky21ju3OG8/1700
+#EXTINF:-1 tvg-id="3 Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring 3+" tvg-logo="http://5.189.151.71/tring_3plus.png" group-title="★ ALBANIA-SHQIP",Tring 3+
+http://admin.vlagor-iptv.com:80/live.ts?channelId=78&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+#EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
+http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/4237
+#EXTINF:-1 tvg-id="" tvg-name="TRING TURKISH STORIES TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring-turkish-stories-al.png" group-title="★ ALBANIA-SHQIP",[AL] TRING TURKISH STORIES TV
+http://3.z-ott.com:80/5WU6tnXlNP/ky21ju3OG8/1547
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING TURKISH FHD" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: TRING TURKISH FHD
+http://379329039926770175.ofds0401.xyz:80/play/vi1129662/9qWxxWxtTy/770175.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 3
 http://localiptv.site:85/Muhi61LomaxsDiscord/QwSd45FKjXvrPTgh/253
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: RTK 4
