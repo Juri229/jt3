@@ -10,9 +10,7 @@ http://tv.adko.iptv.uno:80/EgRcQ9qXGQ/5hixBr523/56168
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/56168
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD" tvg-logo="http://live.phenixiptv.com:8080/images/dhjBnryYqXsrNtSebStx165sq1H4JguvwRh74-HHLhdi6depiGfFJ73r7w0ClwWl.png" group-title="★ ALBANIA-SHQIP",AL: Kanal D Drama FHD
-http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/82859
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Live: Albania",AL: Kanal D Drama
-http://localiptv.site:85/CSiptv1230/Hsu378whWh28qAueh/49822
+http://megaott.live:8080/BOLDSKYPE537374/2grUH5RCL3Xk/8285
 #EXTINF:-1 tvg-id="KanalD Drama" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal D Drama Alb" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/kanal%20drama.png" group-title="★ ALBANIA-SHQIP",Kanal D Drama Alb
 http://admin.vlagor-iptv.com:80/live.ts?channelId=25&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
 #EXTINF:-1 tvg-id="" tvg-name="Turkish Stories" tvg-logo="" group-title="★ ALBANIA-SHQIP",AL: Turkish Stories
@@ -817,8 +815,6 @@ http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/39585
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/39586
 #EXTINF:-1 tvg-id="" tvg-name="UK: CINEBOX 15" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: CINEBOX 15
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/39587
-#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR:DK: Disney Channel
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/635
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 1
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/352
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="★ ENGLISH-UK Channels",UK: BBC 2
@@ -1107,8 +1103,6 @@ http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1653
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1654
 #EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dream_tv_tr.jpg" group-title="★ Türkiye",TR: Dream Turk
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1655
-#EXTINF:-1 tvg-id="TV Istok.rs" tvg-name="Ex-Yu: TV Istok" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqooazA-3_H5PmT5sN1L0QaeLl6JAGpdD5iIEEqnvU3SJc66Qk&usqp=CAU" group-title="★ SRPSKI KANALI",Ex-Yu: TV Istok
-http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/13164
 #EXTINF:-1 tvg-id="" tvg-name="IT: Rai 1 " tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 1 
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2355
 #EXTINF:-1 tvg-id="" tvg-name="IT: Rai 2" tvg-logo="" group-title="★ ITALIAN Channels",IT: Rai 2
@@ -1465,4 +1459,101 @@ http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2326
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2324
 #EXTINF:-1 tvg-id="" tvg-name="IT: S Cinema Action" tvg-logo="https://w7.pngwing.com/pngs/463/46/png-transparent-sky-cinema-television-channel-film-sky-plc-cinema-logo-television-text-logo-thumbnail.png" group-title="★ ITALIAN Channels",IT: S Cinema Action
 http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/2323
-
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ CARTOOONS for Kids",CAR: UK: Cartoon Network
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1056
+#EXTINF:-1 tvg-id="" tvg-name="CAR: US: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: US: Cartoon Network
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1057
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Boomerang
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1058
+#EXTINF:-1 tvg-id="" tvg-name="CAR: TR: Cartoonito" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_de.jpg" group-title="★ CARTOOONS for Kids",CAR: TR: Cartoonito
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1059
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Disney Channel
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1060
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Disney Junior
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1061
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: UK: Disney XD
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1062
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nick Jr" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nick Jr
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1063
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nicktoons" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nicktoons
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1064
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Baby First TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ CARTOOONS for Kids",CAR: UK: Baby First TV
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1065
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Nickelodeon " tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Nickelodeon 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1066
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: CBeebies" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: CBeebies
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1068
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: Tiny Pop" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: Tiny Pop
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1070
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Boomerang" tvg-logo="https://w7.pngwing.com/pngs/573/640/png-transparent-boomerang-logo-television-channel-tom-and-jerry-dog-television-angle-text-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: DE: Boomerang
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1071
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_ce.jpg" group-title="★ CARTOOONS for Kids",CAR: DE: Cartoon Network
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1072
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: KIKA" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kika-de.svg" group-title="★ CARTOOONS for Kids",CAR: DE: KIKA
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1073
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Disney Channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.png" group-title="★ CARTOOONS for Kids",CAR: DE: Disney Channel
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1075
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Disney Cinemagic" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: DE: Disney Cinemagic
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1076
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Nickelodeon AT" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: DE: Nickelodeon AT
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1077
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: TOGGO plus" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toggo-de.png" group-title="★ CARTOOONS for Kids",CAR: DE: TOGGO plus
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1078
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DE: Super RTL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/super_rtl_de.jpg" group-title="★ CARTOOONS for Kids",CAR: DE: Super RTL
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1079
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Pikaboo" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Pikaboo
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1080
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Rtl Kockica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuc98jGRuCxu0LsCOpDxLlhGBPw35woWFsULhtYyRFsVWvZOb1&usqp=CAU" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Rtl Kockica
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1081
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Nick JR" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Nick JR
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1082
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Disney Channel
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1083
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Nickelodeon
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1084
+#EXTINF:-1 tvg-id="" tvg-name="CAR:  Baby Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv.jpg" group-title="★ CARTOOONS for Kids",CAR:  Baby Tv
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1085
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Ex-Yu: Pink Kids" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Ex-Yu: Pink Kids
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1086
+#EXTINF:-1 tvg-id="" tvg-name="CAR:Ex-Yu: Mini Ultra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mini_ultra_rs.jpg" group-title="★ CARTOOONS for Kids",CAR:Ex-Yu: Mini Ultra
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1087
+#EXTINF:-1 tvg-id="" tvg-name="CAR: UK: POP Max" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: UK: POP Max
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1088
+#EXTINF:-1 tvg-id="" tvg-name="CAR: PINK PANTHER" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: PINK PANTHER
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1089
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Tom & Jerry " tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Tom & Jerry 
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1090
+#EXTINF:-1 tvg-id="" tvg-name="CAR: Dexy TV" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: Dexy TV
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1718
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR" tvg-logo="" group-title="★ GERMANY Channels",DE: NDR
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1719
+#EXTINF:-1 tvg-id="" tvg-name="SE: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",SE: Cartoon Network
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/21573
+#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Disney Channel
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1092
+#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Cartoonito" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Cartoonito
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1093
+#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: SE: Disney Junior
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1094
+#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Nick JR" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Nick JR
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1096
+#EXTINF:-1 tvg-id="" tvg-name="CAR: SE: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: SE: Nickelodeon
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1097
+#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Nickelodeon" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR:DK: Nickelodeon
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1432
+#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Cartoon Network" tvg-logo="https://w7.pngwing.com/pngs/898/324/png-transparent-cartoon-network-logo-television-channel-cartoon-network-television-text-logo-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR:DK: Cartoon Network
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1436
+#EXTINF:-1 tvg-id="" tvg-name="CAR: DK: Disney XD" tvg-logo="https://w7.pngwing.com/pngs/890/131/png-transparent-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-thumbnail.png" group-title="★ CARTOOONS for Kids",CAR: DK: Disney XD
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1099
+#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Bang Bang" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Bang Bang
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1102
+#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: TIP TV" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: TIP TV
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1103
+#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Junior" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Junior
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1104
+#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Tring Tring" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Tring Tring
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1105
+#EXTINF:-1 tvg-id="" tvg-name="CAR: AL: Cufo" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR: AL: Cufo
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/1106
+#EXTINF:-1 tvg-id="" tvg-name="CAR:DK: Disney Channel" tvg-logo="" group-title="★ CARTOOONS for Kids",CAR:DK: Disney Channel
+http://localiptv.site:85/GigaIptvPro21/GigaMk2021exch60/635
