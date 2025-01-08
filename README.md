@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTINF:-1,AL: BIG BROTHER 1 HD http://ksportiptv.com:1557/live/Hafiz/Hafiz/7844.ts #EXTINF:-1,AL: BIG BROTHER 2 HD http://ksportiptv.com:1557/live/Hafiz/Hafiz/7845.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/4237
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
