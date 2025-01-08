@@ -1,5 +1,31 @@
 #EXTM3U
-http://goldenpro.xyz:80/get.php?username=ArianitHaxhiu&password=96BTC46&type=m3u
+#EXTINF:-1,##### GENERAL #####
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/54010
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 1 4K
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1123407
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 1 HD
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1121453
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 1
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1123410
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 2 4K
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1123408
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 2 HD
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1121454
+#EXTINF:-1,ALB - BIG BROTHER VIP
+ALBANIA 2
+http://goldenpro.xyz:80/ArianitHaxhiu
+/96BTC46/1123409
 #EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/4237
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
