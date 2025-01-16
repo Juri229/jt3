@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 4K
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123407
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 HD
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1121453
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123410
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 2
 ALBANIA 2 4K
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123408
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 1
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 2
 ALBANIA 2 HD
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1121454
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="![image](https://github.com/user-attachments/assets/bad951e1-3b32-4163-9b12-78092caab725)" group-title="Big Brother",Big Brother 2
