@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="------------ big brother ------------" tvg-link="" tvg-name="------------ big brother ------------" tvg-logo="" group-title="Albanian",------------ big brother ------------
-http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123407
+
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 4K
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123407
