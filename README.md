@@ -22,7 +22,6 @@ http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123409
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
 ALBANIA 2
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123409
-
 #EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/4237
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
