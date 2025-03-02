@@ -1,13 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
-http://fastopen.live:8080/AliBerisha/mLcWnwEHMr/118071
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
-http:/fastopen.live:8080/AliBerisha/mLcWnwEHMr/118072
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
-http://fastopen.live:8080/AliBerisha/mLcWnwEHMr/117150
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
-http://fastopen.live:8080/AliBerisha/mLcWnwEHMr/117151
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 4K
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123407
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
@@ -28,6 +20,7 @@ http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123409
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
 ALBANIA 2
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123409
+
 #EXTINF:-1 tvg-id="" tvg-name="Tring 3+ AL" tvg-logo="https://picon-13398.kxcdn.com/tring3plus.jpg" group-title="★ ALBANIA-SHQIP",Tring 3+ AL
 http://45.12.1.14:80/xDgcMNYW3Uft03/IRS6Lw90/4237
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://picon-13398.kxcdn.com/kanal-d-dramaAL.jpg" group-title="★ ALBANIA-SHQIP",Kanal D Drama FHD AL
