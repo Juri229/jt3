@@ -1,4 +1,65 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="
+GJENERALE @+"tvg-logo="https://
+lo1.in/alb/gjene.png" group-title="EU
+ALBANIA GJENERALE", > O> GJENERALE
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/400148472
+#EXTINF:-1 tvg-id="" tvg-name="AL
+BIG BROTHER VIP ALBANIA 1"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU | ALBANIA
+GJENERALE",AL BIG BROTHER VIP
+ALBANIA 1
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401535154
+#EXTINF:-1 tvg-id="" tvg-name="AL
+BIG BROTHER VIP ALBANIA 2"
+tvg-logo="https://lo1.in/alb/bbva
+Png" group-title="EU | ALBANIA
+GJENERALE",AL| BIG BROTHER VIP
+ALBANIA 2
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401535153
+#EXTINF:-1 tvg-id="" tvg-name="AL
+BIG BROTHER VIP ALBANIA 1 [BK]"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU ALBANIA
+GJENERALE",AL| BIG BROTHER VIP
+ALBANIA 1 [BK]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536654
+#EXTINF:-1 tvg-id="" tvg-name="AL
+BIG BROTHER VIP ALBANIA 2 [BK]'
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU ALBANIA
+GJENERALE",AL| BIG BROTHER VIP
+ALBANIA 2 [BK]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536653
+#EXTINF:-1 tvg-id="" tvg-name="AL|
+BIG BROTHER VIP ALBANIA 1 [BK1]"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU | ALBANIA
+GJENERALE",AL BIG BROTHER VIP
+ALBANIA 1 [BK1]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536652
+#EXTINF:-1 tvg-id="" tvg-name="AL
+BIG BROTHER VIP ALBANIA 2 [BK1]"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU | ALBANIA
+GJENERALE",AL BIG BROTHER VIP
+ALBANIA 2 [BK1]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536651
+#EXTINF:-1 tvg-id="" tvg-name="AL|
+BIG BROTHER VIP ALBANIA 1 [BK2]"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU ALBANIA
+GJENERALE",AL BIG BROTHER VIP
+ALBANIA 1 [BK2]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536650
+#EXTINF:-1 tvg-id="" tvg-name="AL|
+BIG BROTHER VIP ALBANIA 2 [BK2]"
+tvg-logo="https://lo1.in/alb/bbva
+png" group-title="EU | ALBANIA
+GJENERALE",AL BIG BROTHER VIP
+ALBANIA 2 [BK2]
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536649
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297206
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new2
