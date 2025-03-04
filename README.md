@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new1
-ALBANIA 1 4
-http://aflaxtv.xyz:8080/test_acct
-/ohbo1veifa4AhD/297206
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297206
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new2
-ALBANIA 2 HD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297207
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 4K
