@@ -66,7 +66,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297206
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297207
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 4K
-http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123407
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401535154
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 HD
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1121453
@@ -78,7 +78,7 @@ ALBANIA 2 4K
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123408
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
 ALBANIA 2 HD
-http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1121454
+http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401536653
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 2
 ALBANIA 2
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/1123409
