@@ -4,7 +4,6 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297206
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297207
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1☆" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
-ALBANIA 1 4K
 http://mnbgy.com:80/Nikisopaa1./Sopa4231/130125
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother 1
 ALBANIA 1 HD
@@ -533,16 +532,6 @@ http://admin.vlagor-iptv.com:80/live.ts?channelId=776&deviceUser=No02cUst034&dev
 http://admin.vlagor-iptv.com:80/live.ts?channelId=1121&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
 #EXTINF:-1 tvg-id="Blue Sport 2" tvg-link="" tvg-name="Blue Sport 2" tvg-logo="" group-title="Sport",Blue Sport 2
 http://admin.vlagor-iptv.com:80/live.ts?channelId=1122&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
-#EXTINF:-1 tvg-id="Viasat Fotboll" tvg-link="" tvg-name="Viasat Fotboll" tvg-logo="" group-title="Sverige",Viasat Fotboll
-http://admin.vlagor-iptv.com:80/live.ts?channelId=540&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
-#EXTINF:-1 tvg-id="Viasat Motors" tvg-link="" tvg-name="Viasat Motors" tvg-logo="" group-title="Sverige",Viasat Motors
-http://admin.vlagor-iptv.com:80/live.ts?channelId=669&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
-#EXTINF:-1 tvg-id="C More Sport" tvg-link="" tvg-name="C More Sport" tvg-logo="" group-title="Sverige",C More Sport
-http://admin.vlagor-iptv.com:80/live.ts?channelId=680&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
-#EXTINF:-1 tvg-id="C More Fotboll" tvg-link="" tvg-name="C More Fotboll" tvg-logo="" group-title="Sverige",C More Fotboll
-http://admin.vlagor-iptv.com:80/live.ts?channelId=907&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
-#EXTINF:-1 tvg-id="C More Hockey" tvg-link="" tvg-name="C More Hockey" tvg-logo="" group-title="Sverige",C More Hockey
-http://admin.vlagor-iptv.com:80/live.ts?channelId=677&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
 #EXTINF:-1 tvg-id="TSN 1 USA" tvg-link="" tvg-name="TSN 1 USA" tvg-logo="" group-title="Sport",TSN 1 USA
 http://admin.vlagor-iptv.com:80/live.ts?channelId=627&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
 #EXTINF:-1 tvg-id="TSN 2 USA" tvg-link="" tvg-name="TSN 2 USA" tvg-logo="" group-title="Sport",TSN 2 USA
@@ -783,6 +772,574 @@ http://admin.vlagor-iptv.com:80/live.ts?channelId=1139&deviceUser=No02cUst034&de
 http://admin.vlagor-iptv.com:80/live.ts?channelId=1140&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
 #EXTINF:-1 tvg-id="Skyselect HD 4" tvg-link="" tvg-name="Skyselect HD 4" tvg-logo="" group-title="German",Skyselect HD 4
 http://admin.vlagor-iptv.com:80/live.ts?channelId=1141&deviceUser=No02cUst034&devicePass=Gtr64Dhj@u5349@$$&uid=2685
+#EXTINF:-1 tvg-id="NULL" tvg-name="|--- ALBANIA ---|" tvg-logo="http://myking.best/ch_logo/Albania.svg.png" group-title="|ALB| GJENERAL",|--- ALBANIA ---|
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2355
+#EXTINF:-1 tvg-id="TVKlan" tvg-name="|AL| KLAN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/46595988f0083f19afd11068bd05c6d0.png" group-title="|ALB| GJENERAL",|AL| KLAN HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2438
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KLAN PLUS HD" tvg-logo="http://myking.best/ch_logo/Klan-Plus.png" group-title="|ALB| GJENERAL",|AL| KLAN PLUS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2436
+#EXTINF:-1 tvg-id="KlanKosova" tvg-name="|AL| KLAN KOSOVA HD" tvg-logo="http://myking.best/ch_logo/Klan_Kosova.png" group-title="|ALB| GJENERAL",|AL| KLAN KOSOVA HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/10174
+#EXTINF:-1 tvg-id="RTK" tvg-name="|AL| RTK 1 HD" tvg-logo="http://myking.best/ch_logo/Rtk1_2013.png" group-title="|ALB| GJENERAL",|AL| RTK 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2452
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTK 2 HD" tvg-logo="http://myking.best/ch_logo/Rtk_2.png" group-title="|ALB| GJENERAL",|AL| RTK 2 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9820
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTK 3 HD" tvg-logo="http://myking.best/ch_logo/RTK3_logo_5ac42bcfd1a4d.png" group-title="|ALB| GJENERAL",|AL| RTK 3 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2450
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTK 4 HD" tvg-logo="http://myking.best/ch_logo/RTK4_logo_5ac42bf221795.png" group-title="|ALB| GJENERAL",|AL| RTK 4 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2449
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ALSAT TV HD" tvg-logo="http://myking.best/ch_logo/Alsat.jpg" group-title="|ALB| GJENERAL",|AL| ALSAT TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2441
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="|AL| ALSATM HD" tvg-logo="http://myking.best/ch_logo/Alsat.jpg" group-title="|ALB| GJENERAL",|AL| ALSATM HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2440
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="|AL| TOP CHANNEL HD" tvg-logo="http://polpeta.dynu.com:16000/logo/chn/113.png" group-title="|ALB| GJENERAL",|AL| TOP CHANNEL HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2435
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| 24 KITCHEN HD" tvg-logo="http://myking.best/ch_logo/24KITCHENHD.png" group-title="|ALB| DOKUMENTAR",|AL| 24 KITCHEN HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2247
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| REPORT HD" tvg-logo="http://myking.best/ch_logo/al-a1-repor.jpg" group-title="|ALB| GJENERAL",|AL| REPORT HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2277
+#EXTINF:-1 tvg-id="abcnews.al" tvg-name="|AL| ABC NEWS HD" tvg-logo="http://myking.best/ch_logo/ABC_logo.png" group-title="|ALB| GJENERAL",|AL| ABC NEWS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2285
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ZANA HUMOR HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| ZANA HUMOR HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2345
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ALBUK HD" tvg-logo="http://myking.best/ch_logo/albuk-tv.jpg" group-title="|ALB| FILMA - SERIALE",|AL| ALBUK HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2352
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ALB THRILLER" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| ALB THRILLER
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2353
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV1 CHANNEL HD" tvg-logo="http://myking.best/ch_logo/TV1 channel.jpg" group-title="|ALB| GJENERAL",|AL| TV1 CHANNEL HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2268
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| BABY TV" tvg-logo="http://myking.best/ch_logo/BABYTV.png" group-title="|ALB| FEMIJE",|AL| BABY TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2213
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="|AL| BANG BANG" tvg-logo="http://myking.best/ch_logo/Bang_Bang_Albania.png" group-title="|ALB| FEMIJE",|AL| BANG BANG
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2214
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| CHANNEL ONE" tvg-logo="http://myking.best/ch_logo/Channel_One_(Albania).svg.png" group-title="|ALB| GJENERAL",|AL| CHANNEL ONE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2226
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| CLICK TV" tvg-logo="http://myking.best/ch_logo/clickTV.jpg" group-title="|ALB| RAJONAL",|AL| CLICK TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2218
+#EXTINF:-1 tvg-id="Cufo TV" tvg-name="|AL| CUFO TV" tvg-logo="http://myking.best/ch_logo/Cufo_TV.png" group-title="|ALB| FEMIJE",|AL| CUFO TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2215
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| T HD" tvg-logo="http://myking.best/ch_logo/digit_alb_t_hd.png" group-title="|ALB| FILMA - SERIALE",|AL| T HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2421
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| Elrodi TV" tvg-logo="http://myking.best/ch_logo/elrodi.png" group-title="|ALB| MUZIKA",|AL| Elrodi TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2239
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ERA TV" tvg-logo="http://myking.best/ch_logo/Albania.svg.png" group-title="|ALB| GJENERAL",|AL| ERA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2311
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| EUROSPORT 2 HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT2HD.png" group-title="|ALB| SPORT",|AL| EUROSPORT 2 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2193
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| EUROSPORT 1 HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT1HD.png" group-title="|ALB| SPORT",|AL| EUROSPORT 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2194
+#EXTINF:-1 tvg-id="EXP Histori" tvg-name="|AL| EXPLORER HISTORI" tvg-logo="http://myking.best/ch_logo/EXP-Histori-Live-300x225.png" group-title="|ALB| RAJONAL",|AL| EXPLORER HISTORI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2330
+#EXTINF:-1 tvg-id="EXP Natyra" tvg-name="|AL| EXPLORER NATYRA" tvg-logo="http://myking.best/ch_logo/explorernatyra.png" group-title="|ALB| DOKUMENTAR",|AL| EXPLORER NATYRA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2332
+#EXTINF:-1 tvg-id="EXP Shkence" tvg-name="|AL| EXPLORER SHKENCE" tvg-logo="http://myking.best/ch_logo/explorer shkence.png" group-title="|ALB| DOKUMENTAR",|AL| EXPLORER SHKENCE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2331
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FAMILY HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| FAMILY HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2395
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH MUZIKE" tvg-logo="http://myking.best/ch_logo/RTSH_Muzikë_(2020_Logo).svg.png" group-title="|ALB| MUZIKA",|AL| RTSH MUZIKE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2403
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| STINET HD" tvg-logo="http://myking.best/ch_logo/STINET.png" group-title="|ALB| FILMA - SERIALE",|AL| STINET HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2401
+#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="|AL| RTSH KORCA HD" tvg-logo="http://myking.best/ch_logo/RTSH_Korça_(2020_Logo).svg.png" group-title="|ALB| MUZIKA",|AL| RTSH KORCA HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2402
+#EXTINF:-1 tvg-id="rtsh2.al" tvg-name="|AL| RTSH 2 HD" tvg-logo="http://myking.best/ch_logo/RTSH_2_HD_(2020_Logo).svg.png" group-title="|ALB| GJENERAL",|AL| RTSH 2 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2429
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FILM KIDS HD" tvg-logo="http://myking.best/ch_logo/kids.png" group-title="|ALB| FEMIJE",|AL| FILM KIDS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2211
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FIRST TV" tvg-logo="http://myking.best/ch_logo/FIRST_Logo.svg.png" group-title="|ALB| GJENERAL",|AL| FIRST TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2322
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| Folk HD" tvg-logo="http://myking.best/ch_logo/folk.jpg" group-title="|ALB| GJENERAL",|AL| Folk HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2238
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FOX CRIME HD" tvg-logo="http://myking.best/ch_logo/FOXCRIME.png" group-title="|ALB| FILMA - SERIALE",|AL| FOX CRIME HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2381
+#EXTINF:-1 tvg-id="FaxNews" tvg-name="|AL| FAX NEWS" tvg-logo="http://myking.best/ch_logo/fax-news-al.png" group-title="|ALB| GJENERAL",|AL| FAX NEWS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2275
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| JOLLY HD" tvg-logo="http://myking.best/ch_logo/jolly.jpg" group-title="|ALB| FILMA - SERIALE",|AL| JOLLY HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2392
+#EXTINF:-1 tvg-id="k-sport1.al" tvg-name="|AL| K SPORT 1" tvg-logo="http://myking.best/ch_logo/k-sport-1-1855.png" group-title="|ALB| SPORT",|AL| K SPORT 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2187
+#EXTINF:-1 tvg-id="k-sport2.al" tvg-name="|AL| K SPORT 2" tvg-logo="http://myking.best/ch_logo/k-sport-2-1856.png" group-title="|ALB| SPORT",|AL| K SPORT 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2186
+#EXTINF:-1 tvg-id="k-sport3.al" tvg-name="|AL| K SPORT 3" tvg-logo="http://myking.best/ch_logo/k-sport-3-1857.png" group-title="|ALB| SPORT",|AL| K SPORT 3
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2185
+#EXTINF:-1 tvg-id="k-sport4.al" tvg-name="|AL| K SPORT 4" tvg-logo="http://myking.best/ch_logo/Ksport4.png" group-title="|ALB| SPORT",|AL| K SPORT 4
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2184
+#EXTINF:-1 tvg-id="Kanali7" tvg-name="|AL| KANALI 7" tvg-logo="http://myking.best/ch_logo/kanali 7.jpg" group-title="|ALB| GJENERAL",|AL| KANALI 7
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2278
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH 24" tvg-logo="http://myking.best/ch_logo/RTSH_24_(2020_Logo).svg" group-title="|ALB| GJENERAL",|AL| RTSH 24
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2356
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH FEMIJE" tvg-logo="http://myking.best/ch_logo/RTSH_Fëmijë_(2020_Logo).svg.png" group-title="|ALB| FEMIJE",|AL| RTSH FEMIJE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2359
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KOHA TV" tvg-logo="http://myking.best/ch_logo/KOHA TV.jpg" group-title="|ALB| GJENERAL",|AL| KOHA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2319
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KS GOLD 1 HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KS GOLD 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2412
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH PLUS" tvg-logo="http://myking.best/ch_logo/RTSH_Plus_(2020_Logo).svg.png" group-title="|ALB| GJENERAL",|AL| RTSH PLUS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2411
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="|AL| KTV HD TOKSOR" tvg-logo="http://myking.best/ch_logo/ByVI5LAIYAA0ieH.jpg" group-title="|ALB| FILMA - SERIALE",|AL| KTV HD TOKSOR
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2444
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="|AL| KTV HD" tvg-logo="http://myking.best/ch_logo/Kohavision_Logo.png" group-title="|ALB| GJENERAL",|AL| KTV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2445
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| MFM MUSIK" tvg-logo="http://myking.best/ch_logo/mfmmusic.png" group-title="|ALB| MUZIKA",|AL| MFM MUSIK
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2235
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="|AL| FOX LIFE" tvg-logo="http://myking.best/ch_logo/FOXLIFE.png" group-title="|ALB| FILMA - SERIALE",|AL| FOX LIFE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2423
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH SPORT" tvg-logo="http://myking.best/ch_logo/906px-RTSH_Sport_(2020_Logo).svg.png" group-title="|ALB| SPORT",|AL| RTSH SPORT
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2182
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| MTV Kosova" tvg-logo="http://myking.best/ch_logo/mtv kosova.jpg" group-title="|ALB| MUZIKA",|AL| MTV Kosova
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2236
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| My Music HD" tvg-logo="http://myking.best/ch_logo/MTV_Logo.png" group-title="|ALB| MUZIKA",|AL| My Music HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2248
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| NATIONAL GEOGRAPHIC" tvg-logo="http://myking.best/ch_logo/NATGEO.png" group-title="|ALB| DOKUMENTAR",|AL| NATIONAL GEOGRAPHIC
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2324
+#EXTINF:-1 tvg-id="news24.al" tvg-name="|AL| NEWS 24" tvg-logo="http://myking.best/ch_logo/News_24_(Albania).svg.png" group-title="|ALB| GJENERAL",|AL| NEWS 24
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2279
+#EXTINF:-1 tvg-id="Ora News" tvg-name="|AL| ORA NEWS HD" tvg-logo="http://myking.best/ch_logo/Ora_News_(Albania).svg.png" group-title="|ALB| GJENERAL",|AL| ORA NEWS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2286
+#EXTINF:-1 tvg-id="Plus HD" tvg-name="|AL| KLAN PLUS FHD" tvg-logo="http://myking.best/ch_logo/Klan-Plus.png" group-title="|ALB| GJENERAL",|AL| KLAN PLUS FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2393
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| REPOR TV HD" tvg-logo="http://myking.best/ch_logo/al-a1-repor.jpg" group-title="|ALB| GJENERAL",|AL| REPOR TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2295
+#EXTINF:-1 tvg-id="rtsh3.al" tvg-name="|AL| RTSH 3 HD" tvg-logo="http://myking.best/ch_logo/rtsh3.png" group-title="|ALB| GJENERAL",|AL| RTSH 3 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2428
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH FILM" tvg-logo="http://myking.best/ch_logo/rtshfilm.png" group-title="|ALB| FILMA - SERIALE",|AL| RTSH FILM
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2430
+#EXTINF:-1 tvg-id="rtsh1.al" tvg-name="|AL| RTSH HD" tvg-logo="http://myking.best/ch_logo/rtsh.jpg" group-title="|ALB| GJENERAL",|AL| RTSH HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2431
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTSH SHqip HD" tvg-logo="http://myking.best/ch_logo/rtshshqip.png" group-title="|ALB| FILMA - SERIALE",|AL| RTSH SHqip HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2426
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV Islam" tvg-logo="http://myking.best/ch_logo/rtshislam.jpg" group-title="|ALB| GJENERAL",|AL| RTV Islam
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2273
+#EXTINF:-1 tvg-id="21junior.al" tvg-name="|AL| RTV21 JUNIOR HD" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| FEMIJE",|AL| RTV21 JUNIOR HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2210
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV21 MAQEDONIA" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| GJENERAL",|AL| RTV21 MAQEDONIA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2446
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV21 Mix" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| GJENERAL",|AL| RTV21 Mix
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2223
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV21 Plus HD" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| GJENERAL",|AL| RTV21 Plus HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2221
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV21 Popullore" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| GJENERAL",|AL| RTV21 Popullore
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2222
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV21 TOKSOR" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| FILMA - SERIALE",|AL| RTV21 TOKSOR
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2447
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV FONTANA" tvg-logo="http://myking.best/ch_logo/rtvfontana.jpg" group-title="|ALB| FILMA - SERIALE",|AL| RTV FONTANA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/40146
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SKY KOMEDI" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| SKY KOMEDI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2341
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SKY MAX" tvg-logo="http://myking.best/ch_logo/skymax.png" group-title="|ALB| FILMA - SERIALE",|AL| SKY MAX
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2342
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SKY SHKENCE" tvg-logo="http://myking.best/ch_logo/digit_alb_explorer_shkence.png" group-title="|ALB| DOKUMENTAR",|AL| SKY SHKENCE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2338
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SMILE TV" tvg-logo="http://myking.best/ch_logo/SMILE.png" group-title="|ALB| FILMA - SERIALE",|AL| SMILE TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2313
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| STAR PLUS HD" tvg-logo="http://myking.best/ch_logo/starplus.png" group-title="|ALB| GJENERAL",|AL| STAR PLUS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2291
+#EXTINF:-1 tvg-id="sport1.al" tvg-name="|AL| SUPER SPORT 1 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2202
+#EXTINF:-1 tvg-id="sport2.al" tvg-name="|AL| SUPER SPORT 2 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 2 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2201
+#EXTINF:-1 tvg-id="sport3.al" tvg-name="|AL| SUPER SPORT 3 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 3 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2200
+#EXTINF:-1 tvg-id="sport4.al" tvg-name="|AL| SUPER SPORT 4 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 4 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2199
+#EXTINF:-1 tvg-id="sport5.al" tvg-name="|AL| SUPER SPORT 5 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 5 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2198
+#EXTINF:-1 tvg-id="sport6.al" tvg-name="|AL| SUPER SPORT 6 HD" tvg-logo="http://myking.best/ch_logo/SUPERSPORT-COLOUR1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT 6 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2197
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SUPER SPORT KOSOVA 1" tvg-logo="http://myking.best/ch_logo/supersportkosova1.png" group-title="|ALB| SPORT",|AL| SUPER SPORT KOSOVA 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2170
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SUPER SPORT KOSOVA 2" tvg-logo="http://myking.best/ch_logo/supersportkosovo2.png" group-title="|ALB| SPORT",|AL| SUPER SPORT KOSOVA 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2169
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| SYRI BLUE HD" tvg-logo="http://myking.best/ch_logo/syriblue.png" group-title="|ALB| FILMA - SERIALE",|AL| SYRI BLUE HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2334
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| T7" tvg-logo="data:image/jpeg;base64,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" group-title="|ALB| GJENERAL",|AL| T7
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/46082
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TEMA TV" tvg-logo="http://myking.best/ch_logo/tematv.jpg" group-title="|ALB| GJENERAL",|AL| TEMA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2217
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TIP TV" tvg-logo="http://myking.best/ch_logo/TipTV.png" group-title="|ALB| FEMIJE",|AL| TIP TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2206
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TIRANA TV" tvg-logo="http://myking.best/ch_logo/tirana.jpg" group-title="|ALB| GJENERAL",|AL| TIRANA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2321
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TOP ESTRADA TV" tvg-logo="http://myking.best/ch_logo/topestrada.png" group-title="|ALB| GJENERAL",|AL| TOP ESTRADA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2234
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TOP NEWS" tvg-logo="http://myking.best/ch_logo/Top-news-logo.png" group-title="|ALB| GJENERAL",|AL| TOP NEWS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2282
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING 3 PLUS" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING 3 PLUS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2379
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING KIDS" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FEMIJE",|AL| TRING KIDS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2207
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING LIFE" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING LIFE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2380
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING PLANET" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| DOKUMENTAR",|AL| TRING PLANET
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2326
+#EXTINF:-1 tvg-id="TringShqip" tvg-name="|AL| TRING SHQIP" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING SHQIP
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2384
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="|AL| TRING SPORT 1 HD" tvg-logo="http://myking.best/ch_logo/TRINGSPORT.png" group-title="|ALB| SPORT",|AL| TRING SPORT 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2191
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING SPORT 2 HD" tvg-logo="http://myking.best/ch_logo/TRINGSPORT.png" group-title="|ALB| SPORT",|AL| TRING SPORT 2 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2190
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="|AL| TRING SPORT 3 HD" tvg-logo="http://myking.best/ch_logo/TRINGSPORT.png" group-title="|ALB| SPORT",|AL| TRING SPORT 3 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2189
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING SPORT 4 HD" tvg-logo="http://myking.best/ch_logo/TRINGSPORT.png" group-title="|ALB| SPORT",|AL| TRING SPORT 4 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2188
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING SPORT NEWS HD" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| SPORT",|AL| TRING SPORT NEWS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2192
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING SUPER" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING SUPER
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2388
+#EXTINF:-1 tvg-id="TringTring" tvg-name="|AL| TRING TRING" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FEMIJE",|AL| TRING TRING
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2208
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING WORLD" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| DOKUMENTAR",|AL| TRING WORLD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2327
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TURBO CHANNEL TV" tvg-logo="http://myking.best/ch_logo/turbochannel.jfif" group-title="|ALB| MUZIKA",|AL| TURBO CHANNEL TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2227
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="|AL| TV DUKAGJINI HD" tvg-logo="http://myking.best/ch_logo/tvdukagjini.jpg" group-title="|ALB| GJENERAL",|AL| TV DUKAGJINI HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2304
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV SHARRI" tvg-logo="http://myking.best/ch_logo/tvsharri.jpg" group-title="|ALB| GJENERAL",|AL| TV SHARRI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2297
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="|AL| RTV21 HD" tvg-logo="http://myking.best/ch_logo/RTV21.png" group-title="|ALB| GJENERAL",|AL| RTV21 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2448
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| VIZION PLUS HD" tvg-logo="http://myking.best/ch_logo/Vizion_Plus.png" group-title="|ALB| GJENERAL",|AL| VIZION PLUS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2433
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ALBANIA TV CHICAGO HD" tvg-logo="http://myking.best/ch_logo/albaniatvchicago.jpg" group-title="|ALB| RAJONAL",|AL| ALBANIA TV CHICAGO HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56627
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ALBSWISS TV HD" tvg-logo="http://myking.best/ch_logo/Albswiss.jpg" group-title="|ALB| RAJONAL",|AL| ALBSWISS TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56618
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| DISNEY JUNIOR" tvg-logo="http://myking.best/ch_logo/DISNEYJUNIORHD.png" group-title="|ALB| FEMIJE",|AL| DISNEY JUNIOR
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56630
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| DRITA TV" tvg-logo="http://myking.best/ch_logo/dritatv.png" group-title="|ALB| RAJONAL",|AL| DRITA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56637
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| EURO-FILM" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| EURO-FILM
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56622
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ISTOGU CHANNEL HD" tvg-logo="http://myking.best/ch_logo/istogutv.png" group-title="|ALB| RAJONAL",|AL| ISTOGU CHANNEL HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56636
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KIDS" tvg-logo="http://myking.best/ch_logo/kids-albania-3-trasp.png" group-title="|ALB| FEMIJE",|AL| KIDS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56614
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KLAN MAQEDONIA HD" tvg-logo="http://myking.best/ch_logo/klanmacedonia.png" group-title="|ALB| GJENERAL",|AL| KLAN MAQEDONIA HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56615
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| LIRIA TV" tvg-logo="http://myking.best/ch_logo/Music.png" group-title="|ALB| RAJONAL",|AL| LIRIA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56617
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| PRESHEVA RTV" tvg-logo="http://myking.best/ch_logo/rtpal.jpg" group-title="|ALB| RAJONAL",|AL| PRESHEVA RTV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56626
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV ILIRIDA" tvg-logo="http://myking.best/ch_logo/tvnew_rtvilirida.png" group-title="|ALB| FILMA - SERIALE",|AL| RTV ILIRIDA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56624
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV SHENJA" tvg-logo="http://myking.best/ch_logo/TVShenja.png" group-title="|ALB| GJENERAL",|AL| TV SHENJA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56616
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ART SPORT 1 FHD" tvg-logo="http://myking.best/ch_logo/artsport.jpg" group-title="|ALB| SPORT",|AL| ART SPORT 1 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56638
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KANAL 10" tvg-logo="http://myking.best/ch_logo/kanal10.png" group-title="|ALB| GJENERAL",|AL| KANAL 10
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56660
+#EXTINF:-1 tvg-id="k-sport1.al" tvg-name="|AL| KUJTESA SPORT 1" tvg-logo="http://myking.best/ch_logo/kujtesa.png" group-title="|ALB| SPORT",|AL| KUJTESA SPORT 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56641
+#EXTINF:-1 tvg-id="k-sport2.al" tvg-name="|AL| KUJTESA SPORT 2" tvg-logo="http://myking.best/ch_logo/kujtesa.png" group-title="|ALB| SPORT",|AL| KUJTESA SPORT 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56642
+#EXTINF:-1 tvg-id="k-sport3.al" tvg-name="|AL| KUJTESA SPORT 3" tvg-logo="http://myking.best/ch_logo/kujtesa.png" group-title="|ALB| SPORT",|AL| KUJTESA SPORT 3
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56643
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| MEDINNA TV" tvg-logo="http://myking.best/ch_logo/medine_tv_tr.png" group-title="|ALB| FILMA - SERIALE",|AL| MEDINNA TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56649
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| MEKKE TV" tvg-logo="http://myking.best/ch_logo/KABETV.png" group-title="|ALB| FILMA - SERIALE",|AL| MEKKE TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56650
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV BESA" tvg-logo="http://myking.best/ch_logo/besatv.jpg" group-title="|ALB| FILMA - SERIALE",|AL| TV BESA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56661
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV ROZAFA" tvg-logo="http://myking.best/ch_logo/tvrozafa.png" group-title="|ALB| RAJONAL",|AL| TV ROZAFA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56645
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ZJARR TV" tvg-logo="http://myking.best/ch_logo/ZjarrTV.jpg" group-title="|ALB| RAJONAL",|AL| ZJARR TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56647
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| ARTA NEWS HD" tvg-logo="http://myking.best/ch_logo/tvnew_arta.png" group-title="|ALB| GJENERAL",|AL| ARTA NEWS HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56665
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KANAL D DRAMA HD" tvg-logo="http://myking.best/ch_logo/Kanal_D_Drama.png" group-title="|ALB| FILMA - SERIALE",|AL| KANAL D DRAMA HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56662
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| RTV SHARRI HD" tvg-logo="http://myking.best/ch_logo/RTVSharri.jpg" group-title="|ALB| RAJONAL",|AL| RTV SHARRI HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56667
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TDC" tvg-logo="http://myking.best/ch_logo/2560px-TDC.svg.png" group-title="|ALB| FILMA - SERIALE",|AL| TDC
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56663
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TV KOHA TELOV" tvg-logo="http://myking.best/ch_logo/kogatetov.jpg" group-title="|ALB| RAJONAL",|AL| TV KOHA TELOV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56666
+#EXTINF:-1 tvg-id="Film Aksion" tvg-name="|AL| FILM AKSION" tvg-logo="http://myking.best/ch_logo/sky aksion.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM AKSION
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2408
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FILM AUTOR" tvg-logo="http://myking.best/ch_logo/film_autor_logo.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM AUTOR
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2397
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| FILM DRAME" tvg-logo="http://myking.best/ch_logo/filmDrame.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM DRAME
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2398
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| DIGI GOLD 2" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| DIGI GOLD 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2419
+#EXTINF:-1 tvg-id="Film Hits  +1" tvg-name="|AL| FILM HITS" tvg-logo="http://myking.best/ch_logo/Film-Hits.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM HITS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2400
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="|AL| FILM JUNIOR TV" tvg-logo="http://myking.best/ch_logo/junior-logo.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM JUNIOR TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2212
+#EXTINF:-1 tvg-id="Film Komedi" tvg-name="|AL| FILM KOMEDI" tvg-logo="http://myking.best/ch_logo/FILMKOMEDI (1).png" group-title="|ALB| FILMA - SERIALE",|AL| FILM KOMEDI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2405
+#EXTINF:-1 tvg-id="Film Nje HD" tvg-name="|AL| FILM NJE HD" tvg-logo="http://myking.best/ch_logo/Film-Nje-HD.png" group-title="|ALB| FILMA - SERIALE",|AL| FILM NJE HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2404
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="|AL| FILM THRILLER" tvg-logo="" group-title="|ALB| FILMA - SERIALE",|AL| FILM THRILLER
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2406
+#EXTINF:-1 tvg-id="TringAction" tvg-name="|AL| TRING ACTION" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING ACTION
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2387
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING COMEDY" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING COMEDY
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2385
+#EXTINF:-1 tvg-id="TringFantasy" tvg-name="|AL| TRING FANTAZI" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| FILMA - SERIALE",|AL| TRING FANTAZI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2386
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING HISTORI" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| DOKUMENTAR",|AL| TRING HISTORI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2329
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| TRING WORLD" tvg-logo="http://myking.best/ch_logo/tring-468x144.png" group-title="|ALB| DOKUMENTAR",|AL| TRING WORLD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/2219
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA AKSION" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA AKSION
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56651
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMAX MAX" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMAX MAX
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56652
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA ANIMATION" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA ANIMATION
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56659
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA CLASSICS" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA CLASSICS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56653
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA COMEDY" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA COMEDY
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56654
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA FAMILY" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA FAMILY
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56655
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| KINEMA FANTASY" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| KINEMA FANTASY
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/56656
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| 8OVA GJURME SHQIPTARE HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| 8OVA GJURME SHQIPTARE HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/57238
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| 8OVA KOMEDI HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| 8OVA KOMEDI HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/57237
+#EXTINF:-1 tvg-id="NULL" tvg-name="|AL| 8OVA THRILLER HD" tvg-logo="http://myking.best/ch_logo/FILM.png" group-title="|ALB| FILMA - SERIALE",|AL| 8OVA THRILLER HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/57235
+#EXTINF:-1 tvg-id="" tvg-name="|--- GERMANY ---|" tvg-logo="http://myking.best/ch_logo/220px-Flag_of_Germany.svg.png" group-title="|DE| DEUTSCHLAND",|--- GERMANY ---|
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3900
+#EXTINF:-1 tvg-id="arte.de" tvg-name="|DE| ARTE FHD/HD" tvg-logo="http://myking.best/ch_logo/ARTEHD.png" group-title="|DE| KULTUR",|DE| ARTE FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3876
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="|DE| PROSIEBEN HD/FHD" tvg-logo="http://myking.best/ch_logo/PROSIEBENHD.png" group-title="|DE| DEUTSCHLAND",|DE| PROSIEBEN HD/FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3881
+#EXTINF:-1 tvg-id="ard.de" tvg-name="|DE| DAS ERSTE FHD/HD" tvg-logo="http://myking.best/ch_logo/DASERSTE(ARD).png" group-title="|DE| DEUTSCHLAND",|DE| DAS ERSTE FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3879
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="|DE| ZDF FHD" tvg-logo="http://myking.best/ch_logo/ZDFHD.png" group-title="|DE| DEUTSCHLAND",|DE| ZDF FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3889
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="|DE| RTL PASSION FHD/HD" tvg-logo="http://myking.best/ch_logo/RTLPASSIONHD.png" group-title="|DE| DEUTSCHLAND",|DE| RTL PASSION FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3871
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="|DE| SAT.1 GOLD FHD/HD" tvg-logo="http://myking.best/ch_logo/SAT1GOLDHD.png" group-title="|DE| DEUTSCHLAND",|DE| SAT.1 GOLD FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3870
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="|DE| WARNER FILM FHD/HD" tvg-logo="http://myking.best/ch_logo/TNTFILM.png" group-title="|DE| KINO",|DE| WARNER FILM FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3869
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="|DE| WARNER SERIE HD" tvg-logo="http://myking.best/ch_logo/TNTSERIEHD.png" group-title="|DE| KINO",|DE| WARNER SERIE HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3868
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="|DE| SKY ATLANTIC FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYATLANTICHD.png" group-title="|DE| KINO",|DE| SKY ATLANTIC FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3859
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="|DE| SKY CINEMA ACTION FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYCINEMAACTIONHD.png" group-title="|DE| KINO",|DE| SKY CINEMA ACTION FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3858
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="|DE| SKY KRIMI FHD" tvg-logo="http://myking.best/ch_logo/SKYKRIMI.png" group-title="|DE| KINO",|DE| SKY KRIMI FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3857
+#EXTINF:-1 tvg-id="fox.de" tvg-name="|DE| SKY REPLAY" tvg-logo="http://myking.best/ch_logo/FOXHD.png" group-title="|DE| KINO",|DE| SKY REPLAY
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3878
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="|DE| WARNER SERIE FHD/HD" tvg-logo="http://myking.best/ch_logo/FOXSERIE.png" group-title="|DE| KINO",|DE| WARNER SERIE FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3867
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="|DE| SAT.1 FHD/HD" tvg-logo="http://myking.best/ch_logo/SAT1HD.png" group-title="|DE| DEUTSCHLAND",|DE| SAT.1 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3884
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="|DE| KABEL EINS FHD/HD" tvg-logo="http://myking.best/ch_logo/KABELEINS.png" group-title="|DE| DEUTSCHLAND",|DE| KABEL EINS FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3880
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="|DE| 13TH STREET FHD/HD" tvg-logo="http://myking.best/ch_logo/13THSTREETHD.png" group-title="|DE| KINO",|DE| 13TH STREET FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3866
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="|DE| 3SAT FHD/HD" tvg-logo="http://myking.best/ch_logo/3SAT.png" group-title="|DE| DEUTSCHLAND",|DE| 3SAT FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3877
+#EXTINF:-1 tvg-id="vox.de" tvg-name="|DE| VOX FHD/HD" tvg-logo="http://myking.best/ch_logo/VOXHD.png" group-title="|DE| DEUTSCHLAND",|DE| VOX FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3888
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="|DE| SKY CINEMA PREMIEREN" tvg-logo="http://myking.best/ch_logo/SKYCINEMAHD.png" group-title="|DE| KINO",|DE| SKY CINEMA PREMIEREN
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3856
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="|DE| SKY CINEMA THRILLER" tvg-logo="http://myking.best/ch_logo/SKYCINEMA+1HD.png" group-title="|DE| KINO",|DE| SKY CINEMA THRILLER
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3852
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="|DE| SKY CINEMA PREMIEREN +24 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYCINEMA+24HD.png" group-title="|DE| KINO",|DE| SKY CINEMA PREMIEREN +24 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3853
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="|DE| SKY CINEMA FAMILY FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYCINEMAFAMILYHD.png" group-title="|DE| KINO",|DE| SKY CINEMA FAMILY FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3855
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="|DE| SKY CINEMA FUN" tvg-logo="http://myking.best/ch_logo/SKYCINEMACOMEDY.jpg" group-title="|DE| KINO",|DE| SKY CINEMA FUN
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3851
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="|DE| SKY CINEMA CLASSICS" tvg-logo="http://myking.best/ch_logo/SKYCINEMANOSTALGIE.png" group-title="|DE| KINO",|DE| SKY CINEMA CLASSICS
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3850
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="|DE| SPIEGEL GESCHICHTE FHD/HD" tvg-logo="http://myking.best/ch_logo/SPIEGELGESCHICHTE.png" group-title="|DE| KULTUR",|DE| SPIEGEL GESCHICHTE FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3865
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="|DE| SKY CINEMA CLASSICS FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYCINEMAEMOTION.png" group-title="|DE| KINO",|DE| SKY CINEMA CLASSICS FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3849
+#EXTINF:-1 tvg-id="classica.de" tvg-name="|DE| CLASSICA" tvg-logo="http://myking.best/ch_logo/CLASSICA.png" group-title="|DE| MUSIK",|DE| CLASSICA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3860
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="|DE| BOOMERANG" tvg-logo="http://myking.best/ch_logo/BOOMERANG.png" group-title="|DE| KINDER",|DE| BOOMERANG
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3841
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="|DE| DISNEY CINEMAGIC FHD" tvg-logo="http://myking.best/ch_logo/DISNEYCINEMAGIC.png" group-title="|DE| KINO",|DE| DISNEY CINEMAGIC FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3844
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="|DE| DISNEY CHANNEL FHD/HD" tvg-logo="http://myking.best/ch_logo/DISNEYCHANNELHD.png" group-title="|DE| KINDER",|DE| DISNEY CHANNEL FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3842
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DISNEY JUNIOR FHD/HD" tvg-logo="http://myking.best/ch_logo/DISNEYJUNIORHD.png" group-title="|DE| KINDER",|DE| DISNEY JUNIOR FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3843
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="|DE| CARTOON NETWORK FHD/HD/SD" tvg-logo="http://myking.best/ch_logo/CARTOONNETWORK.png" group-title="|DE| KINDER",|DE| CARTOON NETWORK FHD/HD/SD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9304
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="|DE| DISNEY XD" tvg-logo="http://myking.best/ch_logo/DISNEYXDHD.png" group-title="|DE| KINDER",|DE| DISNEY XD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9303
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="|DE| HEIMATKANAL" tvg-logo="http://myking.best/ch_logo/HEIMATKANAL.png" group-title="|DE| DEUTSCHLAND",|DE| HEIMATKANAL
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3864
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="|DE| NITRO FHD/HD" tvg-logo="http://myking.best/ch_logo/RTLNITRO.png" group-title="|DE| DEUTSCHLAND",|DE| NITRO FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3872
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="|DE| SUPER RTL FHD/HD" tvg-logo="http://myking.best/ch_logo/SUPERRTL.png" group-title="|DE| DEUTSCHLAND",|DE| SUPER RTL FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3885
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="|DE| RTL FHD/HD" tvg-logo="http://myking.best/ch_logo/RTLHD.png" group-title="|DE| DEUTSCHLAND",|DE| RTL FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3887
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="|DE| RTL 2 FHD/HD" tvg-logo="http://myking.best/ch_logo/RTL2HD.png" group-title="|DE| DEUTSCHLAND",|DE| RTL 2 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3886
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="|DE| RTL CRIME FHD/HD" tvg-logo="http://myking.best/ch_logo/RTLCRIMEHD.png" group-title="|DE| DEUTSCHLAND",|DE| RTL CRIME FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3873
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="|DE| PRO 7 MAXX FHD/HD" tvg-logo="http://myking.best/ch_logo/PROSIEBENMAXXHD.png" group-title="|DE| DEUTSCHLAND",|DE| PRO 7 MAXX FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3883
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="|DE| PROSIEBEN FHD/HD" tvg-logo="http://myking.best/ch_logo/PROSIEBENHD.png" group-title="|DE| DEUTSCHLAND",|DE| PROSIEBEN FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9307
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="|DE| RTL NITRO HD" tvg-logo="http://myking.best/ch_logo/RTLNITRO.png" group-title="|DE| DEUTSCHLAND",|DE| RTL NITRO HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9308
+#EXTINF:-1 tvg-id="WDR" tvg-name="|DE| WDR FHD/HD" tvg-logo="http://myking.best/ch_logo/WDRAACHENHD.png" group-title="|DE| DEUTSCHLAND",|DE| WDR FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9305
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="|DE| N-TV HD" tvg-logo="http://myking.best/ch_logo/NTV.png" group-title="|DE| DEUTSCHLAND",|DE| N-TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9301
+#EXTINF:-1 tvg-id="welt.de" tvg-name="|DE| N24 FHD/HD" tvg-logo="http://myking.best/ch_logo/N24.png" group-title="|DE| DEUTSCHLAND",|DE| N24 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9302
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| TOGGO PLUS FHD/HD" tvg-logo="http://myking.best/ch_logo/TOGGOPLUS.png" group-title="|DE| KINDER",|DE| TOGGO PLUS FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3863
+#EXTINF:-1 tvg-id="E! Entertainm. HD" tvg-name="|DE| E! ENTERTAINMENT FHD/HD" tvg-logo="http://myking.best/ch_logo/e!.png" group-title="|DE| KULTUR",|DE| E! ENTERTAINMENT FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9300
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="|DE| NAT GEO WILD FHD/HD" tvg-logo="http://myking.best/ch_logo/NGCWILDHD.png" group-title="|DE| KULTUR",|DE| NAT GEO WILD FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3846
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="|DE| NAT GEO FHD/HD" tvg-logo="http://myking.best/ch_logo/NATGEO.png" group-title="|DE| KULTUR",|DE| NAT GEO FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3847
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="|DE| DISCOVERY CHANNEL FHD/HD" tvg-logo="http://myking.best/ch_logo/DISCOVERYCHANNELHDPLUS.png" group-title="|DE| KULTUR",|DE| DISCOVERY CHANNEL FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3845
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="|DE| POPCORN SELECT 1 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSELECTHD.png" group-title="|DE| KINO",|DE| POPCORN SELECT 1 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3840
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="|DE| POPCORN SELECT 2 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSELECTHD.png" group-title="|DE| KINO",|DE| POPCORN SELECT 2 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3839
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="|DE| POPCORN SELECT 3 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSELECTHD.png" group-title="|DE| KINO",|DE| POPCORN SELECT 3 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3838
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="|DE| POPCORN SELECT 4 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSELECTHD.png" group-title="|DE| KINO",|DE| POPCORN SELECT 4 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3837
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="|DE| POPCORN SELECT 5 FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSELECTHD.png" group-title="|DE| KINO",|DE| POPCORN SELECT 5 FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3836
+#EXTINF:-1 tvg-id="NULL" tvg-name="|DE| EUROSPORT 1 *  FHD/HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT1HD.png" group-title="|DE| SPORT",|DE| EUROSPORT 1 *  FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9529
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="|DE| EUROSPORT 2 *  FHD/HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT2HD.png" group-title="|DE| SPORT",|DE| EUROSPORT 2 *  FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9530
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="|DE| EUROSPORT 2 EXTRA FHD/HD" tvg-logo="http://myking.best/ch_logo/EUROSPORT2XTRAHD.png" group-title="|DE| SPORT",|DE| EUROSPORT 2 EXTRA FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9531
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="|DE| SKY SPORT NEWS FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSPORTNEWSHD.png" group-title="|DE| SPORT",|DE| SKY SPORT NEWS FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3899
+#EXTINF:-1 tvg-id="" tvg-name="|AT| SKY SPORT AUSTRIA FHD/HD" tvg-logo="http://myking.best/ch_logo/SKYSPORTAUSTRIA.png" group-title="|AT| AUSTRIA",|AT| SKY SPORT AUSTRIA FHD/HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3897
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1" tvg-name="|DE| SKY SELECT 1" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA1FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3895
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2" tvg-name="|DE| SKY SELECT 2" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA2FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3894
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3" tvg-name="|DE| SKY SELECT 3" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA3FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 3
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3893
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4" tvg-name="|DE| SKY SELECT 4" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA4FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 4
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3892
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 5" tvg-name="|DE| SKY SELECT 5" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA5FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 5
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3891
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 6" tvg-name="|DE| SKY SELECT 6" tvg-logo="http://myking.best/ch_logo/SKYBUNDESLIGA6FHD.png" group-title="|DE| KINO",|DE| SKY SELECT 6
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/3890
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="|DE| MOTORVISION TV" tvg-logo="http://myking.best/ch_logo/MOTORVISION.png" group-title="|DE| SPORT",|DE| MOTORVISION TV
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/9299
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4" tvg-logo="http://trkst.detr.xyz:80/images/ykyB2rSmdVvOcYfl5E2jyrnTFiuagGyHk0PDH-hyo_10ubp1a-cffpPcMIZmSeks9_hnLPH1kPIfyD1LN4MHG-dlscYbcGH9oP4GJq5TPgk.png" group-title="|TR| SPOR",|TR| BEIN SPORTS 4
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/441863
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS 3" tvg-logo="http://trkst.detr.xyz:80/images/ykyB2rSmdVvOcYfl5E2jyrnTFiuagGyHk0PDH-hyo_0_NuRyTTBcwpxK7wOCXCwr6iHEJJtJhVL8xYRdBAdOfEoN1bEFeGs-czbw8QLqcPE.png" group-title="|TR| SPOR",|TR| BEINSPORTS 3
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/441862
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS 2" tvg-logo="http://trkst.detr.xyz:80/images/ykyB2rSmdVvOcYfl5E2jyrnTFiuagGyHk0PDH-hyo_1gwbZw6JVzzHcbPOH_yv7JigtIzCX81ecRdeQvUvoTtkJDRqO1tGq7hOAvI3tgXBA.png" group-title="|TR| SPOR",|TR| BEINSPORTS 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/441861
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS 1" tvg-logo="http://trkst.detr.xyz:80/images/ykyB2rSmdVvOcYfl5E2jyrnTFiuagGyHk0PDH-hyo_0qJvN-lf2m9mgiBzSyxYj5cntReNPt_J-FGYGBxW8uWaT5MdrdGpwnOY7-5PrVaFU.png" group-title="|TR| SPOR",|TR| BEINSPORTS 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/441860
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS KEMAL SUNAL" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS KEMAL SUNAL
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/339335
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS YESILCAM" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS YESILCAM
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/339334
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS ANiMASYON" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| COCUK",|TR| BOSS ANiMASYON
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/339333
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MASHA iLE KOCA AYI" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| COCUK",|TR| BOSS MASHA iLE KOCA AYI
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/339332
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS PEPEE" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| COCUK",|TR| BOSS PEPEE
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/339331
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS NiLOYA" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| COCUK",|TR| BOSS NiLOYA
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/309941
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 10" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 10
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/309940
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 9" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 9
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/309939
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 8" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 8
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/309938
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 7" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 7
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/307505
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 6" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 6
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/307504
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 5" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 5
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/306899
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 4" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 4
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/306898
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 3" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 3
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/306897
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 2" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 2
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/306896
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 1" tvg-logo="http://myking.best/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA",|TR| BOSS MOVIES 1
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/306895
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV FHD" tvg-logo="http://myking.best/ch_logo/ATVHDPLUS.png" group-title="|TR| ULUSAL",|TR| ATV FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1779
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV HD" tvg-logo="http://myking.best/ch_logo/ATVHDPLUS.png" group-title="|TR| ULUSAL",|TR| ATV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1778
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D FHD" tvg-logo="http://myking.best/ch_logo/KANALD.png" group-title="|TR| ULUSAL",|TR| KANAL D FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1777
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D HD" tvg-logo="http://myking.best/ch_logo/KANALD.png" group-title="|TR| ULUSAL",|TR| KANAL D HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1776
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV FHD" tvg-logo="http://myking.best/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| ULUSAL",|TR| STAR TV FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1775
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV HD" tvg-logo="http://myking.best/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| ULUSAL",|TR| STAR TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1774
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV FHD" tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="|TR| ULUSAL",|TR| SHOW TV FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1773
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV HD" tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="|TR| ULUSAL",|TR| SHOW TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1772
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 FHD" tvg-logo="http://myking.best/ch_logo/TRT1HD.png" group-title="|TR| ULUSAL",|TR| TRT 1 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1771
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://myking.best/ch_logo/TRT1HD.png" group-title="|TR| ULUSAL",|TR| TRT 1 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1770
+#EXTINF:-1 tvg-id="now.tr" tvg-name="|TR| NOW TV FHD" tvg-logo="http://myking.best/ch_logo/nowTv.png" group-title="|TR| ULUSAL",|TR| NOW TV FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1769
+#EXTINF:-1 tvg-id="now.tr" tvg-name="|TR| NOW TV HD" tvg-logo="http://myking.best/ch_logo/nowTv.png" group-title="|TR| ULUSAL",|TR| NOW TV HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1768
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 FHD" tvg-logo="http://myking.best/ch_logo/TV8HDPLUS.png" group-title="|TR| ULUSAL",|TR| TV8 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1767
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 HD" tvg-logo="http://myking.best/ch_logo/TV8HDPLUS.png" group-title="|TR| ULUSAL",|TR| TV8 HD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1766
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 FHD" tvg-logo="http://myking.best/ch_logo/TV8.5HD.png" group-title="|TR| ULUSAL",|TR| TV 8.5 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1765
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 FHD" tvg-logo="http://myking.best/ch_logo/Teve2_logo.png" group-title="|TR| ULUSAL",|TR| TEVE 2 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1764
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 FHD" tvg-logo="http://myking.best/ch_logo/a2tv-logo.png" group-title="|TR| ULUSAL",|TR| A2 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1763
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ TV FHD" tvg-logo="http://myking.best/ch_logo/BEYAZHDPLUS.png" group-title="|TR| ULUSAL",|TR| BEYAZ TV FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37457
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="|TR| KANAL 7 FHD" tvg-logo="http://myking.best/ch_logo/KANAL7.png" group-title="|TR| ULUSAL",|TR| KANAL 7 FHD
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/1762
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 H265" tvg-logo="http://myking.best/ch_logo/a2tv-logo.png" group-title="|TR| ULUSAL HEVC/4K",|TR| A2 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37065
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV H265" tvg-logo="http://myking.best/ch_logo/ATVHDPLUS.png" group-title="|TR| ULUSAL HEVC/4K",|TR| ATV H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37057
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ TV H265" tvg-logo="http://myking.best/ch_logo/BEYAZHDPLUS.png" group-title="|TR| ULUSAL HEVC/4K",|TR| BEYAZ TV H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37064
+#EXTINF:-1 tvg-id="now.tr" tvg-name="|TR| NOW TV H265" tvg-logo="http://myking.best/ch_logo/nowTv.png" group-title="|TR| ULUSAL HEVC/4K",|TR| NOW TV H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37061
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="|TR| KANAL 7 H265" tvg-logo="http://myking.best/ch_logo/KANAL7.png" group-title="|TR| ULUSAL HEVC/4K",|TR| KANAL 7 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37066
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D H265" tvg-logo="http://myking.best/ch_logo/KANALD.png" group-title="|TR| ULUSAL HEVC/4K",|TR| KANAL D H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37060
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV H265" tvg-logo="http://myking.best/ch_logo/SHOWHD.png" group-title="|TR| ULUSAL HEVC/4K",|TR| SHOW TV H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37059
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV H265" tvg-logo="http://myking.best/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| ULUSAL HEVC/4K",|TR| STAR TV H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37058
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 H265" tvg-logo="http://myking.best/ch_logo/TRT1HD.png" group-title="|TR| ULUSAL HEVC/4K",|TR| TRT 1 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37055
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="|TR| TRT 2 H265" tvg-logo="http://myking.best/ch_logo/2880px-TRT_2_logo.svg.png" group-title="|TR| ULUSAL HEVC/4K",|TR| TRT 2 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37056
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 H265" tvg-logo="http://myking.best/ch_logo/TV8.5HD.png" group-title="|TR| ULUSAL HEVC/4K",|TR| TV 8.5 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37063
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 H265" tvg-logo="http://myking.best/ch_logo/TV8HDPLUS.png" group-title="|TR| ULUSAL HEVC/4K",|TR| TV8 H265
+http://test.satlok.club:80/AaaMiiiGoooTrrree/eCfAKhYWxrF9u2BE/37062
 #EXTINF:-1 tvg-id="Superstar 2.al" tvg-name="ALB- SUPER SPORT 2 FHD" tvg-logo="http://go4.pw/ALBANIA/S2 .png" group-title="EU | ALB | SPORT",ALB SUPER SPORT 2 FHD 
 http://goldenpro.xyz:80/ArianitHaxhiu/96BTC46/762534
 #EXTINF:-1 tvg-id="" tvg-name="ALB SUPER SPORT 2 HD" tvg-logo="http://go pw/ALBANIA/S2.png" group-title="EU | ALB| SPORT",ALB- SUPER SPORT 2 HD 
