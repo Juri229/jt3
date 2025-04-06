@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL
-FERMA 1 VIP" tvg-logo="https://lo1.in/alb
-/Ferma.png" group-title="Big Brother",AL FERMA 1 VIP
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Ferma vip 1
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401622595
-#EXTINF:-1 tvg-id="" tvg-name="AL
-FERMA 1 VIP [BK]" tvg-logo="https://
-lo1.in/alb/Ferma.png" group-title="Big Brother",AL FERMA 1 VIP
-[BK]
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Ferma vip 1
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401624096
-#EXTINF:-1 tvg-id="" tvg-name="AL|
-FERMA 2 VIP" tvg-logo="https://lo1.in/alb
-/Ferma.png" group-title="Big Brother",AL| FERMA 2 VIP
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Ferma vip 2
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401622596
-#EXTINF:-1 tvg-id="" tvg-name="AL
-FERMA 2 VIP [BK]" tvg-logo="https://
-lo1.in/alb/Ferma.png" group-title="Big Brother",AL| FERMA 2 VIP
-[BK]
+#EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Ferma vip 2
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401624097
 #EXTINF:-1 tvg-id="" tvg-name="Big Brother new1" tvg-logo="https://bigbrothervip.top-channel.tv/wp-content/uploads/2024/10/bbv4.jpg" group-title="Big Brother",Big Brother new1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297206
