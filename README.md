@@ -7,6 +7,10 @@ http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401624096
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401622596
 #EXTINF:-1 tvg-id="" tvg-name="Ferma VIP 2" tvg-logo="https://sot.com.al/wp-content/uploads/2025/03/image-68.jpg" group-title="Big Brother",Ferma vip 2
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/401624097
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanal D Drama" tvg-logo="" group-title="★ ALBANIA-SHQIP ",AL: Kanal D Drama
+http://biovideonew.hopto.org:85/AlwahaNasko42/82XMGZBI5y/49822
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3 Plus" tvg-logo="" group-title="★ ALBANIA-SHQIP ",AL: TRING 3 Plus
+http://biovideonew.hopto.org:85/AlwahaNasko42/82XMGZBI5y/287
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR | ATV? HD" tvg-logo="http://xplatinmedia.com:8080/images/1094baee38b0897b1fc3b232501b2c31.png" group-title="★ ALBANIA-SHQIP",TR | ATV? HD
 http://xplatinmedia.com:8080/@BenStream3/gdfkgkjdnjfMzCwkbQsHyAt/380
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR | Kanal D? HD" tvg-logo="http://xplatinmedia.com:8080/images/05396097d1129c03a6b67dae6d0db433.png" group-title="★ ALBANIA-SHQIP",TR | Kanal D? HD
