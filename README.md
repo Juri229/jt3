@@ -1,5 +1,9 @@
 #EXTINF:-1 tvg-ID="" tvg-name="########## ALBANIA GENERAL CHANNELS ###########################" tvg-logo="" group-title="AL |",########## ALBANIA GENERAL CHANNELS ###########################
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18878
+#EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 1" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 1
+http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19418
+#EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 2" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 2
+http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19419
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Top Channel" tvg-logo="" group-title="AL |",ALB: Top Channel
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18879
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Klan TV" tvg-logo="" group-title="AL |",ALB: Klan TV
