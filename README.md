@@ -4,6 +4,10 @@ http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18878
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19418
 #EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 2" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 2
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19419
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AL |",AL: Big Brother 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/297206
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AL |",AL: Big Brother 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/297207
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Top Channel" tvg-logo="" group-title="AL |",ALB: Top Channel
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18879
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Klan TV" tvg-logo="" group-title="AL |",ALB: Klan TV
