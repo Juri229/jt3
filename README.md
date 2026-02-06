@@ -1,5 +1,14 @@
 #EXTINF:-1 tvg-ID="" tvg-name="########## ALBANIA GENERAL CHANNELS ###########################" tvg-logo="" group-title="AL |",########## ALBANIA GENERAL CHANNELS ###########################
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18878
+http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1874.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 1" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 1
+http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2593.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 2" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 2
+http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2594.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 1" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 1
+http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 2" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 2
+http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1750.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 1" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 1
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19418
 #EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 2" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 2
