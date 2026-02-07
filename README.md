@@ -1,22 +1,16 @@
 #EXTINF:-1 tvg-ID="" tvg-name="########## ALBANIA GENERAL CHANNELS ###########################" tvg-logo="" group-title="AL |",########## ALBANIA GENERAL CHANNELS ###########################
-http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18878
-http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1874.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 1" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 1
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 1" tvg-logo="" group-title="AL |",ALB: BB VIP Kosova 1
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2593.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 2" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 2
+#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 2" tvg-logo="" group-title="AL |",ALB: BB VIP Kosova 2
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2594.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 1" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 1
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 1" tvg-logo="" group-title="AL |",ALB: Big Brother VIP 1
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1749.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 2" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 2
+#EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 2" tvg-logo="" group-title="AL |",ALB: Big Brother VIP 2
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1750.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 1" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 1
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19418
 #EXTINF:-1 tvg-ID="" tvg-name="Big Brother VIP Kosova 2" tvg-logo="" group-title="AL |",Big Brother VIP Kosova 2
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/19419
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AL |",AL: Big Brother 1
-http://media:nu6lw0tR2troW9lfEmi@62.162.115.37:7212/BB1AL
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AL |",AL: Big Brother 2
-http://media:nu6lw0tR2troW9lfEmi@62.162.115.37:7213/BB2AL
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Top Channel" tvg-logo="" group-title="AL |",ALB: Top Channel
 http://martin83.xyz:8000/VIMUI7/cr83sRtpW4Zy/18879
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: Klan TV" tvg-logo="" group-title="AL |",ALB: Klan TV
