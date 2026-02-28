@@ -1,9 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="######## DigitAlb--SAT ########" tvg-logo="" group-title="Albani",######## DigitAlb--SAT ########
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1874.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 1" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 1
-http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2593.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALB: BB VIP Kosova 2" tvg-logo="" group-title="Albani",ALB: BB VIP Kosova 2
-http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/2594.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 1" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 1
 http://195.201.145.151:8080/PremiumBro/ZHyrLQZwQEqR/1749.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALB: Big Brother VIP 2" tvg-logo="" group-title="Albani",ALB: Big Brother VIP 2
