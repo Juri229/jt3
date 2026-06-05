@@ -1,4 +1,1740 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="BHT.1.ba" tvg-name="EX-YU: BHT 1" tvg-logo="https://i.ibb.co/brx3yJz/BHT.png" group-title="Bosna i Hercegovina",EX-YU: BHT 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/2.ts
+#EXTINF:-1 timeshift="2" tvg-id="Federalna.TV.ba" tvg-name="EX-YU: Federalna TV" tvg-logo="https://i.ibb.co/TTJkZhf/FTV.png" group-title="Bosna i Hercegovina",EX-YU: Federalna TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Nova BH" tvg-logo="http://alwaha.us:20792/images/bedfaebdd152babb53ee1864d44d7d80.png" group-title="Bosna i Hercegovina",EX-YU: Nova BH
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4060.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Hayat FHD" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Hayat FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40013.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Hayat Folk" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Hayat Folk
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40149.ts
+#EXTINF:-1 tvg-id="Hayat.2.hr" tvg-name="EX-YU: Hayat 2" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Hayat 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40147.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Hayat Music" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Hayat Music
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40146.ts
+#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-name="EX-YU: Hayatovci" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Hayatovci
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40148.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Hayat Folk Box HD" tvg-logo="https://i.ibb.co/XxjfbdW/Hayat-Folk.png" group-title="Muzika",EX-YU: Hayat Folk Box HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/263.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Hayat 2 HD" tvg-logo="https://i.ibb.co/X732vjH/Hayat-2-Novi-logo-1.png" group-title="Bosna i Hercegovina",EX-YU: Hayat 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/8.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Hayat Music Box HD" tvg-logo="https://i.ibb.co/HHjNnMQ/Hayat-Music.png" group-title="Bosna i Hercegovina",EX-YU: Hayat Music Box HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/7.ts
+#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-name="EX-YU: Hayatovci HD" tvg-logo="https://i.ibb.co/BGx7cQm/Hayatovci.png" group-title="Dječji",EX-YU: Hayatovci HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/9.ts
+#EXTINF:-1 tvg-id="RTV USK HD.ba" tvg-name="EX-YU: TV USK" tvg-logo="https://i.ibb.co/jGLNmrp/USK-TV.png" group-title="Bosna i Hercegovina",EX-YU: TV USK
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3356.ts
+#EXTINF:-1 timeshift="2" tvg-id="TV.Sarajevo.HD.(BH).ba" tvg-name="EX-YU: TV Sarajevo" tvg-logo="https://i.ibb.co/vLkqJ56/TVSA.png" group-title="Bosna i Hercegovina",EX-YU: TV Sarajevo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/6.ts
+#EXTINF:-1 timeshift="2" tvg-id="Alfa.(Sarajevo).ba" tvg-name="EX-YU: Alfa TV Sarajevo" tvg-logo="https://i.ibb.co/hR6ZRS8/Alfa-TV.png" group-title="Bosna i Hercegovina",EX-YU: Alfa TV Sarajevo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5712.ts
+#EXTINF:-1 tvg-id="RTV.TK.ba" tvg-name="EX-YU: TK Tuzla" tvg-logo="https://i.ibb.co/5vCZdKz/TK.png" group-title="Bosna i Hercegovina",EX-YU: TK Tuzla
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/12.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: TV Igman" tvg-logo="https://i.ibb.co/LJBVDGX/MTV-Igman.png" group-title="Bosna i Hercegovina",EX-YU: TV Igman
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5.ts
+#EXTINF:-1 tvg-id="Posavina.TV.ba" tvg-name="EX-YU: TV Posavina" tvg-logo="http://alwaha.us:20792/images/82f008acf3f48f76721807ce291c96c1.png" group-title="Bosna i Hercegovina",EX-YU: TV Posavina
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10110.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: TV Herceg Bosna" tvg-logo="https://i.ibb.co/Qjfm2xJ/RTVHB.png" group-title="Bosna i Hercegovina",EX-YU: TV Herceg Bosna
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19784.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Makkah TV Live" tvg-logo="http://alwaha.us:20792/images/dbfced5076d13884323d6f756a2518c2.png" group-title="Bosna i Hercegovina",EX-YU: Makkah TV Live
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27426.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTV Islam HD" tvg-logo="https://i.ibb.co/pPwz2m5/RTV-Islam.png" group-title="Bosna i Hercegovina",EX-YU: RTV Islam HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27425.ts
+#EXTINF:-1 tvg-id="Dobra TV.ba" tvg-name="EX-YU: Dobra TV" tvg-logo="http://alwaha.us:20792/images/d3698209800f48c8881384b7cdbbda82.png" group-title="Bosna i Hercegovina",EX-YU: Dobra TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27424.ts
+#EXTINF:-1 tvg-id="ISLAMUK" tvg-name="EX-YU: Islam Channel" tvg-logo="http://www.tmsimg.com/assets/s103831_ll_h3_aa.png" group-title="Bosna i Hercegovina",EX-YU: Islam Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4034.ts
+#EXTINF:-1 tvg-id="TV5.(BH).ba" tvg-name="EX-YU: TV 5 Islam" tvg-logo="https://i.ibb.co/rkSkrjn/TV5-Islam.png" group-title="Bosna i Hercegovina",EX-YU: TV 5 Islam
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4062.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Slon Extra" tvg-logo="https://i.ibb.co/d2nS2Hd/Tv-Slon-Extra.png" group-title="Bosna i Hercegovina",EX-YU: TV Slon Extra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/140.ts
+#EXTINF:-1 tvg-id="Televizija.Hema.ba" tvg-name="EX-YU: Hema Tv" tvg-logo="https://i.ibb.co/Bf78znS/Hema-TV.png" group-title="Bosna i Hercegovina",EX-YU: Hema Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4064.ts
+#EXTINF:-1 tvg-id="Izvorna.TV.ba" tvg-name="EX-YU: Izvorna TV" tvg-logo="https://i.ibb.co/mNQ2d8P/Izvorna-TV.png" group-title="Muzika",EX-YU: Izvorna TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Glas Drine" tvg-logo="http://alwaha.us:20792/images/f0e7b0481bdbf0cf9ac62cd12da5ea73.png" group-title="Muzika",EX-YU: Glas Drine
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1697.ts
+#EXTINF:-1 timeshift="2" tvg-id="O.Kanal.HD.ba" tvg-name="EX-YU: O Kanal" tvg-logo="https://i.ibb.co/r4sWn9W/O-Kanal.png" group-title="Bosna i Hercegovina",EX-YU: O Kanal
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/18.ts
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="EX-YU: N1 BIH" tvg-logo="https://i.ibb.co/3Wcg4KJ/N1.png" group-title="Informativni",EX-YU: N1 BIH
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10.ts
+#EXTINF:-1 tvg-id="N1.HD.(BH)/(BIH).rs" tvg-name="EX-YU: N1 BIH" tvg-logo="https://i.ibb.co/3Wcg4KJ/N1.png" group-title="Bosna i Hercegovina",EX-YU: N1 BIH
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10.ts
+#EXTINF:-1 tvg-id="N1.HD.(HR)/(RS).rs" tvg-name="EX-YU: N1 HR" tvg-logo="http://alwaha.us:20792/images/caabfdb774a140beb4ba9b14cc90b5f6.png" group-title="Informativni",EX-YU: N1 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19786.ts
+#EXTINF:-1 tvg-id="N1.HD.(HR)/(RS).rs" tvg-name="EX-YU: N1 HR" tvg-logo="http://alwaha.us:20792/images/caabfdb774a140beb4ba9b14cc90b5f6.png" group-title="Hrvatska",EX-YU: N1 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19786.ts
+#EXTINF:-1 tvg-id="N1.HD.(RS).rs" tvg-name="EX-YU: N1 SR" tvg-logo="https://i.ibb.co/vcCfdrt/N1.png" group-title="Informativni",EX-YU: N1 SR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19785.ts
+#EXTINF:-1 tvg-id="N1.HD.(RS).rs" tvg-name="EX-YU: N1 SR" tvg-logo="https://i.ibb.co/vcCfdrt/N1.png" group-title="Srbija",EX-YU: N1 SR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19785.ts
+#EXTINF:-1 tvg-id="Alternativna.TV.ba" tvg-name="EX-YU: ATV" tvg-logo="https://i.ibb.co/HNB5pVy/ATV.png" group-title="Bosna i Hercegovina",EX-YU: ATV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16.ts
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="EX-YU: RTRS" tvg-logo="https://i.ibb.co/B6SQxcW/RTRSTV.png" group-title="Bosna i Hercegovina",EX-YU: RTRS
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/15.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: OBN" tvg-logo="https://i.ibb.co/FxkR13X/OBN.png" group-title="Bosna i Hercegovina",EX-YU: OBN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: BN BIH" tvg-logo="https://i.ibb.co/cbP6jBn/BN.png" group-title="Bosna i Hercegovina",EX-YU: BN BIH
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/20.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: BN Music" tvg-logo="http://alwaha.us:20792/images/6a519943fd8029ebd0cb26929a0281e4.png" group-title="Bosna i Hercegovina",EX-YU: BN Music
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TVM HD" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: TVM HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5017.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV1.HD.hr" tvg-name="EX-YU: HRT 1" tvg-logo="http://alwaha.us:20792/images/e39b540a33bd871e72ea5ed635c866ba.png" group-title="Hrvatska",EX-YU: HRT 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/25.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV2.HD.hr" tvg-name="EX-YU: HRT 2" tvg-logo="https://i.ibb.co/BfjP5qr/HRT2.png" group-title="Hrvatska",EX-YU: HRT 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV3.HD.hr" tvg-name="EX-YU: HRT 3" tvg-logo="https://i.ibb.co/DpyvNxd/HRT3.png" group-title="Hrvatska",EX-YU: HRT 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28.ts
+#EXTINF:-1 timeshift="2" tvg-id="HTV4.HD.hr" tvg-name="EX-YU: HRT 4" tvg-logo="http://alwaha.us:20792/images/8984a2bd4e34fbf5897b40f7897dc5fa.png" group-title="Hrvatska",EX-YU: HRT 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27.ts
+#EXTINF:-1 tvg-id="HTV1.HD.hr" tvg-name="EX-YU: HRT 1 HD" tvg-logo="https://i.ibb.co/Qp67y38/HRT1.png" group-title="Hrvatska",EX-YU: HRT 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16745.ts
+#EXTINF:-1 tvg-id="HTV2.HD.hr" tvg-name="EX-YU: HRT 2 HD" tvg-logo="http://alwaha.us:20792/images/21c9fc8a49abce97e655160f47f2f395.png" group-title="Hrvatska",EX-YU: HRT 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10111.ts
+#EXTINF:-1 tvg-id="HTV3.HD.hr" tvg-name="EX-YU: HRT 3 HD" tvg-logo="http://alwaha.us:20792/images/5302f6e9c413cf1eff6c9a3d2851e83e.png" group-title="Hrvatska",EX-YU: HRT 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16746.ts
+#EXTINF:-1 tvg-id="HTV4.HD.hr" tvg-name="EX-YU: HRT 4 HD" tvg-logo="http://alwaha.us:20792/images/8984a2bd4e34fbf5897b40f7897dc5fa.png" group-title="Hrvatska",EX-YU: HRT 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16747.ts
+#EXTINF:-1 timeshift="2" tvg-id="HRT5CR" tvg-name="EX-YU: HRT Int." tvg-logo="http://alwaha.us:20792/images/28610e9a00264b8cc0e64a7b456b51b1.png" group-title="Hrvatska",EX-YU: HRT Int.
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3323.ts
+#EXTINF:-1 tvg-id="Plava.Vinkovacka.hr" tvg-name="EX-YU: TV Vinkovacka" tvg-logo="http://alwaha.us:20792/images/35b58da0c6f1f7218ddb3179f20a6722.png" group-title="Hrvatska",EX-YU: TV Vinkovacka
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/130.ts
+#EXTINF:-1 tvg-id="Slavonska.TV.hr" tvg-name="EX-YU: TV Slavonska" tvg-logo="http://alwaha.us:20792/images/d3f0237779c2b9e8b55bb50e5453f6e0.png" group-title="Hrvatska",EX-YU: TV Slavonska
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/133.ts
+#EXTINF:-1 tvg-id="RTV.Banovina.hr" tvg-name="EX-YU: TV Banovina" tvg-logo="http://alwaha.us:20792/images/c4abb800112062bf2b55d385763c476d.png" group-title="Hrvatska",EX-YU: TV Banovina
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/134.ts
+#EXTINF:-1 tvg-id="Osjeèka.TV.hr" tvg-name="EX-YU: Tv Osjecka" tvg-logo="http://alwaha.us:20792/images/c4a877e3b631fb2dc0f4491fe3dd8dc4.png" group-title="Hrvatska",EX-YU: Tv Osjecka
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/132.ts
+#EXTINF:-1 tvg-id="VTV.Varazdin.hr" tvg-name="EX-YU: TV Varaždinska" tvg-logo="https://i.ibb.co/qpyXgh1/TV-Vara-dinska.png" group-title="Hrvatska",EX-YU: TV Varaždinska
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3361.ts
+#EXTINF:-1 tvg-id="Poljoprivredna TV (HR).hr" tvg-name="EX-YU: TV Poljoprivredna" tvg-logo="https://i.ibb.co/1RcHbk2/TV-Poljoprivredna.png" group-title="Hrvatska",EX-YU: TV Poljoprivredna
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3357.ts
+#EXTINF:-1 tvg-id="Slavonska.TV.hr" tvg-name="EX-YU: Slavonsko Brodska TV" tvg-logo="https://i.ibb.co/k5RNwMt/Slavonsko-Brodska-TV.png" group-title="Hrvatska",EX-YU: Slavonsko Brodska TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16661.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Jabuka" tvg-logo="https://i.ibb.co/KF7PBv3/Jabuka-TV.png" group-title="Hrvatska",EX-YU: TV Jabuka
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3358.ts
+#EXTINF:-1 tvg-id="TV.Jadran.hr" tvg-name="EX-YU: Tv Jadran" tvg-logo="http://alwaha.us:20792/images/94c73718ac6350ad7830a14d0f113f20.png" group-title="Hrvatska",EX-YU: Tv Jadran
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/9468.ts
+#EXTINF:-1 tvg-id="[AL] ART Sport 1.hr" tvg-name="EX-YU: Kanal Rijeka" tvg-logo="https://i.ibb.co/CMLBr3n/Kanal-Rijeka.png" group-title="Hrvatska",EX-YU: Kanal Rijeka
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3360.ts
+#EXTINF:-1 tvg-id="DIVA.hr" tvg-name="EY-YU: Diva Tv" tvg-logo="https://i.ibb.co/wwvz5Hw/Diva-TV.png" group-title="Hrvatska",EY-YU: Diva Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4032.ts
+#EXTINF:-1 timeshift="2" tvg-id="NOVA.S.HD.(RS).rs" tvg-name="EX-YU: Nova S" tvg-logo="https://i.ibb.co/cyqTh4h/Nova-S.png" group-title="Srbija",EX-YU: Nova S
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16659.ts
+#EXTINF:-1 tvg-id="Nova.TV.HD.hr" tvg-name="EX-YU: Nova TV" tvg-logo="http://alwaha.us:20792/images/23cf940cba77482efd0ba9f30e267753.png" group-title="Hrvatska",EX-YU: Nova TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/21.ts
+#EXTINF:-1 tvg-id="Nova.TV.HD.hr" tvg-name="EX-YU: Nova TV HD" tvg-logo="https://i.ibb.co/2k5G2Wv/Nova-TV-HR.png" group-title="Hrvatska",EX-YU: Nova TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5016.ts
+#EXTINF:-1 tvg-id="Doma.TV.HD.hr" tvg-name="EX-YU: Doma TV" tvg-logo="https://i.ibb.co/kMR9Zgh/Doma.png" group-title="Hrvatska",EX-YU: Doma TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/29.ts
+#EXTINF:-1 tvg-id="Doma.TV.HD.hr" tvg-name="EX-YU: Doma TV HD" tvg-logo="https://i.ibb.co/kMR9Zgh/Doma.png" group-title="Hrvatska",EX-YU: Doma TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10101.ts
+#EXTINF:-1 timeshift="3" tvg-id="RTL.HD.hr" tvg-name="EX-YU: RTL" tvg-logo="http://alwaha.us:20792/images/c14a1465bd6da28b596f7b9a443562ff.png" group-title="Hrvatska",EX-YU: RTL
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/22.ts
+#EXTINF:-1 tvg-id="RTL.2.HD.hr" tvg-name="EX-YU: RTL 2" tvg-logo="https://i.ibb.co/YXGvsNz/RTL-2-HR.png" group-title="Hrvatska",EX-YU: RTL 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/23.ts
+#EXTINF:-1 tvg-id="RTL.Living.hr" tvg-name="EX-YU: RTL Living" tvg-logo="https://i.ibb.co/NmQ9QyY/RTL-Living.png" group-title="Hrvatska",EX-YU: RTL Living
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/24.ts
+#EXTINF:-1 tvg-id="RTL.Kockica.HD.hr" tvg-name="EX-YU: RTL Kockica" tvg-logo="http://alwaha.us:20792/images/9a26357f60a30a62c84f48e2b83349f1.png" group-title="Hrvatska",EX-YU: RTL Kockica
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/262.ts
+#EXTINF:-1 tvg-id="RTL.Crime.hr" tvg-name="EX-YU: RTL Crime" tvg-logo="https://i.ibb.co/wgkY4g4/RTL-Crime.png" group-title="Hrvatska",EX-YU: RTL Crime
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1639.ts
+#EXTINF:-1 tvg-id="RTL.Passion.hr" tvg-name="EX-YU: RTL Passion" tvg-logo="http://alwaha.us:20792/images/0e39058d6ba1c22a07d1292b27e51ce7.png" group-title="Hrvatska",EX-YU: RTL Passion
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1662.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: CmC" tvg-logo="https://i.ibb.co/17PzjNF/CMC-TV.png" group-title="Muzika",EX-YU: CmC
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/55.ts
+#EXTINF:-1 tvg-id="Z1.hr" tvg-name="EX-YU: Z1" tvg-logo="https://i.ibb.co/tZ6YZyL/Z1.png" group-title="Bosna i Hercegovina",EX-YU: Z1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1698.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: B92" tvg-logo="http://alwaha.us:20792/images/5179618806e789959f8312fdc1c42954.png" group-title="Srbija",EX-YU: B92
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1978.ts
+#EXTINF:-1 tvg-id="RTS.1.HD.rs" tvg-name="EX-YU: RTS 1" tvg-logo="http://alwaha.us:20792/images/adab685e9663d11f30d92a865994b580.png" group-title="Srbija",EX-YU: RTS 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/30.ts
+#EXTINF:-1 tvg-id="RTS.1.HD.rs" tvg-name="EX-YU: RTS 1 HD" tvg-logo="http://alwaha.us:20792/images/adab685e9663d11f30d92a865994b580.png" group-title="Srbija",EX-YU: RTS 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/31.ts
+#EXTINF:-1 tvg-id="RTS.2.HD.rs" tvg-name="EX-YU: RTS 2 HD" tvg-logo="https://i.ibb.co/3CVGzgq/RTS2.png" group-title="Srbija",EX-YU: RTS 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/18271.ts
+#EXTINF:-1 tvg-id="RTS.2.HD.rs" tvg-name="EX-YU: RTS 2" tvg-logo="http://alwaha.us:20792/images/080a764648c5c4ad1e0146fe09b55939.png" group-title="Srbija",EX-YU: RTS 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/32.ts
+#EXTINF:-1 tvg-id="RTS.3.HD.rs" tvg-name="EX-YU: RTS 3" tvg-logo="https://i.ibb.co/5GXfmM0/RTS3.png" group-title="Srbija",EX-YU: RTS 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS Zivot" tvg-logo="http://alwaha.us:20792/images/e16a44eb487c0ec1048c397f69f8a9f2.png" group-title="Srbija",EX-YU: RTS Zivot
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10388.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS Drama" tvg-logo="http://alwaha.us:20792/images/f866a20082c7549169ebae839de43014.png" group-title="Srbija",EX-YU: RTS Drama
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10387.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS Kolo" tvg-logo="https://i.ibb.co/82pZmVR/RTS-Kolo.png" group-title="Srbija",EX-YU: RTS Kolo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/18269.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS Svet" tvg-logo="https://i.ibb.co/fH75xSH/RTS-Svet.png" group-title="Srbija",EX-YU: RTS Svet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/18270.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTS Trezor" tvg-logo="https://i.ibb.co/9bb3ZFY/RTS-Trezor.png" group-title="Srbija",EX-YU: RTS Trezor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/18268.ts
+#EXTINF:-1 tvg-id="RTV.Novi.Pazar.(RS).rs" tvg-name="EX-YU: TV Novi Pazar" tvg-logo="https://i.ibb.co/hZ6XhrD/Novi-Pazar-TV.png" group-title="Srbija",EX-YU: TV Novi Pazar
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/42.ts
+#EXTINF:-1 timeshift="3" tvg-id="Prva.HD.(RS).rs" tvg-name="EX-YU: Prva" tvg-logo="http://alwaha.us:20792/images/3c7e1becad0e1e8fe8f4a2f259eb7eef.png" group-title="Srbija",EX-YU: Prva
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/34.ts
+#EXTINF:-1 timeshift="2" tvg-id="Prva.plus.(RS).rs" tvg-name="EX-YU: Prva Plus" tvg-logo="https://i.ibb.co/RQ75sH5/Prva-Plus.png" group-title="Srbija",EX-YU: Prva Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva Max" tvg-logo="https://i.ibb.co/x7f6gjm/Prva-Max.png" group-title="Srbija",EX-YU: Prva Max
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1717.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva Kick" tvg-logo="https://i.ibb.co/ryNVWwB/Prva-Kick.png" group-title="Srbija",EX-YU: Prva Kick
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17384.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Prva World" tvg-logo="https://i.ibb.co/Qc1g4zx/Prva-World.png" group-title="Srbija",EX-YU: Prva World
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1716.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Istok TV" tvg-logo="https://i.ibb.co/TBf1Mb1/Istok-TV.png" group-title="Srbija",EX-YU: Istok TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10291.ts
+#EXTINF:-1 tvg-id="Klasik.(RS).rs" tvg-name="EX-YU: Klasik TV" tvg-logo="http://alwaha.us:20792/images/a46c80329b5a87404f70947ec4432101.png" group-title="Srbija",EX-YU: Klasik TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/39.ts
+#EXTINF:-1 timeshift="2" tvg-id="Happy.(RS).rs" tvg-name="EX-YU: Happy TV" tvg-logo="http://alwaha.us:20792/images/7fc398305d504310c1a5c03f5c74692c.png" group-title="Srbija",EX-YU: Happy TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 1" tvg-logo="https://i.ibb.co/8KDR0MP/KCN-1.png" group-title="Srbija",EX-YU: KCN 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1640.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 2" tvg-logo="https://i.ibb.co/1JVzRTW/KCN-2.png" group-title="Srbija",EX-YU: KCN 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1641.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: KCN 3" tvg-logo="https://i.ibb.co/gW5BSTq/KCN-3.png" group-title="Srbija",EX-YU: KCN 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1642.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Duga +" tvg-logo="https://i.ibb.co/Y8qNFCk/Duga-Plus.png" group-title="Muzika",EX-YU: TV Duga +
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Grand" tvg-logo="https://i.ibb.co/s9Yfk4V/Grand.png" group-title="Muzika",EX-YU: TV Grand
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Grand 2" tvg-logo="https://i.ibb.co/VYSBhgF/Grand-2.png" group-title="Muzika",EX-YU: TV Grand 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1688.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: DM Sat" tvg-logo="https://i.ibb.co/tDmGpXS/DM-Sat.png" group-title="Muzika",EX-YU: DM Sat
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Jugoton" tvg-logo="https://i.ibb.co/0hXrg9P/Jugoton-TV.png" group-title="Muzika",EX-YU: TV Jugoton
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: OTV Valentino" tvg-logo="https://i.ibb.co/MPPF4RK/OTV-Valentino.png" group-title="Muzika",EX-YU: OTV Valentino
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/43.ts
+#EXTINF:-1 tvg-id="topmusic.hr" tvg-name="EX-YU: Top Sound" tvg-logo="https://i.ibb.co/Z1WmV4j/TOP-Sound.jpg" group-title="Muzika",EX-YU: Top Sound
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10292.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Yu Planet" tvg-logo="https://i.ibb.co/qsbkGNJ/YU-Planet.png" group-title="Muzika",EX-YU: Yu Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10290.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MTV Europe" tvg-logo="http://alwaha.us:20792/images/5454a7347ade48914c353ad38fd4a852.png" group-title="Muzika",EX-YU: MTV Europe
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MTV Hits" tvg-logo="https://i.ibb.co/DQgHSxH/MTV-Hits.png" group-title="Muzika",EX-YU: MTV Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19871.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Club MTV" tvg-logo="" group-title="Muzika",EX-YU: Club MTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19872.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: IDJTV" tvg-logo="https://i.ibb.co/2FPdbRq/IDJ-TV.png" group-title="Muzika",EX-YU: IDJTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1714.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MTV 80s" tvg-logo="" group-title="Muzika",EX-YU: MTV 80s
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1980.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG Sat" tvg-logo="" group-title="Crna Gora",EX-YU: RTCG Sat
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3324.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG 1" tvg-logo="" group-title="Crna Gora",EX-YU: RTCG 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTCG 2" tvg-logo="" group-title="Crna Gora",EX-YU: RTCG 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/2150.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Vijesti CG" tvg-logo="" group-title="Crna Gora",EX-YU: TV Vijesti CG
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3341.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV 777 Podgorica" tvg-logo="" group-title="Crna Gora",EX-YU: TV 777 Podgorica
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3340.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nova M" tvg-logo="" group-title="Crna Gora",EX-YU: Nova M
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5042.ts
+#EXTINF:-1 tvg-id="Sandzak.TV.rs" tvg-name="EX-YU: TV Sandak" tvg-logo="https://i.ibb.co/7GWLKN2/STV.png" group-title="Srbija",EX-YU: TV Sandak
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1449.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Tom and Jerry Channel" tvg-logo="" group-title="Dječji",EX-YU: Tom and Jerry Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3329.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Bomerang" tvg-logo="" group-title="Dječji",EX-YU: Bomerang
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/25461.ts
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="EX-YU: Nickelodeon" tvg-logo="" group-title="Dječji",EX-YU: Nickelodeon
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/96.ts
+#EXTINF:-1 tvg-id="Nick.Jr.hr" tvg-name="EX-YU: Nick JR" tvg-logo="" group-title="Dječji",EX-YU: Nick JR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27305.ts
+#EXTINF:-1 tvg-id="Minimax.(RS).rs" tvg-name="EX-YU: Minimax" tvg-logo="" group-title="Dječji",EX-YU: Minimax
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/136.ts
+#EXTINF:-1 tvg-id="MiniTV.hr" tvg-name="EX-YU: TV Mini" tvg-logo="" group-title="Dječji",EX-YU: TV Mini
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/94.ts
+#EXTINF:-1 tvg-id="Baby.TV.hr" tvg-name="EX-YU: TV Baby" tvg-logo="" group-title="Dječji",EX-YU: TV Baby
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1646.ts
+#EXTINF:-1 tvg-id="Pikaboo.HD.(RS).rs" tvg-name="EX-YU: PikaBoo" tvg-logo="" group-title="Dječji",EX-YU: PikaBoo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10103.ts
+#EXTINF:-1 tvg-id="mrt1.hr" tvg-name="EX-YU: MRT 1 (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: MRT 1 (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/102.ts
+#EXTINF:-1 tvg-id="mrt2.hr" tvg-name="EX-YU: MRT 2 (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: MRT 2 (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/103.ts
+#EXTINF:-1 tvg-id="MRT3" tvg-name="EX-YU: MRT 3 (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: MRT 3 (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17366.ts
+#EXTINF:-1 tvg-id="alfatv.ba" tvg-name="EX-YU: Alfa (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Alfa (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Tera (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Tera (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17367.ts
+#EXTINF:-1 tvg-id="tvsitel.si" tvg-name="EX-YU: Sitel (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Sitel (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/89.ts
+#EXTINF:-1 tvg-id="tvsitel.si" tvg-name="EX-YU: Sitel 2 (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Sitel 2 (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17370.ts
+#EXTINF:-1 tvg-id="alsatmacedonia.si" tvg-name="EX-YU: Alsat (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Alsat (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17369.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Nasa TV (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Nasa TV (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17373.ts
+#EXTINF:-1 tvg-id="telmatv.si" tvg-name="EX-YU: Telma (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Telma (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17368.ts
+#EXTINF:-1 tvg-id="24vesti" tvg-name="EX-YU: 24 Vesti (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: 24 Vesti (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/745.ts
+#EXTINF:-1 tvg-id="kanal5.hr" tvg-name="EX-YU: Kanal 5 (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Kanal 5 (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sonce TV (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: Sonce TV (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17371.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Kumanovo (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: TV Kumanovo (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/276.ts
+#EXTINF:-1 tvg-id="RTV21" tvg-name="EX-YU: RTV 21 Macedonia (Mk)" tvg-logo="" group-title="Macedonia",EX-YU: RTV 21 Macedonia (Mk)
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17372.ts
+#EXTINF:-1 tvg-id="SLO1" tvg-name="EX-YU: TV 1 Slovenia" tvg-logo="" group-title="Slovenija",EX-YU: TV 1 Slovenia
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1686.ts
+#EXTINF:-1 tvg-id="SLO2" tvg-name="EX-YU: TV 2 Slovenia" tvg-logo="" group-title="Slovenija",EX-YU: TV 2 Slovenia
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1687.ts
+#EXTINF:-1 tvg-id="SLO3" tvg-name="EX-YU: TV 3 Slovenia" tvg-logo="" group-title="Slovenija",EX-YU: TV 3 Slovenia
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19783.ts
+#EXTINF:-1 tvg-id="PopTV" tvg-name="EX-YU: Pop Tv HD" tvg-logo="" group-title="Slovenija",EX-YU: Pop Tv HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19777.ts
+#EXTINF:-1 tvg-id="POpOto" tvg-name="EX-YU: Pop Oto HD" tvg-logo="" group-title="Slovenija",EX-YU: Pop Oto HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19778.ts
+#EXTINF:-1 tvg-id="PopBrio" tvg-name="EX-YU: Pop Brio HD" tvg-logo="" group-title="Slovenija",EX-YU: Pop Brio HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19780.ts
+#EXTINF:-1 tvg-id="PopKino" tvg-name="EX-YU: Pop Kino HD" tvg-logo="" group-title="Slovenija",EX-YU: Pop Kino HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19779.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Maribor HD" tvg-logo="" group-title="Slovenija",EX-YU: TV Maribor HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19838.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV Veseljak HD" tvg-logo="" group-title="Slovenija",EX-YU: TV Veseljak HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19839.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 HR Local" tvg-logo="https://i.ibb.co/Vv9XkCH/AS1.png" group-title="Sport",EX-YU: Arena Sport 1 HR Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/44.ts
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-name="EX-YU: Arena Sport 2 HR" tvg-logo="https://i.ibb.co/dj52n97/AS2.png" group-title="Sport",EX-YU: Arena Sport 2 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/45.ts
+#EXTINF:-1 timeshift="2" tvg-id="Arena.Sport.3.HD.hr" tvg-name="EX-YU: Arena Sport 3 HR" tvg-logo="http://alwaha.us:20792/images/856e9dc0227a419e969c1d5525c1005d.png" group-title="Sport",EX-YU: Arena Sport 3 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/46.ts
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-name="EX-YU: Arena Sport 4 HR" tvg-logo="http://alwaha.us:20792/images/526e7a5b186e95d20b5757a288be884f.png" group-title="Sport",EX-YU: Arena Sport 4 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/47.ts
+#EXTINF:-1 timeshift="2" tvg-id="Arena.Sport.5.HD.hr" tvg-name="EX-YU: Arena Sport 5 HR" tvg-logo="https://i.ibb.co/wpPXY70/AS5.png" group-title="Sport",EX-YU: Arena Sport 5 HR
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/48.ts
+#EXTINF:-1 timeshift="2" tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="EX-YU: Arena Sport 1 SRB" tvg-logo="https://i.ibb.co/Vv9XkCH/AS1.png" group-title="Sport",EX-YU: Arena Sport 1 SRB
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/49.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="EX-YU: Arena Sport 2 SRB Local" tvg-logo="https://i.ibb.co/dj52n97/AS2.png" group-title="Sport",EX-YU: Arena Sport 2 SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 SRB Local" tvg-logo="https://i.ibb.co/h2Sv3x1/AS3.png" group-title="Sport",EX-YU: Arena Sport 3 SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 SRB Local" tvg-logo="https://i.ibb.co/q5cBbpC/AS4.png" group-title="Sport",EX-YU: Arena Sport 4 SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/52.ts
+#EXTINF:-1 timeshift="2" tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="EX-YU: Arena Sport 5 SRB" tvg-logo="https://i.ibb.co/wpPXY70/AS5.png" group-title="Sport",EX-YU: Arena Sport 5 SRB
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/53.ts
+#EXTINF:-1 timeshift="2" tvg-id="Arena.Sport.1.HD.(RS).rs" tvg-name="EX-YU: Arena Sport 1 HD SRB" tvg-logo="https://i.ibb.co/Vv9XkCH/AS1.png" group-title="Sport",EX-YU: Arena Sport 1 HD SRB
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27428.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="EX-YU: Arena Sport 2 HD SRB Local" tvg-logo="https://i.ibb.co/dj52n97/AS2.png" group-title="Sport",EX-YU: Arena Sport 2 HD SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27429.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="EX-YU: Arena Sport 3 HD SRB Local" tvg-logo="https://i.ibb.co/h2Sv3x1/AS3.png" group-title="Sport",EX-YU: Arena Sport 3 HD SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27430.ts
+#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="EX-YU: Arena Sport 4 HD SRB Local" tvg-logo="https://i.ibb.co/q5cBbpC/AS4.png" group-title="Sport",EX-YU: Arena Sport 4 HD SRB Local
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27431.ts
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.(RS).rs" tvg-name="EX-YU: Arena Sport 5 HD SRB" tvg-logo="https://i.ibb.co/wpPXY70/AS5.png" group-title="Sport",EX-YU: Arena Sport 5 HD SRB
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27432.ts
+#EXTINF:-1 tvg-id="SK.1.HD.(BIH).ba" tvg-name="EX-YU: Sport Klub 1 HD" tvg-logo="http://alwaha.us:20792/images/99710cc63dc782c96d8859c76b656498.png" group-title="Sport",EX-YU: Sport Klub 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/56.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Sport Klub 2 HD" tvg-logo="https://i.ibb.co/X3dQLV5/SK2.png" group-title="Sport",EX-YU: Sport Klub 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/57.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Sport Klub 3 HD" tvg-logo="https://i.ibb.co/5jJ9ppM/SK3.png" group-title="Sport",EX-YU: Sport Klub 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/58.ts
+#EXTINF:-1 tvg-id="SK.1.HD.(BIH).ba" tvg-name="EX-YU: Sport Klub 1 SD" tvg-logo="http://alwaha.us:20792/images/99710cc63dc782c96d8859c76b656498.png" group-title="Sport",EX-YU: Sport Klub 1 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/59.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Sport Klub 2 SD" tvg-logo="http://alwaha.us:20792/images/eb474f22d25b0f5124bca69aa1479b13.png" group-title="Sport",EX-YU: Sport Klub 2 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/60.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Sport Klub 3 SD" tvg-logo="https://i.ibb.co/5jJ9ppM/SK3.png" group-title="Sport",EX-YU: Sport Klub 3 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/61.ts
+#EXTINF:-1 timeshift="1" tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: Sport Klub 4 SD" tvg-logo="https://i.ibb.co/yXBGHm1/SK4.png" group-title="Sport",EX-YU: Sport Klub 4 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1446.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Sport Klub 5 SD" tvg-logo="http://alwaha.us:20792/images/d45dfd4ef28be06175523db3a01ffd25.png" group-title="Sport",EX-YU: Sport Klub 5 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1447.ts
+#EXTINF:-1 tvg-id="Sport Klub 6.ba" tvg-name="EX-YU: Sport Klub 6 SD" tvg-logo="https://i.ibb.co/wgkfnXq/SK6.png" group-title="Sport",EX-YU: Sport Klub 6 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1448.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Sport Klub 7 SD" tvg-logo="http://alwaha.us:20792/images/fb4439b87c4aada1efa4ef42c8ab44b8.png" group-title="Sport",EX-YU: Sport Klub 7 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3325.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Sport Klub 8 SD" tvg-logo="https://i.ibb.co/MZpWYsZ/SK8.png" group-title="Sport",EX-YU: Sport Klub 8 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3326.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Sport Klub 9 SD" tvg-logo="https://i.ibb.co/khZMC69/SK9.png" group-title="Sport",EX-YU: Sport Klub 9 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3327.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Sport Klub 10 SD" tvg-logo="https://i.ibb.co/KVsbv6k/SK10.png" group-title="Sport",EX-YU: Sport Klub 10 SD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3328.ts
+#EXTINF:-1 tvg-id="Eurosport.1.HD.(RS).rs" tvg-name="EX-YU: EuroSport 1" tvg-logo="http://alwaha.us:20792/images/445b7916b1078c1014baf49cd8bc9a6f.png" group-title="Sport",EX-YU: EuroSport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/62.ts
+#EXTINF:-1 timeshift="2" tvg-id="Eurosport.2.HD.(RS).rs" tvg-name="EX-YU: EuroSport 2" tvg-logo="https://i.ibb.co/HGMchYb/Eurosport-2.png" group-title="Sport",EX-YU: EuroSport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/63.ts
+#EXTINF:-1 tvg-id="Sportska.TV.hr" tvg-name="EX-YU: Sportska TV" tvg-logo="https://i.ibb.co/RhFdNtS/SPTV.png" group-title="Sport",EX-YU: Sportska TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4033.ts
+#EXTINF:-1 tvg-id="" tvg-name="EN: NBA TV" tvg-logo="https://i.ibb.co/d79txn7/NBA-TV.png" group-title="DAZN Paket",EN: NBA TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3362.ts
+#EXTINF:-1 timeshift="1" tvg-id="TLC.hr" tvg-name="EX-YU: TLC" tvg-logo="https://i.ibb.co/YksLCgf/TLC.png" group-title="Dokumentarni",EX-YU: TLC
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/97.ts
+#EXTINF:-1 tvg-id="24Kitchen.HD.(RS).rs" tvg-name="EX-YU: 24 Kitchen" tvg-logo="http://alwaha.us:20792/images/6eba4b192fe6d4a356c203d287517df2.png" group-title="Dokumentarni",EX-YU: 24 Kitchen
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/87.ts
+#EXTINF:-1 tvg-id="Crime.&.Investigation.(RS).rs" tvg-name="EX-YU: Crime & Investigation" tvg-logo="" group-title="Filmski",EX-YU: Crime & Investigation
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/104.ts
+#EXTINF:-1 timeshift="1" tvg-id="E!.hr" tvg-name="EX-YU: E! Entertainment" tvg-logo="https://i.ibb.co/7JnNhc8/E-Entertainment.png" group-title="Dokumentarni",EX-YU: E! Entertainment
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/98.ts
+#EXTINF:-1 tvg-id="National.Geographic.hr" tvg-name="EX-YU: National Geographic Channel" tvg-logo="http://alwaha.us:20792/images/ce17ade6c780cb93e1851375efab9954.png" group-title="Dokumentarni",EX-YU: National Geographic Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/80.ts
+#EXTINF:-1 tvg-id="National.Geographic.Wild.hr" tvg-name="EX-YU: National Geographic Wild" tvg-logo="https://i.ibb.co/JCcd0Gt/National-Geographic-Wild.png" group-title="Dokumentarni",EX-YU: National Geographic Wild
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1653.ts
+#EXTINF:-1 tvg-id="History.HD.(RS).rs" tvg-name="EX-YU: History Channel" tvg-logo="http://alwaha.us:20792/images/74c02e5cadf55c002c821392b79e3356.png" group-title="Dokumentarni",EX-YU: History Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/83.ts
+#EXTINF:-1 tvg-id="History.2.HD.rs" tvg-name="EX-YU: History Channel 2" tvg-logo="http://alwaha.us:20792/images/df2fe05ebf36da11cfcf772cb0b686d9.png" group-title="Dokumentarni",EX-YU: History Channel 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1696.ts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(RS).rs" tvg-name="EX-YU: Animal Planet" tvg-logo="https://i.ibb.co/JvkPhqy/Animal-Planet.png" group-title="Dokumentarni",EX-YU: Animal Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/82.ts
+#EXTINF:-1 tvg-id="Discovery.Channel.hr" tvg-name="EX-YU: Discovery Channel" tvg-logo="https://i.ibb.co/dKnr61Y/Discovery-Channel.png" group-title="Dokumentarni",EX-YU: Discovery Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/81.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Investigation Discovery HD" tvg-logo="https://i.ibb.co/y6DqFns/Disovery-ID-Channel.png" group-title="Dokumentarni",EX-YU: Investigation Discovery HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1655.ts
+#EXTINF:-1 tvg-id="Lov.i.Ribolov.(RS).rs" tvg-name="EX-YU: Lov i Ribolov" tvg-logo="http://alwaha.us:20792/images/bd87bfef3ecd1a470bef99ef9391e975.png" group-title="Dokumentarni",EX-YU: Lov i Ribolov
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/84.ts
+#EXTINF:-1 tvg-id="Viasat.Nature.hr" tvg-name="EX-YU: Viasat Nature" tvg-logo="https://i.ibb.co/4WkYTBm/Viasat-Nature.png" group-title="Dokumentarni",EX-YU: Viasat Nature
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1658.ts
+#EXTINF:-1 tvg-id="Viasat.History.hr" tvg-name="EX-YU: Viasat History" tvg-logo="http://alwaha.us:20792/images/e00e136141390b9cabacdce17bd18df5.png" group-title="Dokumentarni",EX-YU: Viasat History
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1656.ts
+#EXTINF:-1 tvg-id="Viasat.Explore.hr" tvg-name="EX-YU: Viasat Explorer" tvg-logo="https://i.ibb.co/WKWCWth/Viasat-Explorer.png" group-title="Dokumentarni",EX-YU: Viasat Explorer
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1657.ts
+#EXTINF:-1 timeshift="2" tvg-id="Viasat.Kino.(RS).exTV1000.rs" tvg-name="EX-YU: Viasat Kino" tvg-logo="" group-title="Filmski",EX-YU: Viasat Kino
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AXN" tvg-logo="" group-title="Filmski",EX-YU: AXN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: AXN Spin" tvg-logo="" group-title="Filmski",EX-YU: AXN Spin
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1974.ts
+#EXTINF:-1 tvg-id="HBO FHD.hr" tvg-name="EX-YU: HBO" tvg-logo="" group-title="Filmski",EX-YU: HBO
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/71.ts
+#EXTINF:-1 tvg-id="HBO.2.HD.hr" tvg-name="EX-YU: HBO 2" tvg-logo="" group-title="Filmski",EX-YU: HBO 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/70.ts
+#EXTINF:-1 tvg-id="HBO.3.HD.hr" tvg-name="EX-YU: HBO 3" tvg-logo="" group-title="Filmski",EX-YU: HBO 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1638.ts
+#EXTINF:-1 tvg-id="1+1.International.(BIH).ba" tvg-name="EX-YU: PickBox TV HD" tvg-logo="" group-title="Filmski",EX-YU: PickBox TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4065.ts
+#EXTINF:-1 tvg-id="Cinemania HD (BIH).hr" tvg-name="EX-YU: Cinemania" tvg-logo="" group-title="Filmski",EX-YU: Cinemania
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/5713.ts
+#EXTINF:-1 tvg-id="DocuBox.hr" tvg-name="EX-YU: DocuBox" tvg-logo="https://i.ibb.co/ySW61dn/DocuBox.png" group-title="Dokumentarni",EX-YU: DocuBox
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4068.ts
+#EXTINF:-1 tvg-id="Cinemax.HD.hr" tvg-name="EX-YU: Cinemax 1" tvg-logo="" group-title="Filmski",EX-YU: Cinemax 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/68.ts
+#EXTINF:-1 tvg-id="Cinemax 2.hr" tvg-name="EX-YU: Cinemax 2" tvg-logo="" group-title="Filmski",EX-YU: Cinemax 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/69.ts
+#EXTINF:-1 tvg-id="CineStar TV 1 HD (HR).hr" tvg-name="EX-YU: Cinestar TV 1" tvg-logo="" group-title="Filmski",EX-YU: Cinestar TV 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/74.ts
+#EXTINF:-1 tvg-id="Cinestar Action and Thriller HD (SI).hr" tvg-name="EX-YU: Cinestar Action" tvg-logo="" group-title="Filmski",EX-YU: Cinestar Action
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/75.ts
+#EXTINF:-1 timeshift="2" tvg-id="CineStar Premiere 1.ba" tvg-name="EX-YU: Cinestar TV Premiere 1" tvg-logo="" group-title="Filmski",EX-YU: Cinestar TV Premiere 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/77.ts
+#EXTINF:-1 tvg-id="CineStar Premiere 2.ba" tvg-name="EX-YU: Cinestar TV Premiere 2" tvg-logo="" group-title="Filmski",EX-YU: Cinestar TV Premiere 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/76.ts
+#EXTINF:-1 tvg-id="Epic.Drama.hr" tvg-name="EX-YU: Epic Drama" tvg-logo="" group-title="Filmski",EX-YU: Epic Drama
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/25453.ts
+#EXTINF:-1 tvg-id="FilmBox Extra RS.ba" tvg-name="EX-YU: Filmbox Extra" tvg-logo="" group-title="Filmski",EX-YU: Filmbox Extra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1701.ts
+#EXTINF:-1 tvg-id="STAR.Movies.hr" tvg-name="EX-YU: Star Movies" tvg-logo="" group-title="Filmski",EX-YU: Star Movies
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/73.ts
+#EXTINF:-1 tvg-id="STAR.Crime.hr" tvg-name="EX-YU: Star Crime" tvg-logo="" group-title="Filmski",EX-YU: Star Crime
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/72.ts
+#EXTINF:-1 tvg-id="STAR.Life.hr" tvg-name="EX-YU: Star Life" tvg-logo="" group-title="Filmski",EX-YU: Star Life
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/79.ts
+#EXTINF:-1 tvg-id="STAR.Channel.hr" tvg-name="EX-YU: Star HD" tvg-logo="" group-title="Filmski",EX-YU: Star HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/78.ts
+#EXTINF:-1 tvg-id="AMC.HD.hr" tvg-name="EX-YU: AMC" tvg-logo="" group-title="Filmski",EX-YU: AMC
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10297.ts
+#EXTINF:-1 timeshift="2" tvg-id="Pink.HD.rs" tvg-name="EX-YU: Pink" tvg-logo="https://i.ibb.co/YXVMrS3/Pink.png" group-title="Pink Media",EX-YU: Pink
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/99.ts
+#EXTINF:-1 tvg-id="Vesti.HD.(Pink.3.info).rs" tvg-name="EX-YU: Pink 3" tvg-logo="https://i.ibb.co/br77Sb6/Pink-3.png" group-title="Pink Media",EX-YU: Pink 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/101.ts
+#EXTINF:-1 tvg-id="Pink.Premium.HD.rs" tvg-name="EX-YU: Pink Premium" tvg-logo="http://alwaha.us:20792/images/15b5d48a50566d081bead1ca04d15835.png" group-title="Pink Media",EX-YU: Pink Premium
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/106.ts
+#EXTINF:-1 timeshift="2" tvg-id="Pink.Horror.rs" tvg-name="EX-YU: Pink Horor" tvg-logo="http://alwaha.us:20792/images/edaa229bfc360b008b30636d38afef02.png" group-title="Pink Media",EX-YU: Pink Horor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/107.ts
+#EXTINF:-1 tvg-id="Pink.Thriller.rs" tvg-name="EX-YU: Pink Thriller" tvg-logo="http://alwaha.us:20792/images/0c2aed72dbd2a1a6bfc8e75c946ae7b2.png" group-title="Pink Media",EX-YU: Pink Thriller
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/108.ts
+#EXTINF:-1 tvg-id="Pink.World.(RS).rs" tvg-name="EX-YU: Pink World" tvg-logo="http://alwaha.us:20792/images/fa60c56beae93980a038d17a02885e7c.png" group-title="Pink Media",EX-YU: Pink World
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/109.ts
+#EXTINF:-1 tvg-id="Pink.Zabava.(RS).rs" tvg-name="EX-YU: Pink Zabava" tvg-logo="http://alwaha.us:20792/images/2a0509a49134b14242e02a81b5925c9d.png" group-title="Pink Media",EX-YU: Pink Zabava
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/110.ts
+#EXTINF:-1 tvg-id="Pink.Reality.(RS).rs" tvg-name="EX-YU: Pink Reality" tvg-logo="https://i.ibb.co/gVtCkf3/Pink-Reality.png" group-title="Pink Media",EX-YU: Pink Reality
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/111.ts
+#EXTINF:-1 tvg-id="Pink.Soap.rs" tvg-name="EX-YU: Pink Soap" tvg-logo="http://alwaha.us:20792/images/eb9f3033e42ea0e1ea624e07d9ea8dcf.png" group-title="Pink Media",EX-YU: Pink Soap
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/112.ts
+#EXTINF:-1 tvg-id="Pink.Plus.(RS).rs" tvg-name="EX-YU: Pink Plus" tvg-logo="http://alwaha.us:20792/images/7fbb3c133a859b7f8550f8446f043f21.png" group-title="Pink Media",EX-YU: Pink Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/113.ts
+#EXTINF:-1 tvg-id="Pink.Sci-Fi.&.Fantasy.rs" tvg-name="EX-YU: Pink Sci-fi & Fantasy" tvg-logo="http://alwaha.us:20792/images/ef383d46924408e67c18f704abab64a9.png" group-title="Pink Media",EX-YU: Pink Sci-fi & Fantasy
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Folk 1" tvg-logo="http://alwaha.us:20792/images/5831fac6a48eea82aea0ced024d0b0d9.png" group-title="Muzika",EX-YU: Pink Folk 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/115.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Folk 2" tvg-logo="http://alwaha.us:20792/images/9fd1079779d850bafd21392ee5a9cf61.png" group-title="Muzika",EX-YU: Pink Folk 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/116.ts
+#EXTINF:-1 tvg-id="Pink.Romance.rs" tvg-name="EX-YU: Pink Romance" tvg-logo="http://alwaha.us:20792/images/2a8226e4da2b742cc2a3d4347bcfb01e.png" group-title="Pink Media",EX-YU: Pink Romance
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Crime & Mistery" tvg-logo="http://alwaha.us:20792/images/e10487c4d99015297289a80dc539dd3f.png" group-title="Pink Media",EX-YU: Pink Crime & Mistery
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Pink Hits" tvg-logo="http://alwaha.us:20792/images/25742a41785d1a316533cf9f191eece0.png" group-title="Muzika",EX-YU: Pink Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/119.ts
+#EXTINF:-1 timeshift="2" tvg-id="Pink.Comedy.rs" tvg-name="EX-YU: Pink Comedy" tvg-logo="http://alwaha.us:20792/images/5722f97a0e8f9a0cff5d182ee6e5e62b.png" group-title="Pink Media",EX-YU: Pink Comedy
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/120.ts
+#EXTINF:-1 tvg-id="Pink.Extra.(RS).rs" tvg-name="EX-YU: Pink Extra" tvg-logo="http://alwaha.us:20792/images/ac6669d9cd8542f50fc40a7d816b7209.png" group-title="Pink Media",EX-YU: Pink Extra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/121.ts
+#EXTINF:-1 tvg-id="Pink.Western.rs" tvg-name="EX-YU: Pink Western" tvg-logo="http://alwaha.us:20792/images/786b873dac2981346f378ea61d955201.png" group-title="Pink Media",EX-YU: Pink Western
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/122.ts
+#EXTINF:-1 tvg-id="Pink.Movies.rs" tvg-name="EX-YU: Pink Moves" tvg-logo="http://alwaha.us:20792/images/4c2780fad69a5e013a2120ca0d6b70b0.png" group-title="Pink Media",EX-YU: Pink Moves
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/126.ts
+#EXTINF:-1 tvg-id="Pink.Kuvar.rs" tvg-name="EX-YU: Pink Kuvar" tvg-logo="http://alwaha.us:20792/images/c04222d7e8a2b57f144320deb2070b93.png" group-title="Pink Media",EX-YU: Pink Kuvar
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/127.ts
+#EXTINF:-1 tvg-id="Pink.Pedia.rs" tvg-name="EX-YU: Pink Pedia" tvg-logo="http://alwaha.us:20792/images/2b98bb82a856158167f3127f85c5620a.png" group-title="Pink Media",EX-YU: Pink Pedia
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/128.ts
+#EXTINF:-1 tvg-id="Pink.Classic.rs" tvg-name="EX-YU: Pink Classic" tvg-logo="http://alwaha.us:20792/images/55f14509410bbb412c7d7176a720eccd.png" group-title="Pink Media",EX-YU: Pink Classic
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/129.ts
+#EXTINF:-1 tvg-id="Ha.ha.rs" tvg-name="EX-YU: Pink HAHA" tvg-logo="http://alwaha.us:20792/images/e70e4a93451bb0f61e654bda6d45d208.png" group-title="Pink Media",EX-YU: Pink HAHA
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4026.ts
+#EXTINF:-1 tvg-id="Lol.rs" tvg-name="EX-YU: Pink LOL" tvg-logo="http://alwaha.us:20792/images/241c4a4c90c678d16333475a7f989cf1.png" group-title="Pink Media",EX-YU: Pink LOL
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4027.ts
+#EXTINF:-1 tvg-id="Pink.Koncert.(RS).rs" tvg-name="EX-YU: Pink Koncert" tvg-logo="http://alwaha.us:20792/images/cdb5a6f368c5a9cb16a7be96c93c0c4a.png" group-title="Pink Media",EX-YU: Pink Koncert
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1463.ts
+#EXTINF:-1 tvg-id="Pink.Show.(RS).rs" tvg-name="EX-YU: Pink Show" tvg-logo="http://alwaha.us:20792/images/93c0652c40e99afb3d4f2fa109954353.png" group-title="Pink Media",EX-YU: Pink Show
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1464.ts
+#EXTINF:-1 tvg-id="Pink.Style.rs" tvg-name="EX-YU: Pink Style" tvg-logo="http://alwaha.us:20792/images/7403063648caefb5b9901531106c537c.png" group-title="Pink Media",EX-YU: Pink Style
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1661.ts
+#EXTINF:-1 tvg-id="HNTV" tvg-name="EX-YU: HNTV" tvg-logo="https://i.ibb.co/4RffgSz/HNTV.png" group-title="Sport",EX-YU: HNTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4037.ts
+#EXTINF:-1 tvg-id="Arena 1 Premium.ba" tvg-name="EX-YU: Super Media TV" tvg-logo="https://i.ibb.co/5GxmC3T/Mir-TV.png" group-title="Bosna i Hercegovina",EX-YU: Super Media TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27427.ts
+#EXTINF:-1 tvg-id="SOS.Kanal.Plus.rs" tvg-name="EX-YU: SOS Kanal Plus" tvg-logo="https://i.ibb.co/T4PLDN7/So-S-Kanal-Plus.png" group-title="Srbija",EX-YU: SOS Kanal Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Ballkanika" tvg-logo="http://alwaha.us:20792/images/0f7dddf48e182be00e4a623fb4674cf2.png" group-title="Muzika",AL: TV Ballkanika
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 1 HD" tvg-logo="" group-title="Albanija",AL: SuperSport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2 HD" tvg-logo="" group-title="Albanija",AL: SuperSport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3 HD" tvg-logo="" group-title="Albanija",AL: SuperSport 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/145.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4 HD" tvg-logo="" group-title="Albanija",AL: SuperSport 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 HD" tvg-logo="" group-title="Albanija",AL: RTK 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/147.ts
+#EXTINF:-1 tvg-id="FilmNje" tvg-name="AL: Film Nje" tvg-logo="" group-title="Albanija",AL: Film Nje
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/148.ts
+#EXTINF:-1 tvg-id="FilmKomedi" tvg-name="AL: Film Komedi" tvg-logo="" group-title="Albanija",AL: Film Komedi
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/149.ts
+#EXTINF:-1 tvg-id="FilmThriller" tvg-name="AL: Film Thriller" tvg-logo="" group-title="Albanija",AL: Film Thriller
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/150.ts
+#EXTINF:-1 tvg-id="FilmDy" tvg-name="AL: Film Dy HD" tvg-logo="" group-title="Albanija",AL: Film Dy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/152.ts
+#EXTINF:-1 tvg-id="FilmHits" tvg-name="AL: Film Hits+1" tvg-logo="" group-title="Albanija",AL: Film Hits+1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/153.ts
+#EXTINF:-1 tvg-id="TRINGCOMEDY" tvg-name="AL: Tring Comedy" tvg-logo="" group-title="Albanija",AL: Tring Comedy
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Life" tvg-logo="" group-title="Albanija",AL: Tring Life
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/156.ts
+#EXTINF:-1 tvg-id="TRINGPLANET" tvg-name="AL: Tring Planet" tvg-logo="" group-title="Albanija",AL: Tring Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/157.ts
+#EXTINF:-1 tvg-id="TRINGSHQIP" tvg-name="AL: Tring Shqip" tvg-logo="" group-title="Albanija",AL: Tring Shqip
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/158.ts
+#EXTINF:-1 tvg-id="TRINGSUPER" tvg-name="AL: Tring Super" tvg-logo="" group-title="Albanija",AL: Tring Super
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/159.ts
+#EXTINF:-1 tvg-id="TRINGTRING" tvg-name="AL: Tring Tring" tvg-logo="" group-title="Albanija",AL: Tring Tring
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="" group-title="Albanija",AL: Tring World
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/161.ts
+#EXTINF:-1 tvg-id="SKYSP1G" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://alwaha.us:20792/images/eb305550675d33435cd2b2e95fd7c197.png" group-title="Njemačka",DE: Sky Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/172.ts
+#EXTINF:-1 tvg-id="SKYSP2G" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://alwaha.us:20792/images/87af0446a0ae33331c021958bc1a7f6e.png" group-title="Njemačka",DE: Sky Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/173.ts
+#EXTINF:-1 tvg-id="BUN1" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="http://alwaha.us:20792/images/7b297d9190750ec787f16ebf511539fe.png" group-title="Njemačka",DE: Sky Bundesliga 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/175.ts
+#EXTINF:-1 tvg-id="SC1HD" tvg-name="DE: Sky Cinema 1 HD" tvg-logo="http://alwaha.us:20792/images/4464f8a6a60981ef1f729c6f2fab0158.png" group-title="Njemačka",DE: Sky Cinema 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/176.ts
+#EXTINF:-1 tvg-id="SkyCinemaDE" tvg-name="DE: Sky Cinema HD" tvg-logo="" group-title="Njemačka",DE: Sky Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/177.ts
+#EXTINF:-1 tvg-id="Sky Cinema +24-DE" tvg-name="DE: Sky Cinema 24" tvg-logo="" group-title="Njemačka",DE: Sky Cinema 24
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/178.ts
+#EXTINF:-1 tvg-id="Sky Comedy-DE" tvg-name="DE: Sky Comedy HD" tvg-logo="" group-title="Njemačka",DE: Sky Comedy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/179.ts
+#EXTINF:-1 tvg-id="Sky Emotion-DE" tvg-name="DE: Sky Emotion" tvg-logo="" group-title="Njemačka",DE: Sky Emotion
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/180.ts
+#EXTINF:-1 tvg-id="Sky Action-DE" tvg-name="DE: Sky Action HD" tvg-logo="" group-title="Njemačka",DE: Sky Action HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/181.ts
+#EXTINF:-1 tvg-id="DSCCKDG" tvg-name="DE: Discovery Channel" tvg-logo="http://alwaha.us:20792/images/3df84c83a08380646248903272ae3bff.png" group-title="Njemačka",DE: Discovery Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/182.ts
+#EXTINF:-1 tvg-id="HSTRYKD" tvg-name="DE: History Channel" tvg-logo="http://alwaha.us:20792/images/8e4304cf99a9d26f554d9d5eae61a3f4.png" group-title="Njemačka",DE: History Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/183.ts
+#EXTINF:-1 tvg-id="NATGEOK" tvg-name="DE: National Geographic HD" tvg-logo="http://alwaha.us:20792/images/49397b0204342b94a3a12cc53d73690a.png" group-title="Njemačka",DE: National Geographic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/184.ts
+#EXTINF:-1 tvg-id="DMAXCH" tvg-name="DE: DMAXX" tvg-logo="http://alwaha.us:20792/images/bd45460c1c33f54a8158d4610fa84cb5.png" group-title="Njemačka",DE: DMAXX
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/185.ts
+#EXTINF:-1 tvg-id="KAB1H" tvg-name="DE: Kabel 1 HD" tvg-logo="http://alwaha.us:20792/images/9f9d136866ef8cce926c9d33aebffb57.png" group-title="Njemačka",DE: Kabel 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/186.ts
+#EXTINF:-1 tvg-id="SAT1HD" tvg-name="DE: Sat 1 HD" tvg-logo="http://alwaha.us:20792/images/91b12cf39586a2ade6ad736724534660.png" group-title="Njemačka",DE: Sat 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/187.ts
+#EXTINF:-1 tvg-id="3SATGEH" tvg-name="DE: 3Sat" tvg-logo="http://alwaha.us:20792/images/2e7fdc916cba5f7402d4ca9f0a77e920.png" group-title="Njemačka",DE: 3Sat
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/188.ts
+#EXTINF:-1 tvg-id="PRO7GRH" tvg-name="DE: Pro 7 HD" tvg-logo="http://alwaha.us:20792/images/ba5fc13b2786483e5a1ba420db060bd5.png" group-title="Njemačka",DE: Pro 7 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/189.ts
+#EXTINF:-1 tvg-id="RTLVFHD" tvg-name="DE: RTL HD" tvg-logo="http://alwaha.us:20792/images/9761764055f3c717367ce10bfbf1a6e7.png" group-title="(TVNow)RTL+",DE: RTL HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/190.ts
+#EXTINF:-1 tvg-id="RTLVFKD" tvg-name="DE: RTL" tvg-logo="http://alwaha.us:20792/images/fad43a900e339c2c9875909ca2facfc7.png" group-title="(TVNow)RTL+",DE: RTL
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/191.ts
+#EXTINF:-1 tvg-id="RTL2GRH" tvg-name="DE: RTL 2 HD" tvg-logo="http://alwaha.us:20792/images/07cdef00d3c5cb42db4e28fc16d8b045.png" group-title="(TVNow)RTL+",DE: RTL 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/192.ts
+#EXTINF:-1 tvg-id="RTLNIHD" tvg-name="DE: Nitro HD" tvg-logo="http://alwaha.us:20792/images/a4e01fd8b8e20d028094ca70dc11c6e5.png" group-title="(TVNow)RTL+",DE: Nitro HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/193.ts
+#EXTINF:-1 tvg-id="ZDFINHD" tvg-name="DE: ZDF Info HD" tvg-logo="http://alwaha.us:20792/images/b7bfac6a5ade9a8a92ebc11e89e9cc1f.png" group-title="Njemačka",DE: ZDF Info HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/194.ts
+#EXTINF:-1 tvg-id="FXKDG" tvg-name="DE: Fox" tvg-logo="http://alwaha.us:20792/images/04dfdcf2a6822e4c628664c7e0b0e0ce.png" group-title="Njemačka",DE: Fox
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/195.ts
+#EXTINF:-1 tvg-id="KIKAGH" tvg-name="DE: Kika" tvg-logo="http://alwaha.us:20792/images/cb0582427491d151a0f25c4c2b82dd55.png" group-title="Njemačka",DE: Kika
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/196.ts
+#EXTINF:-1 tvg-id="VOXHD" tvg-name="DE: Vox HD" tvg-logo="http://alwaha.us:20792/images/b1babb836bcb6351c1b84543391faacf.png" group-title="(TVNow)RTL+",DE: Vox HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/197.ts
+#EXTINF:-1 tvg-id="ORF1OSR" tvg-name="DE: Orf 1" tvg-logo="http://alwaha.us:20792/images/634a6c0ee23ff255f01a95fb3d3d5a67.png" group-title="Njemačka",DE: Orf 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/198.ts
+#EXTINF:-1 tvg-id="ORF2OSR" tvg-name="DE: Orf 2" tvg-logo="http://alwaha.us:20792/images/de00d82e28dd1f2d1d64d8f1b181c6f1.png" group-title="Njemačka",DE: Orf 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/199.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 1" tvg-name="DE: Eagle Cinema Abenteuer" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Abenteuer
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/200.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 2" tvg-name="DE: Sky Select 1" tvg-logo="" group-title="Njemačka",DE: Sky Select 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/201.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 3" tvg-name="DE: Eagle Cinema Aktion" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Aktion
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/202.ts
+#EXTINF:-1 tvg-id="SkySelect4" tvg-name="DE: Sky Select 2" tvg-logo="" group-title="Njemačka",DE: Sky Select 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/203.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 5" tvg-name="DE: Sky Select 3" tvg-logo="" group-title="Njemačka",DE: Sky Select 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/204.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 6" tvg-name="DE: Eagle Cinema Komodie" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Komodie
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/205.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 7" tvg-name="DE: Eagle Cinema Lächeln" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Lächeln
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/206.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 8" tvg-name="DE: Eagle Cinema Thriller" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Thriller
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/207.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 1 HD" tvg-logo="https://i.ibb.co/Zc5yZ1R/Bein-1.png" group-title="Sport",AR: Bein Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/209.ts
+#EXTINF:-1 tvg-id="EN-HD2 English" tvg-name="AR: Bein Sports 2 HD" tvg-logo="https://i.ibb.co/fH865xP/Bein-2.png" group-title="Sport",AR: Bein Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/210.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 3 HD" tvg-logo="https://i.ibb.co/rFmYmK9/Bein-3.png" group-title="Sport",AR: Bein Sports 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/211.ts
+#EXTINF:-1 tvg-id="EN-HD4 English" tvg-name="AR: Bein Sports 4 HD" tvg-logo="https://i.ibb.co/wcC7YBC/Bein-4.png" group-title="Sport",AR: Bein Sports 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/212.ts
+#EXTINF:-1 tvg-id="EN-HD5 English" tvg-name="AR: Bein Sports 5 HD" tvg-logo="https://i.ibb.co/NLkk6cm/Bein-5.png" group-title="Sport",AR: Bein Sports 5 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 6 HD" tvg-logo="https://i.ibb.co/0QxD76S/Bein-6.png" group-title="Sport",AR: Bein Sports 6 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 7 HD" tvg-logo="https://i.ibb.co/d0g4Hsy/Bein-7.png" group-title="Sport",AR: Bein Sports 7 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/215.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 8 HD" tvg-logo="https://i.ibb.co/tPvdX5r/Bein-8.png" group-title="Sport",AR: Bein Sports 8 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/216.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 9 HD" tvg-logo="https://i.ibb.co/gWwwSVp/Bein-9.png" group-title="Sport",AR: Bein Sports 9 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/217.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 10 HD" tvg-logo="https://i.ibb.co/QF1my1c/Bein-10.png" group-title="Sport",AR: Bein Sports 10 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/218.ts
+#EXTINF:-1 tvg-id="SkySport1IT" tvg-name="IT: Sky Sport  Uno HD" tvg-logo="" group-title="Italija",IT: Sky Sport  Uno HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/220.ts
+#EXTINF:-1 tvg-id="SkySport2IT" tvg-name="IT: Sky Sport Seria A HD" tvg-logo="" group-title="Italija",IT: Sky Sport Seria A HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/221.ts
+#EXTINF:-1 tvg-id="SkySport24IT" tvg-name="IT: Sky Sport 24 HD" tvg-logo="" group-title="Italija",IT: Sky Sport 24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/222.ts
+#EXTINF:-1 tvg-id="SkySportF1IT" tvg-name="IT: Sky Sport F1 HD" tvg-logo="" group-title="Italija",IT: Sky Sport F1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/223.ts
+#EXTINF:-1 tvg-id="SSPFTHD" tvg-name="IT: Sky Sport Football HD" tvg-logo="http://alwaha.us:20792/images/949cf5ebd359b7c3419d1471e6a875f9.png" group-title="Italija",IT: Sky Sport Football HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/224.ts
+#EXTINF:-1 tvg-id="SkyCinema1IT" tvg-name="IT: Sky Cinema 24 HD" tvg-logo="" group-title="Italija",IT: Sky Cinema 24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/227.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD" tvg-name="IT: Sky Cinema Comedy HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Comedy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/228.ts
+#EXTINF:-1 tvg-id="RAI1HD" tvg-name="IT: Rai 1 HD" tvg-logo="http://alwaha.us:20792/images/06c2dc9b301a5db89c3285e50f9d3f2c.png" group-title="Italija",IT: Rai 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/229.ts
+#EXTINF:-1 tvg-id="RAI2HD" tvg-name="IT: Rai 2 HD" tvg-logo="http://alwaha.us:20792/images/8be25ccf48b3276058ca8c4ddb59d579.png" group-title="Italija",IT: Rai 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/230.ts
+#EXTINF:-1 tvg-id="RAI3HD" tvg-name="IT: Rai 3 HD" tvg-logo="http://alwaha.us:20792/images/794146fa90372aede55cee4eb0784036.png" group-title="Italija",IT: Rai 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/231.ts
+#EXTINF:-1 tvg-id="Pink.Kids.rs" tvg-name="EX-YU: Pink Kids" tvg-logo="" group-title="Dječji",EX-YU: Pink Kids
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/266.ts
+#EXTINF:-1 tvg-id="N24DOKU" tvg-name="DE: N24 Doku" tvg-logo="http://alwaha.us:20792/images/0dea2a6f09ba4137785627e8ae41cec1.png" group-title="Njemačka",DE: N24 Doku
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/336.ts
+#EXTINF:-1 tvg-id="SUPRTL" tvg-name="DE: Super RTL HD" tvg-logo="http://alwaha.us:20792/images/77e938995d3fcaf9648f45ae868ed6e3.png" group-title="(TVNow)RTL+",DE: Super RTL HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/339.ts
+#EXTINF:-1 tvg-id="PRO7MKD" tvg-name="DE: Pro 7 Maxx" tvg-logo="http://alwaha.us:20792/images/1235abf1049aa6b342d3cd3223b22381.png" group-title="Njemačka",DE: Pro 7 Maxx
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/340.ts
+#EXTINF:-1 tvg-id="RTLCRKD" tvg-name="DE: RTL Crime HD" tvg-logo="http://alwaha.us:20792/images/780c5d829f46cdc0364330759e076cc7.png" group-title="(TVNow)RTL+",DE: RTL Crime HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/344.ts
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="DE: AXN" tvg-logo="http://alwaha.us:20792/images/fca20b786c613168b3a7955f8e83505d.png" group-title="Njemačka",DE: AXN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/345.ts
+#EXTINF:-1 tvg-id="RTLPAKD" tvg-name="DE: RTL Passion" tvg-logo="http://alwaha.us:20792/images/1a70d2962c16423a8cb4818de5054db3.png" group-title="(TVNow)RTL+",DE: RTL Passion
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/346.ts
+#EXTINF:-1 tvg-id="DPHOENXG" tvg-name="DE: Phoenix" tvg-logo="http://alwaha.us:20792/images/b7bae69ad77fb1140e173e421eeeb5bd.png" group-title="Njemačka",DE: Phoenix
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/347.ts
+#EXTINF:-1 tvg-id="SKYKKDG" tvg-name="DE: Sky Krimi" tvg-logo="http://alwaha.us:20792/images/2919971d22e7a2666320060887f1983d.png" group-title="Njemačka",DE: Sky Krimi
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/356.ts
+#EXTINF:-1 tvg-id="WDRWHD" tvg-name="DE: WDR HD" tvg-logo="http://alwaha.us:20792/images/2d267f9d234c5a566fcdd74201951750.png" group-title="Njemačka",DE: WDR HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/358.ts
+#EXTINF:-1 tvg-id="ARDALPH" tvg-name="DE: ARD HD" tvg-logo="http://alwaha.us:20792/images/783625e6011c34fe9a1f3198634e5221.png" group-title="Njemačka",DE: ARD HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/359.ts
+#EXTINF:-1 tvg-id="13STKDG" tvg-name="DE: Sky 13 Street HD" tvg-logo="http://alwaha.us:20792/images/758d96c7f01c73f13230507f7e6012d2.png" group-title="Njemačka",DE: Sky 13 Street HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/360.ts
+#EXTINF:-1 tvg-id="Disney Channel-DE" tvg-name="DE: Disney Channel HD" tvg-logo="http://alwaha.us:20792/images/7a696e62c3d900327ac901ba3d3ff968.png" group-title="Njemačka",DE: Disney Channel HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/361.ts
+#EXTINF:-1 tvg-id="SKYAHDK" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://alwaha.us:20792/images/5f83b3c8738abfa44bcdb6dae4335df6.png" group-title="Njemačka",DE: Sky Atlantic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/362.ts
+#EXTINF:-1 tvg-id="Sky Cinema Hits-DE" tvg-name="DE: Sky Hits" tvg-logo="" group-title="Njemačka",DE: Sky Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/363.ts
+#EXTINF:-1 tvg-id="Pink.Serije.(RS).rs" tvg-name="EX-YU: Pink Serije" tvg-logo="http://alwaha.us:20792/images/7f8368dd4b25a9c83ad792f606fddd5d.png" group-title="Pink Media",EX-YU: Pink Serije
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 2 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 3 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/366.ts
+#EXTINF:-1 tvg-id="ATVTR" tvg-name="TR: ATV HD" tvg-logo="" group-title="Turska",TR: ATV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/367.ts
+#EXTINF:-1 tvg-id="ShowTVTR" tvg-name="TR: TV Show" tvg-logo="" group-title="Turska",TR: TV Show
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/368.ts
+#EXTINF:-1 tvg-id="TV8TR" tvg-name="TR: TV 8" tvg-logo="" group-title="Turska",TR: TV 8
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="" group-title="Turska",TR: Kanal 7
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/370.ts
+#EXTINF:-1 tvg-id="StarTVTR" tvg-name="TR: TV Star" tvg-logo="" group-title="Turska",TR: TV Star
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/371.ts
+#EXTINF:-1 tvg-id="KRALTR" tvg-name="TR: TV Kral" tvg-logo="" group-title="Turska",TR: TV Kral
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/372.ts
+#EXTINF:-1 tvg-id="CNNTURK" tvg-name="TR: CNN Turk" tvg-logo="" group-title="Turska",TR: CNN Turk
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="Albanija",AL: Tring Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="" group-title="Albanija",AL: Tring Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3 HD" tvg-logo="" group-title="Albanija",AL: Tring Sport 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/376.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 HD" tvg-logo="" group-title="Albanija",AL: Tring Sport 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/377.ts
+#EXTINF:-1 tvg-id="TRT1" tvg-name="TR: TRT 1" tvg-logo="" group-title="Turska",TR: TRT 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="" group-title="Turska",TR: TRT Turk
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX" tvg-logo="" group-title="Turska",TR: FOX
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/380.ts
+#EXTINF:-1 tvg-id="NTVTR" tvg-name="TR: NTV" tvg-logo="" group-title="Turska",TR: NTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/381.ts
+#EXTINF:-1 tvg-id="KANALDTR" tvg-name="TR: Kanal D" tvg-logo="" group-title="Turska",TR: Kanal D
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/382.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Passion HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Passion HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/384.ts
+#EXTINF:-1 tvg-id="SkyCinemaMaxIT" tvg-name="IT: Sky Cinema Max HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Max HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/385.ts
+#EXTINF:-1 tvg-id="SkyCinemaCultHD" tvg-name="IT: Sky Cinema Cult HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Cult HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/389.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamilyHD" tvg-name="IT: Sky Cinema Family HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Hits HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Hits HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/391.ts
+#EXTINF:-1 tvg-id="DiscoveryChannelIT" tvg-name="IT: Discovery Channel HD" tvg-logo="" group-title="Italija",IT: Discovery Channel HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/392.ts
+#EXTINF:-1 tvg-id="NationalGeoIT" tvg-name="IT: National Geographic HD" tvg-logo="" group-title="Italija",IT: National Geographic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/393.ts
+#EXTINF:-1 tvg-id="SkyCinema1IT" tvg-name="IT: Sky Cinema HD" tvg-logo="" group-title="Italija",IT: Sky Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/394.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Cinema Classics HD" tvg-logo="" group-title="Italija",IT: Sky Cinema Classics HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/395.ts
+#EXTINF:-1 tvg-id="TRTHABER" tvg-name="TR: TRT Haber" tvg-logo="" group-title="Turska",TR: TRT Haber
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Muzik" tvg-logo="" group-title="Turska",TR: TRT Muzik
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Cocuk" tvg-logo="" group-title="Turska",TR: TRT Cocuk
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/399.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="" group-title="Turska",TR: TRT Belgesel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/400.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="" group-title="Turska",TR: TRT Avaz
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/401.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV Spor" tvg-logo="" group-title="Turska",TR: NTV Spor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/402.ts
+#EXTINF:-1 tvg-id="DREAMTURK" tvg-name="TR: Dream Turk" tvg-logo="" group-title="Turska",TR: Dream Turk
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Animal Planet" tvg-logo="" group-title="Italija",IT: Animal Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/404.ts
+#EXTINF:-1 tvg-id="SRF1" tvg-name="DE: Srf 1" tvg-logo="http://alwaha.us:20792/images/dcc4c6db675594af5f3fbec56c2d5872.png" group-title="Njemačka",DE: Srf 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/497.ts
+#EXTINF:-1 tvg-id="SFZWEI" tvg-name="DE: Srf 2" tvg-logo="http://alwaha.us:20792/images/58380c5a3fe87b62815feecff4cca178.png" group-title="Njemačka",DE: Srf 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/498.ts
+#EXTINF:-1 tvg-id="PremiumCrimeHD" tvg-name="IT: Premium Cinema HD" tvg-logo="" group-title="Italija",IT: Premium Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/503.ts
+#EXTINF:-1 tvg-id="PremiumCrimeHD" tvg-name="IT: Premium Crime HD" tvg-logo="" group-title="Italija",IT: Premium Crime HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/505.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Emotion HD" tvg-logo="" group-title="Italija",IT: Premium Emotion HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/506.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Comedy HD" tvg-logo="" group-title="Italija",IT: Premium Comedy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Energy HD" tvg-logo="" group-title="Italija",IT: Premium Energy HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/508.ts
+#EXTINF:-1 tvg-id="PremiumJoi" tvg-name="IT: Premium Joi HD" tvg-logo="" group-title="Italija",IT: Premium Joi HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Studio Universal HD" tvg-logo="" group-title="Italija",IT: Premium Studio Universal HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/510.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Motogp HD" tvg-logo="" group-title="Italija",IT: Sky Sport Motogp HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Crime 24 HD" tvg-logo="" group-title="Italija",IT: Premium Crime 24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/514.ts
+#EXTINF:-1 tvg-id="RAI4HD" tvg-name="IT: Rai 4 HD" tvg-logo="http://alwaha.us:20792/images/4ca5d0d5a20e551213e902de63ec1b3a.png" group-title="Italija",IT: Rai 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/518.ts
+#EXTINF:-1 tvg-id="RAI5HD" tvg-name="IT: Rai 5 HD" tvg-logo="http://alwaha.us:20792/images/3bac8b786b7387b54e14e4972a5875f2.png" group-title="Italija",IT: Rai 5 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/519.ts
+#EXTINF:-1 tvg-id="RAISPHD" tvg-name="IT: Rai Sport +HD" tvg-logo="http://alwaha.us:20792/images/1a36d3914059cfe12a874d4380c2d640.png" group-title="Italija",IT: Rai Sport +HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/520.ts
+#EXTINF:-1 tvg-id="LA7ITL" tvg-name="IT: LA7" tvg-logo="http://alwaha.us:20792/images/00169f825b3fbf1d2e6a38309cca5110.png" group-title="Italija",IT: LA7
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/522.ts
+#EXTINF:-1 tvg-id="MEDEXT" tvg-name="IT: Mediaset Extra" tvg-logo="http://alwaha.us:20792/images/983396147c646071ddb6de1fb55856d8.png" group-title="Italija",IT: Mediaset Extra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/523.ts
+#EXTINF:-1 tvg-id="MEDIT2" tvg-name="IT: Mediaset Italia 2" tvg-logo="http://alwaha.us:20792/images/3221ad5da7d4bc5f657ff72413a4ff52.png" group-title="Italija",IT: Mediaset Italia 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/524.ts
+#EXTINF:-1 tvg-id="ITALIA1" tvg-name="IT: Italia 1" tvg-logo="http://alwaha.us:20792/images/07d5040ad6942388e8cf52e56a745dc4.png" group-title="Italija",IT: Italia 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/525.ts
+#EXTINF:-1 tvg-id="RETE4" tvg-name="IT: Rete 4" tvg-logo="http://alwaha.us:20792/images/029b1149bf26b9f70aa4c7b05b06ce0e.png" group-title="Italija",IT: Rete 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/526.ts
+#EXTINF:-1 tvg-id="CABAKE5" tvg-name="IT: Canale 5" tvg-logo="http://alwaha.us:20792/images/2b93982b960b39be132eb1fb903e956d.png" group-title="Italija",IT: Canale 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/527.ts
+#EXTINF:-1 tvg-id="RAIMOV" tvg-name="IT: Rai Movie" tvg-logo="http://alwaha.us:20792/images/37eccea11ee2a916d6b0e112fc62926c.png" group-title="Italija",IT: Rai Movie
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/528.ts
+#EXTINF:-1 tvg-id="RAIPREM" tvg-name="IT: Rai Premium" tvg-logo="http://alwaha.us:20792/images/467497487fbdfc848efda4eaaf635ce7.png" group-title="Italija",IT: Rai Premium
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/529.ts
+#EXTINF:-1 tvg-id="RAISATY" tvg-name="IT: Rai Yoyo" tvg-logo="http://alwaha.us:20792/images/5ab4297ac3539f9ec7e5320b611723a6.png" group-title="Italija",IT: Rai Yoyo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/530.ts
+#EXTINF:-1 tvg-id="RAIGULP" tvg-name="IT: Rai Gulp" tvg-logo="http://alwaha.us:20792/images/7722933010d7507a405d9c81aa9d015f.png" group-title="Italija",IT: Rai Gulp
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Premium Sport HD" tvg-logo="" group-title="Italija",IT: Premium Sport HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Supertennis HD" tvg-logo="" group-title="Italija",IT: Sky Supertennis HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO1HD" tvg-logo="" group-title="Holandija",NL: NPO1HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO2HD" tvg-logo="" group-title="Holandija",NL: NPO2HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: NPO3HD" tvg-logo="" group-title="Holandija",NL: NPO3HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film1 Action HD" tvg-logo="" group-title="Holandija",NL: Film1 Action HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film1 Family HD" tvg-logo="" group-title="Holandija",NL: Film1 Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film1 Premiere HD" tvg-logo="" group-title="Holandija",NL: Film1 Premiere HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Film1 Drama HD" tvg-logo="" group-title="Holandija",NL: Film1 Drama HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/551.ts
+#EXTINF:-1 tvg-id="FOXSports1" tvg-name="NL: Fox Sport 1" tvg-logo="https://i.ibb.co/VmKzs9m/Fox-Sport-1.png" group-title="Sport",NL: Fox Sport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/552.ts
+#EXTINF:-1 tvg-id="FOXSports2" tvg-name="NL: Fox Sport 2" tvg-logo="https://i.ibb.co/NYNDrcy/Fox-Sport-2.png" group-title="Sport",NL: Fox Sport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/553.ts
+#EXTINF:-1 tvg-id="FOXSports3" tvg-name="NL: Fox Sport 3" tvg-logo="https://i.ibb.co/ZgJrGQd/Fox-Sport-3.png" group-title="Sport",NL: Fox Sport 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/554.ts
+#EXTINF:-1 tvg-id="FOXSports4" tvg-name="NL: Fox Sport 4" tvg-logo="https://i.ibb.co/zNpz047/Fox-Sport-4.png" group-title="Sport",NL: Fox Sport 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sport 5" tvg-logo="https://i.ibb.co/7XXjgm8/Fox-Sport-5.png" group-title="Sport",NL: Fox Sport 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Fox Sport 6" tvg-logo="https://i.ibb.co/t4SvKGQ/Fox-Sport-6.png" group-title="Sport",NL: Fox Sport 6
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/557.ts
+#EXTINF:-1 tvg-id="ZEE1KDG" tvg-name="DE: Zee One" tvg-logo="http://alwaha.us:20792/images/a4a4a142c0002519521ef8261e366989.png" group-title="Njemačka",DE: Zee One
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1712.ts
+#EXTINF:-1 tvg-id="KINOKDG" tvg-name="DE: KinoweltTV" tvg-logo="http://alwaha.us:20792/images/183fcdfabe6396535d2b8ec17e232852.png" group-title="Njemačka",DE: KinoweltTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1718.ts
+#EXTINF:-1 tvg-id="SAT1GKD" tvg-name="DE: Sat 1 Gold" tvg-logo="http://alwaha.us:20792/images/8afd473cc419a0a4acfd26fe162c6f4a.png" group-title="Njemačka",DE: Sat 1 Gold
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1719.ts
+#EXTINF:-1 tvg-id="SKYSPA" tvg-name="DE: Sky Sport Austria" tvg-logo="http://alwaha.us:20792/images/57d4f339871f55b747039484d8c55882.png" group-title="Njemačka",DE: Sky Sport Austria
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1739.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 0" tvg-logo="" group-title="Francuska",FR: France 0
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1740.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2" tvg-logo="" group-title="Francuska",FR: France 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1741.ts
+#EXTINF:-1 tvg-id="FRANCE2" tvg-name="FR: France 3" tvg-logo="" group-title="Francuska",FR: France 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1742.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4" tvg-logo="" group-title="Francuska",FR: France 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1743.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5" tvg-logo="" group-title="Francuska",FR: France 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1744.ts
+#EXTINF:-1 tvg-id="CANALPLUSFR" tvg-name="FR: Canal +" tvg-logo="" group-title="Francuska",FR: Canal +
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1745.ts
+#EXTINF:-1 tvg-id="CANALPLUSFAMILYFR" tvg-name="FR: Canal+ Family HD" tvg-logo="" group-title="Francuska",FR: Canal+ Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1746.ts
+#EXTINF:-1 tvg-id="CANALPLUSDECALEFR" tvg-name="FR: Canal+ Series" tvg-logo="" group-title="Francuska",FR: Canal+ Series
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1747.ts
+#EXTINF:-1 tvg-id="CANALPLUSCINEMAFR" tvg-name="FR: Canal+ Cinema" tvg-logo="" group-title="Francuska",FR: Canal+ Cinema
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1748.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport" tvg-logo="" group-title="Francuska",FR: Canal+ Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1749.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Classic" tvg-logo="" group-title="Francuska",FR: Cine+ Classic
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1750.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Emotion" tvg-logo="" group-title="Francuska",FR: Cine+ Emotion
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1751.ts
+#EXTINF:-1 tvg-id="CINEPLUSFRISSONFR" tvg-name="FR: Cine+ Frisson" tvg-logo="" group-title="Francuska",FR: Cine+ Frisson
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1752.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Premier" tvg-logo="" group-title="Francuska",FR: Cine+ Premier
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1753.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie +" tvg-logo="" group-title="Francuska",FR: Comedie +
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1754.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 HD" tvg-logo="https://i.ibb.co/Zc5yZ1R/Bein-1.png" group-title="Sport",FR: Bein Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1755.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2 HD" tvg-logo="https://i.ibb.co/fH865xP/Bein-2.png" group-title="Sport",FR: Bein Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1756.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3 HD" tvg-logo="https://i.ibb.co/rFmYmK9/Bein-3.png" group-title="Sport",FR: Bein Sport 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1757.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport +" tvg-logo="" group-title="Francuska",FR: InfoSport +
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1758.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="Francuska",FR: TF1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1759.ts
+#EXTINF:-1 tvg-id="SIXXCH" tvg-name="DE: SIXX" tvg-logo="http://alwaha.us:20792/images/20c6694eac1dce900073f90e8759e0f0.png" group-title="Njemačka",DE: SIXX
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1762.ts
+#EXTINF:-1 tvg-id="DR1-DK" tvg-name="DK: DR 1" tvg-logo="" group-title="Danska",DK: DR 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1763.ts
+#EXTINF:-1 tvg-id="TV 2 DANMARK-DK" tvg-name="DK: DR 2" tvg-logo="" group-title="Danska",DK: DR 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1764.ts
+#EXTINF:-1 tvg-id="Kanal 4-DK" tvg-name="DK: Kanal 4" tvg-logo="" group-title="Danska",DK: Kanal 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1765.ts
+#EXTINF:-1 tvg-id="TV3+-DK" tvg-name="DK: TV3 Plus" tvg-logo="" group-title="Danska",DK: TV3 Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1766.ts
+#EXTINF:-1 tvg-id="TV3-DK" tvg-name="DK: TV3" tvg-logo="" group-title="Danska",DK: TV3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1767.ts
+#EXTINF:-1 tvg-id="" tvg-name="DK: Kanal 9" tvg-logo="" group-title="Danska",DK: Kanal 9
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1768.ts
+#EXTINF:-1 tvg-id="dk4-DK" tvg-name="DK: DK 4" tvg-logo="" group-title="Danska",DK: DK 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1770.ts
+#EXTINF:-1 tvg-id="DR K-DK" tvg-name="DK: DR K" tvg-logo="" group-title="Danska",DK: DR K
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1771.ts
+#EXTINF:-1 tvg-id="NGWKDG" tvg-name="DE: National Geographic Wild" tvg-logo="http://alwaha.us:20792/images/04580b1e62af987a5b7ff8b6a87906b4.png" group-title="Njemačka",DE: National Geographic Wild
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1774.ts
+#EXTINF:-1 tvg-id="EUROHD" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://alwaha.us:20792/images/4ee4d1e30be05cde87a5e3274be8d0e1.png" group-title="DAZN Paket",DE: Eurosport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1787.ts
+#EXTINF:-1 tvg-id="ES2NLHD" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://alwaha.us:20792/images/cf4fd4862c9e154f8be9d028c7af77fd.png" group-title="DAZN Paket",DE: Eurosport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1788.ts
+#EXTINF:-1 tvg-id="COCECH" tvg-name="DE: Comedy Central" tvg-logo="http://alwaha.us:20792/images/473eb1e3d198b731bb9dcbd428a36112.png" group-title="Njemačka",DE: Comedy Central
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1789.ts
+#EXTINF:-1 tvg-id="DE-Universal Channel HD" tvg-name="DE: Universal HD" tvg-logo="http://alwaha.us:20792/images/1d8e89e81735ea48ff82a3c6866eac4d.png" group-title="Njemačka",DE: Universal HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1790.ts
+#EXTINF:-1 tvg-id="RMNCKDG" tvg-name="DE: Romance TV" tvg-logo="http://alwaha.us:20792/images/520612f89a7a6d59558e9b63c7006ecd.png" group-title="Njemačka",DE: Romance TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1797.ts
+#EXTINF:-1 tvg-id="DE-Sky Select 9" tvg-name="DE: Eagle Cinema Sci-Fi" tvg-logo="" group-title="Njemačka",DE: Eagle Cinema Sci-Fi
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1835.ts
+#EXTINF:-1 tvg-id="JUNR" tvg-name="DE: Junior TV" tvg-logo="http://alwaha.us:20792/images/a04e8905a344308ae75b69aaede3aa35.png" group-title="Njemačka",DE: Junior TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1837.ts
+#EXTINF:-1 tvg-id="SKYSNG" tvg-name="DE: Sky Sport News" tvg-logo="http://alwaha.us:20792/images/f2e43ae11538ca7ab6694a27d88c0aa8.png" group-title="Njemačka",DE: Sky Sport News
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1838.ts
+#EXTINF:-1 tvg-id="BOOMSKY" tvg-name="DE: Boomerang" tvg-logo="http://alwaha.us:20792/images/5aae9fd9e80078151c0a8a65baef71c7.png" group-title="Njemačka",DE: Boomerang
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1839.ts
+#EXTINF:-1 tvg-id="CANWNL" tvg-name="DE: Cartoon Network" tvg-logo="http://alwaha.us:20792/images/99666a7d156f3bfb280f8077ae1bc3ac.png" group-title="Njemačka",DE: Cartoon Network
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1840.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_1" tvg-logo="" group-title="Francuska",FR:A_LaCarte_1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1841.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_2" tvg-logo="" group-title="Francuska",FR:A_LaCarte_2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1842.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_3" tvg-logo="" group-title="Francuska",FR:A_LaCarte_3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1843.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_4" tvg-logo="" group-title="Francuska",FR:A_LaCarte_4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1844.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_5" tvg-logo="" group-title="Francuska",FR:A_LaCarte_5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1845.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_6" tvg-logo="" group-title="Francuska",FR:A_LaCarte_6
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1846.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_7" tvg-logo="" group-title="Francuska",FR:A_LaCarte_7
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1847.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_8" tvg-logo="" group-title="Francuska",FR:A_LaCarte_8
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1848.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_9" tvg-logo="" group-title="Francuska",FR:A_LaCarte_9
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1849.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR:A_LaCarte_10" tvg-logo="" group-title="Francuska",FR:A_LaCarte_10
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1850.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C More Fotboll" tvg-logo="" group-title="Sweden",SE: C More Fotboll
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1851.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C-More First" tvg-logo="" group-title="Sweden",SE: C-More First
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C-More Hits" tvg-logo="" group-title="Sweden",SE: C-More Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1853.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C-More Live" tvg-logo="" group-title="Sweden",SE: C-More Live
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1854.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C-More Series" tvg-logo="" group-title="Sweden",SE: C-More Series
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1855.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: C-More Sport" tvg-logo="" group-title="Sweden",SE: C-More Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: SVT1" tvg-logo="" group-title="Sweden",SE: SVT1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1857.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: SVT2" tvg-logo="" group-title="Sweden",SE: SVT2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1858.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV 4" tvg-logo="" group-title="Sweden",SE: TV 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1859.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Fakta" tvg-logo="" group-title="Sweden",SE: TV4 Fakta
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1860.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Film" tvg-logo="" group-title="Sweden",SE: TV4 Film
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1861.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Komedi" tvg-logo="" group-title="Sweden",SE: TV4 Komedi
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1862.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: TV4 Sport" tvg-logo="" group-title="Sweden",SE: TV4 Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1863.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Film Action" tvg-logo="" group-title="Sweden",SE: Viasat Film Action
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1865.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Film Family" tvg-logo="" group-title="Sweden",SE: Viasat Film Family
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1866.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Film Hits" tvg-logo="" group-title="Sweden",SE: Viasat Film Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1867.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Film Premiere" tvg-logo="" group-title="Sweden",SE: Viasat Film Premiere
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1868.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Fotball" tvg-logo="" group-title="Sweden",SE: Viasat Fotball
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1869.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat History" tvg-logo="" group-title="Sweden",SE: Viasat History
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1870.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Motor" tvg-logo="" group-title="Sweden",SE: Viasat Motor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1871.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Nature" tvg-logo="" group-title="Sweden",SE: Viasat Nature
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1872.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Series" tvg-logo="" group-title="Sweden",SE: Viasat Series
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1873.ts
+#EXTINF:-1 tvg-id="" tvg-name="SE: Viasat Sport" tvg-logo="" group-title="Sweden",SE: Viasat Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1874.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal" tvg-logo="" group-title="Poland",PL: Canal
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1875.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Film" tvg-logo="" group-title="Poland",PL: Canal  Film
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1876.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Seriale" tvg-logo="" group-title="Poland",PL: Canal  Seriale
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1877.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal  Sport" tvg-logo="" group-title="Poland",PL: Canal  Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1878.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Filmbox Action" tvg-logo="" group-title="Poland",PL: Filmbox Action
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1880.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Filmbox Premium" tvg-logo="" group-title="Poland",PL: Filmbox Premium
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1881.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat" tvg-logo="" group-title="Poland",PL: Polsat
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1882.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat 2" tvg-logo="" group-title="Poland",PL: Polsat 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1883.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Cafe" tvg-logo="" group-title="Poland",PL: Polsat Cafe
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1884.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Film" tvg-logo="" group-title="Poland",PL: Polsat Film
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1885.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat News" tvg-logo="" group-title="Poland",PL: Polsat News
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Play" tvg-logo="" group-title="Poland",PL: Polsat Play
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Explore" tvg-logo="" group-title="Poland",PL: Polsat Viasat Explore
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1888.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat History" tvg-logo="" group-title="Poland",PL: Polsat Viasat History
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1889.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Viasat Nature" tvg-logo="" group-title="Poland",PL: Polsat Viasat Nature
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1890.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN" tvg-logo="" group-title="Poland",PL: TVN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN 24" tvg-logo="" group-title="Poland",PL: TVN 24
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1892.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Style" tvg-logo="" group-title="Poland",PL: TVN Style
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1893.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVN Turbo" tvg-logo="" group-title="Poland",PL: TVN Turbo
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1894.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 1" tvg-logo="" group-title="Poland",PL: TVP 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1895.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 2" tvg-logo="" group-title="Poland",PL: TVP 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1896.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3" tvg-logo="" group-title="Poland",PL: TVP 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVP Sport" tvg-logo="" group-title="Poland",PL: TVP Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1898.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIVA Polska" tvg-logo="" group-title="Poland",PL: VIVA Polska
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1899.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FilmBox Extra" tvg-logo="" group-title="Poland",PL: FilmBox Extra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1900.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="" group-title="Poland",PL: Polsat Sport Extra HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1901.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Polsat Sport HD" tvg-logo="" group-title="Poland",PL: Polsat Sport HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1902.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="" group-title="Poland",PL: Eleven Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1903.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="" group-title="Poland",PL: Eleven Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1904.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="" group-title="Poland",PL: Canal+ Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1905.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Tvcine 1" tvg-logo="" group-title="Portugal",PR: Tvcine 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1907.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Tvcine 2" tvg-logo="" group-title="Portugal",PR: Tvcine 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1908.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Benfica tv" tvg-logo="" group-title="Portugal",PR: Benfica tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1909.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Canal Panda" tvg-logo="" group-title="Portugal",PR: Canal Panda
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1910.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: CMTV" tvg-logo="" group-title="Portugal",PR: CMTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1911.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Nat Geo Wild" tvg-logo="" group-title="Portugal",PR: Nat Geo Wild
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1912.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Disney Junior" tvg-logo="" group-title="Portugal",PR: Disney Junior
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1913.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Hollywood" tvg-logo="" group-title="Portugal",PR: Hollywood
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1914.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: PFC" tvg-logo="" group-title="Portugal",PR: PFC
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1916.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Porto Canal" tvg-logo="" group-title="Portugal",PR: Porto Canal
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1918.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: RTP 1" tvg-logo="" group-title="Portugal",PR: RTP 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1919.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: RTP 2" tvg-logo="" group-title="Portugal",PR: RTP 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1920.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: SIC" tvg-logo="" group-title="Portugal",PR: SIC
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1921.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: SIC Caras" tvg-logo="" group-title="Portugal",PR: SIC Caras
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1922.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: SIC Noticias" tvg-logo="" group-title="Portugal",PR: SIC Noticias
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1923.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: SIC Radical" tvg-logo="" group-title="Portugal",PR: SIC Radical
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1924.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sport tv1" tvg-logo="" group-title="Portugal",PR: Sport tv1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1925.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sport tv2" tvg-logo="" group-title="Portugal",PR: Sport tv2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1926.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sport tv3" tvg-logo="" group-title="Portugal",PR: Sport tv3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1927.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sport tv4" tvg-logo="" group-title="Portugal",PR: Sport tv4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1928.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sport tv5" tvg-logo="" group-title="Portugal",PR: Sport tv5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1929.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Sporting TV" tvg-logo="" group-title="Portugal",PR: Sporting TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1930.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Toros Tv" tvg-logo="" group-title="Portugal",PR: Toros Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1931.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: Tv Record" tvg-logo="" group-title="Portugal",PR: Tv Record
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1932.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: TVI" tvg-logo="" group-title="Portugal",PR: TVI
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1933.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: TVI Reality" tvg-logo="" group-title="Portugal",PR: TVI Reality
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1934.ts
+#EXTINF:-1 tvg-id="" tvg-name="PR: TVI24" tvg-logo="" group-title="Portugal",PR: TVI24
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1935.ts
+#EXTINF:-1 tvg-id="Bayern-DE" tvg-name="DE:  BAYERN FC TV FHD" tvg-logo="http://alwaha.us:20792/images/06720060980ad1d2955f358b1878ba0a.png" group-title="Njemačka",DE:  BAYERN FC TV FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1948.ts
+#EXTINF:-1 tvg-id="DE-SPORT1 US" tvg-name="DE: Sport 1 US" tvg-logo="http://alwaha.us:20792/images/8e3f7f709d0eb44a61001c9cf4fa2b4d.png" group-title="Njemačka",DE: Sport 1 US
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1950.ts
+#EXTINF:-1 tvg-id="SPODTV" tvg-name="DE: Sport Digital HD" tvg-logo="http://alwaha.us:20792/images/808eec796af2aeff74d6c93ffdd408b2.png" group-title="Njemačka",DE: Sport Digital HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1951.ts
+#EXTINF:-1 tvg-id="CLSSCA" tvg-name="DE: Classica" tvg-logo="http://alwaha.us:20792/images/8a3470e03c7a515eaa742219a13304c2.png" group-title="Njemačka",DE: Classica
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1952.ts
+#EXTINF:-1 tvg-id="PRO7FHD" tvg-name="DE: Pro 7 Fun HD" tvg-logo="http://alwaha.us:20792/images/c9d23825217d2cf522ae4a43ca29cfd6.png" group-title="Njemačka",DE: Pro 7 Fun HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1953.ts
+#EXTINF:-1 tvg-id="SERVDHD" tvg-name="DE: SERVUS TV HD" tvg-logo="http://alwaha.us:20792/images/b7e5fa9f62d8ed9f53fd820e501f8c8a.png" group-title="Njemačka",DE: SERVUS TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1954.ts
+#EXTINF:-1 tvg-id="SAT1EKD" tvg-name="DE: Sat 1 Emotions" tvg-logo="http://alwaha.us:20792/images/4be0c227ff62ada8bf2285c1b4a4d02a.png" group-title="Njemačka",DE: Sat 1 Emotions
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1955.ts
+#EXTINF:-1 tvg-id="DISXDNL" tvg-name="DE: Disney XD" tvg-logo="http://alwaha.us:20792/images/a215eb939ebf4be70cbf9408577f9b9c.png" group-title="Njemačka",DE: Disney XD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1959.ts
+#EXTINF:-1 tvg-id="DISCHNL" tvg-name="DE: Disney Cinemagic HD" tvg-logo="http://alwaha.us:20792/images/7a696e62c3d900327ac901ba3d3ff968.png" group-title="Njemačka",DE: Disney Cinemagic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1961.ts
+#EXTINF:-1 tvg-id="SWRSRHD" tvg-name="DE: SR Fernsehen HD" tvg-logo="http://alwaha.us:20792/images/af567f62508b81657e1589a011d0e514.png" group-title="Njemačka",DE: SR Fernsehen HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1962.ts
+#EXTINF:-1 tvg-id="SPIELWH" tvg-name="DE: SPIEGEL TV Wissen HD" tvg-logo="http://alwaha.us:20792/images/adcb2a9ae8b4013f2f0369e642bfcd08.png" group-title="Njemačka",DE: SPIEGEL TV Wissen HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1963.ts
+#EXTINF:-1 tvg-id="TAGARHD" tvg-name="DE: Tagesschau24 HD" tvg-logo="http://alwaha.us:20792/images/06bb8e236a4280d290fe03bf9db3518d.png" group-title="Njemačka",DE: Tagesschau24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1964.ts
+#EXTINF:-1 tvg-id="DMATHD" tvg-name="DE: Deluxe Music HD" tvg-logo="http://alwaha.us:20792/images/28eef6c4bb33fd2833883af39ba18ca2.png" group-title="Njemačka",DE: Deluxe Music HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1965.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 4 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1966.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 HD  ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 5 HD  ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1967.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 6 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1968.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 7 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1969.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 8 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 8 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1970.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 9 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Bundesliga 9 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1971.ts
+#EXTINF:-1 tvg-id="MTVHDKD" tvg-name="DE: MTV HD" tvg-logo="http://alwaha.us:20792/images/cfd479e6762e282d8749b71457eed062.png" group-title="Njemačka",DE: MTV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1972.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 2" tvg-logo="https://i.ibb.co/MGSYHYK/Bein-max2.png" group-title="Sport",AR: Bein Sports Max 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1982.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 3" tvg-logo="https://i.ibb.co/dbGFFT5/Bein-max3.png" group-title="Sport",AR: Bein Sports Max 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1983.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 4" tvg-logo="https://i.ibb.co/QPf1Qvj/Bein-max4.png" group-title="Sport",AR: Bein Sports Max 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1984.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 5" tvg-logo="https://i.ibb.co/fqCFpp3/Bein-max5.png" group-title="Sport",AR: Bein Sports Max 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1985.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 6" tvg-logo="https://i.ibb.co/HxGgkXJ/Bein-max6.png" group-title="Sport",AR: Bein Sports Max 6
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1986.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 7" tvg-logo="https://i.ibb.co/GRpsnck/Bein-max7.png" group-title="Sport",AR: Bein Sports Max 7
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1987.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 8" tvg-logo="https://i.ibb.co/sH8j2Jd/Bein-max8.png" group-title="Sport",AR: Bein Sports Max 8
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1988.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 9" tvg-logo="https://i.ibb.co/ZzHZ9hV/Bein-max9.png" group-title="Sport",AR: Bein Sports Max 9
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1989.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports Max 10" tvg-logo="https://i.ibb.co/HV7hLPj/Bein-max10.png" group-title="Sport",AR: Bein Sports Max 10
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/1990.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 3 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 3 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3344.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 4 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 4 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3345.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 5 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 5 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3346.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 6 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 6 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3347.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 7 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 7 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3348.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sky Sport 8 HD ( During Games only )" tvg-logo="" group-title="Njemačka",DE: Sky Sky Sport 8 HD ( During Games only )
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3349.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 1 HD" tvg-logo="" group-title="Njemačka",DE: Sky Popcorn Select 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3352.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 2 HD" tvg-logo="" group-title="Njemačka",DE: Sky Popcorn Select 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3353.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 3 HD" tvg-logo="" group-title="Njemačka",DE: Sky Popcorn Select 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3354.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Popcorn Select 4 HD" tvg-logo="" group-title="Njemačka",DE: Sky Popcorn Select 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/3355.ts
+#EXTINF:-1 tvg-id="DigiSport1" tvg-name="RO: Digi Sport 1" tvg-logo="" group-title="Romania",RO: Digi Sport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4047.ts
+#EXTINF:-1 tvg-id="DigiSport2" tvg-name="RO: Digi Sport 2" tvg-logo="" group-title="Romania",RO: Digi Sport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4048.ts
+#EXTINF:-1 tvg-id="DigiSport3" tvg-name="RO: Digi Sport 3" tvg-logo="" group-title="Romania",RO: Digi Sport 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4049.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Sport 4" tvg-logo="" group-title="Romania",RO: Digi Sport 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4050.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL:  Ziggo Sport Extra 1" tvg-logo="https://i.ibb.co/jhGrW5y/Ziggo-Sport-Extra-1.png" group-title="Sport",NL:  Ziggo Sport Extra 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4051.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Extra 2" tvg-logo="https://i.ibb.co/1L9rLtm/Ziggo-Sport-Extra-2.png" group-title="Sport",NL: Ziggo Sport Extra 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4052.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL:  Ziggo Sport 1 Golf" tvg-logo="https://i.ibb.co/K0MHHcV/Ziggo-Sport-Golf.png" group-title="Sport",NL:  Ziggo Sport 1 Golf
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4053.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL:  Ziggo Sport 1 Racing" tvg-logo="https://i.ibb.co/YfsktvS/Ziggo-Sport-Racing.png" group-title="Sport",NL:  Ziggo Sport 1 Racing
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4054.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport Select" tvg-logo="https://i.ibb.co/gt2tCs3/Ziggo-Sport-Select.png" group-title="Sport",NL: Ziggo Sport Select
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4055.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Ziggo Sport 1 Voetbal HD" tvg-logo="https://i.ibb.co/NVvYgKq/Ziggo-Sport-Voetbal.png" group-title="Sport",NL: Ziggo Sport 1 Voetbal HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4056.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF Info" tvg-logo="" group-title="Switzerland",CH: SRF Info
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4928.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 1 HD" tvg-logo="" group-title="Switzerland",CH: SRF 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4929.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: SRF 2 HD" tvg-logo="" group-title="Switzerland",CH: SRF 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4930.ts
+#EXTINF:-1 tvg-id="BARCATV" tvg-name="ES: BarcaTV" tvg-logo="http://www.tmsimg.com/assets/s85437_h3_aa.png" group-title="Sport",ES: BarcaTV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4931.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid TV" tvg-logo="https://i.ibb.co/D1y8LC3/RM-TV.png" group-title="Sport",ES: Real Madrid TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4932.ts
+#EXTINF:-1 tvg-id="Kanal 5-DK" tvg-name="DK: Kanal 5" tvg-logo="" group-title="Danska",DK: Kanal 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4962.ts
+#EXTINF:-1 tvg-id="TV3 Sport-DK" tvg-name="DK: TV3 Sport" tvg-logo="" group-title="Danska",DK: TV3 Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4963.ts
+#EXTINF:-1 tvg-id="TV 2 SPORT-DK" tvg-name="DK: TV2 Sport" tvg-logo="" group-title="Danska",DK: TV2 Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4964.ts
+#EXTINF:-1 tvg-id="6’eren-DK" tvg-name="DK: 6 Eren" tvg-logo="" group-title="Danska",DK: 6 Eren
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4965.ts
+#EXTINF:-1 tvg-id="Animal Planet-DK" tvg-name="DK: Animal Planet" tvg-logo="" group-title="Danska",DK: Animal Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4966.ts
+#EXTINF:-1 tvg-id="Cartoon-DK" tvg-name="DK: Cartoon Network" tvg-logo="" group-title="Danska",DK: Cartoon Network
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4967.ts
+#EXTINF:-1 tvg-id="Comedy Central-DK" tvg-name="DK: Comedy Central" tvg-logo="" group-title="Danska",DK: Comedy Central
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4968.ts
+#EXTINF:-1 tvg-id="Disney Channel sca.-DK" tvg-name="DK: Disney Channel" tvg-logo="" group-title="Danska",DK: Disney Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4969.ts
+#EXTINF:-1 tvg-id="DR3-DK" tvg-name="DK: DR 3" tvg-logo="" group-title="Danska",DK: DR 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4970.ts
+#EXTINF:-1 tvg-id="DR Ramasjang-DK" tvg-name="DK: DR Ramasjang" tvg-logo="" group-title="Danska",DK: DR Ramasjang
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4972.ts
+#EXTINF:-1 tvg-id="DR Ultra-DK" tvg-name="DK: DR Ultra" tvg-logo="" group-title="Danska",DK: DR Ultra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4973.ts
+#EXTINF:-1 tvg-id="Eurosport 1-DK" tvg-name="DK: Eurosport" tvg-logo="" group-title="Danska",DK: Eurosport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4974.ts
+#EXTINF:-1 tvg-id="Eurosport 2-DK" tvg-name="DK: Eurosport 2" tvg-logo="" group-title="Danska",DK: Eurosport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4975.ts
+#EXTINF:-1 tvg-id="TV2 Øst-DK" tvg-name="DK: TV 2 Østjylland" tvg-logo="" group-title="Danska",DK: TV 2 Østjylland
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4976.ts
+#EXTINF:-1 tvg-id="TV 2 FRI-DK" tvg-name="DK: TV 2 FRI" tvg-logo="" group-title="Danska",DK: TV 2 FRI
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4977.ts
+#EXTINF:-1 tvg-id="TV/MIDT-VEST-DK" tvg-name="DK: TV 2 Midt Vest" tvg-logo="" group-title="Danska",DK: TV 2 Midt Vest
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4979.ts
+#EXTINF:-1 tvg-id="TV2/Nord Salto-DK" tvg-name="DK: TV 2 Nord" tvg-logo="" group-title="Danska",DK: TV 2 Nord
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4980.ts
+#EXTINF:-1 tvg-id="TV SYD-DK" tvg-name="DK: TV 2 Syd" tvg-logo="" group-title="Danska",DK: TV 2 Syd
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4981.ts
+#EXTINF:-1 tvg-id="TV 2 ZULU-DK" tvg-name="DK: TV 2 Zulu" tvg-logo="" group-title="Danska",DK: TV 2 Zulu
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4982.ts
+#EXTINF:-1 tvg-id="TV 2 CHARLIE-DK" tvg-name="DK: TV2 Charlie" tvg-logo="" group-title="Danska",DK: TV2 Charlie
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4983.ts
+#EXTINF:-1 tvg-id="TV 2 Lorry-DK" tvg-name="DK: TV2 Lorry" tvg-logo="" group-title="Danska",DK: TV2 Lorry
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/4984.ts
+#EXTINF:-1 tvg-id="" tvg-name="HU: Extreme Sports" tvg-logo="https://i.ibb.co/M100YVr/Extreme-Sport.png" group-title="Sport",HU: Extreme Sports
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/10286.ts
+#EXTINF:-1 tvg-id="JUNR" tvg-name="DE: Disney Junior HD" tvg-logo="http://alwaha.us:20792/images/a04e8905a344308ae75b69aaede3aa35.png" group-title="Njemačka",DE: Disney Junior HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16651.ts
+#EXTINF:-1 tvg-id="DAEENGH" tvg-name="DE: A&E HD" tvg-logo="http://alwaha.us:20792/images/0344d9238ba4ae5e410487ba4c3e8240.png" group-title="Njemačka",DE: A&E HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16652.ts
+#EXTINF:-1 tvg-id="EN-HD1 English" tvg-name="TR: Bein Sports 1 HD" tvg-logo="http://alwaha.us:20792/images/7ea5fb6d598d0241a6e1c15c41699861.png" group-title="Turska",TR: Bein Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16667.ts
+#EXTINF:-1 tvg-id="EN-HD2 English" tvg-name="TR: Bein Sports 2 HD" tvg-logo="https://i.ibb.co/fH865xP/Bein-2.png" group-title="Turska",TR: Bein Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16668.ts
+#EXTINF:-1 tvg-id="EN-HD3 English" tvg-name="TR: Bein Sports 3 HD" tvg-logo="https://i.ibb.co/5RJ4pfX/Bein-3.png" group-title="Turska",TR: Bein Sports 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16669.ts
+#EXTINF:-1 tvg-id="EN-HD4 English" tvg-name="TR: Bein Sports 4 HD" tvg-logo="https://i.ibb.co/yyX5MDz/Bein-4.png" group-title="Turska",TR: Bein Sports 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16670.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Action HD" tvg-logo="" group-title="Albanija",AL: Alb Action HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16675.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Horro HD" tvg-logo="" group-title="Albanija",AL: Alb Horro HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16676.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Thriller HD" tvg-logo="" group-title="Albanija",AL: Alb Thriller HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16677.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK HD" tvg-logo="" group-title="Albanija",AL: Alb UK HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16678.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="" group-title="Albanija",AL: Film Autor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16682.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dram" tvg-logo="" group-title="Albanija",AL: Film Dram
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16683.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits" tvg-logo="" group-title="Albanija",AL: Film Hits
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16685.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 1" tvg-logo="" group-title="Albanija",AL: Kino Premiere 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16688.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 2" tvg-logo="" group-title="Albanija",AL: Kino Premiere 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16689.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kino Premiere 3" tvg-logo="" group-title="Albanija",AL: Kino Premiere 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16690.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan AL HD" tvg-logo="" group-title="Albanija",AL: Klan AL HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16691.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan KS HD" tvg-logo="" group-title="Albanija",AL: Klan KS HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16692.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus HD" tvg-logo="" group-title="Albanija",AL: Klan Plus HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16693.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="" group-title="Albanija",AL: RTK 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16694.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="" group-title="Albanija",AL: RTK 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16695.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="" group-title="Albanija",AL: RTK 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16696.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK Serial HD" tvg-logo="" group-title="Albanija",AL: RTK Serial HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16697.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="" group-title="Albanija",AL: Kujtesa Sport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16714.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="" group-title="Albanija",AL: Kujtesa Sport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16715.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="" group-title="Albanija",AL: Kujtesa Sport 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16716.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="" group-title="Albanija",AL: Kujtesa Sport 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16717.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 2" tvg-logo="" group-title="Albanija",AL: Film Gold 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16720.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Gold 4" tvg-logo="" group-title="Albanija",AL: Film Gold 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16722.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: MAX Norway" tvg-logo="" group-title="Norveška",NO: MAX Norway
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16723.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Norge TV" tvg-logo="" group-title="Norveška",NO: Norge TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16724.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: NRK 1" tvg-logo="" group-title="Norveška",NO: NRK 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16725.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: NRK 3" tvg-logo="" group-title="Norveška",NO: NRK 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16726.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 Nyhetskanalen" tvg-logo="" group-title="Norveška",NO: TV2 Nyhetskanalen
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16727.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV2 Zebra" tvg-logo="" group-title="Norveška",NO: TV2 Zebra
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16728.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: C MORE FIRST HD" tvg-logo="" group-title="Norveška",NO: C MORE FIRST HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16729.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: C MORE FOTBOLL HD" tvg-logo="" group-title="Norveška",NO: C MORE FOTBOLL HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16730.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: C MORE SERIE HD" tvg-logo="" group-title="Norveška",NO: C MORE SERIE HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16731.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Canal 10" tvg-logo="" group-title="Norveška",NO: Canal 10
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16732.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Cartoon Network" tvg-logo="" group-title="Norveška",NO: Cartoon Network
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16733.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Discovery Channel" tvg-logo="" group-title="Norveška",NO: Discovery Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16734.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Discovery World" tvg-logo="" group-title="Norveška",NO: Discovery World
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16735.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Disney Junior" tvg-logo="" group-title="Norveška",NO: Disney Junior
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16736.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Nickelodeon" tvg-logo="" group-title="Norveška",NO: Nickelodeon
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16738.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV 2 Humor" tvg-logo="" group-title="Norveška",NO: TV 2 Humor
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16740.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: TV Visjon HD Norge" tvg-logo="" group-title="Norveška",NO: TV Visjon HD Norge
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16741.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Viasat Action" tvg-logo="" group-title="Norveška",NO: Viasat Action
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16742.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Viasat 4" tvg-logo="" group-title="Norveška",NO: Viasat 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16743.ts
+#EXTINF:-1 tvg-id="" tvg-name="NO: Viasat Sport" tvg-logo="" group-title="Norveška",NO: Viasat Sport
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16744.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere 1 HD" tvg-logo="" group-title="Njemačka",DE: MAX Premiere 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16749.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere 2 HD" tvg-logo="" group-title="Njemačka",DE: MAX Premiere 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16750.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX Premiere 3 HD" tvg-logo="" group-title="Njemačka",DE: MAX Premiere 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16751.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 1 HD" tvg-logo="" group-title="Njemačka",DE: Netflix 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16752.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Netflix 2 HD" tvg-logo="" group-title="Njemačka",DE: Netflix 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16753.ts
+#EXTINF:-1 tvg-id="KAB1DOK" tvg-name="DE: Kabel 1 Doku" tvg-logo="http://alwaha.us:20792/images/24a6394451d3d6b17c1abf91503eb1a9.png" group-title="Njemačka",DE: Kabel 1 Doku
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16764.ts
+#EXTINF:-1 tvg-id="MOTVSTV" tvg-name="DE: Motorvision TV" tvg-logo="http://alwaha.us:20792/images/a6cb4646da119a051808f4fa228a6016.png" group-title="Njemačka",DE: Motorvision TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16765.ts
+#EXTINF:-1 tvg-id="HEIMKAN" tvg-name="DE: Heimat Kanal" tvg-logo="http://alwaha.us:20792/images/6aaa4fb33fa00b89ece08cc64551222c.png" group-title="Njemačka",DE: Heimat Kanal
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16766.ts
+#EXTINF:-1 tvg-id="AUTOSHD" tvg-name="De: Auto Motor Sport HD" tvg-logo="http://alwaha.us:20792/images/34cf83ce75a89344a347a6a2748bd267.png" group-title="Njemačka",De: Auto Motor Sport HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16767.ts
+#EXTINF:-1 tvg-id="KEINCL" tvg-name="DE: Kabel 1 Classic" tvg-logo="http://alwaha.us:20792/images/2fba95c367b4d5ddfd6f8d4caae9fd47.png" group-title="Njemačka",DE: Kabel 1 Classic
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16768.ts
+#EXTINF:-1 tvg-id="TELE5HD" tvg-name="DE: TELE 5 HD" tvg-logo="http://alwaha.us:20792/images/77f2be9a3f955b91df8ab9b8ad9ee56b.png" group-title="Njemačka",DE: TELE 5 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16769.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Baby TV" tvg-logo="" group-title="Danska",DE: Baby TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16770.ts
+#EXTINF:-1 tvg-id="PLNTHDK" tvg-name="DE: Planet HD" tvg-logo="http://alwaha.us:20792/images/d24c315274bf0438e1560b08abad41c5.png" group-title="Njemačka",DE: Planet HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16771.ts
+#EXTINF:-1 tvg-id="DWEURHD" tvg-name="DE: DW TV HD" tvg-logo="http://alwaha.us:20792/images/9f5fbf4b8e763f3ed76aac2e599be16c.png" group-title="Njemačka",DE: DW TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/16772.ts
+#EXTINF:-1 tvg-id="RTLPLUS" tvg-name="DE: RTL Plus" tvg-logo="http://alwaha.us:20792/images/393f978fa3d8e0465de371c536893525.png" group-title="Njemačka",DE: RTL Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17358.ts
+#EXTINF:-1 tvg-id="ORFIII" tvg-name="DE: Orf 3 HD" tvg-logo="http://alwaha.us:20792/images/d99bee898f7a118bd18cf22c9ec1853f.png" group-title="Njemačka",DE: Orf 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17359.ts
+#EXTINF:-1 tvg-id="ORFSPLH" tvg-name="DE: Orf Sport + HD" tvg-logo="http://alwaha.us:20792/images/5a3de666313d34bfb52f81a5cb7bb96d.png" group-title="Njemačka",DE: Orf Sport + HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17360.ts
+#EXTINF:-1 tvg-id="AUGSBHD" tvg-name="DE: Augsburg TV HD" tvg-logo="http://alwaha.us:20792/images/cecc907d16e1a25a1a2e07ef25ac83ce.png" group-title="Njemačka",DE: Augsburg TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/17361.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 1" tvg-logo="" group-title="Romania",RO: Telekom Sport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19787.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 2" tvg-logo="" group-title="Romania",RO: Telekom Sport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19788.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 3" tvg-logo="" group-title="Romania",RO: Telekom Sport 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19789.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Telekom Sport 4" tvg-logo="" group-title="Romania",RO: Telekom Sport 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19790.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 1 HD" tvg-logo="" group-title="Romania",RO: Eurosport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19791.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Eurosport 2 HD" tvg-logo="" group-title="Romania",RO: Eurosport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19792.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Look Sport TV HD" tvg-logo="" group-title="Romania",RO: Look Sport TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19793.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Film" tvg-logo="" group-title="Romania",RO: Digi Film
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19794.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Life" tvg-logo="" group-title="Romania",RO: Digi Life
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19795.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi World" tvg-logo="" group-title="Romania",RO: Digi World
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19796.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: National Geographic" tvg-logo="" group-title="Romania",RO: National Geographic
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19797.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: National Geographic Wild" tvg-logo="" group-title="Romania",RO: National Geographic Wild
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19798.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Animal Planet" tvg-logo="" group-title="Romania",RO: Animal Planet
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19799.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Discovery Showcase" tvg-logo="" group-title="Romania",RO: Discovery Showcase
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19801.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Travel Channel" tvg-logo="" group-title="Romania",RO: Travel Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19803.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Viasat Nature" tvg-logo="" group-title="Romania",RO: Viasat Nature
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19804.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: History Channel" tvg-logo="" group-title="Romania",RO: History Channel
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19806.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi 24" tvg-logo="" group-title="Romania",RO: Digi 24
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19809.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Romania Tv" tvg-logo="" group-title="Romania",RO: Romania Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19811.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro TV" tvg-logo="" group-title="Romania",RO: Pro TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19812.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro 2 TV" tvg-logo="" group-title="Romania",RO: Pro 2 TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19813.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 1" tvg-logo="" group-title="Romania",RO: TVR 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19814.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2" tvg-logo="" group-title="Romania",RO: TVR 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19815.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 1" tvg-logo="" group-title="Romania",RO: Antena 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19816.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 3" tvg-logo="" group-title="Romania",RO: Antena 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19817.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Taraf Tv" tvg-logo="" group-title="Romania",RO: Taraf Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19818.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Kanal D" tvg-logo="" group-title="Romania",RO: Kanal D
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19819.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Happy" tvg-logo="" group-title="Romania",RO: Happy
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19820.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Etno Tv" tvg-logo="" group-title="Romania",RO: Etno Tv
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19821.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nickelodeon" tvg-logo="" group-title="Romania",RO: Nickelodeon
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19822.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Minimax" tvg-logo="" group-title="Romania",RO: Minimax
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19823.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax HD" tvg-logo="" group-title="Romania",RO: Cinemax HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19824.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax 2 HD" tvg-logo="" group-title="Romania",RO: Cinemax 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19825.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN" tvg-logo="" group-title="Romania",RO: AXN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19826.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN BLACK" tvg-logo="" group-title="Romania",RO: AXN BLACK
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19827.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN WHITE" tvg-logo="" group-title="Romania",RO: AXN WHITE
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19828.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO HD" tvg-logo="" group-title="Romania",RO: HBO HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19829.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 2 HD" tvg-logo="" group-title="Romania",RO: HBO 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19830.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 3 HD" tvg-logo="" group-title="Romania",RO: HBO 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19831.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Prima" tvg-logo="" group-title="Romania",RO: Prima
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19832.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro X HD" tvg-logo="" group-title="Romania",RO: Pro X HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19834.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Cinema" tvg-logo="" group-title="Romania",RO: Pro Cinema
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19835.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV 1000" tvg-logo="" group-title="Romania",RO: TV 1000
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19837.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele Basel HD" tvg-logo="" group-title="Switzerland",CH: Tele Basel HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19840.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele 1 HD" tvg-logo="" group-title="Switzerland",CH: Tele 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19841.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele Barn HD" tvg-logo="" group-title="Switzerland",CH: Tele Barn HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19842.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele Züri HD" tvg-logo="" group-title="Switzerland",CH: Tele Züri HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele M1 HD" tvg-logo="" group-title="Switzerland",CH: Tele M1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19844.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Tele Südostschweiz HD" tvg-logo="" group-title="Switzerland",CH: Tele Südostschweiz HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19845.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Zoom HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Zoom HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19846.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teletop HD" tvg-logo="" group-title="Switzerland",CH: Teletop HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19847.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Red Bull TV HD" tvg-logo="" group-title="Switzerland",CH: Red Bull TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19848.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Swiss 1 HD" tvg-logo="" group-title="Switzerland",CH: Swiss 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19849.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Canal Alpha HD" tvg-logo="" group-title="Switzerland",CH: Canal Alpha HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19850.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Kabel 1 HD" tvg-logo="" group-title="Switzerland",CH: Kabel 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19851.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: N24 HD" tvg-logo="" group-title="Switzerland",CH: N24 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Action HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Action HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19853.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Cinema HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Cinema HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19854.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleCub Emotion HD" tvg-logo="" group-title="Switzerland",CH: TeleCub Emotion HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19855.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: Teleclub Prime HD" tvg-logo="" group-title="Switzerland",CH: Teleclub Prime HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19856.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Star HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Star HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19857.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleCub Sport 1 HD" tvg-logo="" group-title="Switzerland",CH: TeleCub Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19858.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Sport 2 HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19859.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: TeleClub Sport 3 HD" tvg-logo="" group-title="Switzerland",CH: TeleClub Sport 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19860.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MySports 3 HD" tvg-logo="" group-title="Switzerland",CH: MySports 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19864.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MySports 7 HD" tvg-logo="" group-title="Switzerland",CH: MySports 7 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19868.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: MySports 8 HD" tvg-logo="" group-title="Switzerland",CH: MySports 8 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19869.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: 3 + HD" tvg-logo="" group-title="Switzerland",CH: 3 + HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19875.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: 4 + HD" tvg-logo="" group-title="Switzerland",CH: 4 + HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19876.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: 5 + HD" tvg-logo="" group-title="Switzerland",CH: 5 + HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19877.ts
+#EXTINF:-1 tvg-id="ZDFG" tvg-name="DE: ZDF" tvg-logo="http://alwaha.us:20792/images/c274e82999f0232b9e5b1f93b1b21187.png" group-title="Njemačka",DE: ZDF
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19879.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Spor HD" tvg-logo="" group-title="Turska",TR: TRT Spor HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19880.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News FHD" tvg-logo="" group-title="UK",UK: Sky Sports News FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19881.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="" group-title="UK",UK: Sky Sports Main Event HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19882.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Football FHD" tvg-logo="" group-title="UK",UK: Sky Sports Football FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19883.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="UK",UK: Sky Sports Premier League HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19884.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena HD" tvg-logo="" group-title="UK",UK: Sky Sports Arena HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19885.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Golf HD" tvg-logo="" group-title="UK",UK: Sky Sports Golf HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19886.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="" group-title="UK",UK: Sky Sports Cricket HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19889.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="" group-title="UK",UK: Sky Sports Racing
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19891.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1 HD" tvg-logo="" group-title="UK",UK: Premier Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19892.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2 HD" tvg-logo="" group-title="UK",UK: Premier Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19893.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1" tvg-logo="" group-title="UK",UK : BT Sport 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19894.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 2" tvg-logo="" group-title="UK",UK : BT Sport 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19895.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 3" tvg-logo="" group-title="UK",UK : BT Sport 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19896.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN" tvg-logo="" group-title="UK",UK : BT Sport ESPN
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19897.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eleven Sport FHD" tvg-logo="" group-title="UK",UK: Eleven Sport FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19898.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 FHD" tvg-logo="" group-title="UK",UK: Eurosport 1 FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19899.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 FHD" tvg-logo="" group-title="UK",UK: Eurosport 2 FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19900.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV HD" tvg-logo="" group-title="UK",UK: MUTV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19902.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea TV HD" tvg-logo="" group-title="UK",UK: Chelsea TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19903.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool TV HD" tvg-logo="" group-title="UK",UK: Liverpool TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19904.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Action & Adventure HD" tvg-logo="" group-title="UK",UK: Sky Cinema Action & Adventure HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19905.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19906.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="" group-title="UK",UK: Sky Cinema Premiere
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19907.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="" group-title="UK",UK: Sky Cinema Thriller HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19909.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Cinema Family HD" tvg-logo="" group-title="UK",UK: SKY Cinema Family HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19910.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="UK",UK: Sky Cinema Greats HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19911.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic HD" tvg-logo="" group-title="UK",UK: Sky Atlantic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19912.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 1 FHD" tvg-logo="" group-title="UK",UK: Eir Sports 1 FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19913.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 2 FHD" tvg-logo="" group-title="UK",UK: Eir Sports 2 FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19914.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Box Nation HD" tvg-logo="" group-title="UK",UK: Box Nation HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19915.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Cartoon Network HD" tvg-logo="" group-title="UK",UK: Cartoon Network HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19916.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Channel HD" tvg-logo="" group-title="UK",UK: Disney Channel HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19917.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Jr HD" tvg-logo="" group-title="UK",UK: Disney Jr HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19918.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD HD" tvg-logo="" group-title="UK",UK: Disney XD HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19919.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic HD" tvg-logo="" group-title="UK",UK: National Geographic HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19920.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic Wild HD" tvg-logo="" group-title="UK",UK: National Geographic Wild HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19921.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Horror Channel HD" tvg-logo="" group-title="UK",UK: Sky Horror Channel HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19922.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery History HD" tvg-logo="" group-title="UK",UK: Discovery History HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19923.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Shed HD" tvg-logo="" group-title="UK",UK: Discovery Shed HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19924.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Turbo HD" tvg-logo="" group-title="UK",UK: Discovery Turbo HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19925.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Baby TV HD" tvg-logo="" group-title="UK",UK: Baby TV HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19926.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nickeodeon HD" tvg-logo="" group-title="UK",UK: Nickeodeon HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19927.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang HD" tvg-logo="" group-title="UK",UK: Boomerang HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19928.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Fight Box HD" tvg-logo="" group-title="UK",UK: Fight Box HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19929.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: RTE Junior" tvg-logo="" group-title="UK",UK: RTE Junior
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19930.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet HD" tvg-logo="" group-title="UK",UK: Animal Planet HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19931.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Science HD" tvg-logo="" group-title="UK",UK: Discovery Science HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19932.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery HD" tvg-logo="" group-title="UK",UK: Investigation Discovery HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19933.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Home & Health" tvg-logo="" group-title="UK",UK: Home & Health
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19934.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BOX OFFICE 1 HD" tvg-logo="" group-title="UK",UK: BOX OFFICE 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19935.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BOX OFFICE 2 HD" tvg-logo="" group-title="UK",UK: BOX OFFICE 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19936.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BOX OFFICE 3 HD" tvg-logo="" group-title="UK",UK: BOX OFFICE 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19937.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BOX OFFICE 4 HD" tvg-logo="" group-title="UK",UK: BOX OFFICE 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19938.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1 HD" tvg-logo="" group-title="UK",UK: BBC 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19939.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2 HD" tvg-logo="" group-title="UK",UK: BBC 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19940.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One HD" tvg-logo="" group-title="UK",UK: Sky One HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19941.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 HD" tvg-logo="" group-title="UK",UK: ITV 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19942.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="" group-title="UK",UK: ITV 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19943.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3 HD" tvg-logo="" group-title="UK",UK: ITV 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19944.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4 HD" tvg-logo="" group-title="UK",UK: ITV 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19945.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: WWE Network" tvg-logo="" group-title="UK",UK: WWE Network
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19946.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Box Office" tvg-logo="" group-title="UK",UK: ITV Box Office
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/19947.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="Sport",PT: SPORT TV 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26688.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="Sport",PT: SPORT TV 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26689.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="Sport",PT: SPORT TV 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26690.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="Sport",PT: SPORT TV 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26691.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="Sport",PT: SPORT TV 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26693.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sport: RMC Sports 1 HD" tvg-logo="https://i.ibb.co/nk1kp6L/RMC-Sport-1.png" group-title="Sport",FR: Sport: RMC Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26694.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sport: RMC Sports 2 HD" tvg-logo="https://i.ibb.co/WFxDdcr/RMC-Sport-2.png" group-title="Sport",FR: Sport: RMC Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26695.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sport: RMC Sports 3 HD" tvg-logo="https://i.ibb.co/hgxknv9/RMC-Sport-3.png" group-title="Sport",FR: Sport: RMC Sports 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26696.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sport: RMC Sports 4 HD" tvg-logo="https://i.ibb.co/djPmMJC/RMC-Sport-4.png" group-title="Sport",FR: Sport: RMC Sports 4 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26697.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sport: Abu Dhabi Sports 1" tvg-logo="http://alwaha.us:20792/images/de41c827824582c17d04fe26e642bcff.png" group-title="Sport",AR: Sport: Abu Dhabi Sports 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26698.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sport: Abu Dhabi Sports 2" tvg-logo="https://i.ibb.co/p470gZB/Abu-Dhabi-Sports-2.png" group-title="Sport",AR: Sport: Abu Dhabi Sports 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26699.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sport: Abu Dhabi Sports 3" tvg-logo="https://i.ibb.co/qx2hdP5/Abu-Dhabi-Sports-3.png" group-title="Sport",AR: Sport: Abu Dhabi Sports 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26700.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sport: Abu Dhabi Sports 4" tvg-logo="https://i.ibb.co/bsXQVpB/Abu-Dhabi-Sports-4.png" group-title="Sport",AR: Sport: Abu Dhabi Sports 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26701.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Sport:  beiN Sport  La Liga HD" tvg-logo="https://i.ibb.co/2KYXthf/Bein-Sport-la-liga.png" group-title="Sport",ES: Sport:  beiN Sport  La Liga HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26702.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: TSN Sports 1" tvg-logo="https://i.ibb.co/xg0t4nZ/TSN1.png" group-title="Sport",USA: Sport: TSN Sports 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26703.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: TSN Sports 2" tvg-logo="https://i.ibb.co/3r5VkTL/TSN2.png" group-title="Sport",USA: Sport: TSN Sports 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26704.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: TSN Sports 3" tvg-logo="https://i.ibb.co/JdL84m9/TSN3.png" group-title="Sport",USA: Sport: TSN Sports 3
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26705.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: TSN Sports 4" tvg-logo="https://i.ibb.co/8jTgfh3/TSN4.png" group-title="Sport",USA: Sport: TSN Sports 4
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26706.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: TSN Sports 5" tvg-logo="https://i.ibb.co/0YdP3VC/TSN5.png" group-title="Sport",USA: Sport: TSN Sports 5
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26707.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: FOX Sports 1 HD" tvg-logo="https://i.ibb.co/VmKzs9m/Fox-Sport-1.png" group-title="Sport",USA: Sport: FOX Sports 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26708.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sport: FOX Sports 2 HD" tvg-logo="https://i.ibb.co/NYNDrcy/Fox-Sport-2.png" group-title="Sport",USA: Sport: FOX Sports 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26709.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sport: Tivibuspor 1 HD" tvg-logo="https://i.ibb.co/SvJFH24/Tivibuspor-1.png" group-title="Sport",TR: Sport: Tivibuspor 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26710.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sport: Tivibuspor 2 HD" tvg-logo="https://i.ibb.co/Kzh1pg8/Tivibuspor-2.png" group-title="Sport",TR: Sport: Tivibuspor 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26711.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sport: Tivibuspor 3 HD" tvg-logo="https://i.ibb.co/F5skXJt/Tivibuspor-3.png" group-title="Sport",TR: Sport: Tivibuspor 3 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cz: Sport: Nova Sport 1 HD" tvg-logo="https://i.ibb.co/PWDsXnq/Nova-Sport-1.png" group-title="Sport",Cz: Sport: Nova Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cz: Sport: Nova Sport 2 HD" tvg-logo="https://i.ibb.co/YcyNgdz/Nova-Sport-2.png" group-title="Sport",Cz: Sport: Nova Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26714.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Sport: Sport 1 HD" tvg-logo="https://i.ibb.co/cF5CXTt/Sport-1.png" group-title="Sport",CZ: Sport: Sport 1 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26715.ts
+#EXTINF:-1 tvg-id="" tvg-name="CZ: Sport: Sport 2 HD" tvg-logo="https://i.ibb.co/qsZ1vm6/Sport-2.png" group-title="Sport",CZ: Sport: Sport 2 HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/26716.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 1" tvg-logo="" group-title="Switzerland",CH: RSI 1
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27412.ts
+#EXTINF:-1 tvg-id="" tvg-name="CH: RSI 2" tvg-logo="" group-title="Switzerland",CH: RSI 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/27413.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV Avrupa" tvg-logo="" group-title="Turska",TR: ATV Avrupa
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28276.ts
+#EXTINF:-1 tvg-id="RTV.2.(RS).rs" tvg-name="EX-YU: RTV Vojvodina 2" tvg-logo="http://alwaha.us:20792/images/bd294eb914a618a05d8ad0208f191728.png" group-title="Srbija",EX-YU: RTV Vojvodina 2
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28280.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sehara TV" tvg-logo="https://i.ibb.co/yVyR5y0/Sehara-TV.png" group-title="Muzika",EX-YU: Sehara TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28284.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Hram TV" tvg-logo="https://i.ibb.co/61LHSY5/Hram-TV.png" group-title="Srbija",EX-YU: Hram TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28270.ts
+#EXTINF:-1 tvg-id="Trend.TV.hr" tvg-name="EX-YU: Trend TV" tvg-logo="https://i.ibb.co/JcGPbWc/Trend-TV.png" group-title="Hrvatska",EX-YU: Trend TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/28282.ts
+#EXTINF:-1 tvg-id="TOGPLUS" tvg-name="DE: Toggo Plus HD" tvg-logo="http://fanc.tmsimg.com/assets/s100062_h3_aa.png" group-title="(TVNow)RTL+",DE: Toggo Plus HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/39411.ts
+#EXTINF:-1 tvg-id="DASERST" tvg-name="DE: Das Erste" tvg-logo="http://fanc.tmsimg.com/assets/s67295_ll_h3_aa.png" group-title="Njemačka",DE: Das Erste
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/83242.ts
+#EXTINF:-1 tvg-id="Dizi.hr" tvg-name="EX-YU: Dizi TV" tvg-logo="" group-title="Filmski",EX-YU: Dizi TV
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/92039.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV FHD" tvg-logo="" group-title="Sport",PT: BENFICA TV FHD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/92970.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Saudi Quran" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: Saudi Quran
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/94972.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: RTRS Plus" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: RTRS Plus
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/94973.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SHOPTEL" tvg-logo="" group-title="Bosna i Hercegovina",EX-YU: SHOPTEL
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/94974.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Viasat True Crime HD" tvg-logo="" group-title="Dokumentarni",EX-YU: Viasat True Crime HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/95561.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Disney Junior HD" tvg-logo="" group-title="Dječji",EX-YU: Disney Junior HD
+http://alwaha.us:20792/Aboniimksss/AboniimmkssRazmjena/95563.ts
+#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="************ SERBIAN **************" tvg-logo="" group-title="EX-YU",************ SERBIAN **************
 http://dboxpz.navarrotv.com:8000/balkanboys/e9TB3d3KCe/526.ts
